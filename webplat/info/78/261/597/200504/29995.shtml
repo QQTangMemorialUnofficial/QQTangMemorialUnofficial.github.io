@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>庆祝QQ堂北方沈阳网通专区正式开通-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>庆祝QQ堂北方沈阳网通专区正式开通</h4>
+    <div class="new_nytxt">　　QQ堂北方沈阳网通专区于今日（4月13日）上午10点正式开通，这意味着腾讯公司与网通运营商的QQ堂游戏IDC合作计划已经开始顺利实施，QQ堂游戏在网通领域有了第一个服务器中心。<br><br>　　此次QQ堂新区开放采用的是数据共享的方式，也就是说新区的玩家不用重新注册，也不必重头开始游戏，之前玩家的游戏数据将全部保留，在各区通用，同一玩家账号在目前所有地域分区中的数据将是完全一致。而且玩家在频道界面就可以非常方便的切换地域，而不用退出游戏，进入新区就象进入一个游戏房间一样容易。<br><br>　　QQ堂的北方沈阳网通专区主要面对的是黑龙江、吉林、辽宁、内蒙古、山东、河北、河南、山西、天津、北京等北方十省市的网通玩家，以上地域的网通玩家在网通新区将会获得较好的网络链接速度，另外附近一些地域的网通用户在网通新区中的游戏连线品质也会高于原电信区域。所以，请以上网通用户注意选择新区游戏，感受和从前不一样的顺畅游戏感觉。<br><br>　　此次QQ堂北方网通专区的开通只是一个开始，在未来，QQ堂还将不断加强与各地不同的运营商的合作，陆续开通其他区域的服务器专区，不断提高玩家的游戏连线品质。<br><br>　　玩家所需要的，就是我们努力的方向，QQ堂会因为您而更完美！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="29986.shtml">喜讯：QQ堂北方网通专区开通在即</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ea335c15484b21cebf27a4b06003c5b9<![endif]-->

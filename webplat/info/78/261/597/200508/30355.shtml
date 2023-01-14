@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂登录CVG大赛-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂登录CVG大赛</h4>
+    <div class="new_nytxt">　　第二届 互联星空大赛（CVG）于 8 月 9 日 拉开序幕了！多款人气休闲游戏火热登场，百万玩家同场竞技的壮观场面即将再现！<br><br>　　大赛报名页面： <a href="http://vnet.qq.com/game2/index.shtml">http://vnet.qq.com/game2/index.shtml</a><br><br>　　值得关注的是，本届大赛除了有 四国军棋、五子棋、升级、斗地主、中国象棋这些传统的棋牌类的游戏，还有一个熟悉的面孔闪亮登场，那就是我们的 QQ 堂。这是 QQ 堂的一个重要赛事。作为新生事物的 QQ 堂，正以它在竞技领域的吸引力倍受各方瞩目。<br><br>　　<img src="../../../../../../webpic/20050823/02.jpg"><br><br>　　QQ 堂游戏为腾讯公司自主开发，拥有全部知识产权的休闲类网络游戏。推出仅仅半年多的时间，就拥有了庞大的玩家群，同时在线人数突破 17 万，这是一个惊人的速度，是一个了不起的成绩。拥有如此多的玩家，主要是 QQ 堂游戏健康，娱乐，益智，是真正的绿色网络游戏，它具有自己独特的魅力。<br><br>　　QQ 堂人物惹人喜爱、操作简单上手快。可爱的小倩，灵活的悟空，多样的角色让你挑，让你选，其中一定有你的最爱。只要使用一个方向键控制方向，再加上一个空格键放置糖泡就可以进行游戏了——如此简单的操作，使得 QQ 堂在任何一个年龄阶段都大受认可，您就可以完全享受到游戏的乐趣。<br><br>　　作为此次 互联星空大赛 中的一员， QQ 堂必将走上更良好的发展轨道，必将形成不可阻挡的潮流。<br><br>　　大赛报名页面： http://vnet.qq.com/game2/index.shtml <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="30357.shtml">QQ堂火热出击CVG，高额奖金通缉各路高手</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|8439e4b326cf23be2ce6edd155f8cbb3<![endif]-->

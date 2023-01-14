@@ -1,0 +1,61 @@
+a:link {	text-decoration: none;color: #333333;}
+a:visited { text-decoration: none; color: #333333}
+a:hover {text-decoration: underline;color: #333333;}
+body {
+	FONT-SIZE: 12px;
+	color: #333333;
+	background-attachment: scroll;
+	background-image:   url("http://ossweb-img2.qq.com/images/qqtang/vip/index_bg.gif");
+	background-repeat: repeat-x;
+	background-position: center top;
+	background-color: #00D8E6;
+	margin: 0px;
+}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+}
+.big_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+.small_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.article_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.article_txt td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 150%;
+}
+.article_txt a:link {	text-decoration: underline;}
+.article_txt a:visited { text-decoration: underline}
+.article_txt a:hover {text-decoration: underline;}
+.txt_table {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dashed;
+	border-left-style: none;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.login_table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #B9B9B9;
+	background-color: #FFFFFF;
+}
+.article {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 3px; FILTER: revealTrans(transition=23,duration=0.5) blendTrans(duration=0.5); VISIBILITY: hidden; PADDING-BOTTOM: 3px; BORDER-LEFT: #999999 1px solid; WIDTH: 150px; LINE-HEIGHT: 18px; PADDING-TOP: 3px; BORDER-BOTTOM: #999999 1px solid; POSITION: absolute; BACKGROUND-COLOR: #ffffff
+}

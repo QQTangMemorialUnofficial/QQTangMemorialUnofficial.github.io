@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../list_1.shtml" title="综合新闻">综合新闻</a><a href="../608/list_1.shtml" title="最新公告">最新公告</a><a href="../619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../index.html" class="a">首页</a> >> <a href="../list_1.shtml" class="a">新闻中心</a> >> <span></span>最新</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31286.shtml" target="_blank"><font color="">QQ堂新地图全民体验活动</font></a>
+                                <span>2006-06-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31287.shtml" target="_blank"><font color="">足球泡泡——让你走向世界杯</font></a>
+                                <span>2006-06-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31288.shtml" target="_blank"><font color="">海盗乐透卡——6月22日闪亮现身</font></a>
+                                <span>2006-06-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31289.shtml" target="_blank"><font color="">足球系列边框——你的世界为足球围绕</font></a>
+                                <span>2006-06-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31290.shtml" target="_blank"><font color="">足球背包——让你紧跟潮流</font></a>
+                                <span>2006-06-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31291.shtml" target="_blank"><font color="">罗那尔多魅力复制之必备装备</font></a>
+                                <span>2006-06-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31292.shtml" target="_blank"><font color="">可乐泡泡——让品牌成为时尚</font></a>
+                                <span>2006-06-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31293.shtml" target="_blank"><font color="">22日起抢购新道具，好礼大派送</font></a>
+                                <span>2006-06-19</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31294.shtml" target="_blank"><font color="">戴足球流氓头套，露流氓式笑容</font></a>
+                                <span>2006-06-19</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31297.shtml" target="_blank"><font color="">大家来集邮——让2006世界杯刻骨铭心</font></a>
+                                <span>2006-06-22</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31299.shtml" target="_blank"><font color="">“海布里大帝”——亨利</font></a>
+                                <span>2006-06-22</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31300.shtml" target="_blank"><font color="">抢购有好礼，小小喇叭齐欢乐！</font></a>
+                                <span>2006-06-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31301.shtml" target="_blank"><font color="">拥有足球泡泡——带来另一份惊喜</font></a>
+                                <span>2006-06-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31302.shtml" target="_blank"><font color="">世界杯情谊闪耀在你身后</font></a>
+                                <span>2006-06-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31304.shtml" target="_blank"><font color="">新版本《风云再起》开放体验</font></a>
+                                <span>2006-06-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31306.shtml" target="_blank"><font color="">风云再起——体验新惊喜</font></a>
+                                <span>2006-06-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31308.shtml" target="_blank"><font color="">球迷为之疯狂——世界杯系列道具推出</font></a>
+                                <span>2006-06-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31309.shtml" target="_blank"><font color="">足球新BOSS即将现身绿茵场</font></a>
+                                <span>2006-06-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200606/31311.shtml" target="_blank"><font color="">QQ堂新版本又出新亮点</font></a>
+                                <span>2006-06-28</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n52.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n50.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d360863e1ab4af9657777b45b424fd2d<![endif]-->

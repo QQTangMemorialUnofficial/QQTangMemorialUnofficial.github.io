@@ -1,0 +1,53 @@
+.body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:18px;
+	color:#C40001;
+	
+}
+body {
+	margin: 0px;
+	line-height: 22px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20080104act/bg01.jpg);
+	background-repeat:repeat-x;
+	background-color:#7D4B24;
+}
+a:link{font-size:12px;color:#00000;text-decoration:none}
+a:visited{font-size:12px;color:#000000;text-decoration:none}
+a:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+a:active{font-size:12px;color:#FF0000;text-decoration:underline}
+.a{font-size:12px;color:#000000;text-decoration:none; font-family: Verdana, Arial, Helvetica, sans-serif; padding-top:20px;}
+
+.section{font-size:11px;color:#000000;}
+.section:link{font-size:11px;color:#FF0000;text-decoration:underline}
+.section:visited{font-size:11px;color:#FF0000;text-decoration:underline}
+.section:hover{font-size:11px;color:#FFcc00;text-decoration:none}
+.section:active{font-size:11px;color:#FFcc00;text-decoration:none}
+
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #D41401 1px solid; BORDER-LEFT: #D41401 1px solid; BORDER-RIGHT: #D41401 1px solid; BORDER-TOP: #D41401 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; height:15px}
+
+.height {  font-size: 12px; line-height: 24px; color:#FFFFFF}
+.txtred{  color:#FF8809; font-weight:bolder;}
+.txt{ line-height:22px; color:#FFEE7C; font-size:14px; padding-left:20px; padding-right:20px;}
+.txt12{ line-height:20px; color:#000000; font-size:12px; }
+.txt2{ line-height:19px; color:#000000; font-size:12px; }
+.ce_bg{background-image: url(http://ossweb-img2.qq.com/images/qqtang/a20080104act/ce_22.jpg); background-repeat:no-repeat; background-position: center; }
+#Layer1 {
+	position:absolute;
+	left:293px;
+	top:98px;
+	width:115px;
+	height:103px;
+	z-index:1;
+}
+#Layer2 {
+	position:absolute;
+	left:689px;
+	top:810px;
+	width:68px;
+	height:33px;
+	z-index:2;
+}

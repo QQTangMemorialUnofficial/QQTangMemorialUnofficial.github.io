@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>有奖征集录像-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>有奖征集录像</h4>
+    <div class="new_nytxt">　　五一长假，从今天开始了。<br><br>　　不知你是约上朋友，到外地旅行，还是约上网友，共游QQ堂？新版本《我爱我家》带给你们各种新鲜功能，你是否一一了解了？<br><br>　　在QQT《我爱我家》版本里，无论是爱的考验，足球还是包子，你有遇上技术相当的局面吗？有技术高超，让你佩服至极的人物吗？有难分胜负的对局吗？还是有着非比寻常，别有一番味道的对局？开心兴奋之余，请别忘记录像哦。<br><br>　　因为，5月1日至5月7日期间，只要有你觉得在《我爱我家》版本中有特别精彩或具有一定纪念意义价值的QQ堂录像，都可以通过邮箱，<font color="blue">把录像邮寄到472313169@qq.com</font>，参加五一精彩录像大赛。<br><br>　　奖品非常丰富哦：<br><br>　　爱的考验、抢包山、踢炸弹三类地图各评出最佳录像一、二、三等奖各一名。 <br><br>　　第一名：酷比公仔一只+获得凤凰翅膀+一张1周VIP卡+1个月紫钻 <br>　　第二名：获得凤凰翅膀+一张1周VIP卡+1个月紫钻 <br>　　第三名：获得凤凰翅膀+一张1周VIP卡 <br><br>　　活动今天已经开始了哦，别忘记五一畅游QQ堂之际，录上些精彩的录像来参赛哦！<br><br>　　也许你就是可以抱得酷比归的幸运玩家！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|4351ddcf08a21bfeb2f04acd4ab1b6e0<![endif]-->

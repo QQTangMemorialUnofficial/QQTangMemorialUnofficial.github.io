@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>常回家看看-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>常回家看看</h4>
+    <div class="new_nytxt">　　“常回家看看，常回家看看 …… ”年关将近，大街小巷都飘荡着陈红深情的歌声。 QQ 堂的老玩家，你是否也想起要回去看看呢？ <br><br>　　因为忙也好，因为对 QQ 堂失望也好，叶落归根，都该回去看看了。再说 QQ 堂一直都在努力改进，力求给玩家最完美的游戏环境，让玩家们获得最大的快乐！难免会有人对其中的一两个版本不满，但只要你耐心，就像母亲耐心地等待自己的婴儿慢慢长大成人，你一定会看到令你欣慰的版本。 <br><br>　　这不？新春版《糖果盛年》以其喜气洋洋的画面，优雅的音乐，流畅的版本赢得了许多玩家的认可和赞许。作为见证 QQ 堂落地的那一代，你，不该回来看看吗？ <br><br>　　1 月 20 日 — 2 月 28 日 ，内测玩家及长时间未登陆游戏的老玩家可以在自由频道进行游戏，活动结束后将会统计这一部分玩家在此期间所累积的积分，最后根据积分情况进行相应的奖励。<br><br>　　<strong>活动奖励： </strong><br><br>　　1 ．所有老玩家次日即可免费获赠能与怪盗 “格里芬”挑战资格的入场券 “雪山来信” 30 个；获得新品道具一件，获得 VIP 卡一周； <br><br>　　2 ．活动期间积分达 10000 分的玩家可获得紫钻一个月； <br><br>　　3 ．活动期间积分达 30000 分的玩家可以奖励紫钻三个月 + 新品道具一件； <br><br>　　4 ．活动期间积分排名前 20 的玩家可获得酷比公仔一只。<br><br>　　回来吧！既可重温喜悦与苦涩参杂的回忆，又可获得丰厚奖品，何乐而不为？<br><br>　　详情请登陆： <a href="../../../../../../return/index.html" target="_blank">http://qqtang.qq.com/return/</a> <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="30756.shtml">QQ堂新年大酬宾 优惠无限量</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|dceaf5b5d00997be35aa078b3741972c<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>恶鱼在身边 显出新风采-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">关注</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>恶鱼在身边 显出新风采</h4>
+    <div class="new_nytxt">　　鲨鱼头盔是QQ堂至今为止唯一用鱼这种神秘的动物当模型的道具，效果竟异常出色。恶鱼的生活，别有一番刺激的滋味。<br><img src="../../../../../../webpic/20060414/yc1.gif" align="center"><br><br>　　素雅的淡蓝色，却有一双一闪一闪的鬼魅电眼，美丽却充满危险，这绝对不是一条单纯善良的美人鱼。<br><br>　　红色意味着警戒，后面一点若隐若现的红色似乎在坦诚：“我是恶鱼一条，危险，别靠近！”<br><br>　　有菱有交的庞然身躯，张开的森然大嘴，随着你的奔跑左晃右晃，宛如悠闲地游荡在QQ堂的海洋里，肆无忌惮地张扬着，让你平添了一份“坏坏”的味道。<br><br>　　恶鱼在身边，我的QQ堂从此不一样！<br>　　<br>　　更多道具将为你逐步揭晓，请关注。<br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200708/32191.shtml">QQ堂嘻哈泡泡新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200708/32184.shtml">炫耀街头 极限运动 滑板Girl＆Boy</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200708/32180.shtml">玩转QQ堂嘻哈世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32167.shtml">六翼翅膀纯美登场</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|fcea3dad8010d1b0865326bd5f9f61e3<![endif]-->

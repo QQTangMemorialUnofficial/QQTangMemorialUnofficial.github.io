@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>	QQ音速支付</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<meta name="robots" content="all" />
+		<meta name="author" content="eddygu" />
+		<meta name="Copyright" content="Copyright (c) 2006-2007 tencent" />
+		<meta name="Description" content="" />
+		<meta name="Keywords" content="" />
+		<script language="JavaScript" type="text/javascript" src="js/pay.js"></script>
+		<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+		<script language="JavaScript">
+location.href="http://pay.qq.com/service/index.shtml?aid=pay.index.header.service&ADTAG=pay.index.header.service";
+		    function $(){
+                var elements = new Array();
+                for (var i = 0; i < arguments.length; i++) {
+                    var element = arguments[i];
+                    if (typeof element == 'string')
+                        element = document.getElementById(element);
+                    if (arguments.length == 1)
+                        return element;
+                    elements.push(element);
+                }
+                return elements;
+            }
+		    
+			function init()
+			{
+				$("pay_form").qq1.value=$("pay_form").qq2.value=GetCookieUin();
+				$("pay_form").cft_acct.value=GetCookieUin()//+"@qq.com"
+				//默认选择银行卡
+				if($("pay_form").channel[0].value=="2" && !$("pay_form").channel[0].checked)
+				{
+				    $("pay_form").channel[0].checked=true; 
+				}
+				show(document.getElementById('CFT'));
+				show(document.getElementById('cft_acct_div'));
+				hide(document.getElementById('YHK')); 
+				
+				
+				//默认选择3个月 
+				$("pay_form").openmonth[0].checked=true;
+				PayBankChl.ChangeMonth(3);
+				
+				productInfo=parent.IED_VIP_Product_info[parent.IED_VIP_Url_param["i"]]
+				var cft_discount="("+parent.IED_VIP_Default_Cft_Discount+"折)"
+				var bank_discount="("+parent.IED_VIP_Default_Bank_Discount+"折)";
+                var tmp;
+                cft_discount_int=parent.IED_VIP_Default_Cft_Discount;
+                bank_discount_int=parent.IED_VIP_Default_Bank_Discount;
+                if(productInfo.cft_discount)
+                {
+                    tmp=productInfo.cft_discount;
+                    if(tmp==10)
+                    {
+                        cft_discount=""
+                        cft_discount_int=10
+                    }
+                    else
+                    {
+                        cft_discount="("+tmp+"折)" 
+                        cft_discount_int=tmp  
+                    }
+                }
+                if(productInfo.bank_discount)
+                {
+                    tmp=productInfo.bank_discount;
+                    if(tmp==10)
+                    {
+                        bank_discount=""
+                        bank_discount_int=10
+                    }
+                    else
+                    {
+                        bank_discount="("+tmp+"折)" 
+                        bank_discount_int=tmp
+                    }  
+                }
+                $("cft_discount_span").innerHTML=cft_discount
+                try
+                {
+                    $("ydt_discount_span").innerHTML=cft_discount
+                }catch(e){}
+                $("bank_discount_span").innerHTML=bank_discount 
+                showPrice(3);
+			
+			    PayBankChl._ChangeMonth=PayBankChl.ChangeMonth;
+                Object.extend(PayBankChl,{ChangeMonth:function(val){
+                    PayBankChl._ChangeMonth(val);
+                    if(val == "other")
+                        $("total_price").innerHTML=""
+                    else
+                        showPrice(val)
+                }})
+			}
+			function showPrice(month)
+			{
+			    $("total_price").innerHTML=($("pay_form").channel[1].checked?bank_discount_int:cft_discount_int)*10*Number(month)*(productInfo.price||parent.IED_VIP_Default_price)/100;
+			}
+			function show(target)
+            {
+        	    target.style.display='block';
+            }
+            function hide(target)
+            {
+    	        target.style.display='none';
+            }
+		</script>
+<style type="text/css">.ktcft_mTop{ margin:0px; padding:0px;}
+.tText a{ text-decoration:underline; }
+.tText a:hover{ text-decoration:none; color:#ff9900; }
+.border_acacac_1{ color:#666666; width:120px; border:1px solid #acacac;}
+</style>
+	</head>
+	<body onLoad="init()">
+		<div id="speed_cMiddle">
+			<div class="mTop"></div>
+			<div class="mContent">
+				<ul class="H350">
+					<li class="li_text">
+						<div class="color_ff9900 floatL">
+							<img src="http://ossweb-img.qq.com/images/commweb/star.jpg" width="10" height="10" align="absmiddle" />
+							<span class="color_6d6d6d">
+								<strong> 您选择了 </strong>
+							</span>
+							<strong>银行卡/财付通开通
+							  <span class="color_6d6d6d">方式 </span>
+							</strong>
+					  </div>
+					  <div class="li_lt">
+					  	<a href="http://pay.qq.com/paycenter/paycenter_qb.shtml" target="_blank" class="color_6d6d6d" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.qdqbcz'});">Q点Q币充值 </a>
+					  </div>
+					  <div class="li_lt1">
+					  	<a href="http://pay.qq.com/account/index.shtml" target="_blank" class="color_6d6d6d" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.cxzhye'});">查询帐户余额 </a>
+					  </div>
+					</li>
+					<li class="li_xian">
+						<img src="http://ossweb-img.qq.com/images/commweb/line.jpg" width="472" height="1" align="top" />
+					</li>
+					<li class="form">			
+							<form action="" method="post" name="pay_form" enctype="multipart/form-data"  target="_blank" id="pay_form" style="padding:0px; margin:0px;">
+								<input name="month" type="hidden" value="" />
+								<input name="bankid" type="hidden" value="">
+								<div class="tText"> 
+							    <img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请选择付费方式：
+							  </div>
+							  <div class="tText">
+								  <input name="channel" type="radio" value="2" onclick="show(document.getElementById('CFT'));show(document.getElementById('cft_acct_div'));hide(document.getElementById('YHK'));$('pay_form').openmonth[0].checked=true;PayBankChl.ChangeMonth(3)" />财付通支付<strong><span class="color_ff9900" id="cft_discount_span">(8.8折)</span><img align="absmiddle" src="http://ossweb-img.qq.com/images/commweb/help.jpg" border="0" title="财付通是腾讯公司针对网上交易安全精心打造的在线支付平台。财付通账户充值Q点/Q币或购买产品，省却了跳转银行支付界面的步骤，方便快捷。 " /></strong>&nbsp;
+								  <input name="channel" type="radio" value="1" checked="checked" onclick="show(document.getElementById('YHK'));hide(document.getElementById('CFT'));hide(document.getElementById('cft_acct_div'));$('pay_form').openmonth[0].checked=true;PayBankChl.ChangeMonth(3)" />
+								  银行卡支付<strong><span class="color_ff9900" id="bank_discount_span">(9折)</span></strong>&nbsp;
+								  <input name="channel" type="radio" value="3" onclick="hide(document.getElementById('YHK'));hide(document.getElementById('CFT'));show(document.getElementById('cft_acct_div'));$('pay_form').openmonth[0].checked=true;PayBankChl.ChangeMonth(3)" />
+								  一点通支付<strong><span class="color_ff9900" id="ydt_discount_span">(8.8折)</span></strong><img align="absmiddle" src="http://ossweb-img.qq.com/images/commweb/help.jpg" border="0" title="一点通是财付通携手各大银行专为网上购物用户设计的一项最新支付服务，将您的银行卡绑定财付通账号后，不需登录网上银行即可付款，还可避免银行卡密码在网上泄露的风险，就像在超市购物刷卡一样安全、方便。" />
+							  </div>
+								<div class="tText" id="cft_acct_div" > 
+								&nbsp;&nbsp;财付通帐号：<input name="cft_acct" class="border_acacac_1 input-text"  value="" type="text" size="10" maxlength="30"/>
+								</div>
+								<span id="CFT" >
+										<div class="tText">
+											&nbsp;<input name="auto" type="checkbox" value="1"/>
+										<label id="lb_auto">推荐使用财付通自动续费 同意并接受《<a href="https://www.tenpay.com/v2.0/main/trust/trust_service.shtml" target="_blank">财付通委托扣款协议</a>》 <a href="http://pay.qq.com/account/account_service_list.shtml" target="_blank">设置自动续费</a></label>
+		                                <br/>
+		                                &nbsp;&nbsp;*(如还未开通财付通，<a href="https://www.tenpay.com/zft/register_1.shtml" target="_blank">立即开通 </a>)
+		                                </div> 
+                                 </span>
+								<div class="tText"> 
+									<img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 选择服务的有效期：
+									<input type="radio" name="openmonth" value="3" onClick="PayBankChl.ChangeMonth(this.value)" checked="checked" />3个月 &nbsp;
+									<input type="radio" name="openmonth" value="6" onClick="PayBankChl.ChangeMonth(this.value)" />6个月 &nbsp;
+									<input type="radio" name="openmonth" value="12" onClick="PayBankChl.ChangeMonth(this.value)" />1年 &nbsp;
+									<input name="openmonth" type="radio" onClick="PayBankChl.ChangeMonth(this.value)" value="other"> 其他：
+									<input name="prepaymonth" class="border_acacac" type="text" size="2" maxlength="2" onkeyup="showPrice(this.value)" onchange="showPrice(this.value)" disabled="true">&nbsp;个月
+								</div>
+								<div class="tText">
+									<img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 支付金额：<strong  class="color_ff9900"><span id="total_price"></span>元</strong>
+								</div>
+								<span id="YHK" style="display:none">
+									<div class="tText">
+										<img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" alt="" />&nbsp;请选择银行：
+										<input name="channel_subid" type="radio" value="1002" checked />工商银行
+										<input name="channel_subid" value="1001" type="radio" />招商银行
+										<input name="channel_subid" value="1005" type="radio" />农业银行
+										<input name="channel_subid" value="1003" type="radio" />建设银行<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+										<input name="channel_subid" value="1052" type="radio" />中国银行
+										<input name="channel_subid" value="8002" type="radio" />其它银行
+									</div>
+									<div class="tText">
+				                        <a href="http://help.tenpay.com/cgi-bin/helpcenter/help_center.cgi?id=85858&amp;type=0" target="_blank"  class="color_ff9900">立即开通网上银行</a>
+				                    </div>
+								</span>
+									
+                  <div class="tText"> 
+                  	<img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" />&nbsp;输入服务的QQ号码： 
+                  	<input name="qq1" class="border_acacac input-text" value="" type="text" size="10" maxlength="10"/>
+                	&nbsp;重复服务的QQ号码： 
+                  	<input name="qq2" class="border_acacac input-text" value="" type="text" size="10" maxlength="10"/>
+                    </div>
+ 				
+                  <!--<div class="tText link_ff9900">&nbsp;&nbsp;&nbsp;<a href="#" target="_blank">立即开通网上银行</a></div>-->
+                  <div class="thText1" style="margin-top:13px; padding:0px;">
+	                  <a href="javascript:PayBankChl.SubmitForm(1);"><img src="http://ossweb-img.qq.com/images/commweb/next.jpg" border="0" /></a>
+	                  <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://ossweb-img.qq.com/images/commweb/more_bank.jpg" />	-->
+                  </div>
+                  <div class="tText color_6d6d6d" style="line-height:18px;"></div>
+              </form>
+            
+          </li>
+				</ul>
+				<ul>
+				  <li class="li_xian"><img src="http://ossweb-img.qq.com/images/commweb/line.jpg" width="472" height="1" align="top" /></li>
+					<li class="wxin"><img src="http://ossweb-img.qq.com/images/commweb/middle_j.jpg" alt="" width="6" height="7" align="absmiddle" />
+						<strong class="color_7fb400"> 温馨提示： </strong>
+					</li>
+					<li class="oWxin">
+						<div class="oWxinother">
+							<script type="text/javascript">document.write(parent.IED_VIP_Wr_pay_msg());</script>
+					  </div>
+					</li>
+				</ul>
+			</div>
+			<div class="mBottom"></div>
+		</div>
+<script type="text/javascript">
+try{parent.setInputFromParentUrl("pay_form");}catch(e){}
+</script>
+	</body>
+</html>
+<!--[if !IE]>|xGv00|2f9ebe06c907adcbb0e16facd1b3019f<![endif]-->

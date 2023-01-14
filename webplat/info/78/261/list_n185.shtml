@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../web2008/jscss/main.js"></script>
+<link href="../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="608/list_1.shtml" title="最新公告">最新公告</a><a href="619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/201111/116657.shtml" target="_blank"><font color="">光棍节不孤单，巡查陪你玩游戏！</font></a>
+                                <span>2011-11-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/201111/116818.shtml" target="_blank"><font color="">QQ堂2011TGC有奖竞猜活动</font></a>
+                                <span>2011-11-04</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/201111/118157.shtml" target="_blank"><font color="">QQ堂群星闪耀微星冠军荣耀之夜</font></a>
+                                <span>2011-11-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=356950&amp;page=0" target="_blank"><font color="">欢乐糖果王国平安夜，惊喜等你拿!</font></a>
+                                <span>2011-12-19</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=356951&amp;page=0" target="_blank"><font color="">MerryX'mas，圣诞爱在糖果世界!</font></a>
+                                <span>2011-12-19</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=357114&amp;page=0&amp;PcacheTime=1324635355" target="_blank"><font color="">【征集帖】点燃糖民绝版梦，绝版道具大复活。</font></a>
+                                <span>2011-12-23</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=357389&amp;page=0" target="_blank"><font color="">冬季恋歌，圆‘蛋’送祝福。</font></a>
+                                <span>2011-12-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/201112/120290.shtml" target="_blank"><font color="">QT幸运周，幸运闹双蛋！</font></a>
+                                <span>2011-12-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/201112/120292.shtml" target="_blank"><font color="">【元旦】双赢酷币宝石+经验值</font></a>
+                                <span>2011-12-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/201112/120301.shtml" target="_blank"><font color="">元旦八折大促销，限量糖泡等你拿！</font></a>
+                                <span>2011-12-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;st=&amp;sc=&amp;messageid=357932&amp;titlepage=0&amp;nnc=0&amp;PcacheTime=1326185777" target="_blank"><font color="">关于1月10日下午网通区网络波动通知公告</font></a>
+                                <span>2012-01-10</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/201201/121284.shtml" target="_blank"><font color="">绝版道具大复活·投票ing</font></a>
+                                <span>2012-01-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=358039&amp;page=0" target="_blank"><font color="">新春行运一条龙，微博传福赢大奖</font></a>
+                                <span>2012-01-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=358041&amp;page=0" target="_blank"><font color="">新春祝福送不停，龙年欢乐传大运</font></a>
+                                <span>2012-01-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/201201/121546.shtml" target="_blank"><font color="">多倍经验闹不停，免费BOSS齐恭贺</font></a>
+                                <span>2012-01-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/201201/121547.shtml" target="_blank"><font color="">累计局数送好礼，极品道具幸运星！</font></a>
+                                <span>2012-01-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/201201/121911.shtml" target="_blank"><font color="">【琳琅天上工作室】品牌宣传片首发！</font></a>
+                                <span>2012-01-31</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=359343&amp;titlepage=&amp;msgpage=0&amp;nnc=0&amp;PcacheTime=1328253696" target="_blank"><font color="">元宵佳节龙灯闹，糖民合影庆团圆</font></a>
+                                <span>2012-02-03</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=359758&amp;page=0" target="_blank"><font color="">2012相遇Q堂，携手浪漫情人节。</font></a>
+                                <span>2012-02-10</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:<%$previousDisplay$%>;"><a href="list_3.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n184.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|8a30a04e03a7796fea0da5e44d9131f8<![endif]-->

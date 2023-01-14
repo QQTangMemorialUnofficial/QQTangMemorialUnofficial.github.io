@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>Alpha 4 Build 2版本更新通告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>Alpha 4 Build 2版本更新通告</h4>
+    <div class="new_nytxt">　　《QQ堂》Alpha 4 Build 2版本已于12月7日19:30正式更新，请玩家下载最新客户端，体验《QQ堂》所带来的最新快乐感受。<br><br>　　本次版本更新，除增加了对于海岛大冒险和热血足球两个活动的支持外，也对于游戏中现存的一些bug进行了修改。感谢二次内测中热心玩家给我们所提供的意见和建议，QQ堂一步一步的走向成熟离不开您的支持与参与。我们尽快完善产品，您的意见是我们成长的动力。<br><br>　　本次内测的版本改进内容如下：<br><br>　　【新增内容】<br>　　增加防外挂功能<br>　　增加游戏自动更新功能<br>　　增加热血足球比赛内容<br>　　增加玩家胜利的欢庆动作<br>　　增加海岛宝藏大冒险活动内容（增加宝箱和红钻，蓝钻的掉落）<br><br>　　【调整内容】<br>　　调整选择角色颜色的顺序<br>　　优化泡泡被炸的过程动画<br>　　优化“小悟空”角色动画<br><br>　　【修正内容】<br>　　修正qqshow不能显示的问题<br>　　修正战斗结束后玩家数据没有及时更新的问题<br>　　修正抢包子的时候在两个背包子的玩家同时被炸情况下，会丢失一个包子的BUG<br>　　修正叉子道具不能使用的BUG<br>　　修正在泡泡中和死亡动画中，表现性道具动画的BUG<br><br>　　玩家可使用老版本登录，进行自动更新；也可以使用以下地址下载游戏：<br>　　<a href="http://202.104.193.21/QQTSetup.EXE" target="_blank" class="bigtxt">http://202.104.193.21/QQTSetup.EXE</a><br>　　<a href="http://202.104.193.22/QQTSetup.EXE" target="_blank" class="bigtxt">http://202.104.193.22/QQTSetup.EXE</a><br><br>　　QQ堂，与你一起成长！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|bea930997c32c08fca02e87a22461e32<![endif]-->

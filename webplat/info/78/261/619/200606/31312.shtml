@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>今日宝贝，明日新星——Q堂宝贝火热报名-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>今日宝贝，明日新星——Q堂宝贝火热报名</h4>
+    <div class="new_nytxt">　　有人因为快乐活跃于QQ堂、有人因为朋友留恋Q堂，也有喜欢这儿是因为有属于自己的天空。你的恬静不为人知，因而你的美貌也随之隐匿。对着那个屏幕，你看得见别人，别人永远见不到你，你甘心这样沉默吗？靓出自己，来Q堂为你打造的这个舞台——第二届Q堂宝贝评选。   <br>  <br>　　只要你拥有QQ，喜欢玩QQ堂，那么就有了第一张参赛的资格证。任何年满18周岁以上的QQ堂女性玩家都可以在网站上自由报名参加本项评比活动。玩家们可直接在活动页面上传照片，发布自己的个人资料。比赛分片区进行，主要分两轮比赛，分别为首轮投票与次轮投票。     <br><br>　　活动全程安排时间如下：<br><br>　　在6月24日至7月15日间进行宝贝资料初次征集，7月15日至7月31日进行第一轮海选。在第一轮海选中根据各区域前10名投票获得最多者进入第二轮决赛。第二轮决赛会在8月1日至8月15日举行，决出前三名投票获得最多者即我们最具人气QQ堂宝贝。8月12日公布比赛结果，获奖的前三名将参加8月16日-31日的总颁奖。         <br><br>　　美丽的一般来源于自信，而成功的一半来自把握每个机会，相信你是美丽的，在这个舞台有你新的天空，让所有Q堂迷们领略你的风采，为自己和别人营造一道亮丽的风景线。快来参加吧！<br><br>　　更多规则，请关注官网后续新闻，详情关注：<a href="../../../../../../hero2006/index.html" target="_blank">http://qqtang.qq.com/hero2006/。</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200707/32153.shtml">QQ堂宝贝100强新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32143.shtml">宝贝大赛第一轮投票进入最后冲刺</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32140.shtml">为你心中的宝贝，加油</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32138.shtml">真实可爱－QQ堂宝贝♀ANGEL 瑾</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|7a8e5a1a3a709ec8254d215f9f3ae986<![endif]-->

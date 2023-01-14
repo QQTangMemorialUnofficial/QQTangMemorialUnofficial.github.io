@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂与玩家互动系列之"挑战"地图研究院-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂与玩家互动系列之"挑战"地图研究院</h4>
+    <div class="new_nytxt">　　QQ堂地图研究院是由QQ堂一批最忠实的玩家所组成，成立的宗旨是为了使QQ堂成为更受玩家们欢迎与喜爱的健康网络游戏。在第一期QQ堂地图研究院成立之时，为了加深成员与广大玩家们更密切与友好的互动交流，拉近玩家与成员之间的距离，QQ堂地图研究院设下擂台，等待着您的挑战，同时设有丰厚的奖品等待着您来赢取。只要您是QQ堂玩家，只要您有足够的自信，您就有机会加入到此次挑战研究院赢取奖品的活动中，同时还可以结识到一批友好的研究员成员。<br>  　　活动时间：8月9号，8月10号两天晚19：00-21：00<br><br>　　<strong>活动地点</strong>：上海中心区　52柳丁脆糖<br><br>　　活动方式：研究员开设房间等待玩家随机进入进行3V3对抗赛<br><br>　　<strong>活动奖励</strong>：每晚战胜研究员且所花时间最短的前十组队员，每人将获得<font color=red>幻影</font>和<font color=red>凤凰翅膀</font>道具。<br><table width="200" border="0" align="center" cellpadding="0" cellspacing="0"><tr><td><img src="../../../../../../webpic/20050808/03.gif" width="100" height="100"></td><td><img src="../../../../../../webpic/20050808/04.gif" width="100" height="100"></td></tr><tr><td><div align="center">幻影</div></td><td><div align="center">凤凰翅膀</div></td></tr></table><br><p><br>  　　8月9-10号晚七点，QQ堂地图研究院准时恭候您的到来，欢迎广大QQ堂的热心玩家，到时光临比赛现场，展开一场别开生面的友谊赛。</p><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32042.shtml">全新地图  精彩由你我演绎</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200509/30440.shtml">地图研究院杯“QQ堂家族联赛”获奖名单出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200509/30436.shtml">首届『地图研究院杯』QQ堂家族联赛圆满落幕</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30316.shtml">走进地图研究员的世界（2）</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ee8ec3c73a74a0bff9c72372a0b942d4<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>爱，只要你大声说出来-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>爱，只要你大声说出来</h4>
+    <div class="new_nytxt">　　还在为说不出口那三个字而着急吗？还在为不知如何讨她欢心而忐忑不安吗？还在为猜不透她的心思而不知所措吗？到底怎样做才是对的呢？  <br><br>　　不用着急，如果你有这些烦恼，先来听听专家是怎么分析的。       <br><br><div align="center"><img name="" src="http://ossweb-img.qq.com/images/webpic/20061122/qqt-001.jpg" alt=""></div><br><br>　　女孩的心思猜起来是说难也易， <br>　　她不一定要你为他买贵重的身外之物，<br>　　却想要你为她亲手采摘的玫瑰， <br>　　她不一定要你带她到天堂，<br>　　却希望你给她一双翅膀，<br>　　陪她一起遨游世界， <br>　　她不一定要你如何显贵，<br>　　却想和你如此牵手，<br>　　共此生，品味生活的一点一滴。  <br><br>　　还等什么？爱，只要你大声地说出来！现在我们就给你提供一个表现的机会-----爱她就追她任务。快点行动起来吧，无论是去比武场，为了心中的她而努力奋战，还是幸福甜包里，为了亲爱的她采摘玫瑰，还是在最终爱的考验里，去争取一起飞往幸福的翅膀。不管结果如何，只要一同经历，一同走过，那就是幸福的所在！<br><br>　　机不可失，时不再来。还犹豫什么？爱她，就快点开动求爱的任务吧！<br><br>　　详情关注：<a href="../../../../../../a20061102task/index.html" target="_blank"><font color="#FF0000">http://qqtang.qq.com/a20061102task/ </font></a><br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ae1bfff26500ea8f48415913bf5c157b<![endif]-->

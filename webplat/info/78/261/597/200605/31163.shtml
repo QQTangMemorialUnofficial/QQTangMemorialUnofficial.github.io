@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>表情动画 让交流趣味横生-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>表情动画 让交流趣味横生</h4>
+    <div class="new_nytxt">　　文字不是人类交流的唯一方式，它甚至不是主要方式。除了口语，人们使用时间最长的，使用场合最多的，莫过于肢体语言——一个笑容，一个摇头，一个白眼，都有着不同的含义。 <br><br>　　如今，QQ堂新版本《我爱我家》也从生活中引入了丰富的肢体语言——表情动画道具，让交流趣味横生。<br><br><div align=center><img src="../../../../../../webpic/20060508/04.gif"></div><br> <br>　　表情动画是一种通过播放人物（局部）动画来表达感情的装饰性系列道具。它的使用场合非常广泛，无论游戏中或房间内，你都可以随意使用。<br><br>　　原本个性独特的你，自然有更特别的交流方式，仅靠聊天栏的几个字怎么够用呢？就让表情动画帮你忙吧！你的愤怒，你的欣喜，你的惊诧，都如此鲜活，自然要表情动画将它们更鲜活地流露。<br><br>　　表情道具即将出售。交流从此更加趣味横生！<br><br>　　详情关注：<a href="../../../../../../wawj/index.html" target="_blank">http://qqtang.qq.com/wawj/</a>。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200708/32191.shtml">QQ堂嘻哈泡泡新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32184.shtml">炫耀街头 极限运动 滑板Girl＆Boy</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32180.shtml">玩转QQ堂嘻哈世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200707/32167.shtml">六翼翅膀纯美登场</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|4f38e06080bfd5a7a78b363930447062<![endif]-->

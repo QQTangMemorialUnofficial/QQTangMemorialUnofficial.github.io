@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>赛场上的勇士—最可爱的人-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>赛场上的勇士—最可爱的人</h4>
+    <div class="new_nytxt">　　足球战场上的幕帷刚刚落下来，爱的考验全面升级，硝烟弥漫。 <br><br>　　如此大型的比赛，记者赶赴赛场，见证了一场场勇气和智慧的较量。各家族成员真可谓是热血奔腾，激情澎湃。 <br><br>　　比赛一结束，记者立马逮住几位似乎依旧沉浸在刚才激战中的勇士进行及时采访。 <br><br>　　访问是十分轻松和愉快的，和在赛场上拼杀凶猛的他们不一样。在场外他们有他们可爱的另一面，是十分容易亲近的一群。呵呵，忽然想起那首歌“ Smile ，我深爱你……” <br><br>　　作为 CEG 冠军得主，ω锾ぜ天使心在这几天激斗中感触也颇多。刚下战场的他，脸上挥之不去的是一种疲惫中带着亢奋的神情：家族比赛要的不仅是家族成员的骁勇善战，更重要的是一种团结一心和坚韧的毅力。赛场上的感悟太多，经历就是高手多，有人网络卡，导致我的战绩惨不忍睹。 <br><br>　　另个沐浴战场的勇士 天少 也不禁感慨，赛场上真是很残酷的，不管你平时多勇猛，战场上的心理和技术战一样都不能少。但成绩不是重要的，重要的是家族成员在比赛中所凝聚起来的那一份力量和相互关爱的温馨，还有结识到其他家族众多的朋友。 <br><br>　　战斗依旧在继续，无论战绩如何，记者在此都由衷地祝愿各家族美满快乐。 <br><br>　　谨以此文，献给我们最可爱的人——赛场上的勇士。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200609/31558.shtml">黄金白银与青铜 家族活动至高荣誉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../604/200607/31348.shtml">QQ堂家族二期有看头</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200607/31330.shtml">家族声望新排名——Q堂家族我最行</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200605/31188.shtml">家族采访（四）——♀ANGEL窝窝</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|fb94433a0e02105e32b25bc2085ceabb<![endif]-->

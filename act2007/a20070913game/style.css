@@ -1,0 +1,57 @@
+.body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:18px;
+	color:#0F5D01;
+	
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	line-height: 22px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070913game/bg01.gif);	
+	background-repeat: repeat-x;
+	background-color:#EDFF9A;
+}
+a:link{font-size:12px;color:#0F5D01;text-decoration:none}
+a:visited{font-size:12px;color:#0F5D01;text-decoration:none}
+a:hover{font-size:12px;color:#FF1F20;text-decoration:none}
+a:active{font-size:12px;color:#FF1F20;text-decoration:none}
+
+.section{font-size:12px;color:#FF1F20;}
+.section:link{font-size:12px;color:#000000;text-decoration:none}
+.section:visited{font-size:12px;color:#000000;text-decoration:none}
+.section:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+.section:active{font-size:12px;color:#FF0000;text-decoration:underline}
+
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #616161 1px solid; BORDER-LEFT: #616161 1px solid; BORDER-RIGHT: #616161 1px solid; BORDER-TOP: #616161 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; height:16px}
+
+
+.text01 {  font-size: 12px; line-height: 150%; text-decoration: none}
+.ta01 {  font-size: 12px; line-height: 150%; text-decoration: none;	padding-top: 8px; padding-left: 4px;	}
+.height {  font-size: 12px; line-height: 24px; }
+
+.td1{  font-size: 12px; padding-left:8px;line-height:18px; }
+.a1{
+	font-size: 12px;
+	color:#551C00;
+	font-weight: bold;
+}
+.a2{  font-size: 12px; color:#000000; line-height:22px;}
+.a3{  font-size: 12px; line-height:21px; padding-left:10px; padding-top:8px; padding-right:5px; padding-bottom:8px;}
+.a4{ color:#0F5D01; line-height:22px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070913game/line03.gif);}
+.a5{ line-height:23px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070913game/line01.gif);}
+.txt01{ color:#0F5D01; line-height:24px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070913game/line_07.gif);}
+.txt02{ color:#0F5D01; line-height:25px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070913game/line_03.gif);}
+.title{
+	font-size: 24px;
+	line-height:30px;
+	font-weight: bold;
+	color:#347135;
+ 	filter: DropShadow(Color=#FFAE1C, OffX=1, OffY=1, Positive=2);
+}

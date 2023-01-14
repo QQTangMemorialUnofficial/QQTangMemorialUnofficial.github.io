@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>我爱我家，QQ堂与你一同成长！-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>我爱我家，QQ堂与你一同成长！</h4>
+    <div class="new_nytxt">　　我想有个家，一个温暖可爱的家，欢声笑语尽在其中！<br><br>　　QQ堂与你一同成长，茁壮成长为正式6版本“我爱我家”！一个真正成熟稳定温暖可爱的家！<br><br>　　想知道新家的新感觉吗？我们来一起先睹为快！<br><br>　　强大的家族功能，众多的人物表情动画，道具特效以及战斗快捷语言使新版本的QQ堂更为至臻完善，实现你一直以来非常期待的内容，给你更好的体验感！<br> <br><div align=center><img src="../../../../../../webpic/20060421/5.jpg"></div><br><br>　　在众多玩家的支持下，QQ堂的“家文化”氛围日益浓烈，良好家环境的营造也应运而出。<br><br>　　新版本的平台功能逐渐强大：增加“屏蔽加好友”命令、图像引擎优化、老板键功能以及玩家一直关心的反外挂系统等，这些都是其中很少一部分功能哦，还有什么呢？自己去体验发现吧！享受其中快乐！<br><br>　　心痒痒乎？更多“我爱我家”新版本资讯等着你自己体验！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32036.shtml">致富有新招——酷比宝石</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|bbb7eb1a0e68b080d7dfd571e61e2ced<![endif]-->

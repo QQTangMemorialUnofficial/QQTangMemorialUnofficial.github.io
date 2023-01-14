@@ -1,0 +1,81 @@
+td {
+	font-size: 9pt;
+	line-height: 120%;
+}
+a:link {text-decoration: underline;color: #000000;}
+a:visited { text-decoration: underline; color: #000000}
+a:hover {text-decoration: none;color: #0066EE;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	line-height: 120%;
+	color: #000000;
+	background-color: #83E202;
+}
+.bigtxt {
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 120%;
+	font-weight: bold;
+	color: #0066CC;
+}
+.engtxt {
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 128%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.articleTitle {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.articleContent {
+	FONT-SIZE: 10pt;
+	LINE-HEIGHT: 150%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.articleTime {
+	FONT-SIZE: 9pt;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.item_table {
+	border: 1px solid #6FB800;
+	background-color: #EBFF9F;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.bg_reward {
+	background-attachment: fixed;
+	background-image: url(../../images/hot_football/table_reward_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.bg_faq {
+	background-attachment: fixed;
+	background-image: url(../../images/hot_football/table_faq_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.bg_news {
+	background-attachment: fixed;
+	background-image: url(../../images/hot_football/table_news_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.bg_report {
+	background-attachment: fixed;
+	background-image: url(../../images/hot_football/table_report_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.bg_flow {
+	background-attachment: fixed;
+	background-image: url(../../images/hot_football/table_flow_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}

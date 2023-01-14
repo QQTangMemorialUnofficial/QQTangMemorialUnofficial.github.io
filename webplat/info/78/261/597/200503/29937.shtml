@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>游戏内道具商店开放销售最新超炫道具-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>游戏内道具商店开放销售最新超炫道具</h4>
+    <div class="new_nytxt">　　“幻像魅影”和“星光QQ糖”的玩家个人账户直接购买，今天已正式开通！现在玩家可以在游戏商店中直接购买最新道具了！<br><br>　　《QQ堂：试炼之章》版本上市后，其中的超炫新道具“幻像魅影”和“星光QQ糖”一直都受到广大玩家的喜爱，但出于测试需要方面的原因，该两种道具一直未能开通游戏内的销售，仅暂时提供了Q币卡的页面充值销售方式。这让玩家感到了极大的不便，很多喜爱新道具的玩家都在论坛和GCS系统中反映了期望道具早日进入游戏内销售的要求，为了满足广大玩家的愿望，官方技术人员改变原计划，提前进行调整，在短短一周内就将新道具及时更新到游戏内的道具商店中。<br><br>　　现在在游戏的道具商店“道具-功能”类和“装饰-泡泡”类位置中已提供该两种商品出售，同时还有大量其他新商品同期上架，欢迎大家尝试最新最炫的道具，打造一个个性十足的你。<br><br>　　同时我们在网站的页面上提供了更多可以购买的道具，玩家可以随意选择在游戏中购买和在页面上直接充值两种方式。<br><br>　　网站销售页面链接：<br>　　<a href="../../../../../../shopping/qcard.htm#shopping" target="_blank">http://qqtang.qq.com/shopping/qcard.htm</a><br><br>　　更多选择只为了让你更方便！<br>　　我们永远在进步，QQ堂因为您而成长！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200504/29985.shtml">好消息：道具商店VIP卡隆重上架</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200504/29982.shtml">QQ堂优惠新举措 超值道具包官网发售</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29957.shtml">QQ堂VIP卡的使用说明</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29951.shtml">抢购！VIP卡火热上市 官网已开放销售</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|573fc4c1f17d8cd964066553d8b767a5<![endif]-->

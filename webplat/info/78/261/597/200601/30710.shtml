@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>紫钻贵族 我的好友多！多！多！-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>紫钻贵族 我的好友多！多！多！</h4>
+    <div class="new_nytxt">　　“朋友一生一起走，那些日子不再有 … ”<br><br>　　哼着熟悉的旋律，吟着“海内存知己，天涯若比邻”的诗句，朋友的身影跃入脑海。 有朋友的日子里总是阳光灿烂，花朵鲜艳；有朋友的岁月里，心情的天空就不再飘雨，不再湿润；有朋友的日子，每天都精彩 …QQ 堂好消息，新一期紫钻增设了好友遍天下的功能！让您可以和更多的好友体现游戏乐趣！<br><br>　　新一期紫钻贵族好友系统中，紫钻的好友上线设为 40 个，比普通用户可是足足多出了 20 个哦。你可以拉上更多的朋友， 携手 QQ 堂网络的乐园，卸下红尘的疲倦，几番玩斗，几番对搏，在这片欢乐的糖果乐园中感受朋友间的温度，品位朋友间的真谛。 共同游戏，共同欢乐！<br><br>　　谁的好友多？我的好友遍天下！让我们高唱朋友之歌， 在紫钻贵族里一起分享欢乐时光、打发无聊的日子，为自己朋友之路留下不可抹灭的足迹！<br><br>　　<strong>温馨提示： </strong><br><br>　　名单特殊情况：紫钻用户，无论因任何原因变为普通用户时，其好友列表人数上限将恢复为 20 人，多余好友列表，将通过特殊 UI 进行遮盖，遮盖顺序和原则为：从第 21 个好友开始像后遮盖。遮盖后的好友将不可操作。<br><br>　　详情请登陆： <a href="../../../../../../present/index.html" target="_blank">http://qqtang.qq.com/present/</a> <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|062f32894b46be0be5180a579618a86c<![endif]-->

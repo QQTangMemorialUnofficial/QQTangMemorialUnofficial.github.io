@@ -1,0 +1,92 @@
+.body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:18px;
+	color:#754D0B;
+	
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	line-height: 22px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070926/bg_01.gif);	
+	background-repeat: repeat-x;
+	background-color:#D79BF9;
+}
+a:link{font-size:12px;color:#8D38C6;text-decoration:underline}
+a:visited{font-size:12px;color:#8D38C6;text-decoration:underline}
+a:hover{font-size:12px;color:#FF1F20;text-decoration:none}
+a:active{font-size:12px;color:#FF1F20;text-decoration:none}
+.a{font-size:12px;color:#8D38C6;text-decoration:none}
+
+.section{font-size:12px;color:#000000;}
+.section:link{font-size:12px;color:#000000;text-decoration:none}
+.section:visited{font-size:12px;color:#000000;text-decoration:none}
+.section:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+.section:active{font-size:12px;color:#FF0000;text-decoration:underline}
+
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #616161 1px solid; BORDER-LEFT: #616161 1px solid; BORDER-RIGHT: #616161 1px solid; BORDER-TOP: #616161 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; height:16px}
+
+
+.text01 {  font-size: 12px; line-height: 150%; text-decoration: none}
+.ta01 {  font-size: 12px; line-height: 150%; text-decoration: none;	padding-top: 8px; padding-left: 4px;	}
+.height {  font-size: 12px; line-height: 24px; color:#FFFFFF}
+
+.td1{  font-size: 12px; padding-left:18px;line-height:18px; color:#754D0B;font-weight:bolder;}
+.a1{
+	font-size: 12px;
+	color:#551C00;
+	font-weight: bold;
+}
+.a2{  font-size: 12px; color:#9595EA; line-height:20px;font-weight:bolder;}
+.a3{  padding-top:10px;padding-left:2px;padding-bottom:2px; color:#754D0B}
+.a4{ color:#754D0B; line-height:24px;  font-weight:bolder;}
+.a5{ width:134px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070926/bg2_45.gif)}
+.a6{ color:#754D0B; line-height:24px;  font-weight:bolder; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070926/bg2_41.gif)}
+.txt01{ color:#0F54D2; line-height:24px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070926/line01.gif);}
+.txt02{ color:#681054; line-height:24px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070926/line01.gif);}
+#Layer2 {
+	position:absolute;
+	left:76px;
+	top:396px;
+	width:260px;
+	height:262px;
+	z-index:1;
+}
+#Layer1 {
+	position:absolute;
+	left:663px;
+	top:374px;
+	width:278px;
+	height:221px;
+	z-index:2;
+}
+#Layer3 {
+	position:absolute;
+	left:200px;
+	top:642px;
+	width:260px;
+	height:229px;
+	z-index:3;
+}
+#Layer4 {
+	position:absolute;
+	left:550px;
+	top:642px;
+	width:245px;
+	height:238px;
+	z-index:4;
+}
+#Layer5 {
+	position:absolute;
+	left:371px;
+	top:416px;
+	width:281px;
+	height:266px;
+	z-index:5;
+}

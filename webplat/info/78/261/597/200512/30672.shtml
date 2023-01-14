@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>迎圣诞送大礼 QQ堂精彩连连-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>迎圣诞送大礼 QQ堂精彩连连</h4>
+    <div class="new_nytxt">　　&quot;圣诞节&quot; 是 &quot;基督弥撒&quot; 的缩写。传说， 12月25日 是耶酥的诞生日，在这一天，世界所有的基督教会都举行特殊的礼拜仪式。时至今日，圣诞节已经从一个宗教节日变成一个世界性的大众节日。人们在节日期间互相祝福，期盼欢乐的新年来临。 <br><br>　　传说在这个节日里，有一个戴着红色圣诞帽、穿着红上衣、红袜子、长着白胡子的圣诞老人，他乘着鹿拉雪撬，在晚上的时候，会悄无声息地来到你的家中，把礼物悄悄放进大袜子里 …… <br><br>　　什么？从来没收到圣诞礼物？那可是温馨圣诞节一大遗憾哦！ QQ 堂今年当一回圣诞老人，满足你美丽的心愿！ <br><br>　　在 12 月 24 日 —12 月 25 日期间，紫钻尊贵用户的你，只要购买任意五彩名片， QQ 堂将赠送你价值 5Q 币 圣诞背包 1 个。五彩名片配合圣诞小背包，绝对是一款不错的选择，让你在糖果世界里红红火火地潇洒走一回，众人的焦点，无疑就是你！ <br><br>　　平安夜，圣诞夜！浓情圣诞节更多精彩系列让大家惊喜不停，快乐不断！赶快加入我们队伍中来吧， QQ 堂邀请您一同狂欢圣诞节！ <br><br>　　详情请登录： <a href="../../../../../../12item/index.html">http://qqtang.qq.com/12item/</a><br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d55ef1958efeaf95d6ac4b4f87c5ee9b<![endif]-->

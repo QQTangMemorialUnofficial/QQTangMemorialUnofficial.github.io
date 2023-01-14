@@ -1,0 +1,125 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>举报录象</title>
+<script>
+window.onload=function(){
+ parent.document.all.name.style.height=document.body.scrollHeight;
+}
+</script>
+<style type="text/css"><!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<link href="main.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">document.domain="qq.com";</script>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/LayerLogin.js"></script>
+</head>
+<script type="text/javascript" src="../comm-htdocs/js/oss_base.js"></script>
+<SCRIPT language="javascript">
+function changeImg()
+{
+    var img = document.getElementById("verifycodeImg");
+    img.src = "http://ptlogin2.qq.com/getimage?aid=21000107&" + Math.random();
+}
+</SCRIPT>
+<body>
+
+	<table width="606" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><div align="center"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/t3.gif" width="591" height="60"></div></td>
+  </tr>
+  <tr>
+    <td><table width="606" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="23" height="25"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/table04_01.jpg" width="23" height="25"></td>
+              <td background="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/table04_bg1.jpg">&nbsp;</td>
+              <td width="22" height="25"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/table04_02.jpg" width="22" height="25"></td>
+            </tr>
+            <tr>
+              <td background="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/table04_bg2.jpg">&nbsp;</td>
+              <td height="500" valign="top" bgcolor="#FDFCE8"><a style="line-height:20px">
+<p>&nbsp;</p>
+
+              </a>
+                <table width="450" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="000000">
+                  <form name=formMain action="http://app.qqtang.qq.com/cgi-bin/a20070406wg/report_info_video.cgi" method="post" onSubmit="return Validator.validate(this)" target="_self" enctype="multipart/form-data"><tr>
+                    <td height="30" align="center" bgcolor="ffffff"><b>请填写举报信息</b>(带*号为必填项)</td>
+                  </tr>
+                  <tr>
+                    <td bgcolor="ffffff"><table width="450" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="140"><p align="center"><b>外挂录像上传：</b><b> </b></p>                            </td>
+                        <td><input type="file" style='width:200;height:20px;border:1 solid #b9b9b9;padding-top:3px;font-size:12px;' name="Uploadfile" _desc="录像" _suffix="qbv|QBV" _require cols="32">
+                            <b>*</b> <b><br>
+                            （大小不可以超过500K，仅限qbv格式.）</b></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td bgcolor="ffffff"><table width="450" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="140"><div align="center"><b>详细内容</b></div></td>
+                        <td><textarea name="Desc"  _desc="详细内容" _max="400" _require  style='width:200;height:50px;border:1 solid #b9b9b9;padding-top:3px;font-size:12px;'></textarea>
+                        	 <b>*</b> <b><br>
+                            最多不得超过400个字节</b></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td bgcolor="ffffff"><table width="450" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="140"><div align="center"><b>被举报玩家QQ号码：</b><b><br>
+                        </b><br>
+                        </div></td>
+                        <td><textarea name="UserQQs" _desc="被举报玩家QQ号码" _max="400" _require onpaste="return false;" onKeypress="if ((event.keyCode < 48 || event.keyCode > 57) && event.keyCode != 13) event.returnValue = false;" rows=5 cols=25 style='width:200;height:50px;border:1 solid #b9b9b9;padding-top:3px;font-size:12px;'></textarea>
+                            <b>*</b> <b><br>
+                            多个用户QQ号码请使用回车分开,最多不得超过400个字节</b></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td bgcolor="ffffff"><table width="450" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="140" align="center"><b>请先输入安全验证码</b></td>
+                        <td><input type="text" name="verycode" id="verycode" _desc="安全验证码" _max="4" _require size="4" maxlength="4" style='width:50;height:20px;border:1 solid #b9b9b9;padding-top:3px;font-size:12px;' align="absmiddle" class="login_table"></td>
+                        <td><script>document.write("<img id='verifycodeImg' src='http://ptlogin2.qq.com/getimage?aid=21000107&",Math.random(),"' width=\"130\" height=\"53\">")</script></td>
+                        <td><a href="javascript:changeImg();">看不清楚?换一张</a></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="40" bgcolor="ffffff"><table width="100" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+												<td><input type=submit value="提交"></td>
+                        <td><input type=reset value="重置"></td>
+                      </tr>
+                    </table></td>
+                  </tr></form>
+                </table>
+                <p>&nbsp;</p></td>
+              <td background="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/table04_bg3.jpg">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="24"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/table04_03.jpg" width="23" height="24"></td>
+              <td background="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/table04_bg4.jpg">&nbsp;</td>
+              <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070406wg/table04_04.jpg" width="22" height="24"></td>
+            </tr>
+          </table></td>
+  </tr>
+</table>
+</form>
+</body>
+<script>
+//检查登录
+var isTrueLogin = LL_isRealLogined();
+if(!isTrueLogin)
+    OpenLoginDiv();
+</script>
+</html>
+<!--[if !IE]>|xGv00|7a8bfba8051a88e76d284eaff67f6324<![endif]-->

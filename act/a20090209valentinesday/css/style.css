@@ -1,0 +1,151 @@
+@charset "gb2312";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+}
+body {
+	font:12px Tahoma, Helvetica, sans-serif;
+	color:#da0049;
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/bg.jpg) repeat 50% 0;
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+ol, ul {
+	line-height:22px;
+	list-style:none;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	color:#fff;
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;
+}
+a img, img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+/*---------- layout style ----------*/
+#footer {
+	margin:10px auto 0;
+	padding-top:16px;
+	width:746px;
+	height:71px;
+	color:#fed4e1;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/foot.jpg) no-repeat;
+}
+#footer p {
+	float:left;
+	padding-left:180px;
+	height:20px;
+	line-height:20px;
+}
+#footer p.c {
+	float:left;
+	margin-top:-20px;
+	margin-left:413px;
+	border:0;
+	display:inline;
+}
+* html #footer p.c {
+	margin-left:412px;
+}
+*+html #footer p.c {
+	margin-left:422px;
+}
+#footer a {
+	color:#fff;
+}
+/*---------- index style ----------*/
+.content {
+	margin:0 auto;
+	overflow:hidden;
+	width:1080px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/content_bg.jpg) repeat-y 96px top;
+	}
+.content_top {
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/top.jpg) no-repeat top;
+}
+.content_bottom {
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/bottom.jpg) no-repeat 96px bottom;
+}
+h1 {
+	display:none;
+}
+.main {
+	margin:0 auto;
+	padding:410px 0 100px 20px;
+	width:850px;
+}
+h2 {
+	display:none;
+}
+h3 {
+	padding:5px 0;
+	width:815px;
+	height:88px;
+	text-indent:-999px;
+	overflow:hidden;
+}
+h3.title1 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/title_01.gif) no-repeat center;
+}
+h3.title2 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/title_02.gif) no-repeat center;
+}
+h3.title3 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/title_03.gif) no-repeat center;
+}
+h3.title4 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090209valentinesday/title_04.gif) no-repeat center;
+}
+h4 {
+	padding:10px 0;
+	text-align:center;
+	font-size:14px;
+	color:#f41c64;
+}
+.main p {
+	padding:5px 30px 10px 50px;
+	text-align:center;
+	line-height:20px;
+	color:#da0049;
+}
+.mytab {
+	margin:0 auto;
+	text-align:center;
+}
+.mytab th {
+	border:2px solid #fff;
+	height:50px;
+	background:#f41c64;
+	color:#fff;
+}
+.mytab td {
+	border:2px solid #fff;
+	height:26px;
+	background:#ffbad1;
+	color:#f41c64;
+}

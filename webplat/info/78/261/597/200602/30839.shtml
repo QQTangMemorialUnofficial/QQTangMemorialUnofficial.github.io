@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂新年换新颜 官方网站全新改版-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂新年换新颜 官方网站全新改版</h4>
+    <div class="new_nytxt">　　<strong>QQ </strong><strong>堂在万众热情玩家的簇拥下度过了周岁生日，即推出圣诞 </strong><strong>- </strong><strong>新年版之后，于 </strong><strong>2 </strong><strong>月 </strong><strong>20 </strong><strong>日 </strong><strong>， </strong><strong> QQ </strong><strong>堂官方网站全新改版。 </strong><strong>本次改版的内容包括：引导页、首页、新闻、活动专区和道具商城五个部分。 </strong><strong>更贴心的指引、更丰富的资料、更及时地报道、更新颖的栏目！ </strong><strong></strong><br><br>　　<strong>第一时间点击进入全新官方网站〉〉〉 </strong><strong><a href="../../../../../../index.html" target="_blank">http://qqtang.qq.com</a></strong><br><br>　　<strong>[新增栏目说明] </strong><br><br>　　<strong>活动专区 </strong><strong></strong><br><br>　　功能说明： QQ 堂所有官方活动都将在此专区集中显示，便于玩家全面了解 QQT 当前及过往活动，提高活动参与度。<br><br>　　<strong>道具商城 </strong><strong></strong><br><br>　　功能说明：目前只提供道具展示，主要用于道具宣传，二期将推出 web 购买功能。<br><br>　　<strong>新闻板块 </strong><strong></strong><br><br>　　功能说明：增加了焦点和新闻类别<br><br>　　<strong>欢迎访问新官网〉〉〉 <a href="../../../../../../index.html" target="_blank">http://qqtang.qq.com </a></strong> </div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="30836.shtml">新颜换旧颜 QQ堂新官网正式推出</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|b33dbe791120f49f0b267b4db0cdc748<![endif]-->

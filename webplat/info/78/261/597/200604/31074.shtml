@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>炫——精彩源于平凡-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>炫——精彩源于平凡</h4>
+    <div class="new_nytxt">　　风云榜已落下帷幕，所有人半个多月的关注而今有了答案。№殺手♂緣傢♀ - 炫（杀手堂） 荣获第一，以总积分 50480 高居榜首。№殺手♂緣傢♀ - 炫（炫舞堂）以 28375 分位居第四。成功在于机遇，同样也是努力。 <br><br>　　当采访炫家群主炫ヾ单身公害时，他的回答如此淡然：“ 家族能取得胜利的关键是每个人都用心。比赛中最令我感动的第二日足球比赛，进行了５个小时，许多人都坚持下来了，还有许多没有比赛的，无私的为不能来比赛的人比赛。炫的未来仍然需要我们努力做好，每个人不可能一辈子玩游戏，但是我希望家族的成员就算以后不玩游戏，还是可以在群力陪伴这些朋友。” <br><br>　　炫取得的成绩不仅仅如此， (_ 炫ヾ正数以 1158 分位居比武单项第九名，同时以 2997 的高分名列个人积分榜第七名； (_ 炫ヾ夜行猪以 735 分名列足球单项第三名，他们的技术为人瞩目，他们的精彩值得我们喝彩。<br><br>　　从比赛开始所有成员就从未间断过，甚至有带病坚持比赛的。从 400 人中挑选 100 人分两组参赛，不见得全是精兵良将，但可以确定的是，他们个个爱自己的家族。同样也支持 QQ 堂官方的各种活动。 <br><br>　　炫也许是一座围城，他的吸引力渗透于每个关注的人。但是他的精彩源于平凡，不积跬步，无以至千里！一个个成员的努力才交织成了这难忘的回忆。让我们祝福这个一路走来的家族，愿他的明天更辉煌！<br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200609/31558.shtml">黄金白银与青铜 家族活动至高荣誉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../604/200607/31348.shtml">QQ堂家族二期有看头</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200607/31330.shtml">家族声望新排名——Q堂家族我最行</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200605/31188.shtml">家族采访（四）——♀ANGEL窝窝</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|2b2ed88ade53f2152e87577108724a90<![endif]-->

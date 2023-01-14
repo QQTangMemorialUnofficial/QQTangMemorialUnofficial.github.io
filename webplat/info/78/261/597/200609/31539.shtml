@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>金秋9月 QQ堂好戏连台-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>金秋9月 QQ堂好戏连台</h4>
+    <div class="new_nytxt">　　金秋九月，丹桂飘香，莘莘学子纷纷返校！<br>　　<br>　　金秋九月，硕果累累，师生欢度教师节！<br><br>　　金秋九月，云淡天高，三五好友踏上旅游之路！……<br><br>　　金秋九月，QQ堂同样好戏连台！<br><br>　　<b>戏一：</b><br><br>　　新学期开始，酷比王子却卧病在床，QQ堂王国国王重金号召臣民拯救王子。一系列刺激又深具挑战性的任务开始啦，保证让你惊喜不断，欲罢不能！<br><br>　　<b>戏二：</b><br><br>　　天天双倍经验，延长你的假期，给你无限快乐！<br><br>　　<b>戏三：</b><br><br>　　新学期全新假面具舞会让你尖叫连连，热浪一阵接一阵，绝对是你精彩学期的绝好开端！<br><br>　　<b>戏四：</b><br><br>　　教师节，金秋九月重头戏！QQ堂名师出高徒，好礼等你拿！<br><br>　　<b>戏五：</b><br><br>　　传说中的QQ堂研究院，一直没有机会接近！如今，面对面的挑战，给你零距离接触的机会！切磋武艺，拜师学艺，广交好友……还有好礼相送，还不赶快来！<br><br>　　是不是心痒难忍了？那就整装待发，出发吧！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|9c37b53019eb79adc9a72188c0031b39<![endif]-->

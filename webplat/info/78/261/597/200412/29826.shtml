@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>游戏服务器停机及新版本发布预告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>游戏服务器停机及新版本发布预告</h4>
+    <div class="new_nytxt">　　《QQ堂》游戏服务器将于<b>12月24日早上8:30～10:30时段停机进行更新维护</b>，维护的主要目的是<font color="red"><b>更新游戏到《QQ堂》Alpha5版本</b></font>。<br><br>　　《QQ堂》Alpha5版本将是《QQ堂》在公测前夕发布的最后一个内测版本。<br><br>　　Alpha5版本采用了新的游戏图像引擎，极大提高了游戏速度，降低了对电脑硬件的需求。另外Alpha5版本还修正了大量之前版本中存在的BUG，其中包括不少玩家非常关注的BUG在此版本中也得到了合理的修正和改善。<br><br>　　同时该版本中还提供了一些新的游戏地图和道具，其中包括最新的《功夫》系列地图和道具。<br><br>　　大家可在明天更新结束后下载最新版本的游戏客户端来体验以上的游戏内容，新版本的下载可通过官方网站提供的下载地址或者利用游戏的自动下载功能来完成。<br><br>　　希望内测玩家能及时下载并安装感受该版本，并通过论坛、GCS系统给我们及时提出您宝贵的意见和建议。<br><br>　　如停机更新计划另有临时的变动，我们将通过官方网站及时告知大家，请大家密切注意最新的官网公告及新闻。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|174ee9bf5cfcb7ade0636a470cd85819<![endif]-->

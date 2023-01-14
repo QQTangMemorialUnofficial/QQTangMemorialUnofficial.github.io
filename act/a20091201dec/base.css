@@ -1,0 +1,53 @@
+@charset "gb2312";	
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote,th,td { margin:0; padding:0;}
+body { background:#37bdb2 url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/bg.jpg) 0 42px repeat-x; font-size:12px; font-family:Tahoma,Arial, Helvetica, sans-serif; *min-width:1000px; }
+a{ text-decoration:none; overflow:hidden;}
+a:hover{ text-decoration:underline;}
+a, a img { border:none; overflow:hidden; }
+ul { list-style:none;}
+
+#wrapper{ width:1000px; margin:0px auto; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/top1.jpg) no-repeat; text-align:left; line-height:20px; color:#3a0801;}
+.top    { height:630px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/top2.jpg) 0 326px no-repeat; }
+.top h1 { height:326px; text-indent:-999em; }
+.top p  { display:none;}
+.top .menu { padding:129px 0 0 71px;}
+.top .menu li { width:144px; float:left; margin-left:41px; display:inline;}
+.top .menu li.n2 { width:158px;}
+.top .menu li.n4 { margin-left:55px;}
+.top .menu li a  { display:block; height:175px; text-indent:-999em;}
+.top .menu li a:hover    , #index .top .menu li.n1 a  { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/menu_on.jpg);}
+.top .menu li.n2 a:hover , #act2  .top .menu li.n2 a  { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/menu_on.jpg); background-position:-185px 0;}
+.top .menu li.n3 a:hover , #act3  .top .menu li.n3 a  { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/menu_on.jpg); background-position:-384px 0;}
+.top .menu li.n4 a:hover , #act4  .top .menu li.n4 a  { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/menu_on.jpg); background-position:-583px 0;}
+
+.content { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/top3.jpg); height:516px; }
+.main { padding:30px 106px 170px 60px; color:#25928a;}
+.left_s { width:440px; float:left;}
+.right_s { width:360px; float:left; margin-left:30px;}
+.main ul {}
+.main ul li { clear:both; line-height:22px; margin-top:4px;} 
+.main ul li strong { color:#a80b0b; float:left;}
+.main ul li ul { float:left; width:362px;}
+ .main .right_s ul li ul { width:280px;}
+.main ul li ul li {  margin-top:0;}
+.main ul li ul li strong { color:#25928a; float:none;}
+
+.foot { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091201dec/foot.jpg); height:413px;}
+.more { color:#e1f9ed; padding:34px 148px 0 220px; }
+.more h3 { font-size:12px; line-height:20px; }
+.more ol { margin-left:2em; line-height:22px;}
+.att { width:400px; padding-top:22px;}
+.att img { float:right;}
+.att p { padding-top:8px;}
+
+#footer{ clear:both; margin-left:144px; padding-top:30px; width:688px; padding-bottom:20px; }
+#footer,#footer a { color:#FFF;}
+#footer a:hover,#footer a:hover { text-decoration:underline;}
+#footer .logo1{ float:left; margin-left:10px; display:inline}
+#footer .logo1 a{ display:block; width:138px; height:45px; text-indent:-999em;}
+#footer .logo2{ float:left; margin-left:10px; margin-top:6px; display:inline}
+#footer .info { float:left; margin:6px 0 0 14px; display:inline}
+#footer .info span{ margin:0 5px;}
+#footer .info p{ line-height:16px;}
+#footer .info p.c{ float:right; margin-top:-14px;} /*  |xGv00|7806192da491f9c9814723357d7d2bc2 */

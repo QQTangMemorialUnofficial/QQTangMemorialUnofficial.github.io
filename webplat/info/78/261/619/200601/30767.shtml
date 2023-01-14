@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>“箱”约冬季挑战赛整装出发-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>“箱”约冬季挑战赛整装出发</h4>
+    <div class="new_nytxt">　　来吧！推箱子模式！挑战赛！<br>　　无论是心心箱印，还是箱亲箱爱，或者贪吃蛇。<br>　　随便你挑，随便你选！<br>　　颠覆传统的挑战形式，一切由你开始。<br>　　不必为网速慢难挤活动房间而苦恼，不必为比赛地图的固定而发愁。<br>　　一个小喇叭轻轻松松搞掂，挑战由此开始。<br>　　【活动时间】<br>           1月27日——2月10日<br>           19：30——21：00（1月28日23：00——0：30）<br>　　【活动方式】<br>       玩家开设房间命名为《“箱”约冬季》，玩家通过小喇叭形式报名。<br>研究院成员进入玩家开设的“挑战房间”进行一局2V2挑战赛，<br>击败研究院成员的玩家可获得奖励。<br>　　【活动奖励】<br>　　挑战成功玩家可获得旭日东升道具奖励（15天权）+10个小喇叭<br>每晚第1、10、20……场次胜利的玩家可额外获得火焰翅膀道具奖励<br>　　【活动说明】<br>　　1．	比赛胜负按照系统判定为准，游戏中遇到掉线，卡机等非人为因<br>素问题。不安排重赛。<br>　　2．	玩家报名成功后，必须留两个位置供研究院成员进入，保持2V2<br>状态；否则不予接受挑战。<br>　　3．	为了提高活动参与面，当天比赛，同一QQ号码在一局比赛结束<br>后三场比赛内，不得报名参与比赛。<br>　　4．活动相关详情可咨询活动当天大厅活动指导员。<br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|be933990cb5a3ae0707bd29cd5e41d75<![endif]-->

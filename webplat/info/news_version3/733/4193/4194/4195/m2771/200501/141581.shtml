@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>新版前瞻三：小改进点点滴滴 游戏更完美-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../../../../web2008/jscss/main_201111.js"></script>
+<link href="../../../../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<style>.mwb{width:665px;margin-left:30px;overflow:hidden;}
+.wbshow{overflow:hidden;}
+.wb_lst{width:74px;padding:20px 36px 0 0;text-align:center;float:left;list-style:none;}.wb_box{position:relative;height:74px;margin:0 0 10px 0;}
+.wb_img{border:2px solid #FFFFFF;width:70px;height:70px;}
+.wb_ipt{position:absolute;left:2px;bottom:2px;}
+.ms .wb_nm{color:#A6A6A6;}
+.mq .wb_nm{color:#717171;}
+.wb_lsn{width:163px;height:43px;cursor:pointer;margin:30px auto 0 auto;}
+.hidden{height:0;display:block;overflow:hidden;}
+.ms .wb_lsn{background:url(http://ossweb-img.qq.com/images/js/media/listen_s.png) no-repeat;}
+.mq .wb_lsn{background:url(http://ossweb-img.qq.com/images/js/media/listen_q.png) no-repeat;}
+.bngg{width:582px;height:100px;overflow:hidden;margin:0 auto;}
+</style>
+<script language="javascript">
+if("0" == 1){
+	window.location.href = '';
+}
+</script>
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../../m2770/list_1.shtml" title="综合新闻">综合新闻</a><a href="../../../4199/m2770/list_1.shtml" title="最新公告">最新公告</a><a href="../../../4201/m2770/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../../../../index.html" class="a">首页</a> >> <a href="../../../m2770/list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">新版前瞻三：小改进点点滴滴 游戏更完美</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+
+	<h4>新版前瞻三：小改进点点滴滴 游戏更完美</h4>
+    <div class="new_nytxt">　　在QQ堂历来的开发过程中，QQ堂的项目组一直秉承了一种和玩家一起互动式开发的理念，从内测初期的与玩家定期聊天室沟通，到邀请热心玩家来公司座谈，再到请玩家来做“道具设计师”，直到目前最新版本开发中的“玩家真实体验计划”邀请各种玩家来现场帮助改进游戏。大家可以看到，QQ堂项目的开发者们总是在不断寻找机会了解玩家的各种意见和建议，与玩家一起讨论和构想游戏未来的发展方向，帮助玩家实现各种好的想法，让QQ堂真正成为我们中国玩家自己的游戏。<br><br>　　这种我们一直坚持的与玩家一贯互动式开发的理念，在这次《QQ堂：春之恋曲》的版本开发中当然也得到了更大的体现。在新版本的开发过程中，我们除了制定了“玩家真实体验计划”，邀请大量玩家来和开发人员面对面之外，还对大量玩家在网上提出的意见和建议进行收集和整理，同时与玩家在网上实时沟通，认真看待玩家提出的每一点意见和建议。<br><br>　　现在QQ堂项目组每周要通过官网论坛，GCS系统以及QQ收集近千条玩家意见和建议，这些意见都会有专人整理和收集，然后分类汇总到各个开发人员的手中。而在制定每一个版本的开发计划时，这些意见和建议就是最重要的参考依据之一。<br><br>　　比如说作为玩家的您可能也偶尔也在论坛上发过类似下面这样的建议：<br>　　QQ堂抢包子模式人物固定位置复活不好，会被人不断炸死！<br>　　QQ堂里面为什么逃跑就不算输呢？<br>　　角色的经验值条显示不正确！<br>　　游戏中怎么还没有密语功能？<br>　　……<br><br>　　而您可能不知道的是，在您留下这些文字意见后，每一条都会被开发组收集起来，然后集体开会进行认真讨论和研究，随后合理的意见就会加入到版本改进计划中。比如说上面这些意见和建议，在《春之恋曲》的版本中就都将全部得到解决和修正。<br><br>　　类似这样的细节修改还有很多很多，这些凝聚了玩家意见和建议的点点滴滴内容，都将逐渐汇集到每一个新版本的QQ堂游戏中，集体的智慧终将造就属于我们玩家自己的精品游戏。<br><br>　　QQ堂决不会不会辜负每一位关心它的玩家，它的成长需要的正是玩家的营养，因此在您未来享受新版本游戏的时候，请不要吝啬你的意见和建议，明确告诉我们您需要什么，您觉得哪里还需要改进，因为它就是真正属于您的国产游戏！<br><br>　　我们永远在进步，QQ堂因为您而成长！</div>
+	    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        			                <dd>
+                    <a target="_blank" href="../201208/145537.shtml" title="第八届中华英雄争霸赛注意事项">第八届中华英雄争霸赛注意事项</a>
+                </dd>
+			                <dd>
+                    <a target="_blank" href="../201208/145536.shtml" title="中华游园会，集徽有惊喜！">中华游园会，集徽有惊喜！</a>
+                </dd>
+			                <dd>
+                    <a target="_blank" href="../201208/145535.shtml" title="中华争霸，星火燎城，侠影再现">中华争霸，星火燎城，侠影再现</a>
+                </dd>
+			                <dd>
+                    <a target="_blank" href="../201208/145534.shtml" title="中华英雄谁与争锋，盛夏席卷酷比王国">中华英雄谁与争锋，盛夏席卷酷比王国</a>
+                </dd>
+			                <dd>
+                    <a target="_blank" href="../201111/145485.shtml" title="光棍节不孤单，巡查陪你玩游戏！">光棍节不孤单，巡查陪你玩游戏！</a>
+                </dd>
+												
+    </dl>
+	<div id="wb" class="mwb"></div> 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/login/loginmanagerv2_min.js"></script>
+<script id="mdgg" src="http://ossweb-img.qq.com/images/js/media/media.js?mq&amp;mk" type="text/javascript"></script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|fd67825b34298419d93c2ce395a0bf19<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>新模式新道具 第二届道具设计师大赛-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>新模式新道具 第二届道具设计师大赛</h4>
+    <div class="new_nytxt">　　“大傻蟹，变身道具。只有在水面地图上才会出现的变身道具。变成大傻蟹之后左右移动的速度超快，上下移动的时候却很迟钝，恰恰相反。”<br> <br>　　一测用户还记得我们第一次道具设计师大赛的冠军吗？当时大家所提出的创意给了我们很多的灵感。为了感谢那些提供了新鲜创意的玩家，为那些关心我们游戏的玩家提供更多得空间和奖励，我们将继续举办第二届道具设计大赛。<br><br>　　让我们将创意进行到底！<br><br>　　本次道具设计仅针对两种新的游戏模式--“踢足球”和“抢包山”。希望大家能够针对这两种新的模式提出更多更好的道具创意，让我们两种新的游戏模式能够更加丰富更加好玩。<br><br>　　<b>活动时间：</b><br>　　12月14-12月19日：上传道具阶段<br>　　12月14-12月22日：投票阶段<br>　　12月24日：发表结果<br><br>　　<b>活动奖励：</b><br>　　超级设计师：1名，50000[QQ堂币]（投票排名）<br>　　内部推荐奖：1名，50000[QQ堂币]（腾讯推荐）<br>　　入围奖：10名，10000[QQ堂币]（投票排名）<br><br>　　<b>活动地址：</b><br>　　<a href="../../../../../../event/item_designer/index_02.htm" target="_blank">http://qqtang.qq.com/event/item_designer/index_02.htm</a>       <br><br>　　提交注意:<br>　　1.道具名称需要控制在6个字以内，道具描述尽量控制在100字以内。<br>　　2.如道具描述明细，道具演示图可以不上传。<br>　　3.如需要上传演示图片请使用jpg或gif格式，并保证大小在100K以内。<br>　　4.个人资料请认真填写，以免无法领取奖品。 </div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200412/29829.shtml">第二届道具设计师大赛得奖通知</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200411/29788.shtml">道具设计活动圆满结束</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200411/29786.shtml">道具设计师投票正式开始</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200411/29785.shtml">道具设计师 挑战越轨极限</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|baadd60415e5e8fd7170eb66a0320e73<![endif]-->

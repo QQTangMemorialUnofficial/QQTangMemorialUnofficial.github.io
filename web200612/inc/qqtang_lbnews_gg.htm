@@ -1,0 +1,137 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>首页轮播</title>
+<script language="JavaScript" src="http://ossweb-img.qq.com/images/js/gg_js_new/qqtang_gg.js"></script>
+
+<SCRIPT>
+var fadeimages = new Array;
+var linkarr = new Array;
+var numimg = new Array;
+	var i;
+	for(i=55;i<=59;i++)
+	{
+		//var a1;
+		//var a2;
+		QqGg_ShowImgNew(3,i,fadeimages,linkarr);
+		
+	}
+	numimg[0] = 'http://ossweb-img.qq.com/images/qqtang/act/a20080606web/icon_06.gif';
+	numimg[1] = 'http://ossweb-img.qq.com/images/qqtang/act/a20080606web/icon_09.gif';
+	numimg[2] = 'http://ossweb-img.qq.com/images/qqtang/act/a20080606web/icon_11.gif';
+	numimg[3] = 'http://ossweb-img.qq.com/images/qqtang/act/a20080606web/icon_13.gif';
+	numimg[4] = 'http://ossweb-img.qq.com/images/qqtang/act/a20080606web/icon_15.gif';
+var cliImg = '';
+var cliImgSrc = '';
+var n = Math.round(Math.random() * 10);
+var interval = 4500;
+var setTimeId = '';
+var g_autoFiltersTransition	= 0;
+
+function rotateStop()
+{
+	clearTimeout(setTimeId);
+}
+
+function rotateStart()
+{
+	rotate();
+}
+
+function chki(ci, no)
+{
+	var pImg = document.getElementById("RollImg");
+	var pUrl = document.getElementById("RollUrl");
+
+	if(cliImg == '') {
+		cliImg = ci;
+		cliImgSrc = ci.src;
+		ci.src = numimg[no];
+		n=no;
+		pImg.src = fadeimages[no];
+		pUrl.href = linkarr[no];		
+	} else if(cliImg != ci) {
+		cliImg.src = cliImgSrc;
+		cliImg = ci;
+		cliImgSrc = ci.src;
+		ci.src = numimg[no];
+		n=no;
+		pImg.src = fadeimages[no];
+		pUrl.href = linkarr[no];		
+	}
+}
+
+function rotate()
+{
+	n = (n >= 4) ? 0 : n+1;
+	setimgurl();
+	setTimeId=setTimeout("rotate()",interval);
+}
+
+function setimgurl()
+{
+	var ci = eval('document.getElementById( "num_img"+ n)'); 
+     if(document.all){
+     document.getElementById("RollImg").filters.revealTrans.transition = ( g_autoFiltersTransition ++ );
+     document.getElementById("RollImg").filters.revealTrans.apply();
+	 document.getElementById("RollImg").filters.revealTrans.play();
+                          }
+	 document.getElementById("RollUrl").href=linkarr[n];
+	 document.getElementById("RollImg").src=fadeimages[n];
+
+	if(cliImg == '') {
+		cliImg = ci;
+		cliImgSrc = ci.src;
+		ci.src = numimg[n];
+	} else if(cliImg != ci) {
+		cliImg.src = cliImgSrc;
+		cliImg = ci;
+		cliImgSrc = ci.src;
+		ci.src = numimg[n];
+	}
+}
+
+//-->
+
+</SCRIPT>
+<style type="text/css"><!--
+
+body {
+	margin: 0px;
+}
+
+-->
+
+</style></head>
+
+
+
+<body>
+
+<table width="508" border="0" cellspacing="0" cellpadding="0" bordercolor="transparent">
+  <tr>
+    <td width="480" valign="top"><div align="center" style="border:1px solid #ffffff;"><a href="http://game.qq.com" name="RollUrl" target="_blank" id="RollUrl" onFocus="this.blur()"><img name="RollImg" src="" width="480" height="150" alt="" border="0" id="RollImg" style="filter: revealTrans(duration=1,transition=10)"/></a></div></td>
+
+    <td width="28" bgcolor="229DCF" ><table width="24" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="30"><img src="http://ossweb-img.qq.com/images/qqtang/act/a20080606web/ico_06.gif" width="24" height="25" name="num_img0"  align="absmiddle" id="num_img0" style="CURSOR: hand" onMouseOver="chki(this, 0);" /></td>
+      </tr>
+      <tr>
+        <td height="30"><img src="http://ossweb-img.qq.com/images/qqtang/act/a20080606web/ico_09.gif" width="24" height="25" name="num_img1"  align="absmiddle" id="num_img1" style="CURSOR: hand" onMouseOver="chki(this, 1);" /></td>
+      </tr>
+      <tr>
+        <td height="30"><img src="http://ossweb-img.qq.com/images/qqtang/act/a20080606web/ico_11.gif" width="24" height="25" name="num_img2"  align="absmiddle" id="num_img2" style="CURSOR: hand" onMouseOver="chki(this, 2);" /></td>
+      </tr>
+      <tr>
+        <td height="30"><img src="http://ossweb-img.qq.com/images/qqtang/act/a20080606web/ico_13.gif" width="24" height="24" name="num_img3"  align="absmiddle" id="num_img3" style="CURSOR: hand" onMouseOver="chki(this, 3);" /></td>
+      </tr>
+      <tr>
+        <td height="30"><img src="http://ossweb-img.qq.com/images/qqtang/act/a20080606web/ico_15.gif" width="24" height="24" name="num_img4"  align="absmiddle" id="num_img4" style="CURSOR: hand" onMouseOver="chki(this, 4);" /></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<SCRIPT language=JavaScript>
+rotateStart();
+</SCRIPT>
+</body>

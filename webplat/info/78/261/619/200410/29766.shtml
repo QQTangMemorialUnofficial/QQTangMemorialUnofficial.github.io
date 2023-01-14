@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>《QQ堂》主角评选活动正式开始啦-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>《QQ堂》主角评选活动正式开始啦</h4>
+    <div class="new_nytxt">　　“选我所爱、爱我所选” ——《QQ堂》第一次明星人气大比拼正式开始！！！<br>　　评出最爱，还有奖品拿。何乐而不为呢？!<br>　　快来给自己心中的最佳《QQ堂》明星投票啦!<br><br>　　为了回报内测玩家的热情支持与厚爱。《QQ堂》最新活动【QQ堂最爱玩家欢迎的角色评选】现在正式开帷幕!<br>　　勇敢出色的海王子，心地善良的小狐仙，热情助人的春丽姐姐……10个小宝贝中哪一个才是你最心仪的呢？哪一个是你携手相伴去寻找神秘奇幻QQ糖的好伙伴呢？<br>　　现在，您可以为您的心头最爱投出珍贵而情深的一票! 　<br><br>　　《QQ堂》内测刚开始两天就受到无数参与玩家的追捧和热爱，非常谢谢各位玩家给我们提出了非堂宝贵的意见!现在，选举的同时还将奉送给大家一些与角色宝贝们相关的性格心理等小测试，看看现实中您和游戏中您的虚拟小宝贝是不是同一性格呢？<br>　　本次活动分为一等奖2名、二等奖10名、三等奖50名。奖品如下：<br>　　一等奖：QQ公仔(中)一对， 50[Q币]<br>　　二等奖：10[Q币]<br>　　三等奖：1000[QQ堂币] <br>　　获奖者从投票于得票最高的角色人群中抽取（请参与的用户仔细填写用户信息）。<br><br>　　《QQ堂》期待您的参与和意见。<br>　　《QQ堂》希望与您一起走向成熟与繁华！<br><br>　　活动地址：<a href="../../../../../../event/actor_choose/index.html" target="_blank"><b>http://qqtang.qq.com/event/actor_choose</b></a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="29772.shtml">“选我所爱 爱我所选”活动中奖名单公布</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29770.shtml">“选我所爱、爱我所选”活动圆满结束</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200410/29759.shtml">《QQ堂》主角评选活动即将开始</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|740ec0bbfce99b8e6184e081551ebbb8<![endif]-->

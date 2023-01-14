@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>游戏客服满意度有奖调查-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>游戏客服满意度有奖调查</h4>
+    <div class="new_nytxt"><p>&nbsp;　　腾讯游戏成立以来,一直赢得广大游戏玩家对我们信赖; 为了感谢您对游戏的支持,我们开展&ldquo;<a href="http://gcs.qq.com/cgi-bin/gcs/subject/Entrance?iSubId=76"><font color="#0000ff">游戏客服满意度有奖调查</font></a>&rdquo;活动, 您对我们提供的信息,将为我们调整今后的经营战略，提高服务质量,不断创新和持续改进起到重要的作用。为了QQ游戏未来的客户服务更贴近玩家的每一个细节,我们相信这一举措一定能够得到您的鼎力支持!<br />
+<br />
+　　您只需<a href="http://gcs.qq.com/cgi-bin/gcs/subject/Entrance?iSubId=76"><font color="#0000ff">登陆</font></a>为我们的游戏客服系统，热线，论坛，网管室各信息反馈渠道服务水平做出满意度评价，为了答谢广大玩家对我们提供的有效反馈，在7月中旬，我们将随机抽取部分幸运玩家给予10Q币的奖励。<br />
+<br />
+　　活动时间：2007-06-12至2007-06-24<br />
+<br />
+　　您在此次调查活动中所提供的每一条信息对我们来说都将是份无价的财富;我们希望通过此次活动使您对我们的客户服务100%的满意。再次感谢您一直以来对腾讯游戏的支持！我们期待着您的参与！<br />
+　　</p></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200607/31376.shtml">我说我想法 我有我主张——问卷调查</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|879825cf06448f636c31830d0a654bf9<![endif]-->

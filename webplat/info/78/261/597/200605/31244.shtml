@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>另类体验 狂风暴雨的激情-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>另类体验 狂风暴雨的激情</h4>
+    <div class="new_nytxt">　　狂风，暴雨……<br><br>　　这个狂乱的世界，这个疯了的世界，勇气、激情，像火山爆发！<br><br>　　自古乱世出英雄，风雨肆虐的世界需要你去拯救，这个神圣的使命感能激发你身体最深处的斗志。<br><br> <div align=center><img src="../../../../../../webpic/20060530/2.jpg"></div><br>    <br>　　传说名剑、侠客的诞生，都会伴随着电闪雷鸣。你，会是这样的人吗？<br><br>　　乌云密布，电光闪闪，雷声阵阵，大雨倾盆。这样的天空下，如巨人一般站着，顶天立地！<br><br>　　电的锤炼，让你双目如炬；风的号叫，让你激情彭湃；雷的疯狂，让你斗志昂扬；雨的洗礼，让你干劲十足。<br><br>　　来吧！在硝烟弥漫的QQ堂战场上，让我们都豪情万丈！<br><br>　　暴风雨背景，给你不一样的体验，让你在QQ堂上尽显风采。<br><br>　　暴风雨道具QQ堂商城热销中，更多道具，请登陆QQ堂道具商城。<br><br>　　更多道具，请看：<a href="../../../../../../200604item/index.html" target="_blank">http://qqtang.qq.com/200604item/。</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200708/32191.shtml">QQ堂嘻哈泡泡新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32184.shtml">炫耀街头 极限运动 滑板Girl＆Boy</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32180.shtml">玩转QQ堂嘻哈世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200707/32167.shtml">六翼翅膀纯美登场</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|2702bad2f940f793659cf9ded0c2b741<![endif]-->

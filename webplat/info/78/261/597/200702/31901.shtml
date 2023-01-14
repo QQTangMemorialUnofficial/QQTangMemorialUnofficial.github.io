@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>春节活动喜获丰收-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>春节活动喜获丰收</h4>
+    <div class="new_nytxt"><P>　　金猪贺新春，QQ堂里系列春节活动喜获大丰收，取得了圆满的成果。</P>
+<P>　　金猪闹春福临门，迎新年七大惊喜三大优惠形成强劲的冲击波荣登众多玩家的新年庆祝节目单中！</P>
+<P>　　从大年初一到大年初七，“猪年大变猪”、“猪年派利是”、“Boss闹猪年”等一系列喜庆热闹的活动欢欢喜喜登上庆春人群中的眼球。“会员惊喜疯狂送”、“BOSS免费任你打”、“道具也疯狂”三大优惠轮番出击，让众多玩家们看得眼花，拿到手软，玩得开心！</P>
+<P align=center><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1172291210_840044972_25025_sPhoto.jpg"></P>
+<P><BR>　　新任务系统“恶作剧之吻“也受到了广大玩家的欢迎，2000积分、2000声望、非卖KISS背景等，都在任务系统中免费获取。</P>
+<P>　　新年的钟声似乎才刚刚响起，依旧萦绕在耳边，QQ堂春节活动如火如荼地已经进行了很长一段时间，欢声笑语荡漾在QQ堂的苍穹上方，新年里依旧不变的是QQ堂全体工作人员为您带来欢乐的宗旨！</P>
+<P>　　在这么短短的几年时间里，QQ堂得以成长为如此壮大的一个团体，与众多玩家热心热情的支持是分不开的，每一步脚印都有你留下的印迹，每一个成功都有你支持的眼神。</P>
+<P>　　今天，站在金猪开春伊始，让我们一同展望未来，为QQ堂祝福，为你，为我，为他献上最诚挚的祝愿！</P>
+<P>　　有你的明天，更精彩！<%$Fcontent$%></P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|6686cf25ad05b5b9f72cfa233db6f0e2<![endif]-->

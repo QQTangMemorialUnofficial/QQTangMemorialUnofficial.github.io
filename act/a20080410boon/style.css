@@ -1,0 +1,28 @@
+.body,td,th {
+	font-family: tahoma;
+	font-size: 12px;
+	line-height:18px;
+	color:#3C0505;
+	
+}
+body {
+	margin: 0px;
+	line-height: 22px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/act/a20080410boon/bg01.gif);
+	background-repeat:repeat-x;
+	background-color:#FEF6C7;
+}
+div{padding:0px; margin:0px;}
+a:link{font-size:12px;color:#000000;text-decoration:none}
+a:visited{font-size:12px;color:#000000;text-decoration:none}
+a:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+a:active{font-size:12px;color:#FF0000;text-decoration:underline}
+.a{font-size:12px;color:#000000;text-decoration:none; font-family: Verdana, Arial, Helvetica, sans-serif; padding-top:5px; }
+
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #D41401 1px solid; BORDER-LEFT: #D41401 1px solid; BORDER-RIGHT: #D41401 1px solid; BORDER-TOP: #D41401 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; height:15px}
+
+.txt02{ color:#A75727; }
+.ny_txt{ color:#222022; font-weight:bolder;}

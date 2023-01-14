@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../web2008/jscss/main.js"></script>
+<link href="../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="608/list_1.shtml" title="最新公告">最新公告</a><a href="619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30592.shtml" target="_blank"><font color="">《重寻酷比路》狂潮再度掀起</font></a>
+                                <span>2005-11-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30593.shtml" target="_blank"><font color="">11月10日PTS互动擂台热身赛战报</font></a>
+                                <span>2005-11-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30594.shtml" target="_blank"><font color="">11月10日—13日“挑战地图研究院”获奖名单</font></a>
+                                <span>2005-11-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30595.shtml" target="_blank"><font color="">11月11日PTS互动擂台热身赛战报</font></a>
+                                <span>2005-11-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30596.shtml" target="_blank"><font color="">11月12日PTS互动擂台热身赛战报</font></a>
+                                <span>2005-11-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30597.shtml" target="_blank"><font color="">PTS互动擂台热身赛第八期决赛</font></a>
+                                <span>2005-11-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30598.shtml" target="_blank"><font color="">QQ堂—继续染遍精彩</font></a>
+                                <span>2005-11-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30599.shtml" target="_blank"><font color="">比武招亲—让他们告别孤单QQ堂</font></a>
+                                <span>2005-11-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30600.shtml" target="_blank"><font color="">CVG冠亚对决现场大放送</font></a>
+                                <span>2005-11-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30601.shtml" target="_blank"><font color="">11月14日“挑战地图研究院”活动获奖名单</font></a>
+                                <span>2005-11-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30602.shtml" target="_blank"><font color="">“挑战地图研究院”英雄传说篇</font></a>
+                                <span>2005-11-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30603.shtml" target="_blank"><font color="">酷比杯休闲游戏策划大赛正式启动</font></a>
+                                <span>2005-11-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30604.shtml" target="_blank"><font color="">11月16日“挑战地图研究院”获得获奖名单</font></a>
+                                <span>2005-11-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30605.shtml" target="_blank"><font color="">全新道具，非一般的享受！</font></a>
+                                <span>2005-11-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30606.shtml" target="_blank"><font color="">11月17日“挑战地图研究院”活动获奖名单</font></a>
+                                <span>2005-11-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30607.shtml" target="_blank"><font color="">新道具登场 大优惠 给你不一般的跳动</font></a>
+                                <span>2005-11-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30608.shtml" target="_blank"><font color="">11月14日PTS互动擂台热身赛战报</font></a>
+                                <span>2005-11-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30609.shtml" target="_blank"><font color="">11月15日PTS互动擂台热身赛战报</font></a>
+                                <span>2005-11-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200511/30610.shtml" target="_blank"><font color="">11月17日PTS互动擂台热身赛战报</font></a>
+                                <span>2005-11-18</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n41.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n39.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|6dd59e3db5e85e8a72096da1fe67917f<![endif]-->

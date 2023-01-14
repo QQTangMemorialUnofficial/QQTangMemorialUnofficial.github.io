@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>关于中秋系列活动的公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>关于中秋系列活动的公告</h4>
+    <div class="new_nytxt">各位亲爱的玩家：<br />
+<br />
+　　由于网络数据包传输问题导致玩家在进行中秋节任务时出现：无法显示任务、无法完成任务等情况，目前相关的技术人员正在紧急处理中，请各位玩家稍后再试。<br />
+<br />
+　　其次若遇到&ldquo;月桂枝&rdquo;等无法正常显示的情况，不影响实际道具的获得。同时也建议您尝试将游戏客户端完全卸载并重新安装后登陆查看；<br />
+<br />
+　　对于以上情况，很抱歉给广大玩家造成不愉快的体验，因此在<strong><font color="#ff0000">9月16日至9月21日</font></strong>原计划需要双黄莲蓉月饼道具才能进入的<strong><font color="#ff0000">BOSS免费</font></strong>小区，将会面向所有玩家免费开放！<br />
+<br />
+　　祝您中秋愉快！<br />
+<br />
+<br />
+<br />
+<br />
+　　更多QQ堂消息,请关注官方网站和论坛的更新：<br />
+　　<font color="#ff0000">QQ堂道具商城调整：</font><a href="../../../../../../CommNews/static/news_detail%EF%B9%96fid=36982&amp;iPdName=1.htm"><font color="#ff0000">http://qqtang.qq.com/CommNews/static/news_detail.htm?fid=36982&amp;iPdName=1</font></a><br />
+　　QQ堂官方论坛：&lt;<a href="http://gamebbs.qq.com/bbs/qqthtm/145.htm">http://gamebbs.qq.com/bbs/qqthtm/145.htm</a>&gt;</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|5532c0651fa09f682cebe176c8398111<![endif]-->

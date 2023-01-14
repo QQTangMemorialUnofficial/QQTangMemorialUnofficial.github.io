@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>《泰坦归来》体验版正式启动-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>《泰坦归来》体验版正式启动</h4>
+    <div class="new_nytxt">　　9月17日 , 就是现在！ QQ 堂新版本 &lt;&lt; 泰坦归来 &gt;&gt; 体验版已经公开。 全新的模式 、 全新的地图 、 全新的角色将会给你带来一波新的冲击力。“抛泡的魅力，格斗的技巧”，尽在最新“机械世界”。 <br><br><p align="center"><img width="166" height="107" src="../../../../../../webpic/20050916/05.jpg"><br><p><br>  　　一定要记得下载客户端哦！ <br><br>  　　电信用户请下载： <br><br>  　　<a href="http://61.152.88.236/QQTangB2B6.EXE">http://61.152.88.236/QQTangB2B6.EXE</a> <br><br>  　　<a href="http://61.152.88.53/QQTangB2B6.EXE">http://61.152.88.53/QQTangB2B6.EXE</a> <br><br>  　　<a href="http://61.152.88.54/QQTangB2B6.EXE">http://61.152.88.54/QQTangB2B6.EXE</a><br><br>  　　<a href="http://61.183.12.27/QQTB2B6.EXE">http://61.183.12.27/QQTB2B6.EXE</a> <br><br>  　　网通用户请下载： <br><br>  　　<a href="http://218.25.89.34/QQTangB2B6.EXE">http://218.25.89.34/QQTangB2B6.EXE</a> <br><br>  　 “梦境启示录”——正式启动： <br><br>  　　活动 1 ： 双倍经验。参加体验活动 即可免费获得： <br><br>  　　一张 vip 卡 有效期： 9.17—9.21 <br><br>  　　双倍体验经验<br><br>  　　活动 2 ：紫色风暴 <br><br>  　　体验游戏中，会掉落“紫钻”哦！ <br><br>  　　参加体验活动就有可能拣到 “尊贵 QQ 堂会员身份——紫钻”哦！<br>  还有更多有丰厚奖励的活动哦！请关注：<a href="../../../../../../machine/dream.htm">http://qqtang.qq.com/machine/dream.htm </a><br>  <br><br>  　　&nbsp; <br><br>  <br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/200509/30446.shtml">QQ堂版本升级! [中华英雄]服务器即将关闭</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30435.shtml">『泰坦归来』海报征集大赛火热征稿</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30415.shtml"><<泰坦归来>>即将出炉 体验招募中</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30410.shtml">机器城历险纪(4步曲)强势出击</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ef74b99f7297abd6da5654376e721f38<![endif]-->

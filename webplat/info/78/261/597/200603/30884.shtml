@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>白色星光翅膀温馨提示-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>白色星光翅膀温馨提示</h4>
+    <div class="new_nytxt">　　春天降临了，踏着她永恒不变的节拍来临了！在这春意盎然的日子里，白色星光翅膀也登上 QQ 堂道具商城的舞台了！ <br><br>　　象征着纯洁、象征洁白无暇的爱情誓言的白色星光翅膀将实现你天使的梦想，让你徜徉糖果园之中，在星光闪烁中尽显迷人风采！ <br><br>　　白色星光翅膀已出售，请于 QQ 堂道具商店推荐栏目购买！ <br><br>　　<img src="../../../../../../webpic/20060309/03.gif"><img src="../../../../../../webpic/20060309/04.gif"><img src="../../../../../../webpic/20060309/05.gif"><br><br>　　温馨提示： <br><br>　　3 月 9 日 ， 17 ： 00-22 ： 00 为白色星光翅膀限时抢购时间，玩家在这段时间购买翅膀，将免费获得 22 个小喇叭，喇叭将于次日赠送！ <br><br>　　值得一提的是，必须在这 5 个小时宝贵时间购买白色星光翅膀才可以赠送小喇叭哦，错过了时间，就错过了精彩！ <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200605/31182.shtml">头顶的是一个海洋世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200605/31181.shtml">漂亮鹦鹉飞舞你头上</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200605/31180.shtml">海盗神秘宝箱隆重登场，巨大惊喜开启中！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200604/31119.shtml">潜水头盔 水底也精彩</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|a7a57ea039f421822b83f3d0c1e41902<![endif]-->

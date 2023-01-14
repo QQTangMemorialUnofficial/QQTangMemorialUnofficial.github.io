@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>玩家体验资格积分统计已经截止-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>玩家体验资格积分统计已经截止</h4>
+    <div class="new_nytxt">　　今天（3月4日）中午12点整，在服务器上的获得提前体验资格的积分数据统计正式截止。所有20000分以上的玩家名单已经被系统自动获取，并开始导入到专用体验服务器名单中。<br><br>　　据初步数据，约有15万多玩家获得了我们的体验资格，先在这里恭喜各位热心玩家。玩家们可以到如下页面查询自己是否获得体验资格：<br>　　查询页面：<a href="http://qqtang.qq.com/cgi-bin/qualify/query" target="_blank"><b>http://qqtang.qq.com/cgi-bin/qualify/query</b></a><br><br>　　此外，对于获得资格的玩家，我们稍晚时候还将通过QQ系统消息和QQ Mail的进行逐个通知，请各位玩家注意查收。<br><br>　　体验开始的时间预定为明天上午10时，在之前官方会在网站上提前提供专用体验版本客户端的下载地址，各位获得资格的玩家可以提前下载该体验测试版本，在明天上午10点后就可以直接连接到体验服务器，享受《试炼之章》带给您的全新内容。<br><br>　　另外，30000分以上的玩家将在体验服务器中免费获得新版道具“星光QQ糖”，50000分以上的玩家将在体验服务器中免费获得新版道具“幻像魅影”。道具的具体介绍及使用方法将稍后公布。<br><br>　　关于新版本体验方面进一步的消息，请各位玩家注意密切留意我们的官网及论坛相关公告。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/200503/29915.shtml">新版本体验服务器已开放</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29911.shtml">第三批新人体验资格名单公布</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29907.shtml">第二批新人体验资格名单公布</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29905.shtml">第一批新人体验资格名单公布</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|aa34614c62540c666dc6a8d5d7f7a8ed<![endif]-->

@@ -1,0 +1,58 @@
+.body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:18px;
+	color:#652424;
+	
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	line-height: 22px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg_02.jpg);
+	background-repeat:repeat-x;		
+	background-color:#FEF64B;
+}
+a:link{font-size:12px;color:#652424;text-decoration:none}
+a:visited{font-size:12px;color:#652424;text-decoration:none}
+a:hover{font-size:12px;color:#FF921A;text-decoration:underline}
+a:active{font-size:12px;color:#FF921A;text-decoration:underline}
+.a{font-size:14px;color:#652424;text-decoration:none; font-weight:bold;}
+
+.section:link{font-size:12px;color:#000000;text-decoration:none}
+.section:visited{font-size:12px;color:#000000;text-decoration:none}
+.section:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+.section:active{font-size:12px;color:#FF0000;text-decoration:underline}
+
+
+.button {BACKGROUND-COLOR: #F6F6F6; BORDER-BOTTOM:  1px ridge; BORDER-LEFT: #B0B0B0 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #B0B0B0 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #C0C0C0 1px solid; BORDER-LEFT: #C0C0C0 1px solid; BORDER-RIGHT: #C0C0C0 1px solid; BORDER-TOP: #C0C0C0 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; }
+
+.input2 {BORDER-BOTTOM: #FFC31F 1px solid; BORDER-LEFT: #FFC31F 1px solid; BORDER-RIGHT: #FFC31F 1px solid; BORDER-TOP: #FFC31F 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; height:14px; color: #936565;border: 1px solid #FFC31F;}
+.in{border: 1px solid #FFC31F; width: 120px; height:19px; overflow: hidden;clip: rect( 0px, 120px, 2px, 0px );  }
+select {position: relative;	left: 1px; top: 1px; width: 120px;line-height:16px;	color: #936565;	border-width: 1px;	font-size: 12px;height:15px;
+}
+.ta01 {  font-size: 12px; color:#583A0D; padding-top:12px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg_37.gif);	}
+.head {  font-size: 14px; line-height: 24px; font-weight:bold; }
+.a1{	color: #000000;}
+.a2{ line-height:24px;background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg03.gif);}
+.a3{ padding-left:18px; }
+.a4{ line-height:22px;background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg02.gif);}
+.a5{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg_24.gif); background-repeat:no-repeat;padding-left:7px;}
+.search{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg_24.gif); background-repeat:no-repeat;padding-left:-4px;}
+.a6{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg1_37.gif); background-repeat:no-repeat;}
+.a7{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/du_35.gif); background-repeat: repeat-y;}
+.a8{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn01.gif); background-repeat:no-repeat; background-position:center;}
+.a9{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn02.gif); background-repeat:no-repeat; background-position:center;}
+.a10{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn03.gif); background-repeat:no-repeat; background-position:center;}
+.txt01{ line-height:22px; }
+.txt02{ color:#FFF4E6; line-height:28px; }
+.bo {
+	border: 1px solid #7C2E00;
+	height: 100px;
+	width: 100px;
+	background-color: #FFFFFF;
+}

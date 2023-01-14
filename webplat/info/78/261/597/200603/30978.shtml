@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>新手的指路灯-----改善练习模式-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>新手的指路灯-----改善练习模式</h4>
+    <div class="new_nytxt">　　“叉子有啥用呢？” <br><br>　　“飞标是用来做什么的？” <br><br>　　…… <br><br>　　困扰新手的不是那暂时落后的技术，而是那未知的道具用途。眼睁睁看着别人的所获物品都物有所值，而自己所取得的物品只能在那里当“摆设”。失败，还有其它理由吗？<br><br>　　什么都可以少，就是自信不能少！树立自信，首先从了解道具开始！<br><br>　　QQ 堂新版本《船长密室》给广大新手带来了福音，新增的“改善练习模式”，里面增加了任务说明和拾得道具说明，让你对任务道具一目了然，更加清晰直观，摆脱那一知半解的困惑。 <br><br>　　<img src="../../../../../../webpic/20060328/03.jpg"><br><br>　　怎么样？是不是感觉更加清晰明了呢？心底的疑问，是不是豁然开朗了呢？ <br><br>　　下载新版本，到练习模式中“冲浪”去吧！信心由此树立，高手由此诞生！ <br><br>　　详情关注： <a href="../../../../../../hook/index.html">http://qqtang.qq.com/hook/ </a>。 <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32036.shtml">致富有新招——酷比宝石</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|7bdfef809c6a110f5db4d0f502b4d6f5<![endif]-->

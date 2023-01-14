@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../web2008/jscss/main.js"></script>
+<link href="../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="608/list_1.shtml" title="最新公告">最新公告</a><a href="619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31224.shtml" target="_blank"><font color="">情侣周末——火热包子赛即将开炉</font></a>
+                                <span>2006-05-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31225.shtml" target="_blank"><font color="">幻影！幻影！就是它们俩！</font></a>
+                                <span>2006-05-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31226.shtml" target="_blank"><font color="">看，一个清澈的小世界！</font></a>
+                                <span>2006-05-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31227.shtml" target="_blank"><font color="">夜之神——海盗战袍</font></a>
+                                <span>2006-05-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31228.shtml" target="_blank"><font color="">征服HOOK船长的奇兵出现——猎刀</font></a>
+                                <span>2006-05-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31229.shtml" target="_blank"><font color="">情侣们自己的周末，抢包山模式火热奉献</font></a>
+                                <span>2006-05-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200605/31230.shtml" target="_blank"><font color="">《QQ堂》5月24日停权名单</font></a>
+                                <span>2006-05-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31231.shtml" target="_blank"><font color="">骷髅幻影 神秘鬼魅</font></a>
+                                <span>2006-05-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31232.shtml" target="_blank"><font color="">另类海盗旗帜 帮你找回失落的自己</font></a>
+                                <span>2006-05-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31233.shtml" target="_blank"><font color="">没有烟斗好抽烟？</font></a>
+                                <span>2006-05-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31234.shtml" target="_blank"><font color="">神秘海盗宝箱 等你来开启</font></a>
+                                <span>2006-05-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200605/31235.shtml" target="_blank"><font color="">520情侣抢包子大赛明天正式开锣</font></a>
+                                <span>2006-05-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31236.shtml" target="_blank"><font color="">飞奔的雷电——闪电幻影</font></a>
+                                <span>2006-05-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31237.shtml" target="_blank"><font color="">如果不再让刺刀猎枪遭遇血腥</font></a>
+                                <span>2006-05-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31238.shtml" target="_blank"><font color="">邪恶的化身 恐怖的来临</font></a>
+                                <span>2006-05-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200605/31239.shtml" target="_blank"><font color="">『我的爱情白皮书』征文活动获奖名单</font></a>
+                                <span>2006-05-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31240.shtml" target="_blank"><font color="">一起打开爱情这本大书</font></a>
+                                <span>2006-05-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200605/31241.shtml" target="_blank"><font color="">QQ堂超级人气情侣登台亮相</font></a>
+                                <span>2006-05-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200605/31242.shtml" target="_blank"><font color="">QQ堂《520情侣人气大比拼》获奖名单出炉</font></a>
+                                <span>2006-05-30</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n71.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n69.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|73c7f7709959e637bf51812caf490071<![endif]-->

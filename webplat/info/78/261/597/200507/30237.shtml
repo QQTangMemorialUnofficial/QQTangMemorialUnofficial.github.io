@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>六步玩转酷比--任务卡导购-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>六步玩转酷比--任务卡导购</h4>
+    <div class="new_nytxt">　　1.点击游戏界面最下面偏右的黄色标识“道具商店”，任务卡正在商店热卖中哦！<br><br><p align="center"><img src="../../../../../../webpic/20050712/img01.jpg"></p>　　2.进入商店以后，游戏界面最上面中间偏右的位置请选择“Q糖币”购物方式。<br><br><p align="center"><img src="../../../../../../webpic/20050712/img02.jpg"></p>　　3.进入Q糖币购物方式以后，点击界面左上角“功能”——再点击“功能道具”，我们就可以看见任务卡片啦。<br><br><p align="center"><img src="../../../../../../webpic/20050712/img03.jpg"></p>　　4.看见了任务卡了吗？选择任务卡，点击“购买”。<br><br><p align="center"><img src="../../../../../../webpic/20050712/img04.jpg"></p>　　5.点击购买以后弹出了一个任务栏，上面详细记载了任务的各项要求，仔细阅读哦。<br><br><p align="center"><img src="../../../../../../webpic/20050712/img05.jpg"></p>　　6.购买成功后，任务卡会出现在你的道具栏中，还犹豫什么？赶紧冒险去吧！<br><br><p align="center"><img src="../../../../../../webpic/20050712/img06.jpg"></p></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../619/200507/30245.shtml">酷比争夺战规则说明</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30236.shtml">酷比礼包秀出来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200507/30231.shtml">寻找酷比大冒险活动详解</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200507/30230.shtml">寻找酷比大冒险活动说明</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|e3caaf18c57d405fc30e390b7c7af2de<![endif]-->

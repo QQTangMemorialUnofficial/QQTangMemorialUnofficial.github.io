@@ -1,0 +1,92 @@
+/* CSS Document */
+@charset "gb2312";
+
+* { margin:0; padding:0;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote,th,td { margin:0; padding:0;}
+body { font-size:12px; font-family:Tahoma,Arial, Helvetica, sans-serif; *min-width:1000px; color:#ab0f08;}
+a{ text-decoration:none; overflow:hidden;}
+a:hover{ text-decoration:underline;}
+a img { border:none; }
+ul { list-style:none;}
+.i { color:#ab0f08;}
+
+
+body { background:#dc8a3b url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/bg_s.jpg) 0 42px repeat-x; }
+.s_b { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/cont_b_s.jpg) 0 bottom repeat-x;}
+#wrapper{ width:1000px; margin:0px auto; line-height:20px;}
+#wrapper h1 { height:231px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/top1_s.jpg) no-repeat; text-indent:-999em;} 
+#wrapper .top{ height:231px;}
+#wrapper .top h1 { height:231px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/top1_s.jpg) no-repeat; text-indent:-999em;}
+/*#wrapper .top .t1{ position:absolute; left:120px; bottom:0px; width:100px; height:100px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/tiger1.gif);}
+#wrapper .top .t2{ position:absolute; right:40px; bottom:0px; width:100px; height:100px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/tiger2.gif);}*/
+
+.cont { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/cont2_s.jpg) repeat-y;}
+.cont_t { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/top2_s.jpg) no-repeat;}
+.cont_b { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/cont1_s.jpg) 0 bottom no-repeat; padding:0 96px 212px 115px;}
+
+.nav { padding:4px 0 0 36px;}
+.nav li { float:left;}
+.nav li a { display:block; width:98px; height:32px; text-indent:-999em; margin-left:16px;}
+.nav li a.a0 { width:84px;}
+.nav li a.a2 { width:102px; margin-left:27px;}
+.nav li a.a3 { margin-left:26px;}
+.nav li a.a4 { margin-left:23px;}
+.nav li a.a5 { margin-left:23px;}
+.nav li a:hover { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/nav_on.jpg);}
+.nav li a.a1:hover ,#nh .nav li a.a1 { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/nav_on.jpg); background-position:-100px 0;}
+.nav li a.a2:hover ,#jr .nav li a.a2 { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/nav_on.jpg); background-position:-225px 0;}
+.nav li a.a3:hover  { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/nav_on.jpg); background-position:-353px 0;}
+.nav li a.a4:hover ,#xc .nav li a.a4 { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/nav_on.jpg); background-position:-475px 0;}
+.nav li a.a5:hover { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/nav_on.jpg); background-position:-595px 0;}
+
+.detail { clear:both; padding:40px 10px 0; *padding-top:20px; color:#650000;}
+.detail ol{}
+.detail ol a{ color:#ab0f08; text-decoration:underline; }
+.detail ol li{ background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/list.jpg) no-repeat; list-style:none; padding:0 60px 0 76px; margin-top:10px;}
+.detail ol li.list1{ background-position:0 0; }
+.detail ol li.list2{ background-position:-790px 0; }
+.detail ol li.list3{ background-position:-1580px 0; }
+.detail ol li.list4{ background-position:-2370px 0; }
+.detail ol li h2 { width:168px; height:22px; line-height:22px; overflow:hidden; margin-bottom:16px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/h2s.png) no-repeat; text-indent:-999em;} 
+#nh .detail ol li.list2 h2 { background-position:0 -22px;}
+#nh .detail ol li.list3 h2 { background-position:0 -44px;}
+#nh .detail ol li.list4 h2 { background-position:0 -66px;}
+#jr .detail ol li.list1 h2 { background-position:0 -88px;}
+#jr .detail ol li.list2 h2 { background-position:0 -110px;}
+#jr .detail ol li.list3 h2 { background-position:0 -132px;}
+#xc .detail ol li.list1 h2 { background-position:0 -154px; width:264px;}
+#xc .detail ol li.list2 h2 { background-position:0 -176px;}
+#nh strong { color:#a00;}
+#nh .detail ol li.list3 p { margin:8px 0;}
+.detail ol li ol {}
+.detail ol li ol li { background:none; padding:4px; *height:1%;}
+.detail ol li ol li h3 { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/h3s.png) no-repeat; padding-left:36px; color:#ab0f08; font-size:14px; line-height:22px;}
+.detail ol li ol li h3.no2 { background-position:0 -22px;}
+.detail ol li ol li h3.no3 { background-position:0 -44px;}
+.detail ol li ol li p  { text-indent:3em;}
+
+.rule { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/ge.gif) repeat-x; margin-top:20px; padding:40px 60px; color:#ab0f08; }
+.rule ol { *height:1%;}
+.rule ol li { background:none; padding:0; list-style:decimal; margin:0 0 0  24px;}
+
+.tab { width:100%; text-align:center; margin:20px auto; }
+.tab th { background:#1e0000; height:30px;}
+.tab td  { padding:8px 0; color:#ab0f08; }
+.tab td img  { }
+.tab2 td { padding:0;}
+
+.tab1 { width:92%; margin:12px auto; border-collapse:collapse; border:1px solid #b17e2f; color:#830000;}
+.tab1 th    { padding:4px 0; color:#370000; border:1px solid #b17e2f; background:#b07624;}
+.tab1 td    { padding:2px 0; text-align:center; border:1px solid #b17e2f; background:#dba64b;}
+
+.foot  { clear:both; height:136px; padding-top:16px; background: url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/foot.jpg) repeat-x;}
+.foot_box { margin:0 auto; width:805px; height:60px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20100129newyear/foot_bg.jpg) no-repeat; }
+.foot_box #footer{ width:688px; padding-top:9px; margin-left:50px; }
+.foot_box #footer,.foot_box #footer a { color:#e3c062;}
+.foot_box #footer .logo1{ float:left; margin-left:10px; display:inline}
+.foot_box #footer .logo1 a{ display:block; width:138px; height:45px; text-indent:-999em;}
+.foot_box #footer .logo2{ float:left; margin-left:10px; margin-top:6px; display:inline}
+.foot_box #footer .info { float:left; margin:6px 0 0 14px; display:inline}
+.foot_box #footer .info span{ margin:0 5px;}
+.foot_box #footer .info p{ line-height:16px;}
+.foot_box #footer .info p.c{ float:right; margin-top:-14px;}/*  |xGv00|32459de2d3953dbdc903a969dfb3be0a */

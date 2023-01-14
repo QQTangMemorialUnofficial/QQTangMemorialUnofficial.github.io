@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>新年道具系列闪亮登场-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>新年道具系列闪亮登场</h4>
+    <div class="new_nytxt">　　1 月 25 号，所有新年道具系列 2 均闪亮登场，列位看官，请容我一一道来。 <br><br>　　<img width="100" height="100" src="../../../../../../0601item/item/09.gif"><br><br>　　火球（泡泡类）：烈焰腾飞处，产下的是火凤凰的金蛋蛋，你，无疑是 QQ 堂逢火起舞的火凤凰。 <br><br>　　<img width="100" height="100" src="../../../../../../0601item/item/05.gif"><br><br>　　鞭炮幻影：鞭炮迎新年，你身后的一串串鞭炮，成全的 QQ 堂喜气洋洋的新年，举堂同庆。 <br><br>　　<img width="100" height="100" src="../../../../../../0601item/item/14.gif"><br><br>　　凤火轮（脚印系列）：年关了，也该架上着双轮子腾云驾雾，到处游玩游玩去了。 <br><br>　　<img width="100" height="100" src="../../../../../../0601item/item/04.gif"><br><br>　　鞭炮泡泡盾：新年换新的护身符，我的小小世界任我逍遥！<br><br>　　新年呼之欲出，你，张等结彩、挑起灯笼、点燃鞭炮了吗？<br><br>　　对联（边框类）：咱们的传家之宝，岂可少了它？门上贴幅春联，狗年平平安安，财神旺旺。 <br><br>　　新年新道具， Q 堂任我眩！新道具已上市，你有了吗？ <br><br>　　详情请关注： <a href="../../../../../../0601item/index.html" target="_blank">http://qqtang.qq.com/0601item/<br><br></a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|e7f3155e6e789ea676cbe5dc71a86018<![endif]-->

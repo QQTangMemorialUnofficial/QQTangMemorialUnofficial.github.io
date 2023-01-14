@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../list_1.shtml" title="综合新闻">综合新闻</a><a href="../608/list_1.shtml" title="最新公告">最新公告</a><a href="../619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../index.html" class="a">首页</a> >> <a href="../list_1.shtml" class="a">新闻中心</a> >> <span></span>最新</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200507/30276.shtml" target="_blank"><font color="">值得重复等待，《酷比一夏》风采逼人</font></a>
+                                <span>2005-07-22</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200507/30277.shtml" target="_blank"><font color="">酷比可爱有罪，ChinaJoy摆长龙</font></a>
+                                <span>2005-07-22</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200507/30278.shtml" target="_blank"><font color="">[寻找酷比之任务篇]第二周奖励公布</font></a>
+                                <span>2005-07-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200507/30281.shtml" target="_blank"><font color="">Chinajoy降下帷幕 QQ堂《酷比一夏》收获多</font></a>
+                                <span>2005-07-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200507/30282.shtml" target="_blank"><font color="">QQ堂全国网吧大行动 寻找酷比继续升温</font></a>
+                                <span>2005-07-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200507/30284.shtml" target="_blank"><font color="">腾讯:休闲平台领军 大型新网游将公测</font></a>
+                                <span>2005-07-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200507/30285.shtml" target="_blank"><font color="">QQ堂图标调整公告</font></a>
+                                <span>2005-07-29</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200507/30286.shtml" target="_blank"><font color="">本周酷比争夺战比赛通知</font></a>
+                                <span>2005-07-29</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30287.shtml" target="_blank"><font color="">[寻找酷比之任务篇]第三周奖励名单公布</font></a>
+                                <span>2005-08-01</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30288.shtml" target="_blank"><font color="">腾讯承办05年CEG QQ游戏为唯一指定比赛平台</font></a>
+                                <span>2005-08-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30289.shtml" target="_blank"><font color="">8月1日CEG休闲比赛隆重召开</font></a>
+                                <span>2005-08-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30290.shtml" target="_blank"><font color="">重庆移动光E空间宽网杯QQ堂大赛开战</font></a>
+                                <span>2005-08-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30291.shtml" target="_blank"><font color="">寻找酷比 机会莫失</font></a>
+                                <span>2005-08-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30293.shtml" target="_blank"><font color="">QQ堂入选15款适合未成年人的网络游戏</font></a>
+                                <span>2005-08-04</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30294.shtml" target="_blank"><font color="">网游也健康 QQ堂老少咸宜</font></a>
+                                <span>2005-08-04</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30295.shtml" target="_blank"><font color="">特大喜讯:QQ堂入选文化部首批未成年人推荐网游</font></a>
+                                <span>2005-08-05</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30297.shtml" target="_blank"><font color="">火热山城开打 英雄再现沙场</font></a>
+                                <span>2005-08-05</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30298.shtml" target="_blank"><font color="">QQ堂家族介绍篇之美女家族——♀ANGEL</font></a>
+                                <span>2005-08-05</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200508/30300.shtml" target="_blank"><font color="">网吧寻找酷比 乐趣回味无穷</font></a>
+                                <span>2005-08-08</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n10.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n8.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|b4cc128e516bea05e1d2ed09603ef3d5<![endif]-->

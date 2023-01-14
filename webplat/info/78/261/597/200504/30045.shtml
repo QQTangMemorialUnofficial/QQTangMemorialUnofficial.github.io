@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>探寻：《QQ堂》玩家女多男少之迷-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>探寻：《QQ堂》玩家女多男少之迷</h4>
+    <div class="new_nytxt">　　清新可爱的《QQ堂》成为了近来MM们的游戏新宠，这已不是什么新闻的新闻了。尽管如此，但面对游戏中女玩家超过六成的这一统计结果，还是让我们吃了一惊。《QQ堂》凭什么获得如此之多的MM青眯呢，这个问题还真是值得我们去思考。<br><br>　　一、无需注册，轻松畅游QQ堂世界<br>　　玩一个游戏还要注册一个帐号，帐号多了自己也记不住，搞不好还会把密码忘了，玩得多累啊。QQ堂则就简单多了，只要拥有QQ号，就可以轻松畅游QQ堂世界，特别适合怕麻烦的MM们。<br><br>　　二、画面清新亮丽，第一眼就爱上QQ堂<br>　　即时光影效果、凹凸纹理贴图、真实的物理引擎……天啊，这都是些什么跟什么啊，我们能指望MM们会对由这一大堆专业术语堆砌出来的游戏感冒吗？看着QQ堂清新可爱的游戏画面，恐怕我们已经找不到MM会不爱QQ堂的理由了。<br><br>　　三、操作简单，三分钟爆乐QQ堂<br>　　上下左右和空格，仅仅需要这五个按键，就已经可以体验到QQ堂带给我们简单的快乐。对于只喜欢简单游戏的MM们来说，容易上手，三分钟一盘的QQ堂确实是最好的选择了。<br><br>　　四、物聚所好，MM们越来越多啦<br>　　周围的MM已经一个接一个的进入到QQ堂的世界里了，GG们还在电脑前托着脑袋看这篇新闻吗？快点行动起来吧。<br><br>　　广大玩家请注意，《QQ堂》客户端已经于4月29日更新到《中华英雄争霸赛专用版》！各位比赛选手请注意下载最新版本，准时参加比赛。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200507/30233.shtml">十万！打造国产休闲网游第一品牌</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200505/30074.shtml">QQ堂珠海行 宽带改变生活</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30044.shtml">品味《QQ堂》</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30040.shtml">《QQ堂》精彩一刻尽展现</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|7a50c94e19a3976a43d14e7d7fa7eea8<![endif]-->

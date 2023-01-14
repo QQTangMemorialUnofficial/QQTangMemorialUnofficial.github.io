@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>真爱无价，道具代表我的心-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>真爱无价，道具代表我的心</h4>
+    <div class="new_nytxt"><P>　　情人节甜甜蜜蜜携手逛QQTANG!表达你爱情的好时刻！心上人笑如花声如歌，送个什么样的礼物才能打动她的人偷走她的心呢？</P>
+<P>　　别着急别慌张！QQ堂给你出招数！红红火火的大年即将到来，适逢情人节，给沉浸在爱情的蜜糖中的你一述衷肠！多种新款道具火热出炉，想要在情人节之际大声说出爱，道具帮你忙！</P>
+<P align=center><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1171693252_840044972_12994_sPhoto.jpg"></P>
+<P>　　真爱无价，道具有情，用新新鲜上架的道具来代表你的心，说出你的爱，心上人儿这就给你唱起来：<BR>　　你问我爱你有多深,我爱你有几分?<BR>　　我的情也真,我的爱也深,道具代表我的心，<BR>　　我的情不变,我的爱也不移,道具代表我的心，<BR>　　轻轻的一个笑,已经打动我的心,<BR>　　深深的一段舞,教我思念到如今。</P>
+<P>　　如果你已经为自己添置了新鲜上架的道具，何不为自己心爱的人一起添置一份呢？情侣装扮，心灵相通，在QQ堂一起上演神雕侠侣！</P>
+<P>　　别问我爱你有多深,我爱你有几分,<BR>　　我的情也真,我的爱也深,道具代表我的心<BR>　　我的情不变,我的爱也不移,道具代表我的心……</P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|7a0d3b0e97bd15cc2678755249f8c3e5<![endif]-->

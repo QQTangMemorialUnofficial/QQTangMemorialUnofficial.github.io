@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>第二批新人体验资格名单公布-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>第二批新人体验资格名单公布</h4>
+    <div class="new_nytxt">　　昨晚进行了<新人体验资格挑战赛>第二天的比赛，由于有了第一天的比赛经验，我们的巡查裁判操作和组织更加娴熟，使更多的新人玩家有机会参与挑战获得新版本提前体验的资格。<br><br>　　今晚19:30～20:30新人频道将继续进行<新人体验资格挑战赛>，届时公共频道将有系统消息通知巡查裁判组织比赛的小区名称，敬请各位有兴趣的玩家留意。<br><br>　　第二批新人体验资格的获奖名单如下：365345342、441940113、11345513、312912026、21253759、413583972、4826318、442072659、453363238、274778934、451634109、87129812、112008834、286800853、457943866、342540294、272527781、343116010、444019763、1293340、274864405、380537845、406515431、365345342、114410579、382183414、334199186、451620792、3473792、84170615、315047090、3473792、312912026、35789277、181653612、397845352、416852434、11345513、380537845、45011239、42098764、125917334、361647425、416040035、423771550、441553128、165675429、147025076、416566119、46227506</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/200503/29915.shtml">新版本体验服务器已开放</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29913.shtml">玩家体验资格积分统计已经截止</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29911.shtml">第三批新人体验资格名单公布</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29905.shtml">第一批新人体验资格名单公布</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|6a90ec158b31a1ebe1bef623bfbe19c3<![endif]-->

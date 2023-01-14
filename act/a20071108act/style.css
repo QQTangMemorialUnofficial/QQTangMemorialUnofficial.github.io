@@ -1,0 +1,49 @@
+.body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:18px;
+	color:#FFFBC3;
+	
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	line-height: 22px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071108act/bg_02.jpg);	
+	background-color:#FFF226;
+}
+a:link{font-size:12px;color:#652424;text-decoration:none}
+a:visited{font-size:12px;color:#652424;text-decoration:none}
+a:hover{font-size:12px;color:#FF921A;text-decoration:underline}
+a:active{font-size:12px;color:#FF921A;text-decoration:underline}
+.a{font-size:12px;color:#8D38C6;text-decoration:none}
+
+.section{font-size:12px;color:#000000;}
+.section:link{font-size:12px;color:#000000;text-decoration:none}
+.section:visited{font-size:12px;color:#000000;text-decoration:none}
+.section:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+.section:active{font-size:12px;color:#FF0000;text-decoration:underline}
+
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #D41401 1px solid; BORDER-LEFT: #D41401 1px solid; BORDER-RIGHT: #D41401 1px solid; BORDER-TOP: #D41401 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; height:15px}
+
+.ta01 {  font-size: 12px; color:#583A0D; padding-top:12px; background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071108act/bg_37.gif);	}
+.height {  font-size: 12px; line-height: 24px; color:#FFFFFF}
+.a1{	color: #000000;}
+.a2{ line-height:23px;background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071108act/bg_19.gif); color: #000000;}
+.a3{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071108act/bg2.gif);}
+.a4{ line-height:24px;background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071108act/ce_20.gif); }
+.a5{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071108act/bg_39.gif); background-repeat:no-repeat; background-position:bottom;}
+.a6{ background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20071108act/bg1.gif); line-height:24px;}
+.txt01{ line-height:22px; }
+.txt02{ color:#FFF4E6; line-height:28px; }
+.bo {
+	border: 1px solid #7C2E00;
+	height: 100px;
+	width: 100px;
+	background-color: #FFFFFF;
+}

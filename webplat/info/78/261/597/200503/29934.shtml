@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>试炼之旅今日展开-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>试炼之旅今日展开</h4>
+    <div class="new_nytxt">　　大风起兮云飞扬，安得猛士兮守四方。<br><br>　　千年封印即将开启，王国命运系于你手，为了承担起命运交付于你的责任。快通过残酷的战斗试炼，尽快成长起来吧。<br><br>　　只要在比武模式地图上战斗的玩家，就有机会获得试炼之石的碎片。通过收集足够数量的试炼之石碎片，合成试炼之石成功就可以在随后的时间里获得双倍的经验，加快自己成长的步伐。<br><br>　　而每晚举行的比武擂台，更是是高手展示自己、证明自己的绝好机会。<br><br>　　除此之外，在活动期间官方还会推出“杀手排行榜”，让每一个倒下的对手都见证你的实力和荣耀。<br><br>　　还在犹豫什么，快快加入试炼之旅，命运的线索将引导你展开一段灿烂的人生。<br><br>　　详情请查看：<a href="../../../../../../event/kongfu/page03.htm" target="_blank">http://qqtang.qq.com/event/kongfu/page03.htm</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../619/200504/29978.shtml">擂台英雄猜猜猜论坛活动圆满结束</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200504/29977.shtml">真英雄莫问出处 总擂主水落石出</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200503/29976.shtml">谁是擂台王中王 悬念今日揭晓</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200503/29972.shtml">最后单日擂主诞生 英雄擂台赛期待决战</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|fc30faed1c6e78a17061e0595ef86e5b<![endif]-->

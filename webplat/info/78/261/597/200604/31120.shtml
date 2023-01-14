@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>新版本新体验今日开始——3天乐不停-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>新版本新体验今日开始——3天乐不停</h4>
+    <div class="new_nytxt">　　4月24号是一个值得纪念的日子，QQ堂的第十三个版本《我爱我家》体验活动将开始，十三是个普通的数字，但是这次则标志着一个新纪元——家族系统的全面开始。  <br> <br>　　本版本的体验期为4月24日——4月26日，为时3天。除对上个版本BUG的修复外，还有更多新功能向大家开放。   <br><br>　　不仅如此，新版本体验期还有诸多优惠，优惠事项如下：体验期内，登录游戏的玩家游戏积分双倍并将会全部带入正式版本；免费使用全场所有道具包括新老道具（但不带入正式版本）；提前体验新版本，如家族系统模式、战斗快捷语言等等。 <br>    <br>　　体验版本有着与正式版本一样的功能，新奇的人物表情道具绝对令你耳目一新。小喇叭的新特效一样值得期待。屏蔽加好友功能和反外挂系统都是玩家所关注的，在新版本也一一实现。  <br>   <br>　　家族的诞生意味着一个新的开始，一个新起点势必为众人留念。让最炫最酷的你展现在这个新的Q堂，让你的欢声笑语留在这个春天的Q堂。  <br>   <br>　　营造家的温馨，放飞梦想的翅膀。让我们一起玩转新版本的精彩，体验那一份刺激吧！  <br><br>　　更多活动，请关注：<a href="../../../../../../wawj/index.html" target="_blank">http://qqtang.qq.com/wawj/</a>。<br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32036.shtml">致富有新招——酷比宝石</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d535028a21b87fde250d4ef70f5d68d6<![endif]-->

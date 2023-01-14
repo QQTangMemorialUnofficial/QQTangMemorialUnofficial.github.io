@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>喜迎元旦快乐年，免费BOSS任你打-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>喜迎元旦快乐年，免费BOSS任你打</h4>
+    <div class="new_nytxt"><P>　　精彩不断，快乐无限！随着圣诞夜曲掀起2006糖果世界最后的高潮，我们又迎来了2007年全新的世界、全新的开始。为了答谢广大玩家对QQ堂的支持，为了给这个版本画上完美的句号，在元旦这个喜庆的节日提供大家一个优质活动——喜迎元旦快乐年，免费BOSS任你打。</P>
+<P>　　2007年，糖果世界迎来了一个全新的开始，白魔法的施展，带领我们走进一个全新的魔法时代，在这个梦幻的大舞台，4个魅力新伙伴的闪亮登场，送给糖果镇上人们的是惊喜？是灾难？还是一个意想不到的意外？hoho，序幕已经开始，答案即将揭晓，为了迎接全新世界的到来，让我们先来热身---和BOSS一较高下，锻炼我们的体力智力，以全新的你我、全新的面貌，一同走进新旅程去探险！</P>
+<P>　　想挑战自己的极限吗？</P>
+<P>　　想尽情与各类BOSS超级PK吗？</P>
+<P>　　快快来参加吧！不要任何门票，不要任何信物，只要你有勇气参加，只要你智勇双全，打BOSS掉落的装备就全权归你所有拉。</P>
+<P>　　蠢蠢欲动了没？</P>
+<P>　　心动不如行动！Let’s GO！！！</P>
+<P>　　活动详情请关注官网。<%$Fcontent$%></P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|92cc9719076d74efdad55f9d5aa4e3c0<![endif]-->

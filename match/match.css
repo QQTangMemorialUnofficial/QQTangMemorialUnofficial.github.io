@@ -1,0 +1,106 @@
+td {
+	font-size: 9pt;
+}
+a:link {text-decoration: none;color: #000000;}
+a:visited { text-decoration: none; color: #000000}
+a:hover {text-decoration: none;color: #0099FF;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	color: #000000;
+	background-attachment: scroll;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/matchnew/bg.gif");
+	background-repeat: repeat;
+	margin: 0px;
+}
+.bigtxt {
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}l", "Helvetica", "sans-serif";
+}
+.engtxt {
+	FONT-SIZE: 9pt;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.articleTitle {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 10pt;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.articleContent {
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 128%;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.articleTime {
+	FONT-SIZE: 9pt;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.table01 {
+	background-color: #E8FEFF;
+	border: 1px solid #CCCCCC;
+}
+.table02 {
+	background-color: #EAFCDB;
+	border: 1px solid #CCCCCC;
+}
+.login_table {
+	background-color: #F8D7B9;
+	border: 0px solid;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 9pt;
+}
+.page_table {
+	border: 1px solid #FBB20A;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 9pt;
+}
+.sig_table {
+	background-color: #A8E6FF;
+	border: 1px solid #2C72BB;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 9pt;
+}
+.grp_table {
+	background-color: #E3F5D0;
+	border: 1px solid #058C54;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 9pt;
+}
+.report_table {
+	border-top: 1px none #707070;
+	border-right: 1px none #707070;
+	border-bottom: 1px dotted #707070;
+	border-left: 1px none #707070;
+}
+.baby_table {
+	border: 1px solid #707054;
+	font-family: "Verdana", "Ar;
+	border-lxrif";
+	font-size:ackground-colo00000;
+	0;
+	border: 1px solid #058C54;
+	font-family: "Verdana", "Ariont-size: 9pt;
+}EE99#EAFC;
+	border-pic	font-size:ac3ground-color: #EAFCDB;intro_r-top_bg;
+	font-size: 9attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/matchnew/ns-s02_r-top_bbg.gif");
+	background-repeat: no-repeat;
+	background-position: center 9pt0;
+	border-left:_bg;
+	font-size: 9attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/matchnew/ns-s08_, "Helv_bbg.gif");
+	background-repeat: no-repeat;
+	background-position: center 9pt0;
+	border-ns-sebg;
+	font-size: 9attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/matchnew/ns-s09-left:_bbg.gif");
+	background-repeat: no-repeat;
+	background-position: center 9pt0;
+	b

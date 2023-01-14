@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../../m2770/list_1.shtml" title="综合新闻">综合新闻</a><a href="../../4199/m2770/list_1.shtml" title="最新公告">最新公告</a><a href="../../4201/m2770/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../../../index.html" class="a">首页</a> >> <a href="../../m2770/list_1.shtml" class="a">新闻中心</a> >> <span></span>最新</div>        
+      </div>
+	        <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                				                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200612/143510.shtml" target="_blank"><font color="">QQ堂2.0玩家现场体验之旅开始招募</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200504/141760.shtml" target="_blank"><font color="">英雄是怎么炼成的</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200806/144463.shtml" target="_blank"><font color="">端午佳节到,三倍继续有!</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200607/143143.shtml" target="_blank"><font color="">《酷比世界》第八期温馨上市</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200612/143484.shtml" target="_blank"><font color="">三号角色大解密 伊丹精灵登场</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200510/142256.shtml" target="_blank"><font color="">紫色风暴，带给你紫色的神秘惊喜！</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200503/141679.shtml" target="_blank"><font color="">《QQ堂：月光宝盒》新版本体验活动通知</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200805/144432.shtml" target="_blank"><font color="">欢乐幸运星，我们来祈祷</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200909/145145.shtml" target="_blank"><font color="">欢乐幸运星，惊现战神套</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200607/143101.shtml" target="_blank"><font color="">QQ堂第一部情景剧——FROM宠儿家族</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200611/143455.shtml" target="_blank"><font color="">绿色上网新体验，购物卷回馈情无限</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200510/142231.shtml" target="_blank"><font color="">10月7日PTS互动擂台热身赛战报</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200706/143784.shtml" target="_blank"><font color="">QQ堂宝贝，舍我其谁</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200502/141596.shtml" target="_blank"><font color="">爱情圆5曲 给你一个款款浓情的二月</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200908/145105.shtml" target="_blank"><font color="">中华英雄，唯你至尊</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200607/143060.shtml" target="_blank"><font color="">秀出你的魅力 官网“游戏视频”征集开始</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200611/143428.shtml" target="_blank"><font color="">逐鹿Q堂 争当周冠军</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200509/142205.shtml" target="_blank"><font color="">QQ堂新版本GCS有奖调查</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200706/143752.shtml" target="_blank"><font color="">神奇锻造系统 打造神气武器装备</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                 <!--这段是列表页的结尾-->
+				        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+								<!-- n70 / 127 -->
+									<span><a href="list_n71.shtml">上一页</a></span>
+													<span><a href="list_n69.shtml">下一页</a></span>
+								        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|e3df592e189f1e7ac0a100a410d0cd3c<![endif]-->

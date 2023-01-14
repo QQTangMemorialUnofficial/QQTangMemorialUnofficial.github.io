@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂精彩不断 活动道具齐登场-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂精彩不断 活动道具齐登场</h4>
+    <div class="new_nytxt">　　你是不是有高超的技艺但无用武之地呢？你是不是感叹自己的道具不够丰富呢？你是不是觉得平淡的生活里很少出现精彩呢？……在 QQ 堂这个玩家世界里，你不用再担心这些问题了，因为这里提供了各种各样的舞台给你，不管你是“强人”或是“菜鸟”，总能找到适合自己的舞台展现你动人的魅力！ <br><br>　　QQ 堂在以后的日子里将不断推出各种活动，前两天举行的“挑战”地图研究院就是这些活动的主打。地图研究院是由 QQ 堂玩家组成，他们可都不是等闲之辈，只有水平比较高了，并且对 QQ 堂有特殊感情才可以加入，“挑战”他们对于所有玩家来说真的是一个“挑战”，不过只要你参加，就会有获胜的可能，就有获得免费道具的可能哦！“挑战”地图研究院取得了巨大的成功，这与玩家的热情参与和工作人员的精心准备是分不开的，继续关注新闻，你将发现有更多更多的活动在吸引着你的眼球！ <br><br>　　QQ 堂自成立以来，道具一直在不断地更新当中，新的道具都那么吸引人，并且有着特殊的功用。最近即将要推出的“僵尸道具系列”，更是有着与众不同的风格，跟以前任何一款相比都会显得鹤立鸡群，特别在优惠时间段里，还会有大量的赠送。具体的功用到底有哪些呢？呵呵，我不说，你去看吧！保证你看了会大吃一惊，恨不得立刻拥有一套！ <br><br>　　QQ 堂精彩不断，活动道具齐登场！关注我们的新闻，注意我们的公告，让你的生活活出精彩，让你形象与众不同， Q 生活， Q 人类，一定就是你！<br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|88bf0ba1107d4f7d8fa2f53a9b613318<![endif]-->

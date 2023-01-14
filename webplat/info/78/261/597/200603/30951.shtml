@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>新版本 新特性 新感受-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>新版本 新特性 新感受</h4>
+    <div class="new_nytxt">　　“ 船长与密室 ” 新版本如约与你见面 . 版如其名 , 必定以新鲜面貌示人。<br><br>　　在开始你新的旅程之前 , 有必要探个路 , 对新版本新特性草草了解下。<br><br>　　你的道具栏是否已经过于枝繁叶茂 ? 看着眼花缭乱 , 又害怕浪费空间 . 新版本中的道具收藏柜为你排忧解愁 . 它将成为你多余道具的归属 . 其容量无穷大。 <br><br><p align="center"><img src="../../../../../../webpic/20060322/03.jpg"></p><br>　　自由练习模式增加任务说明和拾得道具说明 . 你拥有什么样的武器 , 你还需要完成什么样的任务 , 全都一清二楚。<br><br>　　除去你熟知的练习 , 自由 , 比赛等频道 , 新版本开辟活动频道页面 . 最新活动信息，在第一时间向你传达 .<br><br>　　另外 , 新版本开辟“静音纯游戏区 ”, 新的游戏天地从此属于你 ; 小喇叭发送方式也作改善 ; 添加好友还可留言 ; 托盘隐藏 , 全新的快捷命令菜单使操作更加方便快捷 .<br><br>　　仅探探路不足以给自己一个愉悦旅程 . 背上挎包 , 踏上新版本探险之路 , 亲自感受一番全新特性为你带来的全新感受吧 .<br><br>特性详细介绍 , 敬请关注后续报道 .<br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32036.shtml">致富有新招——酷比宝石</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|dccecebbd953e3882248269618d0fb06<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>网吧寻找酷比 乐趣回味无穷-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>网吧寻找酷比 乐趣回味无穷</h4>
+    <div class="new_nytxt">　　30 多家网吧的携手 , 上万人的参赛 , 4 个星期的努力 , 激烈的竞争 , 持久的热情 , 共同铸造了网吧寻找酷比活动的火热 . </p><br><img src="../../../../../../webpic/20050808/02.jpg" width="400" height="303"><br>　　<br>　　7 月16 日 - 8 月7 日的“全国网吧寻找酷比大活动”最后一班车也已抵达终点站。全国各地上万人搭乘着它经历了寻找酷比的快乐之旅。大家共同的目的就是把心爱的酷比接回家。谁叫酷比具有这么大的感染力呢？这些酷比的FANS 们并不一定离所在城市的指定活动网吧近，有的甚至相隔几个区，但酷比的力量是无穷的，对酷比的喜爱使玩家们聚集到了活动现场，大家以直接参与活动的方式表达了对酷比的喜爱。 有上万人在这次的活动中免费得到了红唇 QQ 糖 , 小鸡多米糖等最眩的线上奖励。但是，他们最想得到的却是每天限量发送的酷比公仔，所以个个是斗志昂扬。但所谓僧多粥少，还是有相当多的玩家没能了却心愿，看着幸运的玩家抱走了酷比真是既羡慕又不服气，好在“网吧寻找酷比”只是腾讯“酷比一夏”掀起的其中一个“清凉”浪潮，所谓一浪过一浪，只要玩家一如既往地支持 QQ 堂，关注 QQ 堂的动态，就将有更多更好的机会拿到可爱的酷比。<br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200512/30668.shtml">重寻酷比路，酷比再度出击</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200512/30654.shtml">重寻酷比路，酷比再度出击</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200512/30637.shtml">重寻酷比路—与酷比的再一次接触</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200511/30592.shtml">《重寻酷比路》狂潮再度掀起</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d3aa5a5bcc76c49074b24b1fd48fa5df<![endif]-->

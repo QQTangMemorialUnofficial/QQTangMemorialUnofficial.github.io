@@ -1,0 +1,158 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>QQTANG紫钻</title>
+<link href="../jscss/vip.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+ window.onload = function() {
+   document.location.href = "http://pay.qq.com/";
+ }
+</script> 
+<script language="javascript">
+
+function SetMonth(month)
+{
+    if(month == 101)
+    {
+        pay_form.prepaymonth.disabled = false;
+    }
+    else
+    {
+        pay_form.prepaymonth.disabled = true;
+    }
+    pay_form.month.value = month;
+}
+
+//add by bluesky in 2006-10-23 to support Q point
+function SetPrepayChnl(flag)
+{		
+	if(flag == true)
+    {
+		pay_form.prepay_chnl.value =1;
+        document.getElementById("qbqd_prompt").innerHTML="当Q币余额不足时，使用Q点支付不足部分费用";
+    }
+    else
+    {
+		pay_form.prepay_chnl.value =2;
+        document.getElementById("qbqd_prompt").innerHTML="当Q点余额不足时，使用Q币支付不足部分费用";
+	}
+}
+
+function submit_pay_form()
+{   
+    if(pay_form.openmonth[4].checked == true)
+	    SetMonth(101);
+		
+	if(pay_form.month.value == 101)
+    {
+        if(pay_form.prepaymonth.value == "")
+        {
+            alert('请输入开通月数！');
+            return;
+        }
+        pay_form.month.value = pay_form.prepaymonth.value;
+    }
+
+
+    if(pay_form.month.value == "" ) //缺省三个月
+    {
+        pay_form.month.value = 3;
+    }
+    
+    if(pay_form.prepay_chnl.value == 1) //Q币支付
+    {
+		pay_form.action="http://gamevip.qq.com/cgi-bin/payportal_account_prepay.cgi";
+    }
+	else if(pay_form.prepay_chnl.value == 2) //Q点支付
+	{
+		pay_form.action="http://gamevip.qq.com/cgi-bin/payportal_qpoint_prepay.cgi";
+	}
+	
+    pay_form.submit();
+}
+</script>
+
+
+</head>
+
+
+<body>
+<table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td valign="top"><table width="100%" border="0" align="center" cellpadding="3" cellspacing="6" >
+      <form action="" method="post" name="pay_form" enctype="multipart/form-data" id="pay_form" target="_blank">
+        <input name="service" type="hidden" value="QQTANG">
+        <input name="pay" type="hidden" value="accountprepay">
+        <input name="month" type="hidden" value="">
+        <input name="entrance" type="hidden" value="QQTANGWEB">
+		<input name="prepay_chnl" type="hidden" value="1">
+		
+        <tr>
+          <td valign="center" align="left"><img src="http://ossweb-img2.qq.com/images/qqtang/vip/mode_dot_01.gif" width="13" height="12"> <strong>尊敬的用户，您选择了Q币/Q点个人账户支付，请选择服务的有效期： </strong></td>
+        </tr>
+        <tr>
+          <td valign="center" align="left"><B>请选择支付方式：</B>
+            <INPUT  type="radio" CHECKED value="1" OnClick="SetPrepayChnl(true);" name="prepay">
+            Q币　
+            <INPUT  type="radio" value="2" OnClick="SetPrepayChnl(false);" name="prepay">
+            Q点</td>
+        </tr>
+        <tr>
+          <td valign="center" align="left">
+            <input name="openmonth" type="radio" onClick="SetMonth(1)">一个月
+            <input name="openmonth" type="radio" onClick="SetMonth(3)" checked>三个月&nbsp;
+            <input name="openmonth" type="radio" onClick="SetMonth(6)"  >六个月&nbsp; 
+            <input name="openmonth" type="radio" onClick="SetMonth(12)" >一年&nbsp;
+            <input name="openmonth" type="radio" onClick="SetMonth(101)" >
+            其他：
+            <input name="prepaymonth" type="text" size="2" maxlength="2" disabled >个月&nbsp;
+        <!--<a href="http://game.qq.com/cgi-bin/paycenter_account_close?service=QQSHOW&pay=accountclose" target="_blank"><img src="http://qqshow.qq.com/vip/img/v86.gif" width="35" height="17" border="0" align="absmiddle"></a>-->          </td>
+        </tr>
+        <tr>
+            <td valign="center" align="left">
+                <input name="autotag" type="checkbox" value="1" checked >自动续费        
+                <input name="qbqd" type="checkbox" value="1" checked>
+                <span id="qbqd_prompt">当Q币余额不足时，使用Q点支付不足部分费用</span>            </td>
+        </tr>
+        <tr>
+          <td valign="center" align="center"><div align="left">　　　　　　　　　　　　　<a href="javascript:submit_pay_form();"><img src="http://ossweb-img2.qq.com/images/qqtang/vip/mode_button_01.gif" width="120" height="39" border="0"></a> </div></td>
+        </tr>
+        <tr>
+          <td valign="bottom" align="left"><img height="13" src="http://ossweb-img2.qq.com/images/qqtang/vip/mode_dot_02.gif" width="14"> 如果您是电信或网通宽带用户，您可点击<strong><font color=red>家庭宽带用户</font></strong>的方式开通！ </td>
+        </tr>
+      </form>
+      <script>
+		var openmonthval = new Number('<%$monthval$%>'); //
+		if(openmonthval == 1)
+			pay_form.openmonth[0].checked=true;
+		else if(openmonthval == 3)
+			pay_form.openmonth[1].checked=true;
+		else if(openmonthval == 6)
+			pay_form.openmonth[2].checked=true;
+		else if(openmonthval == 12)
+			pay_form.openmonth[3].checked=true;
+	</script>
+    <script>
+		if(pay_form.openmonth[0].checked == true)
+			SetMonth(1);
+		else if(pay_form.openmonth[1].checked == true)
+			SetMonth(3);
+		else if(pay_form.openmonth[2].checked == true)
+			SetMonth(6);
+		else if(pay_form.openmonth[3].checked == true)
+			SetMonth(12);
+		else if(pay_form.openmonth[4].checked == true)
+			SetMonth(101);
+	</script>
+    </table></td>
+  </tr>
+</table>
+<script type="text/javascript" src="http://csj.qq.com/js/embedded_js.js"></script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|0bb892afa6df75f2e27bf47846123576<![endif]-->

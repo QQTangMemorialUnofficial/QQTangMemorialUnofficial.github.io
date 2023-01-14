@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>X—file第二季——暗夜传说-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>X—file第二季——暗夜传说</h4>
+    <div class="new_nytxt">　　QQ堂的神秘档案中记载着一个与黑暗之神有关的传说：黑暗之神会在qq堂里选取自己的勇士，他们拥有最冷酷且坚硬的暗黑套装——暗黑刀、暗黑铠甲、暗黑头盔、暗黑披风。<br><div align="center"><img src="http://ossweb-img.qq.com/images/webpic/20061207/qqt-001.gif" alt=""></div><br>　　暗黑勇士们是qq堂里最神秘而且英勇的人，他们拥有暗黑之神赋予的神秘装备及力量。<br><br>　　从未有人见过暗黑战士，也没有人见过传说中的暗黑套装。<br><br>　　现在,黑暗之神现身x-file第二季，幸运的玩家可以从x-file中得到神秘的暗黑套装成为强大的暗黑勇士。<br><br><div align="center"><img src="http://ossweb-img.qq.com/images/webpic/20061207/qqt-002.gif" alt=""></div><br><br>　　只要能在本月15日前抽中所有四件套装。黑暗之神会赠送你一整套从未面世的黄金甲（12月19日发放奖品）。<br><br>　　让黄金套装闪耀你的光芒，以暗黑甲证明你的运气和力量。只要抽中四个暗黑甲，奉上一套黄金装，全部八件装备，尽在x-file第二季。<br><br><div align="center"><img src="http://ossweb-img.qq.com/images/webpic/20061207/qqt-003.gif" alt=""></div><br><br>　　心动不如行动，X—file第二季炫耀登场就在12月7日，加油！用一周的时间争取这两套极品吧。<br>　　<br>   <br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200708/32191.shtml">QQ堂嘻哈泡泡新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32184.shtml">炫耀街头 极限运动 滑板Girl＆Boy</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32180.shtml">玩转QQ堂嘻哈世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200707/32167.shtml">六翼翅膀纯美登场</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|fee4fb192dcd820b30e61c2619351161<![endif]-->

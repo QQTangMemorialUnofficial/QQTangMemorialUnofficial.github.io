@@ -1,0 +1,721 @@
+@charset "gb2312";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+}
+body {
+	font:12px Tahoma, Helvetica, sans-serif;
+	color:#2d8a00;
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/body_bg.gif) repeat;
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+ul {
+	line-height:22px;
+	list-style:none;
+}
+ol li {
+	margin-left:23px;
+	width:auto;
+	height:auto;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;	
+}
+a img, img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+/*---------- iframe“≥√Ê∆¨ ----------*/
+body.iframe {
+	background:transparent;
+}
+/*---------- layout style ----------*/
+#footer {
+	margin:10px auto 0;
+	padding-top:5px;
+	width:724px;
+	height:75px;
+	color:#fff;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/foot_bg.png) no-repeat center 0;	
+}
+#footer a.logo{
+	display:block;
+	float:left;
+	margin-left:15px;	
+	text-indent:-999px;
+	overflow:hidden;
+	width:138px;
+	height:44px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/foot_logo.png) no-repeat;
+}
+#footer .text{
+	float:left;
+	margin:3px 0 0 15px;
+	width:540px;
+}
+#footer p {
+	float:left;
+	height:20px;
+	line-height:20px;
+}
+#footer p.c {
+	float:left;
+	margin-top:-20px;
+	margin-left:413px;
+	border:0;
+	display:inline;
+}S
+* html #footer p.c {
+	margin-left:412px;
+}
+*+html #footer p.c {
+	margin-left:422px;
+}
+#footer a {
+	color:#fff;
+}
+/*---------- index style ----------*/
+.wrapper{
+	margin:0 auto;
+	height:468px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/top.jpg) no-repeat center top;
+}
+h1, h2 {
+	width:0;
+	height:0;
+	text-indent:-999px;
+	overflow:hidden;
+}
+.content{
+	margin:0 auto;
+	width:830px;
+}
+.top{
+	margin:0 auto;
+}
+.navi{
+	margin:232px auto 130px;
+	width:619px;
+	height:115px;
+}
+.navi a{
+	float:left;
+	text-indent:-999px;
+	overflow:hidden;
+}
+.navi a.an1{
+	margin-left:4px;
+	width:76px;
+	height:57px;
+}
+.navi a.an2{
+	margin:44px 0 0 2px;
+	width:77px;
+	height:49px;
+}
+.navi a.an3{
+	margin:70px 0 0 5px;
+	width:77px;
+	height:41px;
+}
+.navi a.an4{
+	margin:85px 0 0 7px;
+	width:80px;
+	height:30px;
+}
+.navi a.an5{
+	margin:73px 0 0 6px;
+	width:88px;
+	height:44px;
+}
+.navi a.an6{
+	margin:48px 0 0 7px;
+	width:93px;
+	height:50px;
+}
+.navi a.an7{
+	margin-left:2px;
+	width:90px;
+	height:70px;
+}
+.side{
+	float:left;
+	width:230px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/side_bg.gif) repeat-y center 0;
+}
+.side_top{
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/side_top.gif) no-repeat center top;
+}
+.side_bottom{
+	margin:0 auto;
+	padding-bottom:6px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/side_bottom.gif) no-repeat center bottom;
+}
+.main{
+	float:left;
+	margin:0 12px;
+	width:346px;
+}
+.login{
+	margin:0 auto;
+}
+.login a{
+	display:block;
+	margin:0 auto;
+	position:relative;
+	top:28px;
+	text-indent:-999px;
+	overflow:hidden;
+	width:195px;
+	height:56px;
+}
+.login h2{
+	margin:0 auto 6px;
+	width:217px;
+	height:46px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/title_01.png) no-repeat;
+}
+#unlogin{
+	margin:0 auto;
+	width:217px;
+	height:112px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/logined.png) no-repeat;
+}
+#logined{
+	margin:0 auto;
+	width:217px;
+	height:112px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/unlogin.png) no-repeat;
+}
+.baby{
+	margin:0 auto;
+}
+.baby h2{
+	margin:6px auto;
+	width:217px;
+	height:39px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/title_02.png) no-repeat;
+}
+.baby ul{
+	margin:0 auto;
+	padding:16px 14px 16px 18px;
+	_padding:14px 3px 6px 18px;
+	text-align:center;
+	width:187px;
+	height:163px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/bady_list.gif) no-repeat center center;
+}
+.baby li{
+	float:left;
+	margin:0 6px 6px 0;
+	_margin:0 8px 6px 0;
+	width:87px;
+	height:79px;
+}
+.baby li img{	
+	border:1px solid #000;
+}
+.service{
+	margin:0 auto;
+}
+.service h2{
+	margin:6px auto;
+	width:217px;
+	height:40px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/title_03.png) no-repeat;
+}
+.service p{
+	margin:0 auto;
+	width:217px;
+	height:53px;
+	text-indent:-999px;
+	overflow:hidden;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/index_01.png) no-repeat;
+}
+.advice{
+	margin:0 auto;
+}
+.advice h2{
+	margin:6px auto;
+	width:217px;
+	height:40px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/title_04.png) no-repeat;
+}
+.advice ul{
+	margin:0 auto;
+	width:217px;
+	height:95px;
+	text-indent:-999px;
+	overflow:hidden;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/index_02.png) no-repeat;
+}
+.news{
+}
+.news h2{
+	width:217px;
+	height:40px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/title_06.png) no-repeat;
+}
+.news ul{
+	margin:5px auto;
+	padding:18px;
+	color:#003b60;
+	background:#e1f7ff;
+	border:1px solid #a0cee5;
+}
+.news li{
+	padding-left:10px;
+	line-height:24px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/icon_01.gif) no-repeat 0 center;
+}
+.news li a{
+	float:left;
+	width:250px;
+	color:#003b60;
+}
+.news li em{
+	float:left;
+	width:40px;
+}
+.news a.more{
+	position:relative;
+	top:-258px;
+	left:295px;
+	display:block;
+	width:44px;
+	height:15px;
+	text-indent:-999px;
+	overflow:hidden;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/more.png) no-repeat;
+}
+.prize{
+}
+.prize h2{
+	width:217px;
+	height:40px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/title_07.png) no-repeat;
+}
+.prize a.more{
+	position:relative;
+	top:-358px;
+	left:295px;
+	display:block;
+	width:44px;
+	height:15px;
+	text-indent:-999px;
+	overflow:hidden;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/more.png) no-repeat;
+}
+.prize_box{
+	margin:5px auto;
+	padding:17px;
+	color:#003b60;
+	background:#e1f7ff;
+	border:1px solid #a0cee5;
+}
+.prize ul{
+	margin:10px 0 0;
+	width:309px;
+}
+.prize li{
+	float:left;
+	padding:10px 0;
+	*padding:0;
+	_padding:10px 0;
+	margin-right:33px;
+	width:81px;
+	height:74px;
+	line-height:74px;
+	text-align:center;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/prize_bg.png) no-repeat;
+}
+.prize li.right{
+	margin-right:0;
+}
+.prize em{
+	padding-bottom:3px;
+	line-height:24px;
+	font-style:normal;
+	color:#673418;
+	border-bottom:1px dashed #a4958b;
+}
+.ranking{
+}
+.ranking h2{
+	margin:0 auto;
+	width:217px;
+	height:47px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/title_05.png) no-repeat;
+}
+.ranking_list{
+	margin:6px auto;
+	width:217px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/ranking_list_bg.gif) repeat-y center 0;
+}
+.ranking_list_top{
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/ranking_list_top.gif) no-repeat center top;
+}
+.ranking_list_bottom{
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/ranking_list_bottom.gif) no-repeat center bottom;
+}
+.rankinglist{
+	width:215px;
+	height:300px;
+}
+table.rank{
+	margin:10px auto;
+	width:201px;
+	line-height:26px;
+	text-align:center;
+	color:#005e98;
+}
+.rank1{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/index_03.png) no-repeat center top;
+}
+.rank2{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/index_04.png) no-repeat center top;
+}
+table.rank th{
+	text-indent:-999px;
+	overflow:hidden;
+}
+table.rank td.row1{
+	width:70px;
+}
+table.rank td.row2{
+	width:60px;
+}
+/*---------- main style ----------*/
+.rule{
+	margin:6px auto 0;
+	width:219px;
+	min-height:344px;
+}
+.rule li{
+	margin-bottom:5px;
+	text-indent:-999px;
+	overflow:hidden;
+}
+.rule li a{
+	display:block;
+	height:57px;
+}
+.rule li a.introduction{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_01.png) no-repeat;
+}
+.rule li a.time{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_02.png) no-repeat;
+}
+.rule li a.online_rule{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_03.png) no-repeat;
+}
+.rule li a.downline_rule{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_04.png) no-repeat;
+}
+.rule li a.notice{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_05.png) no-repeat;
+}
+.rule li a.award{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_06.png) no-repeat;
+}
+.rule li a.oneself{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_07.png) no-repeat;
+}
+.rule li a.team{
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_08.png) no-repeat;
+}
+.main_box{
+	float:left;
+	margin:0 auto;
+	margin-left:13px;
+	width:587px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/main_bg.gif) repeat-y center 0;
+}
+.main_box_top{
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/main_top.gif) no-repeat center top;
+}
+.main_box_bottom{
+	margin:0 auto;
+	min-height:520px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/main_bottom.gif) no-repeat center bottom;
+}
+#CourseList{
+	margin:15px;
+}
+.rule_main{
+	width:557px;
+	color:#004568;
+	background:#e1f7ff;
+}
+.rule_main a{
+	color:#ff6600;
+	font-weight:bolder;
+}
+.rule_main p{
+	line-height:22px;
+}
+.rule_main p img{
+	margin:0 10px;
+}
+.rule_main p a{
+	padding:0 5px;
+}
+.rule_main p.t1{
+	padding:10px;
+	line-height:30px;
+	font-size:14px;
+	text-align:center;
+}
+.rule_main dl{
+	margin:15px 0 0;
+	line-height:22px;
+}
+.rule_main dt{
+	font-weight:bolder;
+}
+.rule_main em{
+	padding-left:5px;
+	font-style:normal;
+	color:#fc7302;
+	line-height:22px;
+}
+.rule_main ol{
+	margin:5px 0;
+}
+.rule_main ol li{
+	line-height:22px;
+}
+.rule_main ul{
+	margin:5px 0;
+}
+.rule_main h3{
+	margin:15px auto 0;
+	font-size:12px;
+}
+.rule_main table{
+	margin:0 auto;
+	width:90%;
+	line-height:18px;
+	font-size:12px;
+	text-align:center;
+}
+.rule_main table th{
+	border:1px solid #9cf;
+	background:#9ff;
+}
+.rule_main table td{
+	border:1px solid #9cf;
+	background:#f1f1f1;
+}
+.rule_main h3.time{
+	margin:15px auto;
+	width:371px;
+	height:42px;
+	text-indent:-999px;
+	overflow:hidden;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/time.gif) no-repeat;
+}
+.rule_main table.time{
+	margin:5px auto;
+	line-height:26px;
+}
+.rule_main table.time td{
+	padding-left:15px;
+	text-align:left;
+}
+form.signup label{
+	float:left;
+	margin:4px 5px;
+	width:130px;
+	line-height:22px;
+	text-align:right;
+}
+form.signup br{
+	clear: left;
+}
+form.signup input {
+	margin:5px 0;
+	height:15px;
+	line-height:15px;
+	font-size:12px;
+}
+form.signup span{	
+	line-height:30px;
+}
+form.signup input.IDcard {
+	width:250px;
+}
+form.signup input.add {
+	width:350px;
+}
+form.signup p{
+	line-height:30px;
+	border-top:1px dashed #005868;
+}
+
+.frm_btn{
+	margin:0 auto;
+	text-align:center;
+	border-top:1px dashed #005868;
+}
+.frm_btn input{
+	width:105px;
+	height:32px;
+	letter-spacing:1ex;
+	border:0;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_09.png) no-repeat;
+}
+.frm_btn .button1{
+	margin-right:20px;
+	height:32px;
+	background-position:0 0;
+	cursor:hand;
+}
+.frm_btn .button2{
+	height:32px;
+	background-position:-141px 0;
+	cursor:pointer;
+}
+.info{
+	padding-left:15px;
+	width:487px;
+	line-height:33px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/title_bg.png) repeat center center;
+}
+.rule_main dl.infomain{
+	margin:10px auto;
+	padding:10px;
+	width:480px;
+	background:#f0fbff;
+	border:1px solid #a9d1e5;
+}
+.rule_main dl.infomain dt{
+	height:40px;
+	font-size:14px;
+}
+.rule_main dl.infomain a{
+	position:relative;
+	top:-25px;
+	left:80px;
+	display:block;
+	width:96px;
+	line-height:26px;
+	*line-height:30px;
+	font-size:12px;
+	font-weight:normal;
+	text-align:center;
+	color:#004568;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/atn_10.png) no-repeat;
+}
+.rule_main dl.infomain a{
+	text-decoration:none;
+}
+.news_list{
+	padding:15px;
+}
+.news_list ul{
+	margin:5px auto;
+	padding:18px;
+	color:#003b60;
+	background:#e1f7ff;
+	border:1px solid #a0cee5;
+}
+.news_list li{
+	padding-left:10px;
+	line-height:24px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090601hero2009/icon_01.gif) no-repeat 0 center;
+}
+.news_list li a{
+	float:left;
+	width:475px;
+	color:#003b60;
+}
+.news_list li em{
+	float:left;
+	width:40px;
+}
+.detail {
+	padding:15px;
+}
+.detail h4 {
+	padding:20px;
+	text-align:center;
+	font-size:14px;
+	color:#58a100;
+}
+.detail em {
+	padding-bottom:15px;
+	display:block;
+	text-align:center;
+	font-size:12px;
+	font-style:normal;
+	color:#999;
+	border-bottom:1px dashed #ccc;
+}
+.detail em span {
+	padding:0 10px;
+}
+.detail p {
+	padding:5px 0;
+}
+#Fcontent {
+	padding:10px;
+	line-height:22px;
+	word-wrap:break-word;
+}
+dl.other{
+	padding:10px;
+	color:#999;
+	line-height:22px;
+	list-style:outside;
+	border-top:1px dashed #ccc;
+}
+dl.other dt {
+	padding-left:15px;
+	line-height:24px;
+	font-weight:bolder;
+	background:url(http://ossweb-img.qq.com/images/pet/web/web200905/main_content.png) no-repeat -705px 0;
+}
+dl.other dd {
+	padding-left:10px;
+	color:#999;
+	background:url(http://ossweb-img.qq.com/images/pet/web/web200905/main_content.png) no-repeat -713px -19px;
+}
+dl.other dd a {
+	color:#999;
+}
+.page{
+	margin:0 auto;
+	padding:15px;
+	width:520px;
+	text-align:center;
+	border-top:1px dashed #2c8bad;
+}/*  |xGv00|b0e5c5eeeacb0a2cbfe0c4a9faa00142 */

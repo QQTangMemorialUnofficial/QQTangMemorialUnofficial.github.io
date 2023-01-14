@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../list_1.shtml" title="综合新闻">综合新闻</a><a href="../608/list_1.shtml" title="最新公告">最新公告</a><a href="../619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../index.html" class="a">首页</a> >> <a href="../list_1.shtml" class="a">新闻中心</a> >> <span></span>最新</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29955.shtml" target="_blank"><font color="">3月22日擂台赛快报</font></a>
+                                <span>2005-03-23</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29957.shtml" target="_blank"><font color="">QQ堂VIP卡的使用说明</font></a>
+                                <span>2005-03-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29960.shtml" target="_blank"><font color="">回眸牵手季节--抢包山情侣大赛专题回顾</font></a>
+                                <span>2005-03-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29961.shtml" target="_blank"><font color="">新版本新内容 体验服务器中乐趣多</font></a>
+                                <span>2005-03-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29969.shtml" target="_blank"><font color="">愚人节真假新闻大挑战</font></a>
+                                <span>2005-03-29</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29970.shtml" target="_blank"><font color="">谣言:腾讯肯德基合作 玩游戏免费吃甜品</font></a>
+                                <span>2005-03-29</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29971.shtml" target="_blank"><font color="">谣言:QQ堂角色大挑战 道具商品大打折</font></a>
+                                <span>2005-03-29</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29973.shtml" target="_blank"><font color="">谣言:马化腾总裁亲携助手光临QQ堂游戏</font></a>
+                                <span>2005-03-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29974.shtml" target="_blank"><font color="">谣言:挑战足球新炸弹 隐藏人物免费拥有</font></a>
+                                <span>2005-03-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200503/29975.shtml" target="_blank"><font color="">谣言谣言满天飞 奖品奖品等你拿</font></a>
+                                <span>2005-03-31</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29979.shtml" target="_blank"><font color="">愚人节娱乐无极限 新闻真相大揭密</font></a>
+                                <span>2005-04-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29980.shtml" target="_blank"><font color="">QQ堂全线道具大降价活动开始实施</font></a>
+                                <span>2005-04-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29981.shtml" target="_blank"><font color="">愚人节活动奖励发放 各路高手请查收</font></a>
+                                <span>2005-04-04</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29982.shtml" target="_blank"><font color="">QQ堂优惠新举措 超值道具包官网发售</font></a>
+                                <span>2005-04-04</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29984.shtml" target="_blank"><font color="">挑战大炸弹 赢取鸡年吉祥大礼包攻略</font></a>
+                                <span>2005-04-06</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29985.shtml" target="_blank"><font color="">好消息：道具商店VIP卡隆重上架</font></a>
+                                <span>2005-04-06</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29986.shtml" target="_blank"><font color="">喜讯：QQ堂北方网通专区开通在即</font></a>
+                                <span>2005-04-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29987.shtml" target="_blank"><font color="">江苏移动专区开放</font></a>
+                                <span>2005-04-08</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200504/29990.shtml" target="_blank"><font color="">2005《QQ堂》中华英雄争霸赛横空出世</font></a>
+                                <span>2005-04-09</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n6.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n4.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|61255d141838169886896659c44fdce1<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>悬念迭起——X-file第一季-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>悬念迭起——X-file第一季</h4>
+    <div class="new_nytxt">　　流行的元素渲染10月的网游，最火暴的抽奖卡——X-file第一季，在国庆中秋两节来临前登陆Q堂。<br><br>　　当冰凤凰来临之际，你也许还不曾感受凤凰系列在Q堂的魅力。凤凰翅膀自怀旧金卡抽奖以后已彻底绝版，火凤凰持续热卖，如果你是凤凰系列翅膀的收藏爱好者，或者你是十足的Q堂道具迷，那么冰凤凰一定是你期待的！<br><br><div align="center"><img src="http://ossweb-img.qq.com/images/webpic/20061001/qqt-008.jpg" alt=""></div><br><br>　　获得冰凤凰的唯一方式就是X-file第一季抽奖卡。较高的中奖率是吸引玩家的另一亮点。不仅是冰凤凰，皇帝帽、搞怪便便帽、玫瑰花园等绝版道具都有可能出现。<br><br>　　别错过这次机会，用你的QB或Q券试下运气，也许惊喜就在触键那一刻降临！<br><br>　　更多道具请登陆QQ堂道具商城。<br>　　 </div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200708/32191.shtml">QQ堂嘻哈泡泡新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32184.shtml">炫耀街头 极限运动 滑板Girl＆Boy</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32180.shtml">玩转QQ堂嘻哈世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200707/32167.shtml">六翼翅膀纯美登场</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|5e3fcfe785b771e0749c8b1d070e6536<![endif]-->

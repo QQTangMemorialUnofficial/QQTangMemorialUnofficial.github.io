@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>	QQ音速支付</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="robots" content="all" />
+<meta name="author" content="eddygu" /> 
+<meta name="Copyright" content="Copyright (c) 2006-2007 tencent" />
+<meta name="Description" content="点燃自由幻想图标-开启美好游戏人生！-QQ自由幻想官方网站" />
+<meta name="Keywords" content="QQ自由幻想,Q币,盛夏四重奏,2.09版本,花妖巢穴,幻想之翼,仙子宠姬,浪漫满服,图标也升级,震撼出击,QQ自由幻想官方,网站下载,超级旋风,每天100万Q币,家族,人气,大比拼,领奖,下载,说明,公测,版本,QQ自由幻想官方网站,永久免费" />
+<script language="JavaScript" type="text/javascript" src="js/pay.js"></script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+<script language="JavaScript">
+function show(target){
+	target.style.display='block';
+}
+function hide(target){
+	target.style.display='none';
+}
+function DoSubmit(){
+    if(GetCheckedRadio("optype").value=="send"){
+        document.getElementById("pay_form").target="_self";
+        SendChl.SubmitForm();
+    }
+    else{
+        AskforChl.SubmitForm();
+    }
+}
+function init(){
+    var o=document.getElementById("pay_form").liuyansend;
+    var d=parent.IED_VIP_Product_info[parent.IED_VIP_Url_param["i"]]["desc"];
+    o.value=o.value.replace("服务",d);
+    o=document.getElementById("pay_form").liuyanask;
+    o.value=o.value.replace("服务",d);
+    if(GetCheckedRadio("optype").value=="send"){
+        hide(document.getElementById('KB1'));
+        show(document.getElementById('KB2'));
+        if(GetCheckedRadio("sendmonth").value=="other"){
+            document.getElementsByName("sendprepaymonth")[0].disabled=false;
+        }
+    }
+}
+</script>
+</head>
+<body onload="init();"> 
+	<div id="speed_cMiddle">
+		<div class="mTop"></div>
+		<div class="mContent">
+			<ul class="H350">
+				<li class="li_text">
+				  <div class="color_ff9900 floatL"><img src="http://ossweb-img.qq.com/images/commweb/star.jpg" width="10" height="10" align="absmiddle" /><span class="color_6d6d6d"><strong> 您选择了</strong></span><strong>他人支付/赠送他人开通<span class="color_6d6d6d">方式</span></strong></div> 
+				  <div class="li_lt"><a href="http://pay.qq.com/paycenter/paycenter_qb.shtml" target="_blank" class="color_6d6d6d" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.qdqbcz'});">Q点Q币充值</a></div><div class="li_lt1"><a href="http://pay.qq.com/account/index.shtml" target="_blank" class="color_6d6d6d" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.cxzhye'});">查询帐户余额</a></div></li>
+				<li class="li_xian"><img src="http://ossweb-img.qq.com/images/commweb/line.jpg" width="472" height="1" align="top" /></li>
+				<li class="form">
+				    <form action="" method="post" name="pay_form" id="pay_form" target="_self">
+                    <input name="service" type="hidden" value="">
+                    <input name="month" type="hidden" value="">
+                    <input name="pay" type="hidden" value="">
+                    <input name="entrance" type="hidden" value="">
+                    <input name="channel" type="hidden" value="qdian">
+                    <input name="ProvideUin" type="hidden" value="">
+                    <input name="SatetyID" type="hidden" value="">
+					<div class="oText">
+					<img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 
+					<input name="optype" type="radio" onClick="show(document.getElementById('KB1'));hide(document.getElementById('KB2'));pgvSendClick({hottag:'IED.VIP.INDEXHTM.qtrzf'});" checked="checked" value="askfor" /> 请他人支付
+					<input type="radio" name="optype" value="send" onClick="show(document.getElementById('KB2'));hide(document.getElementById('KB1'));pgvSendClick({hottag:'IED.VIP.INDEXHTM.zstr'});" /> 赠送他人</div>
+					<div id="KB1">
+    					<div class="tText"> <img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请选择开通服务的有效期： </div>
+    					<div class="tText1">&nbsp; 
+    					    <input type="radio" name="askformonth" value="1" onClick="AskforChl.ChangeMonth(this.value);pgvSendClick({hottag:'IED.VIP.INDEXHTM.ygy'});" /> 一个月      
+    					    <input name="askformonth" type="radio" value="3" onClick="AskforChl.ChangeMonth(this.value);pgvSendClick({hottag:'IED.VIP.INDEXHTM.sgy'});" checked="checked" />三个月      
+    					    <input type="radio" name="askformonth" value="6" onClick="AskforChl.ChangeMonth(this.value);pgvSendClick({hottag:'IED.VIP.INDEXHTM.lgy'});" />六个月      
+    					    <input type="radio" name="askformonth" value="other" onClick="AskforChl.ChangeMonth(this.value);pgvSendClick({hottag:'IED.VIP.INDEXHTM.qt'});" />其他：         
+    					    <input name="askforprepaymonth" type="text" maxlength="2" disabled="disabled"  class="border_acacac" size="2" /> 个月				  
+    					</div>
+    				    <div class="tText"> <img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请输入付帐人号码：
+    				      &nbsp;<input name="payuin" type="text" class="border_acacac" size="20" maxlength="10" />
+    				    </div>
+    					<div class="tText"> 
+    					    <div class="floatL"><img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请输入索要留言：
+    					    <br />&nbsp;&nbsp;（限16字内）
+    					    </div>
+    					    <div class="floatL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    					        <textarea name="liuyanask" cols="40" rows="5" class="border_acacac color_9b9b9b">帮我开通服务吧</textarea>
+    					    </div>
+                        </div>
+                    </div>
+                    <div id="KB2" style="display:none;">
+                        <div class="tText"> 
+                            <img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请选择支付方式：
+                            <div>
+                                &nbsp;&nbsp;<input name="prepay" type="radio" value="qdian" onClick="SendChl.ChangeChl(this.value)" checked="checked" />Q点&nbsp;
+                                <input name="prepay" type="radio" value="qb" onClick="SendChl.ChangeChl(this.value)" />Q币
+                                <input name="qbqd" type="checkbox" value="1" checked>
+                                <span id="qbqd_prompt">当Q点余额不足时，使用Q币支付不足部分费用</span>
+                            </div>
+                        </div>
+    					<div class="tText"> <img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请选择开通服务的有效期： </div>
+    					<div class="tText1">&nbsp;
+    					    <input type="radio" name="sendmonth" value="1" onClick="SendChl.ChangeMonth(this.value);pgvSendClick({hottag:'IED.VIP.INDEXHTM.ygy'});" /> 一个月      
+    					    <input name="sendmonth" type="radio" value="3" onClick="SendChl.ChangeMonth(this.value);pgvSendClick({hottag:'IED.VIP.INDEXHTM.sgy'});" checked="checked" />三个月      
+    					    <input type="radio" name="sendmonth" value="6" onClick="SendChl.ChangeMonth(this.value);pgvSendClick({hottag:'IED.VIP.INDEXHTM.lgy'});" />六个月      
+    					    <input type="radio" name="sendmonth" value="other" onClick="SendChl.ChangeMonth(this.value);pgvSendClick({hottag:'IED.VIP.INDEXHTM.qt'});" />其他：         
+    					    <input name="sendprepaymonth" type="text" maxlength="2" disabled="disabled"  class="border_acacac" size="2" /> 个月				  
+    					</div>
+    				    <div class="tText"> <img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请输入受赠方号码：
+    				      &nbsp;<input name="senduin" type="text" class="border_acacac" size="20" maxlength="10" />
+    				    </div>
+    					<div class="tText"> 
+    					    <div class="floatL"><img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请输入赠送留言：
+    					    <br />&nbsp;&nbsp;（限16字内）
+    					    </div>
+    					    <div class="floatL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    					        <textarea name="liuyansend" cols="40" rows="5" class="border_acacac color_9b9b9b">帮您开通了服务</textarea>
+    					    </div>
+                        </div>
+                    </div>
+					<div class="thText1" style="padding-top:102px;"><a href="javascript:DoSubmit();void 0;" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.qrzf'});"><img src="http://ossweb-img.qq.com/images/commweb/queren.jpg" border="0"/></a></div>
+				</form>
+				</li>
+			</ul>
+			<ul>
+				<li class="li_xian"><img src="http://ossweb-img.qq.com/images/commweb/line.jpg" width="472" height="1" align="top" /></li>
+				<li class="wxin"><img src="http://ossweb-img.qq.com/images/commweb/middle_j.jpg" alt="" width="6" height="7" align="absmiddle" /><strong class="color_7fb400"> 温馨提示：</strong></li>	
+				<li class="oWxin"><div class="oWxinother"><script type="text/javascript">document.write(parent.IED_VIP_Wr_pay_msg());</script></div></li>
+			</ul>
+	  </div>
+		<div class="mBottom"></div>
+	</div>
+<script type="text/javascript">
+try{parent.setInputFromParentUrl("pay_form");}catch(e){}
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|b5d7afd12705b43b68bbe6f0149edab1<![endif]-->

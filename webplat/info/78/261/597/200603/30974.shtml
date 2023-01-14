@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>挑战新BOSS 挑战珍稀道具-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>挑战新BOSS 挑战珍稀道具</h4>
+    <div class="new_nytxt">　　3 月份，神秘的夺宝大战火爆开场， QQ 堂《船长密室》任务全面展开！<br><br>　　一提起虎克船长，浮在脑海里的是凶神恶煞的脸少了一只眼睛 , 用个黑眼罩遮起 ; 健全的手中不是拿着弯刀就是老式的手枪 , 腰中的宽腰带上不是处了刀鞘就是几把备用手枪，那盛气凌人的模样，不仅让人心惊胆战。<br><br>　　然而，人间自有真情在， QQ 堂勇士们出手的时候到了，保护糖果家园的任务人人有责。稀有珍贵的道具是勇士们荣誉的象征，实力的证明。 <br><br>　　<img src="../../../../../../webpic/20060327/02.jpg"><br><br>　　水手弯刀，金光灿灿的宝刀，刀身弯曲，色泽光亮，突显神气及威严。 <br><br>　　水手帽子，红艳艳的水手帽子，迎风飘扬，中间那海盗标志格外显眼，让你的威武体现得淋漓尽致。 <br><br>　　水手衣服，蓝白相间的水手衣服，海水的颜色，与火红的帽子形成鲜明的对照，却不失其风采。<br><br>　　当然，不仅仅这三种珍贵道具，取得 藏宝室入口的“钥匙”的勇士，将有更震撼人心的神秘大奖等你去揭晓哦！ <br><br>　　勇士们，出击吧！ <br><br>　　活动流程，详情请见： <a href="../../../../../../hook/index.html" target="_blank">http://qqtang.qq.com/hook/ </a>。 <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32036.shtml">致富有新招——酷比宝石</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|5dc49cc286467dda6d227b1f58611173<![endif]-->

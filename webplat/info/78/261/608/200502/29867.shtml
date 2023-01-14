@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂版本更新公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂版本更新公告</h4>
+    <div class="new_nytxt">　　各位玩家，QQ堂游戏最新的Alpha6Build19版本，也就是大家期待以久的《QQ堂：春之恋曲》版本已经正式发布。<br><br>　　该版本现在已经提供官网下载，各位玩家可提前进行更新，游戏服务器将于下午2:30左右开放，敬请大家留意官网后续公告。<br><br>　　QQ堂Alpha6Build19《春之恋曲》版本更新内容列表<br><br>　　<b>【新增内容】</b><br>　　增加了DirectX图像引擎<br>　　采用DirectInput键盘输入<br>　　增加了启动QQ堂时的配置对话框的高级按钮<br>　　增加了游戏内意见箱<br>　　增加了四张爱情地图<br>　　增加包子模式中人物死亡后黑屏，倒计时，指示复活地点和随机复活功能<br>　　增加了房间改名和改其他属性功能（房主点击房间号码即可）<br>　　增强了游戏管理功能<br>　　增加了房间内角色的能力属性条<br>　　增加了玩家蜜语功能<br>　　增强了玩家命令行功能（具体命令行附后）<br>　　增加了玩家升级动画<br>　　增加了玩家经验滚动增加动画<br>　　增加了游戏自动升级功能<br>　　增加了“英雄”隐藏角色<br>　　增加了功夫地图的图标<br>　　增加了情人节玫瑰活动道具<br>　　道具商店增加了部分新道具<br><br>　　<b>【调整内容】</b><br>　　微调键盘操作参数，改善手感<br>　　重新调整了角色的速度与递增速度参数<br>　　商店添加背景，框架，头饰，背饰类栏目<br>　　游戏中逃跑算负<br>　　调整了频道划分，新增了500分以下小兵频道<br>　　调快了飞镖和斧头的速度<br>　　防止玩家使用非法名字（例如：系统公告或者巡查员）<br>　　调整了将房间内的提示位置，以免妨碍选择队伍<br>　　选择房间界面中，取消了错误的房间页号<br>　　房间标题中加入了小区名称<br>　　如果一局游戏开始30秒，玩家无按键操作将视为挂机，游戏结束后玩家将被踢出房间<br>　　房间如果5分钟没有其他玩家进入, 自动将房主踢出（防止房主设密码占房）<br>　　调整了游戏提示文字消息的出现方式<br>　　调整了巡查员文字颜色<br><br>　　<b>【修正内容】</b><br>　　修正如果读取不到地图会崩溃的BUG<br>　　修正踩到香蕉皮后滑动的BUG<br>　　修改抢包山地图导致选择随机地图开始失败BUG<br>　　修正抢包山地图包子ID错误BUG<br>　　修正背景音乐重复播放BUG<br>　　修正游戏结束时的等级显示错误BUG<br>　　修正D3D 文字及贴图显示错误BUG<br>　　修正购买道具游戏币和QQ糖币不能实时更新的BUG<br>　　修正标准房间房主不被踢的BUG<br>　　修正了之前错误的包子3地图<br>　　修正春丽与波波丽等待动作的错误<br>　　修正了商店商品显示的错误<br>　　修正了包子复活的显示错误<br>　　修正了房间内框架动画播放不完整的BUG<br>　　修正了网络崩溃的BUG<br>　　修正了聊天框崩溃的BUG<br>　　修正了窗口模式退出闪动的BUG<br>　　修正了隐藏人物变色的BUG<br>　　修正玩家死亡后离开造成别的玩家死机的BUG<br><br>　　<font color="red"><b>【玩家快捷命令表】</b></font><br><table width="400" border="0" cellspacing="0" cellpadding="3"><tr><td width="24">&nbsp;</td><td>/IN 10001</td><td>邀请玩家10001 进入房间</td></tr><tr><td>&nbsp;</td><td>/AR</td><td>自动准备</td></tr><tr><td>&nbsp;</td><td>/WHOAMI</td><td>查询自己的信息</td></tr><tr><td>&nbsp;</td><td>/WHO 10001</td><td>查询玩家信息</td></tr><tr><td>&nbsp;</td><td>/GO 123</td><td>加入房间123</td></tr><tr><td>&nbsp;</td><td>/JOIN 123</td><td>加入房间123</td></tr><tr><td>&nbsp;</td><td>/W 10001</td><td>开始向10001发悄悄话</td></tr><tr><td>&nbsp;</td><td>/W off</td><td>结束悄悄话</td></tr><tr><td>&nbsp;</td><td>/R</td><td>快速回复悄悄话</td></tr><tr><td>&nbsp;</td><td>/AutoJoin</td><td>自动进入</td></tr></table></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200502/29874.shtml">《QQ堂》春之恋曲版 激情上演</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29872.shtml">新版本玩家需注意问题</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29868.shtml">《春之恋曲》升级完成 已经对外开放</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29866.shtml">QQ堂服务器停机升级更新</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|0bdf4effc29f783d09658f7f0485113f<![endif]-->

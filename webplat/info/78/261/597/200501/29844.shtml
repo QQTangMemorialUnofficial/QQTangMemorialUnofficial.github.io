@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>小兵新衣快速装备篇-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>小兵新衣快速装备篇</h4>
+    <div class="new_nytxt">　　小兵们要装备已经拥有的道具，首先要进入道具商店中。<br><br>　　1.在游戏大厅内点击“道具商店”按钮，或者在游戏房间内点击“道具商店”均可进入商店系统（注意：在游戏房间内点击“道具商店”按钮将导致玩家退出游戏房间）。<br><br><p align="center"><img src="../../../../../../webpic/20050113/img01.jpg"></p>　　2.然后看到角色选择预览界面（如下图）；<br><br><p align="center"><img src="../../../../../../webpic/20050113/img02.jpg"></p>　　3.玩家用鼠标左键点击角色图像可以切换所要装备的角色，先切换到自己想装备的角色上，然后再选择要装备的道具；<br><br>　　4.玩家先在道具栏找到自己想要装备的道具（道具栏的排列和翻页方法与商品清单栏一样），然后用鼠标左键单击道具，马上就可以看到该道具在角色身上装备的效果（如下图）。再次单击该道具则可以取下装备。如果角色装备了多件装备要同时取下可以点击角色预览窗口左上角的“取消预览”按钮；<br><br><p align="center"><img src="../../../../../../webpic/20050113/img03.jpg"></p>　　5.用户调整好角色装备后直接点击“退出”按钮即可确定角色装备，该角色就成为玩家的默认选择角色，此时再进入游戏房间中，默认就会选择该角色，而且道具已经按用户选择的方式装备好了。<br><br>　　详细使用请查看:<a href="../../../../../../new/operation06.htm#new" target="_blank">http://qqtang.qq.com/new/operation06.htm</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="29857.shtml">小兵课堂第二课之战斗准备篇</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29846.shtml">小兵课堂第一课之练习模式</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|27fafb2706c5675c9df1b2f709892aac<![endif]-->

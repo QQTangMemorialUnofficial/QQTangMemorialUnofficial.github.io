@@ -1,0 +1,33 @@
+body {
+	margin: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+td {
+	font-size: 12px;
+	line-height: 22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a:link {	text-decoration: none;color: #333333;}
+a:visited { text-decoration: none; color: #333333}
+a:hover {text-decoration: underline;color: #333333;}
+.big_txt {
+	color: #006796;
+	font-size: 14px;
+	line-height: 24px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.big_txt td {
+	color: #006796;
+	font-size: 14px;
+	line-height: 24px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.small_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.white_txt {
+	font-size: 12px;
+	color: #FFFFFF
+}

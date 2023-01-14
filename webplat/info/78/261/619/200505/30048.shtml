@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>无尽的任务流程说明-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>无尽的任务流程说明</h4>
+    <div class="new_nytxt">    魔王的诅咒正笼罩着QQ糖果王国，我们欣慰的看到大家为了挽救家园而奋斗，但是还有些玩家对活动规则不甚了解，特说明如下：  <br><br>    1 任务触发条件：进入游戏后点击右上角的道具商店，然后选择道具--功能道具，就可以看见触发任务的任务卡，购买之后就可以进行快乐的任务了！  <br><br>    2 任务完成条件：每一个任务都有不同的完成条件，例如新丁任务只要参加了三十局的战斗就算完成了任务；而勇士任务一的完成条件是在规定时间内踢足球模式超过2分钟的局数达到50局。完成各项任务的具体条件已经在<<英雄是怎么炼成的〉一贴中详细介绍。<br>链接为： http://bbs.qq.com/cgi-bin/bbs/show/content?club=3&groupid=145:10413&messageid=17168  <br><br>    3 任务奖励获得：玩家完成一个任务后，无须交付任务就可以进行下一个任务，系统会自动准确的进行统计。新丁任务的奖励会在接到任务之后二天发放，勇士任务的奖励是接到任务后三天发放。<br>奖励的发送时间为每天10：00。  <br><br>任务简单而富有趣味，希望大家都能开开心心，满载而归！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200505/30066.shtml">英雄归来，荣耀归于人民</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200505/30057.shtml">最后的决战--挑战大魔王</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200504/30034.shtml">英雄是怎么炼成的</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200504/30029.shtml">王国的历史，就在你的手中</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|c43618f2133a3522119299b90a2cb57e<![endif]-->

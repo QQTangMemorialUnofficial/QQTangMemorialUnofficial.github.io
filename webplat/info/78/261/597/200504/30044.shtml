@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>品味《QQ堂》-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>品味《QQ堂》</h4>
+    <div class="new_nytxt">　　当我们专心地看着可爱的角色在地图上或奔走，或无奈，我们会情不自禁地微笑，感受着那最简单的快乐。当我们在百忙之中抽出仅有的三分钟，享受一局简单的快乐，然后，就会记住了这个名字——《QQ堂》。<br><br><p align="center"><img src="../../../../../../webpic/20050501/b1.jpg"></p>　　看着市场上一只又一只号称大制作、高质量的游戏，在硬盘上重复了一遍又一遍的安装与卸载，心里面就忽然很想找回从前游戏简单的快乐。五彩的斑斓，绚丽的色彩，仿佛置身于一个童话的世界，可爱逗趣的角色在微笑，《QQ堂》就是这样跃入了我们的生活。于是，我们再一次感受到了简单的快乐，重温了过去的感动。<br><br><p align="center"><img src="../../../../../../webpic/20050501/b2.jpg"></p>　　而今天，当我再次尝试用更精确的语言去描述《QQ堂》所带给我们的快乐的时候，我知道自己已无法再用任何言语去形容，去诉说心底被唤醒的童年时的回忆。欢乐是《QQ堂》永恒的主题。我们会不断的成长，但是我相信成长不会是以牺牲欢乐为代价的。在《QQ堂》的世界，所有的瞬间都是精彩而难忘的，是缤纷而绚烂的，是鲜亮而丰盛的。<br><br>　　让我们再次专心地看着这些可爱的角色，在地图上，或奔走，或无奈，静静地回忆我们过往在童年时里的每一个瞬间，然后，向往《QQ堂》更精彩的未来。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200507/30233.shtml">十万！打造国产休闲网游第一品牌</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200505/30074.shtml">QQ堂珠海行 宽带改变生活</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30045.shtml">探寻：《QQ堂》玩家女多男少之迷</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30040.shtml">《QQ堂》精彩一刻尽展现</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|1e37e2727f173618b92adc484e07e827<![endif]-->

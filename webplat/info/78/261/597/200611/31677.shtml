@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂公开赛邀你周末快乐行-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂公开赛邀你周末快乐行</h4>
+    <div class="new_nytxt">　　无意中翻开自己的日历，发现原来不知不觉中，又一个轻松的周末即将来临，小烦恼又来了——周末干啥好呢？请停止你的思考，QQ堂公开赛邀你周末快乐行！<br><br>　　从11月3日，即本周五开始，每周五、六、日三天，每天15：00—22：00，QQ堂公开赛为你启动引擎，带你朝轻松刺激行进。<br><br>　　只要你手拿QQ堂公开赛门票，身兼QQ堂赠送的公开赛参赛选手背景一张（7天权），你就能尽情开玩，再也不让小烦恼每周都来骚扰你。<br>    <br>　　本次公开赛为公平起见，仍然按照惯例实行混战积分制，系统在所有玩家中实行随机配对原则，虽然你不能随意选择自己的对手，但维护了比赛最基本的公平原则。玩得公平才能玩得开心。<br><br>　　公开赛不仅让你拼得痛快，玩得开心，还有奖品赠送优胜者：每周比赛前100位，每周排行榜前10位，公开赛每周流动冠军等等各项都将得到相应的奖励。<br><br>　　各项可以兼容发放，如果你有足够实力，踏沙锅内冠军宝座，你甚至可以将优胜、十强与冠军的奖励一网打尽，尽收囊中！<br><br>　　QQ堂公开赛，本周停驻你家，邀你周末快乐行！<br><br>　　具体比赛规则，请关注QQ堂官网相关信息。<br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|57891583f33028d8f442350213b33b92<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂升级维护公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂升级维护公告</h4>
+    <div class="new_nytxt">　　亲爱的玩家，近期QQ堂对部分服务器进行升级，届时会对部分地区的玩家造成影响，详情如下:<br><br>　　1、今日晚上（5月17日）晚22点至5月18日10点对上海及浙江服务器进行升级。届时会出现以下房间玩家掉线及新玩家无法登陆房间的情况<br>影响小区如下：<br><br><table width="94%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#666666"><tr>  <td bgcolor="#FFFFFF" >上海自由区</td>  <td bgcolor="#FFFFFF" >浙江新手区</td></tr><tr>  <td bgcolor="#FFFFFF">107包子专区</td>  <td bgcolor="#FFFFFF">01狐狸软糖</td></tr><tr>  <td bgcolor="#FFFFFF">108包子专区</td>  <td bgcolor="#FFFFFF">02白兔软糖</td></tr><tr>  <td bgcolor="#FFFFFF">109英雄专区</td>  <td bgcolor="#FFFFFF">03水晶软糖</td></tr><tr>  <td bgcolor="#FFFFFF">110足球专区</td>  <td bgcolor="#FFFFFF">04孔雀香糖</td></tr><tr>  <td bgcolor="#FFFFFF">111BOSS专区</td>  <td bgcolor="#FFFFFF">05老虎香糖</td></tr><tr>  <td bgcolor="#FFFFFF">112BOSS专区</td>  <td bgcolor="#FFFFFF">06葡萄软糖</td></tr><br></table><br><br>　　2、明天早上（5月18日）时间5:40—7：00间实施上海服务器升级。QQ堂届时可能出现的问题，调整期间，玩家登陆除上海区外的其它区域会出现比较慢或者无法登陆的情况，商店购买道具可能出现失败或者反映慢的情况，其它一切正常。<br><br>　　3、5月18日（周四）5：30～10：30间对沈阳网通服务器进行升级，届时会出现沈阳网通区小区无法登陆，沈阳网通下载服务器无法下载的情况。<br><br>　　给大家造成的不便，QQ堂项目组表示抱歉，请大家继续关注QQ堂，谢谢！<br>  <br>　　<p align="right">QQ堂项目组<br>  <br>　　2006-5-17</P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../604/200612/31796.shtml">QQ堂2.0内测资格截止发放公告</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200610/31644.shtml">腾讯游戏社区正式上线</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200609/31561.shtml">Q点系统维护公告</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200608/31491.shtml">腾讯公司关于部分网络系统升级改造的通告</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|0095a965d383f1a7f7b1e44dc7bba066<![endif]-->

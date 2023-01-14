@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>Chinajoy现场，拥抱超级酷比-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>Chinajoy现场，拥抱超级酷比</h4>
+    <div class="new_nytxt"><br>　　QQ 堂酷比一夏现场真人秀的活动还在继续着，这个活动的热度倒是一直不减，观众们争相与动漫人物合影并冲印照片，当然最受欢迎的还是酷比了。 <br><br>　　<img src="../../../../../../webpic/20050722/01.jpg"> <br><br><br>　　有个小女孩一得到合影的机会就爬到了酷比的身上，让现场的观众发出一阵哄笑，确实， QQ 堂轻松的气氛感染了大多数的人。 <br><br><br>　　<img src="../../../../../../webpic/20050722/02.jpg"><br><br><br>　　与其他展台相比，腾讯的展台可能不是最时尚的，也不是把喇叭开得震天响的，但是永远有着一种愉悦的气氛。 <br><br><br>　　腾讯展台，轻轻松松，随时精彩呈现！ <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200509/30374.shtml">Chinajoy优秀游戏评比活动 玩家齐心力顶QQ堂</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30284.shtml">腾讯:休闲平台领军 大型新网游将公测</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30281.shtml">Chinajoy降下帷幕 QQ堂《酷比一夏》收获多</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30277.shtml">酷比可爱有罪，ChinaJoy摆长龙</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|e7d250613de83c1f602a7cfbe37766a8<![endif]-->

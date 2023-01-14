@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><script type="text/javascript">/*tag*/PAGE_SPEED_TIME = [new Date().getTime()];</script>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="robots" content="all" />
+<meta name="author" content="Tencent-TGideas" />
+<meta name="Copyright" content="Tencent" />
+<meta name="Description" content="QQ堂官方网站" />
+<meta name="Keywords" content="QQ堂,QQ堂,QQ堂,Q堂,QT,QQT,中华赛,紫钻,酷比,QQ糖,海王子,极地探险,酷比一夏,糖果王国" />
+<title>QQ堂官方网站</title>
+<link href="web200901/jscss/style.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="web200901/jscss/main.js"></script>
+<script type="text/javascript">
+var isIE = false;
+if(document.all){
+	isIE = true;
+}
+var guide_list_url = [];
+guide_list_url[0] = "web200901/inc/qqtang_index_lb02.htm";
+guide_list_url[1] = "web200901/inc/index_left_gg.htm";
+
+function $(){
+	var elements = new Array();
+	for (var i = 0; i < arguments.length; i++){
+		var element = arguments[i];
+		if (typeof element == "string"){
+			element = document.getElementById(element);
+		}
+		if (arguments.length == 1){
+			return element;
+		}
+		elements.push(element);
+	}
+	return elements;
+}
+
+function addListener(elem,eventType,eventFunc){
+	if (isIE){
+		elem.attachEvent(eventType,eventFunc);
+	}else{
+		elem.addEventListener(eventType.substr(2,eventType.length-2),eventFunc,false);
+	}
+}
+function loadifrs(){
+	setTimeout(function(){
+		$("guide_ad_round").src = guide_list_url[0];
+		$("guide_ad_round_loading").style.display = "none";
+		$("guide_ad_round").style.display = "block";
+
+		$("guide_ad_right").src = guide_list_url[1];
+		$("guide_ad_right_loading").style.display = "none";
+		$("guide_ad_right").style.display = "block";
+
+	},0);
+}
+function displayhide(str) {
+	if($(str).style.display == "block"){
+		$(str).style.display = "none";
+	}else{
+		$(str).style.display = "block";
+	}
+}
+addListener(window, "onload", loadifrs);
+
+</script>
+<!-[if lte IE 6]>
+<style>.pop_logo{background:url(https://ossweb-img.qq.com/images/jade/act/pop/logo.png) no-repeat left top;_background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ossweb-img.qq.com/images/jade/act/pop/logo.png');}
+ /*pop*/
+        .pop{width:555px;height:350px;display:none;outline:none;position:relative}
+        .pop_jump{background:url("https://ossweb-img.qq.com/images/qqtang/pop20140716/pop20140716qt.jpg") no-repeat}
+        .pop_jump{display:block;width:555px;height:350px;text-indent:-999em;overflow:hidden;}
+        .pop_close{position:absolute;width:40px;height:40px;display:block;right:0;top:0;background:url(about:blank);text-indent:-999em;overflow:hidden}
+
+</style>
+<![endif]->
+
+</head>
+<body id="guide" class="guide_bg">
+<script type="text/javascript" src="https://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="boxer">
+    <div class="content">
+        <!--logo-->
+        <div class="logo">QQ堂</div>
+        <!--春丽-->
+        <div class="chunli"></div>
+        <!--轮播广告-->
+        <div class="ad_round">
+            <div id="guide_ad_round_loading" class="guide_ad_round_loading">数据载入中...</div>
+            <iframe id="guide_ad_round" frameborder="0" scrolling="no" allowtransparency="true" class="guide_ad_round"></iframe>
+        </div>
+        <!--导航-->
+        <div class="menu"><a href="index.shtml" class="index">进入官网</a><a href="web2008/page/young.htm" class="young">新手必读</a><a href="vip/index.html" class="vip">紫钻会员</a><a href="https://qqtang.gamebbs.qq.com/" target="_blank" class="bbs">论坛</a></div>
+        <!--泰坦-->
+        <div class="taitan"></div>
+        <!--游戏下载-->
+        <div class="download">
+            <h2>游戏下载</h2>
+            <span>QQ堂5.2《欢聚一堂》版</span>
+            <p>QQ堂5.2《欢聚一堂》版<br />
+                十载人气健康网游QQ堂“欢聚一堂”新版登场！绿色、经典、轻松，70M微型客户端，陪你快乐度过每一天！</p>
+				<a href="javascript:alert('亲爱的玩家，目前QQ堂已关闭游戏下载，请留意官网最新消息：qqtang.qq.com')" onclick=pgvSendClick({hottag:'index.downbtn.client.xzq'}) title="下载器下载"class="xzq">下载器下载</a>
+            <!-- <a href="//dldir1.qq.com/qqtangfile/qqtangfile/QQTang5.2_Beta1Build1_DL_N_signed.exe" onclick=pgvSendClick({hottag:'index.downbtn.client.xzq'}) title="下载器下载"class="xzq">下载器下载</a> -->
+<!--<a href="#" title="旋风下载" class="xf" QHref="qqdl://aHR0cDovL2RsZGlyMS5xcS5jb20vcXF0YW5nZmlsZS9xcXRhbmdmaWxlL1FRVGFuZzUuMl9CZXRhMUJ1aWxkMV9ETF9OX3NpZ25lZC5leGU=" onclick="OnDownloadClick_Game(this, event, 20010,100, true); pgvSendClick({hottag:'index.downbtn.client.xf'})" oncontextmenu = "OnContextClick(this, event)">旋风下载</a>--><!--<a href="//dl_dir.qq.com/qqtangfile/QQTang4.3_Beta1Build1.EXE" title="BT下载"class="bt">BT下载</a>--></div>
+        <div class="media">
+            <!--合作媒体-->
+            <h2>合作媒体</h2>
+            <a href="https://download.17173.com/1439/10/44458/" target="_blank">17173</a> | <a href="https://ol.tgbus.com/xzzx/khdxz/200806/20080623173601.shtml" target="_blank">电玩巴士</a> | <a href="http://download.5617.com/file/s/6-169425-0.htm" target="_blank">5617</a> | <a href="http://games.qq.com/a/20080626/000281.htm" target="_blank">游戏频道</a> | <a href="http://dl.duowan.com/download/3003.html" target="_blank">多玩</a> | <a href="http://game.kuaiche.com/dl/netgame/khd/2007-09-19/43.html" target="_blank">快车网</a> | <a href="http://games.enet.com.cn/download/D0420080624002.html" target="_blank">ENET</a> | <a href="http://www.6617.com/hz/990.html" target="_blank">游虎网</a> | <a href="http://game.17351.com/154/down/article/2008220164619.html" target="_blank">17351</a> | <a href="http://008yx.com/view.php?tid=5142&amp;cid=30" target="_blank">西北游戏</a> | <a href="http://article.pchome.net/content-653747.html" target="_blank">PCHOME</a> | <a href="http://www.99you.com/downloads/clients/2008/06/25/9EECA393-5E6F-1301-52D5-AF1C4C39F703.html" target="_blank">99YOU</a> | <a href="http://noyes.cn/software_1567.html" target="_blank">NOYES</a> | <a href="http://down.766.com/netgame/other/12142924972073.html" target="_blank">766</a> | <a href="http://download.7yx.com.cn/Html/2008/0220/216.html" target="_blank">去游戏</a> | <a href="http://down.52pk.com/soft/317.htm" target="_blank">52PK</a> | <a href="http://download.1t1t.com/soft.php?cate_id=219&amp;soft_id=622" target="_blank">1T1T</a> | <a href="http://www.jcku.com/games/20071028/436.html" target="_blank">精彩库</a> | <a href="http://www.ttlttt.com/Soft/yxkhd/200806/1112.html" target="_blank">天才</a> | <a href="http://www.aipai.com/game_gameid-1133.html" target="_blank">爱拍游戏</a> | <a href="http://www.3366.com/" target="_blank">3366小游戏</a></div>
+        <!--右侧广告-->
+        <div class="ad_right">
+            <div id="guide_ad_right_loading" class="guide_ad_right_loading">数据载入中...</div>
+            <iframe id="guide_ad_right" frameborder="0" scrolling="no" allowtransparency="true" class="guide_ad_right"></iframe>
+        </div>
+    </div>
+</div>
+<div id="footer">
+    <script>foot()</script>
+</div>
+
+<!--弹层-->
+<div class="pop" id="pop">
+    <div class="pop_top">
+        <a href="javascript:" title="关闭" onclick="closeD();" class="pop_close hid">关闭</a>
+        <a href="http://tps.qq.com/act/a20140626hlqk/?ADTAG=cop.innercop.qqtang.pop" title="枪神纪" onclick="pgvSendClick({hottag:'index.pop20140716.jump'})" class="pop_jump" target="_blank" >枪神纪</a>
+    </div>
+</div>
+
+<!--弹层结束-->
+
+
+<script src="https://pingjs.qq.com/tcss.ping.https.js"></script>
+<script src="https://ossweb-img.qq.com/images/js/milo/milo-min.js"></script>
+<script type="text/javascript">
+if(typeof(pgvMain) == 'function') pgvMain();
+//弹出层
+//    function showD(o){ need("biz.dialog",function(Dialog){ Dialog.show({id:o,opacity:90,onCloseCallback:function(){}}); }); }
+//    function closeD(){ need("biz.dialog",function(Dialog){ Dialog.hide();});}
+//	showD("pop");
+</script>
+</body>
+<script src="https://ossweb-img.qq.com/images/js/pagespeed/page_speed_v2.js"></script></html><!--[if !IE]>|xGv00|19e456923a0bc24dd614c5c1739e27b1<![endif]-->

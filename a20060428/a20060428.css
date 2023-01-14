@@ -1,0 +1,66 @@
+a:link {	text-decoration: none;color: #333333;}
+a:visited { text-decoration: none; color: #333333}
+a:hover {text-decoration: underline;color: #333333;}
+body {
+	FONT-SIZE: 12px;
+	color: #333333;
+	margin: 0px;
+	background-image: url(images/bg.jpg);
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	background-position: center top;
+	background-color: #48C9FF;
+}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+}
+.big_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+.small_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.article_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.article_txt td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 150%;
+}
+.article_txt a:link {	text-decoration: underline;}
+.article_txt a:visited { text-decoration: underline}
+.article_txt a:hover {text-decoration: underline;}
+.txt_table {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dashed;
+	border-left-style: none;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.login_table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #999999;
+	background-color: #FFFFFF;
+	padding: 3px;
+}
+.table_bg {
+	background-attachment: fixed;
+	background-image: url(images/table_bbg.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #FFFFFF;
+}

@@ -1,0 +1,566 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><script type="text/javascript">/*tag*/PAGE_SPEED_TIME = [new Date().getTime()];</script>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="robots" content="all" />
+<meta name="author" content="Tencent-TGideas" />
+<meta name="Copyright" content="Tencent" />
+<meta name="Description" content="QQ堂" />
+<meta name="Keywords" content="QQ堂,QQ堂,QQ堂,Q堂,QT,QQT,中华赛,紫钻,酷比,QQ糖,海王子,极地探险,酷比一夏,糖果王国" />
+<title>QQ堂官方网站</title>
+<link href="web200901/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="https://ossweb-img.qq.com/images/pet/comm/jquery.js"></script>
+<!--<script type="text/javascript" src="//pet.qq.com/web200907/jscss/common.js"></script>-->
+<!--<script type="text/javascript" src="//pet.qq.com/comm-htdocs/js/loadjs.js"></script>-->
+<script language="javascript" src="web200901/jscss/main.js"></script>
+<script type="text/javascript">
+//新闻
+function tab(n){
+	var d = document.getElementById("sildeNewTabs");
+	var a = d.getElementsByTagName("a");
+	for(var i=0;i<a.length;i++){
+		if(i==parseInt(arguments[0])){
+			d.className = "news_btn news_btn"+i;
+			break;
+		}
+		document.getElementById('content'+i).style.display = 'none';
+	}
+	document.getElementById('content'+n).style.display = 'block';
+}
+function tab1(n){
+	var d = document.getElementById("sildebbsTabs");
+	var a = d.getElementsByTagName("a");
+	for(var i=0;i<a.length;i++){
+		if(i==parseInt(arguments[0])){
+			d.className = "bbs_btn bbs_btn"+i;
+			break;
+		}
+	}
+}
+var isIE = false;
+if(document.all){
+	isIE = true;
+}
+
+var index_list_url = [];
+index_list_url[0] = "web200901/inc/in_new.htm";
+index_list_url[1] = "web200901/inc/in_notice.htm";
+index_list_url[2] = "web200901/inc/in_action.htm";
+
+var index_list_url1 = [];
+index_list_url1[0] = "//qqtang.qq.com/webplat/info/news_version3/733/4193/4194/m2769/index.shtml";
+index_list_url1[1] = "//qqtang.qq.com/webplat/info/78/262/index.html";
+index_list_url1[2] = "//qqtang.qq.com/webplat/info/news_version3/733/4193/4218/m2907/index.shtml";
+
+var index_list_url2 = [];
+index_list_url2[0] = "time/news/toplist_item10.htm";
+index_list_url2[1] = "time/news/toplist_item11.htm";
+
+var index_list_url5 = [];
+index_list_url5[0] = "time/CommWenWen/wenwen.htm";
+
+var index_list_url6 = [];
+index_list_url6[0] = "web200901/inc/in_photo.htm";
+
+var index_list_url7 = [];
+index_list_url7[0] = "web200901/inc/in_search.htm";
+
+var index_list_url8 = [];
+index_list_url8[0] = "web200901/inc/qqtang_index_lb02.htm";
+
+var index_list_url9 = [];
+index_list_url9[0] = "web200901/inc/in_right_ad.htm";
+
+var index_list_url10 = [];
+index_list_url10[0] = "web200901/inc/in_center_ad.htm";
+
+function addListener(elem,eventType,eventFunc){
+	if (isIE){
+		elem.attachEvent(eventType,eventFunc);
+	}else{
+		elem.addEventListener(eventType.substr(2,eventType.length-2),eventFunc,false);
+	}
+}
+function loadifrs(){
+	setTimeout(function(){
+//		$("slideFrame").src = index_list_url1[0];
+//		$("slideFrame_loading").style.display = "none";
+//		$("slideFrame").style.display = "block";				   
+		document.getElementById("index_props").src = index_list_url2[0];
+		document.getElementById("index_props_loading").style.display = "none";
+		document.getElementById("index_props").style.display = "block";
+
+		document.getElementById("index_soso").src = index_list_url5[0];
+		document.getElementById("index_soso_loading").style.display = "none";
+		document.getElementById("index_soso").style.display = "block";
+		
+		document.getElementById("index_pic").src = index_list_url6[0];
+		document.getElementById("index_pic_loading").style.display = "none";
+		document.getElementById("index_pic").style.display = "block";
+		
+		document.getElementById("index_questionnaire").src = index_list_url7[0];
+		document.getElementById("index_questionnaire_loading").style.display = "none";
+		document.getElementById("index_questionnaire").style.display = "block";
+		
+		document.getElementById("index_ad_round").src = index_list_url8[0];
+		document.getElementById("index_ad_round_loading").style.display = "none";
+		document.getElementById("index_ad_round").style.display = "block";
+		
+		
+		document.getElementById("slideFrame1").src = index_list_url1[1];
+		document.getElementById("slideFrame1_loading").style.display = "none";
+		document.getElementById("slideFrame1").style.display = "block";
+		
+		document.getElementById("index_video").src = index_list_url1[2];
+		document.getElementById("index_video_loading").style.display = "none";
+		document.getElementById("index_video").style.display = "block";
+	},0);
+}
+
+function changeCurrent2(obj,ind,arr){
+	document.getElementById(obj).className = 'props_btn props_btn'+ind;
+	document.getElementById("index_props").src = index_list_url2[ind];
+}
+
+function displaySubMenu(li) {
+	var subMenu = li.getElementsByTagName("ul")[0];
+	subMenu.style.display = "block";
+	var subA = li.getElementsByTagName("a")[0];
+	subA.className = "shover";
+	var subLi = li.getElementsByTagName("li");
+	subLi[subLi.length-1].className = "s";
+}
+
+function hideSubMenu(li) {
+	var subMenu = li.getElementsByTagName("ul")[0];
+	subMenu.style.display = "none";
+	var subA = li.getElementsByTagName("a")[0];
+	subA.className = "";
+}
+
+function displayhide(str) {
+	if(document.getElementById(str).style.display == "block"){
+		document.getElementById(str).style.display = "none";
+	}else{
+		document.getElementById(str).style.display = "block";
+	}
+}
+
+addListener(window, "onload", loadifrs);
+</script>
+</head>
+<body id="index" class="index_bg">
+<script type="text/javascript" src="https://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="boxer">
+    <div class="content">
+        <!--logo-->
+        <h1 class="logo" title="logo">QQ堂</h1>
+        <!--主导航-->
+        <!--        <script>menu()</script>-->
+        <ul id="menu">
+            <li id="m_home"><strong><a href="index.shtml" title="首页"></a>首页</strong></li>
+            <li id="m_news"><strong><a href="webplat/info/news_version3/733/4193/4194/m2770/list_1.shtml" title="新闻"></a>新闻</strong><span>
+                <ul>
+                    <li><a href="webplat/info/news_version3/733/4193/4194/m2770/list_1.shtml" title="综合新闻">综合新闻</a></li>
+                    <li><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" title="最新公告">最新公告</a></li>
+                    <li class="lcorebg"><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" title="最新活动">最新活动</a></li>
+                </ul>
+                </span></li>
+            <li id="m_download"><strong><a href="javascript:alert('亲爱的玩家，目前QQ堂已关闭游戏下载，请留意官网最新消息：qqtang.qq.com')" title="游戏下载">游戏下载</a></strong><span></span></li>
+            <li id="m_data"><strong><a href="web2008/page/young.htm" title="游戏资料"></a></strong><span>
+                <ul>
+                    <li><a href="web2008/page/young.htm" title="新手入门">新手入门</a></li>
+                    <li><a href="web2008/info/ui_01.htm" title="界面说明">界面说明</a></li>
+                    <li class="lcorebg"><a href="web2008/info/map.htm" title="地图玩法">地图玩法</a></li>
+                </ul>
+                </span></li>
+            <li id="m_vip"><strong><a href="comm-htdocs/vip/index%EF%B9%96t=qqtang.html" title="紫钻会员">紫钻会员</a></strong><span></span></li>
+            <li id="m_active"><strong><a href="CommPhoto/index.shtml" title="玩家互动"></a></strong><span>
+                <ul>
+                    <li><a href="CommPhoto/photo.shtml" title="图片">图片</a></li>
+                    <li><a href="web2008/page/wallpaper.htm" title="壁纸">壁纸</a></li>
+                    <li><a href="web2008/page/movie.htm" title="视频">视频</a></li>
+                    <li><a href="webplat/info/news_version3/733/4193/4229/m2880/list_1.shtml" title="杂志">杂志</a></li>
+                    <li><a href="webplat/info/news_version3/733/4193/4218/m2876/list_1.shtml" title="录像">录像</a></li>
+                    <li><a href="act/a20090421fame/index.htm" target="_blank" title="名人堂">名人堂</a></li>
+                    <li class="lcorebg"><a href="http://wenwen.soso.com/z/c18024704.htm" title="问答">问答</a></li>
+                </ul>
+                </span></li>
+            <li id="m_bbs"><strong><a href="https://qqtang.gamebbs.qq.com" target="_blank" title="论坛">论坛</a></strong></li>
+            <li id="m_service"><strong><a href="http://service.qq.com/special_auto/qqtang.html" title="腾讯客服">腾讯客服</a></strong><span>
+                <ul>
+                    <li><a href="http://service.qq.com/special_auto/qqtang.html" title="客户服务">客户服务</a></li>
+                    <li><a href="http://gamesafe.qq.com/" target="_blank" title="游戏安全">游戏安全</a></li>
+                    <li><a href="http://game.qq.com/contract.shtml" title="用户协议">用户协议</a></li>
+                    <li><a href="http://game.qq.com/jhtx/" target="_blank" title="家长监护">家长监护</a></li>
+                    <li class="lcorebg"><a href="service/rules.htm" title="玩家条例">玩家条例</a></li>
+                </ul>
+                </span></li>
+        </ul>
+        <!--酷比-->
+        <div class="role_kubi"></div>
+        <!--左侧-->
+        <div id="Lside">
+            <div class="bg">
+                <div class="top">
+                    <div class="bottom">
+                        <!--用户登录-->
+                        <dl class="login">
+                            <dt><span>用户登录</span></dt>
+                            <dd>
+                                <!--                                <script>qqt_login()</script>-->
+                                <div id="logined"><a href="javascript:LogoutPage();" title="退出登录">退出登录</a></div>
+                                <div id="unlogin" style="display:block"><a href="javascript:OpenLoginDiv();" title="用户登录">用户登录</a></div>
+                                <script type="text/javascript">CheckLogin();</script>
+                                <a class="recharge" href="http://pay.qq.com/index.shtml" title="Q币充值" target="_blank">充值</a> </dd>
+                        </dl>
+                        <!--游戏下载-->
+                        <ul class="download">
+                            <!-- <li><a href="web2008/page/download.htm">游戏下载</a></li> -->
+                            <li><a href="javascript:alert('亲爱的玩家，目前QQ堂已关闭游戏下载，请留意官网最新消息：qqtang.qq.com')">游戏下载</a></li>
+                        </ul>
+                        <!--新手入门-->
+                        <dl class="newhand">
+                            <dt><span>新手入门</span><a href="web2008/page/young.htm">more</a></dt>
+                            <dd><a class="n_01" href="web2008/page/young.htm">游戏介绍</a></dd>
+                            <dd><a class="n_02" href="web2008/page/story.htm">故事角色</a></dd>
+                            <dd><a class="n_03" href="web2008/page/faq.htm">常见问题</a></dd>
+                            <dd class="box_bottom"></dd>
+                        </dl>
+                        <!--界面说明-->
+                        <dl class="interface">
+                            <dt><span>界面说明</span><a href="web2008/info/ui_01.htm">more</a></dt>
+                            <dd><a class="i_01" href="web2008/info/ui_01.htm">入口</a></dd>
+                            <dd><a class="i_02" href="web2008/info/ui_02.htm">大厅</a></dd>
+                            <dd><a class="i_03" href="web2008/info/ui_03.htm">交易</a></dd>
+                            <dd><a class="i_04" href="web2008/info/ui_04.htm">家族</a></dd>
+                            <dd><a class="i_05" href="web2008/info/ui_05.htm">任务</a></dd>
+                            <dd><a class="i_06" href="web2008/info/ui_06.htm">个人</a></dd>
+                            <dd><a class="i_07" href="web2008/info/ui_07.htm">宠物</a></dd>
+                            <dd><a class="i_08" href="web2008/info/ui_08.htm">房间</a></dd>
+                            <dd><a class="i_09" href="web2008/info/ui_09.htm">商城</a></dd>
+                            <dd class="box_bottom"></dd>
+                        </dl>
+                        <!--地图玩法-->
+                        <dl class="map">
+                            <dt><span>地图玩法</span><a href="web2008/info/map.htm">more</a></dt>
+                            <dd><a class="m_01" href="web2008/info/map.htm">普通</a></dd>
+                            <dd><a class="m_02" href="web2008/info/map_02.htm">比武</a></dd>
+                            <dd><a class="m_03" href="web2008/info/map_02.htm">抢包山</a></dd>
+                            <dd><a class="m_04" href="web2008/info/map_04.htm">夺宝</a></dd>
+                            <dd><a class="m_05" href="web2008/info/map_05.htm">机械</a></dd>
+                            <dd><a class="m_06" href="web2008/info/map_06.htm">推箱子</a></dd>
+                            <dd><a class="m_07" href="web2008/info/map_07.htm">英雄</a></dd>
+                            <dd><a class="m_08" href="web2008/info/map_08.htm">足球</a></dd>
+                            <dd><a class="m_09" href="web2008/info/map_09.htm">探险</a></dd>
+                            <dd class="box_bottom"></dd>
+                        </dl>
+                        <!--迷你调查表-->
+                        <dl class="questionnaire">
+                            <dt><span>迷你调查表</span></dt>
+                            <dd>
+                                <div id="index_questionnaire_loading" class="index_questionnaire_loading">数据载入中...</div>
+                                <iframe id="index_questionnaire" frameborder="0" scrolling="no" allowtransparency="true" class="index_questionnaire"></iframe>
+                            </dd>
+                            <dd class="box_bottom"></dd>
+                        </dl>
+                        <!--健康游戏公告-->
+                        <dl class="gamenotices">
+                            <dt><span>迷你调查表</span></dt>
+                            <dd>
+                                <ul>
+                                    <li>抵制不良游戏 拒绝盗版游戏</li>
+                                    <li>注意自我保护 谨防受骗上当</li>
+                                    <li>适度游戏益脑 沉迷游戏伤身</li>
+                                    <li>合理安排时间 享受健康生活</li>
+                                    <li>本游戏适合全年龄人群</li>
+                                </ul>
+                            </dd>
+                            <dd class="box_bottom"></dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--轮播广告-->
+        <div class="ad_round">
+            <div id="index_ad_round_loading" class="index_ad_round_loading">
+                <div id="index_ad_round_loading2" class="index_ad_round_loading">数据载入中...</div>
+            </div>
+            <iframe id="index_ad_round" frameborder="0" scrolling="no" allowtransparency="true" class="index_ad_round"></iframe>
+        </div>
+        <!--新闻-->
+        <div class="news">
+            <ul class="news_btn news_btn0" id="sildeNewTabs">
+                <li><a href="#" onclick="tab(0)">最新</a></li>
+                <li><a href="#" onclick="tab(1)">公告</a></li>
+                <li><a href="#" onclick="tab(2)">活动</a></li>
+            </ul>
+            <div class="list" style="overflow:hidden;">
+                <div id="content0" class="show">
+                    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link href="web200901/jscss/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.xz { width:70%; overflow:hidden; white-space: nowrap; -o-text-overflow: ellipsis; /* for Opera */text-overflow: ellipsis; /* for IE */}
+ .xz:after{ content:"...";}
+</style>
+</head>
+<div id="detail">
+    <ul class="news_list">
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/m2770/list_1.shtml" target="_blank">[新闻快讯]</a></em><a class="head xz" title="12月17日全服停机维护公告" href="webplat/info/news_version3/733/4193/4194/m2771/202112/906791.shtml" target="_blank" style="color:">12月17日全服停机维护公告</a><span>[12/17]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4195/m2770/list_1.shtml" target="_blank">[最新]</a></em><a class="head xz" title="《QQ堂》停运补偿兑换页面" href="webplat/info/news_version3/733/4193/4194/4195/m2771/202112/906696.shtml" target="_blank" style="color:">《QQ堂》停运补偿兑换页面</a><span>[12/16]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4195/m2770/list_1.shtml" target="_blank">[最新]</a></em><a class="head xz" title="《QQ堂》停运公告" href="webplat/info/news_version3/733/4193/4194/4195/m2771/202112/906688.shtml" target="_blank" style="color:">《QQ堂》停运公告</a><span>[12/16]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4195/m2770/list_1.shtml" target="_blank">[最新]</a></em><a class="head xz" title="12月16日游戏临时停机维护公告" href="webplat/info/news_version3/733/4193/4194/4195/m2771/202112/906687.shtml" target="_blank" style="color:">12月16日游戏临时停机维护公告</a><span>[12/16]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4195/m2770/list_1.shtml" target="_blank">[最新]</a></em><a class="head xz" title="QQ堂系统配置文件更新说明" href="webplat/info/news_version3/733/4193/4194/4195/m2771/202007/863825.shtml" target="_blank" style="color:">QQ堂系统配置文件更新说明</a><span>[07/13]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="《QQ堂》反外挂法务说明" href="webplat/info/news_version3/733/4193/4194/4199/m2771/201310/228437.shtml" target="_blank" style="color:">《QQ堂》反外挂法务说明</a><span>[10/03]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="11月29日游戏临时停机维护公告" href="webplat/info/news_version3/733/4193/4194/4199/m2771/202111/905571.shtml" target="_blank" style="color:">11月29日游戏临时停机维护公告</a><span>[11/29]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="《QQ堂》商城调整公告" href="webplat/info/news_version3/733/4193/4194/4199/m2771/201608/497279.shtml" target="_blank" style="color:">《QQ堂》商城调整公告</a><span>[08/09]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/m2770/list_1.shtml" target="_blank">[新闻快讯]</a></em><a class="head xz" title="[推广]《真龙霸业》今日全平台震撼上线" href="webplat/info/news_version3/733/4193/4194/m2771/201803/1354/30.shtml" target="_blank" style="color:">[推广]《真龙霸业》今日全平台震撼上线</a><span>[03/08]</span>
+        </li>
+    </ul>
+</div>
+<div class="more"><a href="webplat/info/news_version3/733/4193/4194/m2770/list_1.shtml" target="_parent">更多>></a></div>
+
+                </div>
+                <div id="content1" class="hid">
+                    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link href="web200901/jscss/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.xz { width:70%; overflow:hidden; white-space: nowrap; -o-text-overflow: ellipsis; /* for Opera */text-overflow: ellipsis; /* for IE */}
+ .xz:after{ content:"...";}
+</style>
+</head>
+<div id="detail">
+    <ul class="news_list">
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="12月17日全服停机维护公告" href="webplat/info/news_version3/733/4193/4194/4199/m2771/202112/906791.shtml" target="_blank" style="color:">12月17日全服停机维护公告</a><span>[12/17]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="《QQ堂》停运补偿兑换页面" href="webplat/info/news_version3/733/4193/4194/4199/m2771/202112/906696.shtml" target="_blank" style="color:">《QQ堂》停运补偿兑换页面</a><span>[12/16]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="《QQ堂》停运公告" href="webplat/info/news_version3/733/4193/4194/4199/m2771/202112/906688.shtml" target="_blank" style="color:">《QQ堂》停运公告</a><span>[12/16]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="12月16日游戏临时停机维护公告" href="webplat/info/news_version3/733/4193/4194/4199/m2771/202112/906687.shtml" target="_blank" style="color:">12月16日游戏临时停机维护公告</a><span>[12/16]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="QQ堂系统配置文件更新说明" href="webplat/info/news_version3/733/4193/4194/4199/m2771/202007/863825.shtml" target="_blank" style="color:">QQ堂系统配置文件更新说明</a><span>[07/13]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="《QQ堂》反外挂法务说明" href="webplat/info/news_version3/733/4193/4194/4199/m2771/201310/228437.shtml" target="_blank" style="color:">《QQ堂》反外挂法务说明</a><span>[10/03]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="11月29日游戏临时停机维护公告" href="webplat/info/news_version3/733/4193/4194/4199/m2771/202111/905571.shtml" target="_blank" style="color:">11月29日游戏临时停机维护公告</a><span>[11/29]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="《QQ堂》商城调整公告" href="webplat/info/news_version3/733/4193/4194/4199/m2771/201608/497279.shtml" target="_blank" style="color:">《QQ堂》商城调整公告</a><span>[08/09]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_blank">[公告]</a></em><a class="head xz" title="QQ堂系统配置文件更新说明" href="webplat/info/news_version3/733/4193/4194/4199/m2771/201808/756240.shtml" target="_blank" style="color:">QQ堂系统配置文件更新说明</a><span>[08/31]</span>
+        </li>
+    </ul>
+</div>
+<div class="more"><a href="webplat/info/news_version3/733/4193/4194/4199/m2770/list_1.shtml" target="_parent">更多>></a></div>
+
+                </div>
+                <div id="content2" class="hid">
+                    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link href="web200901/jscss/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.xz { width:70%; overflow:hidden; white-space: nowrap; -o-text-overflow: ellipsis; /* for Opera */text-overflow: ellipsis; /* for IE */}
+ .xz:after{ content:"...";}
+</style>
+</head>
+<div id="detail">
+    <ul class="news_list">
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="岁末双倍回馈，《QQ堂》双倍声望新年启动狂欢" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201602/432316.shtml" target="_blank" style="color:">岁末双倍回馈，《QQ堂》双倍声望新年启动狂欢</a><span>[02/06]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="贺岁好礼送给你，免费BOSS引爆新春" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201602/432315.shtml" target="_blank" style="color:">贺岁好礼送给你，免费BOSS引爆新春</a><span>[02/06]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="过年升级不掉队，春节多倍经验爽翻天" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201602/432314.shtml" target="_blank" style="color:">过年升级不掉队，春节多倍经验爽翻天</a><span>[02/06]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="十年风雨共同舟，周岁祝福庆新年" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201502/305830.shtml" target="_blank" style="color:">十年风雨共同舟，周岁祝福庆新年</a><span>[02/12]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="“双声”狂欢，带你任性过新年" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201502/305719.shtml" target="_blank" style="color:">“双声”狂欢，带你任性过新年</a><span>[02/12]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="“羊”帆起航十载庆，绝版复活添惊喜" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201502/305714.shtml" target="_blank" style="color:">“羊”帆起航十载庆，绝版复活添惊喜</a><span>[02/12]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="局数累积送好礼，羊年赚得盆钵满" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201502/305601.shtml" target="_blank" style="color:">局数累积送好礼，羊年赚得盆钵满</a><span>[02/11]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="BOSS闹羊年，免费任你打" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201502/305566.shtml" target="_blank" style="color:">BOSS闹羊年，免费任你打</a><span>[02/11]</span>
+        </li>
+        <li>
+			<em><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_blank">[活动]</a></em><a class="head xz" title="四倍经验嗨翻天，极速升级任你享" href="webplat/info/news_version3/733/4193/4194/4201/m2771/201502/305522.shtml" target="_blank" style="color:">四倍经验嗨翻天，极速升级任你享</a><span>[02/11]</span>
+        </li>
+    </ul>
+</div>
+<div class="more"><a href="webplat/info/news_version3/733/4193/4194/4201/m2770/list_1.shtml" target="_parent">更多>></a></div>
+
+                </div>
+<!--                <div id="slideFrame_loading" style="">数据载入中...</div>
+                <iframe id="slideFrame" name="slideFrame" frameborder="0" scrolling="no" allowtransparency="true" class="index_news"></iframe>-->
+            </div>
+        </div>
+        <!--春丽-->
+        <div class="chunli"></div>
+        <!--泰坦-->
+        <div class="taitan"></div>
+        <!--右上广告及客服-->
+        <div class="event">
+            <div class="ad_right">
+                <a href="#" data-TGAD="564,2632" target="_blank"></a>                
+                <div class="service">
+                    <h3>腾讯客服</h3>
+                    <ul>
+                        <li><a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=334816&amp;page=0" target="_blank" title="我要兑换" class="jbff">举报非法</a></li>
+                        <li><a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_read_list.cgi?groupid=145:10413" target="_blank" title="封号名单" class="fhmd">封号名单</a></li>
+                        <li><a href="https://qqtang.qq.com/act/a20080917dl/index.htm" target="_blank" title="图标自助" class="tbzz">图标自助</a></li>
+                        <li><a href="http://fcm.qq.com/" target="_blank" title="防沉迷注册" class="fcm">防沉迷注册</a></li>
+                    </ul>
+                    <p>客服电话：0755-86013666</p>
+                </div>
+            </div>
+        </div>
+        <!--通栏广告-->
+        <div class="center_ad">
+            <!-- <a href="#" data-TGAD="564,2633" target="_blank" id="newDown"> -->
+                <a href="javascript:alert('亲爱的玩家，目前QQ堂已关闭游戏下载，请留意官网最新消息：qqtang.qq.com')"   id="newDown">
+                    <img src="https://game.gtimg.cn/images/qqtang/web2008/ad.jpg" alt="">
+                </a>
+        </div>
+        <!--道具-->
+        <div class="props">
+            <ul id="props_btn" class="props_btn props_btn0">
+                <li><a href="javascript:void(0);" onmouseover="changeCurrent2('props_btn',0,[1]);" class="btn01">新品道具</a></li>
+                <li><a href="javascript:void(0);" onmouseover="changeCurrent2('props_btn',1,[0]);" class="btn02">经典道具</a></li>
+            </ul>
+            <div class="list">
+                <div id="index_props_loading" class="index_props_loading">数据载入中...</div>
+                <iframe id="index_props" frameborder="0" scrolling="no" allowtransparency="true" class="index_props"></iframe>
+            </div>
+        </div>
+        <!--问问-->
+        <div class="soso">
+            <div id="index_soso_loading" class="index_soso_loading">数据载入中...</div>
+            <iframe id="index_soso" frameborder="0" scrolling="no" allowtransparency="true" class="index_soso"></iframe>
+        </div>
+        <!--右侧-->
+        <div class="Rside">
+            <div class="top">
+                <div class="bottom">
+                    <!--论坛-->
+                    <div class="bbs">
+                        <ul id="sildebbsTabs" class="bbs_btn bbs_btn0">
+                            <li><a href="webplat/info/news_version3/733/4193/4207/4209/m2908/index.shtml" target="slideFrame1" onclick="tab1(0)" class="btn01">论坛交流</a></li>
+                            <li><a href="webplat/info/news_version3/733/4193/4207/4210/m2908/index.shtml" target="slideFrame1" onclick="tab1(1)" class="btn02">经典道具</a></li>
+                        </ul>
+                        <div class="list">
+                            <div id="slideFrame1_loading" style="display:block;">数据载入中...</div>
+                            <iframe id="slideFrame1" name="slideFrame1" frameborder="0" scrolling="no" allowtransparency="true" class="index_bbs"></iframe>
+                            <!-- <iframe id="slideFrame1" name="slideFrame1" frameborder="0" scrolling="no" allowtransparency="true" src="//qqtang.qq.com/webplat/info/78/262/index.html" class="index_bbs"></iframe>-->
+                            <div class="list_bottom"></div>
+                            <a href="webplat/info/news_version3/733/4193/4207/m2880/list_1.shtml" title="更多论坛交流" class="more">more</a> </div>
+                    </div>
+                    <!--最新录像-->
+                    <div class="video">
+                        <h3>最新录像</h3>
+                        <div class="list">
+                            <div id="index_video_loading" style="display:block;">数据载入中...</div>
+                            <iframe id="index_video" name="index_video" frameborder="0" scrolling="no" allowtransparency="true" class="index_video"></iframe>
+                            <!--<iframe id="index_video" frameborder="0" scrolling="no" allowtransparency="true" src="//qqtang.qq.com/webplat/info/78/266/index.html" class="index_video"></iframe>-->
+                            <div class="list_bottom"></div>
+                            <a href="webplat/info/news_version3/733/4193/4218/m2876/list_1.shtml" title="更多录像" target="_blank" class="more">more</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--互动-->
+        <div class="players">
+            <div class="players_top">
+                <div class="players_bottom">
+                    <ul>
+                        <li class="pic">
+                            <h3 class="pic">图片</h3>
+                            <span class="more"><a href="CommPhoto/static/photo.shtml" title="更多玩家照片"></a></span>
+                            <div id="index_pic_loading" class="index_pic_loading">数据载入中...</div>
+                            <iframe id="index_pic" frameborder="0" scrolling="no" allowtransparency="true" class="index_pic"></iframe>
+                        </li>
+                        <li class="Static">
+                            <h3 class="wallpaper">壁纸</h3>
+                            <span class="more"><a href="web2008/page/wallpaper.htm">more</a></span><a href="web2008/page/wallpaper.htm"><img src="https://ossweb-img.qq.com/images/qqtang/web200901/wallpaper.jpg" />1280x1024</a></li>
+                        <li class="Static">
+                            <h3 class="video">视频</h3>
+                            <span class="more"><a href="web2008/page/movie.htm">more</a></span><a href="web2008/page/movie.htm"><img src="https://ossweb-img.qq.com/images/qqtang/web200901/video.jpg" />大眼睛</a></li>
+                        <li class="Static">
+                            <h3 class="magazine">杂志</h3>
+                            <span class="more"><a href="webplat/info/news_version3/733/4193/4229/m2880/list_1.shtml">more</a></span><a href="webplat/info/news_version3/733/4193/4229/m2880/list_1.shtml"><img src="https://ossweb-img.qq.com/images/qqtang/web200901/magazine.jpg" />两周年纪念杂志</a></li>
+                        <div class="clear"></div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer" class="index">
+        <script>foot()</script>
+    </div>
+</div>
+<script language="javascript" src="https://pingjs.qq.com/tcss.ping.https.js"></script>
+<script language="javascript" src="https://ossweb-img.qq.com/images/js/comm/tgadshow.min.js"></script>
+<script type="text/javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+<script>
+window.onload=function(){
+	var objMenu = document.getElementById('menu'),arrLi = objMenu.getElementsByTagName('li'),timer;
+	for(var i=0;i<arrLi.length;i++){
+	if(arrLi[i].parentNode==objMenu){
+			arrLi[i].onmouseover=function(){
+					clearTimeout(timer);
+					for(var j=0;j<arrLi.length;j++){if(arrLi[j].parentNode==objMenu){arrLi[j].className='none';}}
+					this.className='current';
+			};
+			arrLi[i].onmouseout =function(){
+				clearTimeout(timer);
+				var objCurr=this;
+				timer=setTimeout(function(){objCurr.className='none';},100);
+			};
+		}
+	}
+}
+</script>
+</body>
+<script src="https://ossweb-img.qq.com/images/js/pagespeed/page_speed_v2.js"></script></html>
+<!--[if !IE]>|xGv00|7ab5d48388a0fbb0d61051eee8b81213<![endif]-->

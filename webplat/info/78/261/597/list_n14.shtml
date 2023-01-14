@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../list_1.shtml" title="综合新闻">综合新闻</a><a href="../608/list_1.shtml" title="最新公告">最新公告</a><a href="../619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../index.html" class="a">首页</a> >> <a href="../list_1.shtml" class="a">新闻中心</a> >> <span></span>最新</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30388.shtml" target="_blank"><font color="">幸运转转转 第一批幸运者名单里有你吗</font></a>
+                                <span>2005-09-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30393.shtml" target="_blank"><font color="">一卡在手 新版本狂欢等你来</font></a>
+                                <span>2005-09-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30394.shtml" target="_blank"><font color="">我想！QQTANG“泰坦归来”征文大赛火热出击！</font></a>
+                                <span>2005-09-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30395.shtml" target="_blank"><font color="">我的经验双倍拿</font></a>
+                                <span>2005-09-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30396.shtml" target="_blank"><font color="">QQ堂周年庆论坛 精彩活动环环扣</font></a>
+                                <span>2005-09-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30407.shtml" target="_blank"><font color="">幸运转转转 第二批幸运者名单火热出炉</font></a>
+                                <span>2005-09-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30408.shtml" target="_blank"><font color="">『泰坦归来』第二周参赛作品展播</font></a>
+                                <span>2005-09-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30409.shtml" target="_blank"><font color="">“抢宝大行动”给你快乐一周</font></a>
+                                <span>2005-09-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30410.shtml" target="_blank"><font color="">机器城历险纪(4步曲)强势出击</font></a>
+                                <span>2005-09-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30411.shtml" target="_blank"><font color="">QQ堂紫钻抢先预购 折扣多多更有惊喜</font></a>
+                                <span>2005-09-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30412.shtml" target="_blank"><font color="">QQ堂PTS互动擂台热身赛－巡查篇</font></a>
+                                <span>2005-09-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30413.shtml" target="_blank"><font color="">急！急！急！凤凰翅膀限时抢购！</font></a>
+                                <span>2005-09-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30414.shtml" target="_blank"><font color="">CEGQQ堂报名火热进行中 大奖通缉各路高手</font></a>
+                                <span>2005-09-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30415.shtml" target="_blank"><font color=""><<泰坦归来>>即将出炉 体验招募中</font></a>
+                                <span>2005-09-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30416.shtml" target="_blank"><font color="">中秋大奉献 花好月圆活动多</font></a>
+                                <span>2005-09-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30417.shtml" target="_blank"><font color="">《泰坦归来》体验版正式启动</font></a>
+                                <span>2005-09-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30418.shtml" target="_blank"><font color="">    9-.17日  泰坦归来――体验活动系统故障声明</font></a>
+                                <span>2005-09-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30419.shtml" target="_blank"><font color="">泰坦归来－－体验活动详细解释声明</font></a>
+                                <span>2005-09-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200509/30420.shtml" target="_blank"><font color="">9月19日—QQ堂PTS互动擂台热身赛拉开帷幕</font></a>
+                                <span>2005-09-19</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n15.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n13.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|bc62c51d0a84c7894dc400bc94ca13c9<![endif]-->

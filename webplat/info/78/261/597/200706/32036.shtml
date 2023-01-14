@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>致富有新招——酷比宝石-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>致富有新招——酷比宝石</h4>
+    <div class="new_nytxt">　　QQ堂新版本《宠爱版》即将发布，宠物系统、交易系统、锻造系统等，新推出的新项目都让我们欣喜若狂。酷比宝石的出现，也是新版本的一大亮点。<br />
+<br />
+　　从此以后，我们熟悉的购物券消失了，取而代之的将是一种新的消费符号&mdash;&mdash;酷比宝石。宝石优于购物券的特性有两点：宝石不仅是一种单纯的玩家与服务器间的消费符号，还可作为玩家间交易的流通；以前的购物券在每月月底将清空，而酷比宝石到月底是不被清空的，可反复流通。这响应了广大玩家的要求。<br />
+<br />
+　　在《宠爱版》的世界里，到处皆是致富之路，这归功于酷比宝石这种新消费形式的出现。不信？那就和你说说吧。<br />
+<p align="center"><img alt="" src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1182144894_840044972_18450_sPhoto.jpg" /></p>
+<br />
+　　交易系统的出现，满足了更多玩家的消费来源，而宝石不仅可以在交易系统中作为支付凭证也可以购买商店的道具。在交易系统可交易的物品如下：探险道具、探险材料、技能书、宠物。如果你在游戏中获得了你已有的探险道具或宠物，觉得多了累赘，你可以通过交易系统把它们卖给需要的玩家。从而获取宝石，可在交易系统与其他玩家交易也可去商店购买想要的表现道具、功能道具。<br />
+<br />
+　　交易是致富的途径，你可以把想卖的道具放置在交易系统，也可以在大厅或好友列表与玩家点对点交易（右键点玩家名字有交易选项）。我们可以风趣的把选择交易系统的寄售称为商场销售模式，把点对点交易称为上门兜售模式。这种新的交易方式，让你更早地学会理财，体会到更多的游戏乐趣。<br />
+<br />
+　　支付我有新方法，致富我也有方法！希望广大的QQ堂迷们能接受和喜欢酷比宝石的到来！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200703/31910.shtml">探险升级经验表公布</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ef5188f4ff71295c33211335b18fd8cc<![endif]-->

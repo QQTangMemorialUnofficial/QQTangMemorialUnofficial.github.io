@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>玩家心声——我也来说说新版本（一）-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>玩家心声——我也来说说新版本（一）</h4>
+    <div class="new_nytxt">　　4月27号对每个Q堂迷们是个值得纪念的日子，它是新版本的推出之日，也是家族系统的起步之时。<br><br>　　新版本推出了几大强势功能，家族系统、战斗快捷语言、表情道具以及小喇叭特效等，平面功能也逐步强大，让众多玩家耳目一新。<br><br>　　其中的家族系统更是牵动你我拳拳心，所有人的眼球为之关注。其中的家族长更是“先天下之忧而忧，后天下之乐而乐”，为家族的创建撒播了不少心血。<br><br>　　玩家风云时代，知名玩家之一，这两天他也为家族创建的事情忙的喘不过气来。不过他还是忙里抽空很乐意地接受了记者的采访。现在就让我们来倾听他个人对于家族系统及已推出功能的看法和建议（以下内容以第一人称记述）：<br> <br>　　我玩QQ堂时间不算很短，但是在家族系统建立后才有了真正的家的感觉。“回家”的路真的很难找，我们为此走了很远。 <br><br>　　对于新出的家族系统我个人觉得好的有： <br><br>　　1、家族系统从管理模式来划分五等这个很不错，避免了群主和管理人员管理层面单一的情况； <br>　　2、战斗快捷语言模式很实在，也令人觉得游戏场景更逼真； <br>　　3、在左下角的操作菜单显示更为明确，内容版块一目了然； <br>　　4、在QQ堂能实现家族群聊，而且系统信息明确。 <br><br>　　认为不足的有： <br><br>　　1、家族不能转让且家族只能族长添加成员； <br>　　2、无法更改自定义家族介绍； <br>　　3、家族最多才100人，远远满足不了大家族；<br><br>　　“我们会一直支持QQ堂的，愿希望家族系统能有长足发展，QQ堂越来越好！”这是风云时代对QQ堂的诚挚祝福，让我们也祝愿他的家族事业蒸蒸日上，在QQ堂乐园中开辟自己的一片天地。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32036.shtml">致富有新招——酷比宝石</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|322d0654121158bfcd0ff95047ea6ce1<![endif]-->

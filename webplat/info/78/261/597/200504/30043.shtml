@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>小Q的故事：QQ堂经验技术谈(3)-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>小Q的故事：QQ堂经验技术谈(3)</h4>
+    <div class="new_nytxt">　　小Q就是这样一个人，虽然生于平凡，却不甘于平凡。他相信小人物也会有出头的一天。终于，他的才能（？）被大名鼎鼎的苦头帮看上了。入会后马上就被委以重任：营救传说中的水风正魔。<br><br>　　要营救水风正魔，就必须先通过危机重重的足球场，幸好会里准备充分，早已发给小Q一本自救手册，够义气的吧。<br><br>　　第三章：热血足球<br><br>　　一、冷静观察，切忌心浮气燥。不要因为自己的角色速度高，再吃了几个鞋子就沾沾自喜满场飞奔了，这样的后果除了被糖浆包住外不会有第二种可能。冷静的观察炸弹的落点，没必要的时候尽量不做大范围移动，这是保命的第一要点。<br>　　二、半身位技巧在足球场上分外重要。当然，如果能把半身位技巧用得出神入化，那个也不叫小Q了……<br>　　三、没有绝对安全的地方。在炸弹落下后找到一个自以为安全的地方然后就站定不动，过不了多久估计就可以哭了。要知道并不是每个对手都是小Q，他们可是会趁你不注意的时候踢给炸弹逗逗你，特别是那种穿越屏幕的踢法，极具杀伤力。所以一定要随时保持警觉，做好随时小范围移动的准备。<br><br>　　历尽千辛万苦九死一生，小Q终于见到了传说中的水风正魔。然而水风正魔开口第一句就差点让小Q晕倒在地吐血不已。<br><br>　　“喂喂喂，这位小朋友，我见你筋骨奇佳，是练成绝世武功的上乘料子。怎么样，拯救世界这个伟大任务就交给你了，好不好？”<br><br>　　究竟这个水风正魔是何方人物？他与小Q手中的“绝世密笈”又有着怎么样的关系呢？请听下回分解。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200505/30054.shtml">小Q的故事：QQ堂经验技术谈(4)</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30041.shtml">小Q的故事：QQ堂经验技术谈(2)</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30038.shtml">小Q的故事：QQ堂经验技术谈(1)</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|26a3a8bd9b7e96401b431b509fc37915<![endif]-->

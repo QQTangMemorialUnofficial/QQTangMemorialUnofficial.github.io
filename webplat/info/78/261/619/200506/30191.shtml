@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>体验活动参与流程详解-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>体验活动参与流程详解</h4>
+    <div class="new_nytxt">　　对于即将开始的“新版体验，抢宝风暴”活动，众多玩家都跃跃欲试。纷纷争相报名，急欲先睹为快。<br><br>　　为了帮助大家更好的体验新版游戏，特出详细攻略于下，请大家仔细阅读，以便于顺利享受新版游戏的清凉感受。<br><br>　　<b>第一步：获取体验资格</b><br><br>　　你只需要【<a href="../../../../../../summer/event.htm" target="_blank">进入体验活动专区</a>】。点击“体验报名”即刻可以获得新版本体验资格。本次活动的报名时间将一直延续到7月5日。我们将于每天10：00将前一天报名的玩家名单导入到体验服务器。<br><br>　　<font color="red">注：如果你是内测玩家或者积分4万以上并且在三个月内登陆过QQ堂，第一步可以略过，请直接参看第二步。</font><br><br>　　<b>第二步：下载QQ堂体验版本</b><br><br>　　在第一步完成后，你需要下载新的客户端，如果你尚未获得体验资格，那么即使下载了体验版本客户端也是无法进入的。<br><br>　　下载地址如下：<br>　　<a href="http://61.152.100.6/qqtsetup_b1b18.exe" target="_blank">http://61.152.100.6/qqtsetup_b1b18.exe</a><br>　　<a href="http://61.152.100.7/qqtsetup_b1b18.exe" target="_blank">http://61.152.100.7/qqtsetup_b1b18.exe</a><br>　　<a href="http://218.1.72.138/qqtsetup_b1b18.exe" target="_blank">http://218.1.72.138/qqtsetup_b1b18.exe</a><br>　　<a href="http://218.1.72.139/qqtsetup_b1b18.exe" target="_blank">http://218.1.72.139/qqtsetup_b1b18.exe</a><br><br>　　当你下载并且安装了体验版本QQ堂，你的桌面会出现一个名为“QQ堂体验版”的图标，点击即可进入体验服务器进行游戏。同时这并不影响你点击原来的QQ堂图标进入现网游戏。<br><br>　　<font color="red">注：体验服务器将于6月26日10:00开放，此前点击体验版本客户端是无法进入的。</font><br><br>　　<b>第三步：参与活动</b><br><br>　　进入体验服务器游戏的同时，你就可以开始参与“新版体验，抢宝风暴”活动。活动详细信息请进入体验活动专区查询。<br><br>　　点击进入体验活动专区：<a href="../../../../../../summer/event.htm" target="_blank">http://qqtang.qq.com/summer/event.htm</a><br><br>　　<b>活动须知：</b><br><br>　　1.现网数据不带入体验服务器，所有玩家初始进入体验服务器数据均为0，包括经验，等级，胜负，糖币，道具。活动结束后玩家活动期间在体验服务器获得的数据将导入现网。<br>　　2.体验服务器所有道具定价都为10糖币，玩家可以自由购买装备，活动结束体验服务器中购买的道具将不会带入现网。<br>　　3.6月27日后报名的玩家不会立刻获得体验资格，我们将于每天10:00将前一天的报名玩家名单导入体验服务器。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200508/30306.shtml">《酷比一夏》发布满月 众说纷繁新版本</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200507/30232.shtml">寻找酷比，寻找一个快乐暑假！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200507/30227.shtml">新版本新惊喜，双倍经验正在进行</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200507/30226.shtml">《酷比一夏》开门红,精彩道具人人送</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|c21c3dbdba0d14aa1475da283a399893<![endif]-->

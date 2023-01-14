@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>“QQ堂内测明星玩家”选拔赛火热进行-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>“QQ堂内测明星玩家”选拔赛火热进行</h4>
+    <div class="new_nytxt">　　作为已经玩了一年多的QQ堂的你，想做明星么？想成为万人瞩目的焦点么？想成为QQ堂里亮眼夺目的星星么？机会来啦！“QQ堂内测明星玩家”选拔赛火热登场！众玩家们急切盼望你的常回家看看！热切期盼你的精彩表演！<br><br>　　你是不是QQ堂里的耀眼明星，一试即知！<br><br>　　1月20日——2月8日，内测玩家可以登陆论坛填写自己的相关资料及在内测期间的一些心情故事，通过玩家在后面的跟帖数量来竞选“QQ堂内测明星玩家”。<br><br>　　QQ堂里你那熟悉的身影一直是我们挥之不去的牵挂，QQ堂里你那精湛的技艺一直是我们翘首期盼的表演，今天，我们想更进一步的了解你在内测期间的一些心情故事！<br><br>　　新年送大礼，新年行大运！10名“QQTANG内测明星玩家”也许就有你一个！更有大奖等着你！除了荣获明星称号外，还有新品道具和可爱的酷比公仔等着你！<br><br>　　快回家看看，常回家看看，家里等着你的精彩表演，家里有大礼等着你！所有的惊喜和答案，都在QQ堂这个大家庭里！<br><br>　　你给一个精彩表演，QQ堂还你一个无限至上的光荣！<br><br>　　“QQ堂内测明星玩家”选拔赛火热登场！快快来参加！<br>　　详情关注：<a href="../../../../../../return/index.html" target="_blank">http://qqtang.qq.com/return/</a><br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|fa8efc72077f3c022142860b1cc17963<![endif]-->

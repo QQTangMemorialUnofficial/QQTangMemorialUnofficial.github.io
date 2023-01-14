@@ -1,0 +1,51 @@
+a:link {	text-decoration: none;color: #333333;}
+a:visited { text-decoration: none; color: #333333}
+a:hover {text-decoration: underline;color: #333333;}
+body {
+	FONT-SIZE: 12px;
+	color: #333333;
+	margin: 0px;
+	background-image:url("http://ossweb-img.qq.com/images/qqtang/a20060710pet/bg.jpg");
+}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+}
+.login_table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #7E4704;
+	background-color: #FFFFFF;
+}
+.tips_normal {	FILTER: revealTrans(transition=23,duration=0.5) blendTrans(duration=0.5);
+	VISIBILITY: hidden;
+	POSITION: absolute;
+	BACKGROUND-COLOR: #FFFFFF;
+	width:200px;
+	line-height:18px;
+	border: 1px solid #999999;
+	color:#616161;
+	padding: 2px;
+	font-size: 12px;
+}
+.style1 {
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: bold;
+}
+.style2 {
+	color: #8f22c7;
+	font-size: 12px;
+}
+.style3 {
+	color: #6b6b6b;
+	font-weight: bold;
+	font-size: 12px;
+}
+.style4 {	color: #9519a6;
+	font-size: 12px;
+}
+.style5 {	color: #695100;
+	font-size: 12px;
+}

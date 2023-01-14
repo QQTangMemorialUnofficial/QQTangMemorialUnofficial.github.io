@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>热身赛助你熟悉大赛规则-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">中华争霸赛</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>热身赛助你熟悉大赛规则</h4>
+    <div class="new_nytxt">　　各位已经报名参加QQ堂2005中华英雄争霸赛的玩家要注意啦，中华英雄热身赛就要开始了，在4月29日前报名的玩家，都可以自动获得参加热身赛的资格哦。<br><br>　　中华英雄热身赛是在中华英雄争霸赛正式开赛前给玩家提供的一个练习赛事。热身赛采用和中华英雄争霸赛线上部分赛事完全相同的比赛规则和流程，玩家可以通过此次热身赛积累经验，熟悉中华英雄争霸赛的规则流程。作为正式大赛前的一次模拟真实比赛环境的训练机会，热身赛提供了一个完全真实的比赛环境给玩家，然而参与热身赛的玩家，却不会有正式比赛时“一失足成千古恨”的巨大压力。玩家可以在热身赛上尽情地演练各种战术，学习应对正式比赛时可能出现的突发状况，正所谓是“同样的规则，不一样的轻松。”<br><br>　　当然，在热身赛中表现出色的玩家，我们还是会有Q币和新翅膀的奖励。无限爆乐，精彩不断，来参加中华英雄热身赛，为中华英雄争霸赛做好准备吧。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200505/30069.shtml">中华英雄争霸赛团队热身赛8强名单</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200505/30067.shtml">团队热身赛32强出线名单</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200505/30062.shtml">“中华英雄争霸赛”团队热身赛即将启动</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200505/30058.shtml">热身赛战火才熄，英雄大会烽烟又起</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|4cfe7e1f3c5174466dc669074e6d3d35<![endif]-->

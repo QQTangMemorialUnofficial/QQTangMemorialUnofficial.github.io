@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>“夺宝奇兵”模式积分计算错误已修正-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>“夺宝奇兵”模式积分计算错误已修正</h4>
+    <div class="new_nytxt">　　在《试炼之章》新版本更新后，有不少玩家发现夺宝模式地图的经验积分偏高，导致游戏中夺宝模式地图的被使用比率明显增高。官方技术人员在数据监测和玩家论坛反映中发现这一现象后迅速检查原因，在热心玩家协助下查明了夺宝模式积分计算存在的错误，该错误导致该地图的积分偏高。<br><br>　　开发组迅速修正了该BUG，并及时调整了服务器，现在游戏中夺宝模式的积分计算已经正常，玩家经验不再和玩家团队的宝石数目相关，该地图玩家的正确经验公式如下：<br><br>　　玩家胜利分数＝游戏基础经验＋（杀人数×10）＋（救人数×2）<br>　　玩家失败分数＝[游戏基础经验20＋（杀人数×10）＋（救人数×2）]/10<br><br>　　玩家每局获得的宝石积分会转为QQ糖币加入到玩家账号，但不会转为玩家经验分数，玩家经验与收集宝石数量无关。<br><br>　　另外，在这里还要感谢苹果女巫玩家和经典こ洒脱玩家的协助，帮助开发组迅速定位到问题原因，因此官方将赠送两位玩家各一件“幻像魅影”（六月权）的道具，以示奖励！并希望其他玩家也能及时向官方反映游戏中存在的问题，协助我们将QQ堂游戏运营的更好。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="29928.shtml">新模式之夺宝奇兵详解</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|9cd6460f1422142b829eaae447fe06c8<![endif]-->

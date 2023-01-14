@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>第三轮比赛选手注意事项-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">中华争霸赛</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>第三轮比赛选手注意事项</h4>
+    <div class="new_nytxt">　　在6月11日（周六）晚即将举行的中华英雄争霸赛团队4强分组赛和6月12日(周日)晚即将举行的个人赛区决赛中，将使用指定配对的比赛规则，它和前两轮随机配对规则有所不同，为了避免选手因对指定配对规则不了解而造成比赛水平得不到充分发挥，特说明如下注意事项：<br> <br>　　1.指定队伍（个人）配对规则中，玩家需要提前10分钟进入比赛小区，系统将提示还有几分钟开始比赛，比赛时间到选手应该马上点击“准备”按钮，系统将按照比赛系统配置中的对阵表在比赛规定时间拉取双方进入比赛房间。如果一方不符合比赛条件（如未全部准备，人数不足），系统将弹出提示信息“xxx已经准备完毕，xxxx尚未准备，10秒后将开始比赛，如果时间到依然不进入准备状态，系统将判定未准备方弃权”。10秒钟后，如果某方还未满足比赛条件，将判该方此局弃权。<br><br>　　2.团队分组赛分三轮，每轮5局。<br>　　第一轮时间：20:00～20:30<br>　　第二轮时间：20:35～21:05<br>　　第三轮时间：21:10～21:40<br><br>　　3.个人赛每位选手进行15局比赛，每局中间休息2分钟。<br><br>　　4.选手在整个比赛过程中不得离开比赛小区，如果出现掉线等意外中断比赛的情况，请迅速重新回到小区，以免被系统判弃权。<br><br>　　5.比赛将按照赛区和个人/团队赛划分为16个比赛小区，东北和华北赛区选手请注意使用网通线路比赛，其他赛区选手请使用电信线路比赛，请选手使用稳定快速的线路比赛，以保障比赛质量。<br><br>　　6.每局比赛间隙，系统会安排少量休息时间（约1～2分钟），请选手注意不要退出。每局比赛结束，请选手马上点击“准备”按钮，等待系统分配下一局比赛。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200706/32037.shtml">华丰魔法士中华英雄争霸赛事项</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200507/30239.shtml">中华英雄争霸赛全国总决赛参赛报到指引</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200507/30238.shtml">中华英雄争霸赛总决赛赛制规则</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200507/30212.shtml">QQ堂中华英雄争霸赛席卷全国</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|cbbfe4c6f6e56dc94f12c1e78bf94c2f<![endif]-->

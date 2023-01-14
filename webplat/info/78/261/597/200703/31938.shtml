@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>《QQ堂》2.0游戏小贴士①-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>《QQ堂》2.0游戏小贴士①</h4>
+    <div class="new_nytxt"><P>　　【游戏提示】在本台电脑上安装2.0以后第一玩探险游戏，系统会在提示“下载地图信息”后将您强制踢出房间。请重新进入房间，以后均可正常进行探险游戏。</P>
+<P>　　【游戏提示】在无道具场可以随机获得道具合成书，拥有道具合成书的玩家进入道具商店后，点击“背包”后，右键选中该合成书，单击左键即可学到相应的技能。</P>
+<P><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1175159164_840044972_5396_sPhoto.jpg"></P>
+<P><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1175159161_840044972_5090_sPhoto.jpg"></P>
+<P>　　【游戏提示】您可在道具商店的合成选项中合成道具，点击物品列表后，选择你想合成的道具，如果具备的材料符合合成条件，该道具显示为白色。点击开始合成就可获得功能道具。<BR>　　（合成材料在探险过程中获得）</P>
+<P><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1175159158_840044972_4996_sPhoto.jpg"></P>
+<P><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1175159155_840044972_4765_sPhoto.jpg"></P>
+<P>　　【游戏提示】功能道具分为探险专用道具和道具场专用道具两类，少数道具可通用于两种游戏模式。您可以通过道具右上方的提示图标了解改道具的使用范围。</P>
+<P><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1175159152_840044972_4648_sPhoto.jpg"></P>
+<P>　　【游戏提示】在进行道具场游戏或者探险游戏前，先点击我的背包，选中你想使用的道具双击或直接拖到道具装备栏即可。</P>
+<P>&nbsp;<IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1175159148_840044972_4392_sPhoto.jpg"></P>
+<P><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1175159144_840044972_4247_sPhoto.jpg"></P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|4037ef11d90f8eedd870a32a7aec962a<![endif]-->

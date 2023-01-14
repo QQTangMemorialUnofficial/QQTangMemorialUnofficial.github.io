@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>《QQ堂》QQ堂内测大换岗-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>《QQ堂》QQ堂内测大换岗</h4>
+    <div class="new_nytxt">　　《QQ堂》于2004年9月24日正式开始内测报名工作，凭借腾讯公司强大的品牌力量和《QQ堂》诱人的游戏特色。我们收到了很多热情用户的报名，但是由于内测名额的限制，未能满足所有报名用户的愿望。<br><br>　　对于获得内测资格的用户，我们已经在《QQ堂》官方网站公布，并且通过QQ系统消息广播和QQmail的形式通知。但是至今仍然有部分帐号没有登陆过游戏，造成账号的浪费。为了充分利用内测账号资源，决定对已经获得内测资格但是在10月19日20：00之前仍未登陆过《QQ堂》的用户进行内测资格的回收。回收的内测资格用于发放给其他希望参加内测的玩家。应玩家的要求，我们决定在此之外加送1000个内测资格。<br><br>　　新的报名网页已经开通，请希望获得内测资格的玩家使用您的QQ号码报名。把握机会，共筑精彩！<br><br>　　报名页面地址如下：<a href="http://qqtang.qq.com/exparea/enter.htm" target="_blank"><font color="red">http://qqtang.qq.com/exparea/enter.htm</font></a><br>　　报名起止时间：10月15日9：30——10月18日17：30</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="29777.shtml">第二次内测资格玩家名单查询</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29776.shtml">QQ堂内测换岗活动圆满结束</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29774.shtml">关于内测换岗活动延期通知</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|e52097b6dc9014af0fc4f858325a6bf5<![endif]-->

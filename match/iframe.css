@@ -1,0 +1,30 @@
+td {
+	font-size: 9pt;
+	line-height: 120%;
+}
+a:link {text-decoration: none;color: #000000;}
+a:visited { text-decoration: none; color: #000000}
+a:hover {text-decoration: none;color: #0099FF;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	color: #000000;
+	margin: 0px;
+	line-height: 120%;
+}
+.bigtxt {
+	FONT-SIZE: 12pt;
+	LINE-HEIGHT: 120%;
+	font-weight: bold;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.engtxt {
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 128%;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}

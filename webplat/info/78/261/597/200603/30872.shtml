@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>《酷比世界》—今天你看了吗？-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>《酷比世界》—今天你看了吗？</h4>
+    <div class="new_nytxt">　　《酷比世界》之白色情人节特刊已于昨天正式面市了！ <br><br>　　本期《酷比世界》以“白色情人节”这个特别的节日为主要内容，并辅以精粹美文。内容精彩纷呈，延伸到 QQ 堂的各个领域，从想象到现实，从情感到童话，从音乐到录象，包罗万象。刊物的内容完全感觉化，大量精美的图片和精彩的镜头让人真正体会到刊物的知觉性和娱悦性，仿佛就置身于欢快的 QQ 堂乐园中。 <br><br>　　本次刊物倍受广大读者瞩目莫过于完整版本中的 QQ 堂剧场了！本期剧场片名为《ㄒん e ╃站队宣传片》，分别是来自ㄒん e ╃家族的五名高手，他们身经百战，他们永不言败，他们永久辉煌。“ V+ 封杀”、“简 V+ 封杀”、“ 3D 封杀、“ 3V ” 、“乱 V 二段”，技艺大演示，短短几分钟，让人不得不叹为观止，精彩的画面在脑海一直弥留不散！ <br><br>　　想领略高手风采吗？想见识精湛技术吗？尽在《酷比世界》！ <br><br>　　温馨提示：《酷比世界》杂志是免费提供下载的，只须轻轻点击下载，就可以浏览阅读。许多读者反馈无法阅读，主要杂志以 800*600 象素制作，如果显示分辨率设置成 800*600 象素，则会造成显示不完整。阅读时，请把显示分辨率设置成 1024*768 象素，方向键盘→、←等可进行页面的翻转。 <br><br>　　下载地址： <br><br>　　<a href="http://qqtang.qq.com/webpic/20060306/01.rar">《酷比世界》白色情人节增刊（完整版） </a>62M <br><br>　　<a href="http://qqtang.qq.com/webpic/20060306/02.rar">《酷比世界》白色情人节增刊（非完整版） </a>23M <br><br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="30970.shtml">《酷比世界》第三期正式上市</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200603/30904.shtml">心连心情牵白色情人节活动今日启动</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30870.shtml">《酷比世界》白色情人节增刊—今日正式面市</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|835daf931df199be1f10acdfba7c7107<![endif]-->

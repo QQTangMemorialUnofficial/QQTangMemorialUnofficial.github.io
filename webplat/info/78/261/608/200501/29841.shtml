@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>小兵训练营开营 QQ堂版本更新停机预告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>小兵训练营开营 QQ堂版本更新停机预告</h4>
+    <div class="new_nytxt">　　QQ堂游戏将在1月12日上午更新到最新Alpha 5版本。该版本因为加入了大量新玩家相关帮助功能，所以被命名为《QQ堂：小兵集训营》版。<br><br>　　同时为配合此次更新，QQ堂服务器将在1月12日晚上19:00～20:00进行停机维护，以更新版本，请各位玩家注意。<br><br>　　QQ堂自公测以后，大量新玩家每天都在不断涌入，很多初次接触QQ堂的玩家都表示希望游戏中能多给新手一些帮助，因此QQ堂开发组专门针对新玩家们开发了《小兵集训营》版。在《小兵集训营》版中，新加入了一系列的新手辅助功能，其中还包括专门为新玩家设计的训练教学模式。在新版本里面菜鸟玩家们再不必一进游戏就手忙脚乱，不知所措了，各位新手都可以免费参加QQ堂培训班，届时在培训班中，菜包子将摇身一变成为新手的授课老师，带领新人们一步一步熟悉我们的糖果世界，领略QQ堂的无穷乐趣，而且据说还能得到很多奖学金哦。至于我们的菜包子老师教的怎么样，各位同学们明天下载更新到最新的版本后就可以评价一番了。<br><br>　　另外官方将配合《QQ堂：小兵集训营》版同时推出QQ堂一月份的“上帝偏爱小兵”新手帮助系列活动，各位新玩家一定会受益多多。具体活动内容和相关消息请大家继续留意最新的官网新闻。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|939f854e0e901bb4c3e2976ff0b16a8c<![endif]-->

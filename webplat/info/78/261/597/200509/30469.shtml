@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>总动员——你我的使命-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>总动员——你我的使命</h4>
+    <div class="new_nytxt">　　宏伟的铁锤城矗立在泰坦一行人面前 <br><br>　　良久。。。 <br><br>　　“哇 ~~ ”猴子第一个发出怪叫。 <br><br>　　即使一贯酷酷的海王子也不禁动容。虽然大家已经在虚拟环境中训练了一段时间，但是当真正面对凝结了人类智慧的庞大城市依然无比震撼。 <br><br>　　“太漂亮了”小虾米不禁发出赞叹。 <br><br>　　“是么 , 可是无论人类的智慧如何发达，科技如何高明，终究不及自然的造化动人啊”泰坦面露戚容，淡淡道。也许只有失去后才知道珍贵，泰坦想。 <br><br>　　等到大家从震撼中平复过来后，泰坦拿出一批竹蜻蜓，发给每人一个，道“这个是便利的交通工具，使用它可以快速的从一个地方飞到另一个地方，现在大家初来乍到，虽然之前已经进行了虚拟环境训练，但是毕竟和实际有差距，我们休整几天，熟悉这里。真正的战斗，即将开始。 ” <br><br>　　勇敢的玩家们，快来 铁锤城帮助泰坦吧，打败可乐的野心，要靠你我共同携起手来，<br><br>　　“我们会胜利么？胜利后我们会找寻到和自然和谐共存之道么？” <br><br>　　这个问题，只有你们——勇敢的玩家们才能帮助我们找到答案。 <br><br>　　大战一触即发，现在快快加入，助泰坦一臂之力，双倍经验以外，更有泰坦专门为你准备的竹蜻蜓，先到先装备！ <br><br>　　详情请关注： <a href="../../../../../../machine/start.htm" target="_blank">http://qqtang.qq.com/machine/start.htm</a> <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|2f201796dfc4b3adad56a9488bae730f<![endif]-->

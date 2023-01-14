@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>体验活动精彩延续 新版本926正式推出-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>体验活动精彩延续 新版本926正式推出</h4>
+    <div class="new_nytxt">　　17 日 [ 机器城历险记 ] 体验活动火热登场，几天以来各路玩家全心体验，奏响属于自己的乐章！同时也帮助我们找到了许多新版本中不尽人意的地方 , 为了更好的完善我们的游戏 , 减少 BUG 对游戏可玩性的干扰 ,QQ 堂决定延长测试时间 , 并推迟 &lt;&lt; 泰坦归来 &gt;&gt; 正式版的发布 . 到本月 26 日，更完美的新版本 , 敬请期待 ! <br><br>　　现将贯穿 &lt;&lt; 泰坦归来 &gt;&gt; 发布的 4 个环节活动 , 修改后的时间表告之如下 : <br><br>　　<strong>梦境：启示录 </strong>9.17~9.25 <br><br>　　活动内容：双倍经验，紫色风暴，玩家开发一家亲，抢宝大行动，大家来找碴。 <br><br>　　<strong>出发：总动员 </strong>9.26~9.30 <br><br>　　活动内容：活动期间，新版服务器经验值翻倍 , 装备大赠送 . <br><br>　　<strong>决战：大比拼 </strong>10.1~10.14 <strong></strong><br><br>　　活动内容 <strong>: </strong>玩家凑齐套装将获得特殊的表现形式，套装总共有 6 个组成部分，有些可以购买，有些需要从游戏中收集。套装分为不同等级， 3 件套、 5 件套和 6 件套，每个等级都有不同的特殊表现。 <strong></strong><br><br>　　<strong>荣耀： </strong>10.15~10.28 <br><br>　　活动内容：紫色浪漫，套装收集。 <br><br>　　请大家密切关注下一步动态 , 更多惊喜 , 更多体验 , 就在 QQ 堂 ! <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|697927bdf549f17113d8c7127d762161<![endif]-->

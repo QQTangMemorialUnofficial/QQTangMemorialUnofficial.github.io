@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>冰火对决第一波——冰火争夺-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>冰火对决第一波——冰火争夺</h4>
+    <div class="new_nytxt">电信和网通各出现了四名冰王子，接受前来挑战的火王子们。火与冰的碰撞在今天正式上演，在特设的服务器，王子们济济一堂，期待着比赛的开始。<br><br><br>比赛为爱考对决。比赛房为显眼和便于管理，设定为专区的001—004房，在19点开始游戏以后，玩家们热情高涨，纷纷涌到冰火大决战专区。毕竟，这只是获得冰翅膀千载难逢的好时机，况且可以和高手来一番角逐，何乐而不为呢？<br><br>然而，美中不足的是因部分玩家出现抢房现象局面稍显混乱。一些玩家积极配合巡查，在前四房稳定的情况下，比赛照常进行。<br><br><br>冰王子们施展爱考的娴熟技术，迎接每一位前来挑战的火王子。除个别掉线现象外，平均每位冰王子迎战40场左右。坚持到比赛的最后。也有不少玩家凭借高超的爱考技术赢得了冰翅膀的奖励。<br>   <br>通过第一天的比赛，对于滋事、抢房的玩家，令人感到失望和遗憾；对于坚持在大厅维持秩序的巡查，和帮助守房的玩家，令人敬服，也值得感谢！<br>    <br>恭喜那些挑战成功获得冰翅膀的朋友，精彩的录象已被记录，我们会汇同明晚的比赛录象一起筛选，选出播放效果好、技术高的供玩家学习和欣赏。祝愿明天的活动成功！也希望有更加玩家通过自己努力获得梦寐以求的冰翅膀！<br><br>详情关注：<br>http://qqtang.qq.com/a20061010icefire/?ADTAG=TEN.967.71.20061013_0095。<br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|1e625c8842ae2a548c2f643b610e41ee<![endif]-->

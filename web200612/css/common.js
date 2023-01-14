@@ -1,0 +1,1 @@
+document.writeln("<script language=\"javascript\" src=\"http:\/\/ossweb-img.qq.com\/upload\/advt\/qqtang\/toplist_pos2.js\"><\/script>")

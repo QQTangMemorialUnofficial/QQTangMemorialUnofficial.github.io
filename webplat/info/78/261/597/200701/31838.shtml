@@ -1,0 +1,87 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>探险新旅程，征服魔法界-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>探险新旅程，征服魔法界</h4>
+    <div class="new_nytxt"><P>　　2.0《探险新旅程》，版本大变动，小到房间大厅，大到游戏模式，种种变化不止是一点点。新奇，紧张，激动，刺激，各种心情油然而生，说不好奇那是不可能的，说不激动那是不正常的。<BR><!-- --><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1169468282_840044972_10724_sPhoto.jpg"><BR><!-- -->　　一阵动感的音乐首先拉开帷幕，刺激十足的宣传动画，一张张可爱无比的画面，激情澎湃的是心情，兴奋不已的是表情。新旅程探险，从此展开！ 过关斩将的快乐，团体杀怪的配合，<BR>　　新增道具的施展，完全不同的地图，<BR>　　所有的一切，都在时时刻刻的提醒我们，这---是一个不一样的空间，<BR>　　这---是一个另类的魔法世界，<BR>　　这---需要我们重新整装待发，重新探索战术。魔法棒的挥舞，舞出开始的讯号，糖果世界的改变，变出震撼的讯息。魔法的大门已经展开，回归到同一起跑线的勇士们，你们准备好如何迎接了吗？不要害怕，不要退缩，只要我们拥有勇气、计谋、信任、配合，就可以重新开始探索，重新开始征服这个未知的魔法世界！<%$Fcontent$%> </P>
+<P>　　详情登录<A href="../../../../../../a20061212ver/index%EF%B9%96ADTAG=TEN.967.71.20061231_000300.html">http://qqtang.qq.com/a20061212ver/?ADTAG=TEN.967.71.20061231_000300</A></P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|0cfab417692918f4cdb64bc323bb29e0<![endif]-->

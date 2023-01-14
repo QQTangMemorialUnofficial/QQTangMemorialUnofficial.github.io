@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>故事接龙，你的故事你的世界-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>故事接龙，你的故事你的世界</h4>
+    <div class="new_nytxt">　　传说中，在大海的中间有一个无名的小岛，这个小岛是通往糖果世界的入口。糖果世界是一个一直存在于传说中的世界，据说那里有一个梦幻般的QQ糖果王国。四方的英雄为了梦想，理念，心愿。追寻传说的梦幻QQ糖，向大海迈进。一个大冒险时代产生了。<br><br>　　来自世界各地的冒险家们，开始漫长的寻找。终于众人寻找到了传说中的袖珍岛，同时发现了，岛上奇迹般的糖果世界。糖果世界存在着各种各样的糖果，寻找宝藏的人们更加坚定梦幻QQ糖的存在，于是向糖果世界的深层迈进。<br><br>　　为了找到糖果世界里面的真正的宝藏，所有的冒险家共同努力建造了一个美丽的小村，一边寻找着宝藏，一边过着与世隔绝的恬静生活。我们所有的故事就此展开了……<br><br>　　火影和小倩都参与到了寻宝的过程之中，并由此相识、相知，并且和其他的伙伴们共同写出了一个个美丽的故事。<br><br>　　在“乱点鸳鸯谱”活动中的由玩家所共同推选出了《QQ堂》的超级情侣档——火影和小倩，我们以他们两个的爱情故事为主题，作为我们本次故事的开始，希望喜欢我们主角的玩家能够给我们的主角的带来一个完美的爱情故事。<br><br>　　我们每天会从所有的投稿的内容中，选出一篇，作为下一天的接龙的前章，还希望大家在提供文章的同时考虑一定的留有发展空间，不要一下子就把故事的结尾写了出来，这样的文章可能因为整体的需要，不能够入选就非常遗憾了。<br><br>　　<font color="red">活动时间：1月25日～1月31日<br>　　活动奖励：每日选出者，当日稿费10Q币</font><br><br>　　故事接龙活动页面：<a href="../../../../../../event/story/index.html" target="_blank"><b>http://qqtang.qq.com/event/story</b></a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200502/29869.shtml">故事接龙顺利结束 有情人终成眷属</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29859.shtml">火影VS小倩 爱情故事你来写</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|42df7dccec827873f3b80f14f3df62d1<![endif]-->

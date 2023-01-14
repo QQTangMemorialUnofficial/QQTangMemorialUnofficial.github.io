@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>游戏版本更新停机预告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>游戏版本更新停机预告</h4>
+    <div class="new_nytxt">　　因QQ堂游戏版本更新，故从2月1日上午9：00开始QQ堂游戏服务器将进行停机维护，预计停机时间将持续到当日下午2：30，请各位玩家周知并相互转告，后续消息请玩家继续关注官网公告。<br><br>　　另外明天QQ堂游戏客户端将会更新到最新的《QQ堂：春之恋曲》版本，此次游戏升级将采用下载与自动更新相结合的方式进行。对于已经安装有《QQ堂：小兵集训》版本的玩家可以在明天下午游戏服务器重新开放后直接登录游戏，游戏客户端即可自动更新完成升级。对于未安装QQ堂或者游戏版本过老的玩家，可以到我们的官方网站，QQ游戏大厅等位置下载更新到最新版本。请各位玩家明天注意升级游戏，体验最新版本。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200502/29874.shtml">《QQ堂》春之恋曲版 激情上演</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200502/29872.shtml">新版本玩家需注意问题</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200502/29868.shtml">《春之恋曲》升级完成 已经对外开放</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200502/29867.shtml">QQ堂版本更新公告</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|033b919061d93a2c7dbdd2240f90114c<![endif]-->

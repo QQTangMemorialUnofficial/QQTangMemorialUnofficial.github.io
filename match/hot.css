@@ -1,0 +1,72 @@
+td {
+	font-size: 9pt;
+	line-height: 120%;
+}
+a:link {text-decoration: none;color: #000000;}
+a:visited { text-decoration: none; color: #000000}
+a:hover {text-decoration: none;color: #0099FF;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	color: #000000;
+	background-attachment: scroll;
+	background-image:   url("http://ossweb-img.qq.com/images/qqtang/qqtangold/bgx.gif");
+	background-repeat: repeat;
+	background-color: #FDD2D2;
+	margin: 0px;
+}
+.bigtxt {
+	FONT-SIZE: 10pt;
+	LINE-HEIGHT: 120%;
+	font-weight: bold;
+	
+	LINE-HEIGHT: 120%;
+	font-weight: bold;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.engtxt {
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 128%;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.articleTitle {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 12pt;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.articleContent {
+	FONT-SIZE: 10pt;
+	LINE-HEIGHT: 128%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.articleTime {
+	FONT-SIZE: 9pt;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.page_table {
+	background-color: #FD6D6D;
+	border: 10px solid #DC2526;
+}
+.login_table {
+	background-color: #FFFFFF;
+	border: 1px solind-attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/match/hotFFFF;02.gif");
+	background-repeat: no-repeat;
+	background-position: center bottomd-color: #FFFFFF;
+	bo2der: 1px solind-attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/match/hotFFFF;05.gif");
+	background-repeat: no-repeat;
+	background-position: center bottomd-color: #FFFright
+	border: 1px solind-attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/match/hotFright02.gif");
+	background-repeat: no-repeat;
+	background-position: center bottomd-color: #FFFright
+	bo2der: 1px solind-attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/match/hotFright05.gif");
+	background-repeat: no-repeat;
+	background-position: center bottomd-cott

@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="../4199/m2770/list_1.shtml" title="最新公告">最新公告</a><a href="../4201/m2770/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+	        <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                				                            <li>
+                                <a href="../4199/m2770/list_1.shtml">[公告]</a>
+                                <a href="../4199/m2771/201309/228017.shtml" target="_blank"><font color="">《QQ堂》官方打击外挂最新说明公告</font></a>
+                                <span>2013-09-29</span>
+                            </li>
+                                             <li>
+                                <a href="../4199/m2770/list_1.shtml">[公告]</a>
+                                <a href="../4199/m2771/201309/225887.shtml" target="_blank"><font color="">QQ堂9月14日临时停机维护公告</font></a>
+                                <span>2013-09-14</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201309/225642.shtml" target="_blank"><font color="">QQ堂2013年9月13日临时停机公告</font></a>
+                                <span>2013-09-12</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201309/224197.shtml" target="_blank"><font color="">QQ堂外挂处理公告</font></a>
+                                <span>2013-09-03</span>
+                            </li>
+                                             <li>
+                                <a href="../4202/m2770/list_1.shtml">[商城]</a>
+                                <a href="../4202/m2771/201308/223139.shtml" target="_blank"><font color="">装点淑女套装，争做邻家女神</font></a>
+                                <span>2013-08-28</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201308/223136.shtml" target="_blank"><font color="">夏末吹来可爱风，甜蜜套装热力登场</font></a>
+                                <span>2013-08-28</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201307/215871.shtml" target="_blank"><font color="">QQ堂甜蜜对对赛获奖名单</font></a>
+                                <span>2013-07-10</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201307/215870.shtml" target="_blank"><font color="">甜蜜对对赛冠军专访</font></a>
+                                <span>2013-07-10</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201307/215227.shtml" target="_blank"><font color="">甜蜜对对赛7月6日对阵表</font></a>
+                                <span>2013-07-05</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201306/213455.shtml" target="_blank"><font color="">甜蜜对对赛6月29日对阵表</font></a>
+                                <span>2013-06-27</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201306/212336.shtml" target="_blank"><font color="">甜蜜对对赛6月22日对阵表</font></a>
+                                <span>2013-06-20</span>
+                            </li>
+                                             <li>
+                                <a href="../4199/m2770/list_1.shtml">[公告]</a>
+                                <a href="../4199/m2771/201306/209372.shtml" target="_blank"><font color="">6月3日7点至13点停机维护公告</font></a>
+                                <span>2013-06-03</span>
+                            </li>
+                                             <li>
+                                <a href="../4199/m2770/list_1.shtml">[公告]</a>
+                                <a href="../4199/m2771/201306/209369.shtml" target="_blank"><font color="">甜蜜对对赛32进16比赛延期公告</font></a>
+                                <span>2013-06-03</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201305/207859.shtml" target="_blank"><font color="">甜蜜对对赛5月25日对阵表</font></a>
+                                <span>2013-05-24</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201305/206444.shtml" target="_blank"><font color="">情系五月天，相爱五月情</font></a>
+                                <span>2013-05-16</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201305/206443.shtml" target="_blank"><font color="">甜蜜对对赛64强名单</font></a>
+                                <span>2013-05-16</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201305/205430.shtml" target="_blank"><font color="">甜蜜对对赛5月11日对阵表</font></a>
+                                <span>2013-05-10</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201304/201768.shtml" target="_blank"><font color="">甜蜜对对赛报名攻略</font></a>
+                                <span>2013-04-22</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[活动]</a>
+                                <a href="../4201/m2771/201304/201767.shtml" target="_blank"><font color="">甜蜜对对赛比赛规则及比赛时间与奖励</font></a>
+                                <span>2013-04-22</span>
+                            </li>
+                                 <!--这段是列表页的结尾-->
+				        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+								<!-- n188 / 191 -->
+									<span><a href="list_3.shtml">上一页</a></span>
+													<span><a href="list_n187.shtml">下一页</a></span>
+								        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>第二次内测玩家调查活动结束暨发奖公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>第二次内测玩家调查活动结束暨发奖公告</h4>
+    <div class="new_nytxt">　　随着二次内测活动的即将结束，QQ堂第二次内测期间举行的玩家问卷调查活动也于今日（12月21日）正式结束。<br><br>　　在调查活动期间，共有约3000名玩家填写了我们的网页问卷，为QQ堂的开发组提供了宝贵的数据，为QQ堂的未来规划提供了有力依据。为了感谢玩家们的热情支持和参与，我们将尽快兑现活动的奖励。<br><br>　　获奖玩家现已通过系统随机抽出，共有10名超级幸运玩家和40名幸运玩家获得我们的奖励，他们将分别获得20Q币和5万QQ糖币的奖励。<br><br>　　<b>超级幸运玩家的获奖名单如下（共发放奖励200Q币）：</b><br>　　404167、500500、12169768、12679451、53491725、54860827、120169338、121010844、380652442、383303287<br><br>　　<b>幸运玩家的获奖名单如下（共发放奖励200万QQ糖币）：</b><br>　　405324、431248、442115、455654、471289、472725、489256、12295392、12329201、12340457、12373006、12489584、12499358、12519513、12625987、53643282、54018621、54145893、54357134、54401091、54576311、54588494、54614504、120227379、120318305、120377326、120527361、120626525、120681115、120730520、120775702、380962461、381315352、382194893、382670804、382767084、382827910、383180282、383271222、405892057 <br><br>　　获奖玩家的奖品将在近日内发放到玩家的帐号上，若有疑问，请在论坛活动专区咨询。<center>（本活动的解释权归腾讯公司所有）</center></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|72f02e22867aaa3a4e168fa9ee63da55<![endif]-->

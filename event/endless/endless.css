@@ -1,0 +1,25 @@
+td {
+	font-size: 9pt;
+	line-height: 120%;
+}
+a:link {text-decoration: underline;color: #FFFFFF;}
+a:visited { text-decoration: underline; color: #FFFFFF}
+a:hover {text-decoration: none;color: #FFFFCC;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	line-height: 120%;
+	color: #FFFFFF;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	background-color: #000000;
+	margin: 0px;
+}
+.table {
+	border: 1px outset #000000;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}

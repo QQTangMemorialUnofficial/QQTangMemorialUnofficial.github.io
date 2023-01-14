@@ -1,0 +1,55 @@
+.body,td,th {
+	font-family:Arial£¬ tahoma;
+	font-size: 12px;
+	line-height:18px;
+	color:#4A0303;	
+}
+body {
+	margin: 0px;  padding:0px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/hero2008/bg02.jpg);
+	background-repeat:repeat-x;
+	background-position:top left;
+	background-color:#CA0A06;
+}
+div{padding:0px; margin:0px;}
+a:link{font-size:12px;color:#673418;text-decoration:none}
+a:visited{font-size:12px;color:#673418;text-decoration:none}
+a:hover{font-size:12px;color:#996B52;text-decoration:underline}
+a:active{font-size:12px;color:#996B52;text-decoration:underline}
+.a{font-size:12px;color:#000000;text-decoration:none; font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+.foot{font-size:9pt;color:#FFFFFF; font-family: tahoma;}
+.foot:link{font-size:9pt;color:#FFFFFF;text-decoration:none}
+.foot:visited{font-size:9pt;color:#FFFFFF;text-decoration:none}
+.foot:hover{font-size:9pt;color:#FFD993;text-decoration:underline}
+.foot:active{font-size:9pt;color:#FFD993;text-decoration:underline}
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #D41401 1px solid; BORDER-LEFT: #D41401 1px solid; BORDER-RIGHT: #D41401 1px solid; BORDER-TOP: #D41401 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; height:15px}
+
+.height {  font-size: 12px; line-height: 24px; color:#FFFFFF}
+.right_wr td{  color:#592D15; font-weight:bolder; text-align:center; line-height:24px;}
+.ny_txt{ color:#222022; font-weight:bolder;}
+.line{ border-bottom:#B27523 1px dotted; line-height:20px;}
+.new_line{ border-bottom:#B27523 1px dotted; line-height:20px;}
+.left_bg{ background:url(http://ossweb-img2.qq.com/images/qqtang/hero2008/le_bn_48.jpg) bottom no-repeat;}
+.txt p{ font:12px; line-height:150%; text-indent:2em; padding-top:8px;}
+.txt_14{ font-weight:bolder; font-size:14px;}
+
+#Layer1 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:875px;
+	height:214px;
+	z-index:1;
+}
+#Layer2 {
+	position:absolute;
+	left:175px;
+	top:142px;
+	width:661px;
+	height:100px;
+	z-index:2;
+}

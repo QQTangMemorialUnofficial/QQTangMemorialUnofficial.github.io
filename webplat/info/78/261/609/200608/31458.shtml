@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>我眼中的决赛对手-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">英雄争霸</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>我眼中的决赛对手</h4>
+    <div class="new_nytxt">　　举头青天一片蓝，败无语，笑依然，漠望别时路，Q堂英雄明日来。<br><br>　　双手离开键盘的瞬间，选手小黄也轻轻地舒展了一口气。输了，笑笑，几分可惜，几分遗憾，却，没什么大不了。他，名叫黄增广，是来自广西南宁的选手，也是本次QQ堂第二届中华英雄争霸赛南方区域决赛，唯一一位既进入个人赛四强，又闯进团体赛四强的选手。<br><br>　　经过了两场激烈的角逐，决赛的选手们对对手，都有一番感言。<br><br>　　团体赛亚军Hz.”传说队：团体赛时，他们打得很镇定，配合很好。<br>团体赛冠军赖猫懒狗队：他们应该发挥失常吧，感觉打得有些轻松，没想到。我们之前都是交过手的。<br><br>　　个人赛亚军小黄：不应该输的。但是他是越打越进入状态，越打越好的那种人。有些可惜吧，不过明年可以再来。<br>个人赛冠军小钟：他打得镇静，后来我都有些急了。我们之前都打过，知道对方的实力，当然我们自己也有自己擅长的地图。<br><br>　　此次比赛唯一一组女子团队----双星物语，在比赛中也是风采尽出，帼国不让须眉。来自湖南的小乐MM，一身单薄、乖巧。据了解，她今天才参加完高考，并以优异的成绩考入了一所本科高等院校就读金融专业。拥有绘画基础的她被QQ堂里可爱的角色深深吸引着，她希望自己能通过四年的大学进修，对网游市场有一番研究与贡献。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200707/32162.shtml">华丰魔法士争霸赛第二轮即将开始</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32145.shtml">线上比赛火热　中华争霸酣战</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32114.shtml">QQ堂英雄争霸赛报名进入倒计时</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32102.shtml">SHOW出你的勇气   成就英雄梦想</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|07f9edf84aafed709b429ebca12d691e<![endif]-->

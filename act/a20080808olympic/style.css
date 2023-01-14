@@ -1,0 +1,23 @@
+body{margin:0px; padding:0px;
+background:url(http://ossweb-img.qq.com/images/qqtang/act/a20080808olympic/bg01.jpg) top repeat-x #FFCA2C;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#603912;
+line-height:20px;
+}
+a{ color:#603912; text-decoration:none;}
+a:hover{ color:#E62600; text-decoration:underline;}
+div, form, img, ul, ol, li, dl, dt, dd{ margin:0; padding:0;}
+ul,li{ list-style:none;}
+#hd,#content,#ft{width:1000px;margin:0;}
+#hd .to_01{background:url(http://ossweb-img.qq.com/images/qqtang/act/a20080808olympic/top_01.jpg) top no-repeat ; height:157px;}
+#hd .to_02{background:url(http://ossweb-img.qq.com/images/qqtang/act/a20080808olympic/top_02.jpg) top no-repeat ; height:163px;}
+.le_pad{ margin:0px 15px; padding:5px;}
+.foot{ color:#333333;}
+.red{color:#ED1B23; font-weight:bolder;}
+.ceb_bg td{ border-bottom:1px dotted #B27523 ; padding:2px 0px;}
+.ce_menu{padding:4px 280px; height:90px;}
+*+html.ce_menu{padding:4px 270px; height:90px;}
+* html.ce_menu{padding:4px 270px; height:90px;}
+.hid{ float:left; width:84px; height:90px; margin:0px 10px; text-indent:-999px; overflow:hidden;display:block;}
+.cepad td{padding:0px 4px;}

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>广州区团队冠军——“赖猫懒狗”-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">英雄争霸</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>广州区团队冠军——“赖猫懒狗”</h4>
+    <div class="new_nytxt">　　这是一个拥有很可爱的名字的队伍，它的实力却不容小觑。在南方区域赛中，就是这个队伍一举夺魁，顺利晋级决赛！队伍的名字来源于成员的昵称——“赖猫”、“懒狗”。这两名选手都在广州的一所中学念初中。都是15岁的孩子。 <br>     <br><div align=center><img src="http://ossweb-img.qq.com/images/qqtang/webpic/20060816/q2.jpg"> <br><br>（猜猜哪个是他们）</div><br><br>　　在比赛结果出来后，因为赖猫出门了，所以“懒狗”代表他们队接受了我们的采访。说到QQ堂，他已玩了19个月了。从04年岁末至今，未有中断。他和他的同学（赖猫）都擅长包子06，而且英雄地图也很擅长。他感言到：这次获胜除了技术的正常发挥，也在于运气。他们俩不仅获得了丰厚的奖金，还有大酷比，这个最令他开心不过了。    <br> <br>　　他们以自己的努力获得了一张通往决赛的门票，也希望这俩小子在决赛中取得满意的成绩。记住南方区冠军组——“赖猫懒狗”。为他们的决赛表现加油！<br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200707/32162.shtml">华丰魔法士争霸赛第二轮即将开始</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32145.shtml">线上比赛火热　中华争霸酣战</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32114.shtml">QQ堂英雄争霸赛报名进入倒计时</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32102.shtml">SHOW出你的勇气   成就英雄梦想</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|59c64af02d329d052e88423e19878040<![endif]-->

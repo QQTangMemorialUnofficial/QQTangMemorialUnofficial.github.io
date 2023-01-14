@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>五一紫钻贵族新特权-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>五一紫钻贵族新特权</h4>
+    <div class="new_nytxt">　　五一国际劳动节，紫钻贵族有新特权：5月1日到5月7日期间紫钻用户购买所有道具享受7折优惠。注意了，可是全场道具都能享受次优惠哦。<br><br>　　好久没空回QQ堂淋漓尽致玩一回了，七天长假，可别忘了回家看看哦。女大十八变，你会发现，新版本《我爱我家》跟以前可是大大不一样了。新增的家族系统是其亮点之一，然新道具可也毫不逊色哦。不仅更炫更酷了，而且大多是玩家自己的手笔哦。<br><br>　　看到商店里五花八门的新道具，心痒痒了吧？好想疯狂购买一番，好好犒劳自己这半年的辛苦。这时，可别忘了先花上10Q币成为紫钻贵族哦。花更少的钱购买更多的道具，是贵族的专权。<br><br>　　长假乐翻天，贵族有特权，可千万不要错过哦！<br><br>　　加入贵族行列，享受更多优惠吧！<br><br>　　更多活动，请看：<a href="../../../../../../200604item/index.html" target="_blank">http://qqtang.qq.com/200604item/</a>。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200707/32131.shtml">紫钻大优惠   魅力不打折</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="31157.shtml">紫钻省钱有道 道具全面七折</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200603/30965.shtml">轻松拨打电话 成为贵族有捷径</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200601/30720.shtml">紫钻VIP独有空间 我的地带听我的</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|6c2551d9f7c2c8d6dc57b5c4a6cf50fc<![endif]-->

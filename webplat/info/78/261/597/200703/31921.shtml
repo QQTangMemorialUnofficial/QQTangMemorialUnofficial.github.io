@@ -1,0 +1,87 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>勇士传说－－创造你我的神话-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>勇士传说－－创造你我的神话</h4>
+    <div class="new_nytxt"><P>　　当糖果王国的探险者们发现了新大陆后，越来越多的探险者陆续的投入到探险中。糖果镇的国王为了鼓励国民们对新大陆的探索，开始募集越来越多的探险者。传说中的终极BOSS，给人留下无限遐想。<BR>　　<BR>　　传说终极中的BOSS，是恐怖的吓人怪物，蕴藏了几千年的法力，非常难对付。但我们勇敢的探险者是不会　　被恐惧所吓倒的，为了揭示探险旅程的真正面目，闯入这未知的世界，等待它的会是什么呢？获取宝藏的欣喜，还是直面生死的挑战？探险旅程即将开始…… <BR><!-- --><BR><!-- -->　　勇士传说，创造你我的神话。六大任务，对你的重重考验。真的勇士，敢于面对富有挑战的人生。在风雨的层层磨砺下，你的技术由此提升，你的奖励也是接踵而至。新的六大任务系统具体如下：<BR><!-- -->&nbsp;<BR>任务1 ： 任意地图5局<BR><!-- -->任务奖励：竞技资历+2000&nbsp;&nbsp;&nbsp; <BR><BR><!-- -->任务2：进行1次探险<BR><!-- -->任务奖励：声望+1000&nbsp;&nbsp; <BR>&nbsp;<BR>任务3：任意地图20局<BR>任务奖励：光剑（1天权）&nbsp;&nbsp; <BR>&nbsp;<BR>任务4：进行3次探险<BR><!-- -->任务奖励：宝藏背景（3天权） <BR><!-- --><BR><!-- -->任务5：道具场任意地图取胜10局<BR><!-- -->任务奖励：光辉盾牌（3天权）<BR><!-- -->&nbsp; <BR>任务6：进行10次探险<BR><!-- -->任务奖励：未知的黑暗（7天权）<BR><!-- -->&nbsp;<BR>六大任务，六个关卡，摄人心魄、诡异神秘，游戏紧张的气氛，融为一体，更刺激的新任务系统等你我去体验，更有丰厚的奖励等你来领取。<BR><!-- --><BR><!-- -->勇士传说，创造你我的神话！<BR><%$Fcontent$%></P>
+<P>&nbsp;</P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|8b7c302ecd4e8a5f8db84c89912d3e9c<![endif]-->

@@ -1,0 +1,168 @@
+@charset "gb2312";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+}
+body {
+	font:12px Tahoma, Helvetica, sans-serif;
+	color:#5b0000;
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/bg.gif) repeat;
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+ol, ul {
+	line-height:22px;
+	list-style:none;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	color:#fff;
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;
+}
+a img, img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+/*---------- layout style ----------*/
+#footer {
+	margin:10px auto 0;
+	padding-top:16px;
+	width:746px;
+	height:71px;
+	color:#edb3b3;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/foot.gif) no-repeat;
+}
+#footer p {
+	float:left;
+	padding-left:180px;
+	height:20px;
+	line-height:20px;
+}
+#footer p.c {
+	float:left;
+	margin-top:-20px;
+	margin-left:413px;
+	border:0;
+	display:inline;
+}
+* html #footer p.c {
+	margin-left:412px;
+}
+*+html #footer p.c {
+	margin-left:422px;
+}
+#footer a {
+	color:#fff;
+}
+/*---------- index style ----------*/
+.content {
+	margin:0 auto;
+	overflow:hidden;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/content_bg.jpg) repeat-y center;
+}
+.content_top {
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/top.jpg) no-repeat top;
+}
+.content_bottom {
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/bottom.jpg) no-repeat bottom;
+}
+h1 {
+	display:none;
+}
+#navi {
+	position:absolute;
+	margin:-60px 0 0 140px;
+	width:474px;
+}
+#navi li {
+	float:left;
+	width:152px;
+	padding:0 3px;
+}
+#navi a {
+	display:block;
+	height:45px;
+	text-indent:-999px;
+	overflow:hidden;
+}
+.main {
+	margin:0 auto;
+	padding:441px 20px 100px 20px;
+	width:760px;
+}
+h2 {
+	padding:10px 0;
+	text-indent:-9999px;
+	overflow:hidden;
+	height:42px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/explain.png) no-repeat center;
+}
+h3 {
+	height:57px;
+	text-indent:-999px;
+	overflow:hidden;
+}
+h3.title1 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/title_01.png) no-repeat 10px 50%;
+}
+h3.title2 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/title_02.png) no-repeat 10px 50%;
+}
+h3.title3 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/title_03.png) no-repeat 10px 50%;
+}
+h3.title4 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/title_04.png) no-repeat 10px 50%;
+}
+h3.title5 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/title_05.png) no-repeat 10px 50%;
+}
+h3.title6 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/title_06.png) no-repeat 10px 50%;
+}
+h3.title7 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090107newyear/title_07.png) no-repeat 10px 50%;
+}
+.main p {
+	padding:5px 30px 10px 50px;
+	line-height:20px;
+}
+.mytab {
+	margin:0 auto;
+	text-align:center;
+}
+.mytab th {
+	border:1px solid #e5b200;
+	height:26px;
+	background:#ffba00;
+	color:#ac184e;
+}
+.mytab td {
+	border:1px solid #e5b200;
+	height:26px;
+	background:#fff1b1;
+}

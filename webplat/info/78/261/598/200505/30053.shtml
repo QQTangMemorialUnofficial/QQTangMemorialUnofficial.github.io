@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>中华英雄热身赛决赛规则-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">中华争霸赛</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>中华英雄热身赛决赛规则</h4>
+    <div class="new_nytxt">中华英雄热身赛决赛比赛流程如下：<br><br>决赛将分8强赛，4强赛及决赛三轮<br>第一轮8强赛<br>第1组： 283511961   VS   第2组： 15735316<br>第3组： 75801135    VS   第4组： 304998812<br>第5组： 85651151    VS   第6组： 340151511<br>第7组： 153802389   VS   第8组： 270182647<br><br>第二轮4强赛<br>1-2组的胜者　  VS　　3-4组的胜者<br>5-6组的胜者　  VS    7-8组的胜者<br><br>第三轮冠亚军决赛<br><br>决赛阶段比赛由GM在线主持，采用淘汰制决选出最后的冠亚军，决赛阶段采用五局三胜制。<br><br>决赛注意事项：<br>　　1.决赛阶段比赛，裁判通知选手后，5分钟不进场开始比赛，取消比赛资格。<br>　　2. 中途掉线，卡机等不可抗因素依照比赛自然进程计算当局比赛结果。决赛阶段断线5分钟没有回来继续下一局比赛。<br>　　3. 为避免大家消极比赛.决赛阶段比赛中,如果连续出现四局平局,则实施突然死亡法。即有一名参赛选手死亡，则该选手判负。<br><br>本次比赛的最终解释权归腾讯科技有限公司<br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="30069.shtml">中华英雄争霸赛团队热身赛8强名单</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30067.shtml">团队热身赛32强出线名单</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30062.shtml">“中华英雄争霸赛”团队热身赛即将启动</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30058.shtml">热身赛战火才熄，英雄大会烽烟又起</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d04ae6cb79bdf0055364ab77d9243de4<![endif]-->

@@ -1,0 +1,78 @@
+a:link {	text-decoration: none;color: #333333;}
+a:visited { text-decoration: none; color: #333333}
+a:hover {text-decoration: underline;color: #666666;}
+body {
+	FONT-SIZE: 12px;
+	color: #333333;
+	margin: 0px;
+	background-image: url(http://ossweb-img2.qq.com/images/qqtang/act/a20080319card/bg.jpg);
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	background-position: center top;
+}
+td {
+    word-wrap: break-word;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+}
+.txt_9px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.txt_14px {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.item01 {
+	position:absolute; 
+ 	left:expression(body.clientWidth/2-460);
+	top:360px; 
+	z-index:1;
+}
+.item02 {
+	position:absolute; 
+  	left:expression(body.clientWidth/2-375);
+	top:485px; 
+	z-index:1;
+}
+.item03 {
+	position:absolute; 
+ 	left:expression(body.clientWidth/2-310);
+	top:365px;
+	z-index:1;
+}
+.item04 {
+	position:absolute; 
+	left:expression(body.clientWidth/2+75);
+	top:510px;
+	z-index:1;
+}
+.item05 {
+	position:absolute; 
+	left:expression(body.clientWidth/2-110);
+	top:360px;
+	z-index:1;
+}
+.item06 {
+	position:absolute; 
+ 	left:expression(body.clientWidth/2+30);
+	top:350px;
+	z-index:1;
+}
+.item07 {
+	position:absolute; 
+ 	left:expression(body.clientWidth/2-155);
+	top:510px;
+	z-index:1;
+}
+.item08 {
+	position:absolute; 
+	left:expression(body.clientWidth/2-40);
+	top:520px;
+	z-index:1;
+}
+.pic_table {
+	border: 2px solid #FA9B01;
+	background-color: #000000;
+}

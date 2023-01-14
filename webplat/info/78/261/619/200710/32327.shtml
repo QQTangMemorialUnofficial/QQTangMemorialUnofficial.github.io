@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>我的地图我做主-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>我的地图我做主</h4>
+    <div class="new_nytxt"><p>　　有设计师的梦想，想与地图研究院的设计师一拼高下？有艺术家的细胞，想设计出比&ldquo;包6&rdquo;更经典的地图？QQ堂&mdash;&mdash;我们都是设计师，全民参与地图设计大型活动即将于11月7日热力登场！<br />
+<br />
+　　只要你有理念，够天才，那就快快来参加这次的地图设计大赛吧，设计属于自己的游戏地图，无限乐趣，无穷欢乐，更有连连惊喜大奖等着你。</p>
+<p>　　届时，QQ堂官方网站将发布地图设计软件并提供下载，所有参赛玩家只需及时下载安装该软件，花上几分钟看下新手使用帮助，即可轻松简单地设计绘制专属于自己的地图咯。包子06、珍宝岛、英雄03&hellip;从此玩着一张张经典地图的时候，再也不必羡慕他人的才华;发挥自己青春无限的想象，张扬独特个性的时候到了，有时候抓住一个小小的灵感，往往会带来意想不到的惊喜发现，超越包6不再是梦想。<br />
+<br />
+　　各位天才设计家们，快快行动起来！在活动开始后，将自己设计完成的作品存为JPG格式，并上传到活动页面接受官方及所有QQ堂玩家的评审投票。设计者可以就地图类型及设计理念进行简短的阐述，官网会即时对各个地图进行投票排名。从中脱颖而出的优秀作品，不仅能获得优厚大奖，其作品更有机会被制作出地图文件收入新版本中发布，具有跨时代的意义。同时，作者将可能获得该地图优先冠名权，名垂青史。</p>
+<p>　　我的地图听我的，QQ堂将游戏地图设计权交给你，充分体现其对玩家温暖的关心，驱散严冬的寒意，让我们一起期待那些崭新的地图，QQ堂美好的明天！<br />
+<br />
+　　更多活动，更多丰厚奖励，详情尽请关注官网动态，腾讯QQ堂官方运营团队对本次活动拥有最终解释权。</p></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|24415e43926f86f09cb40069f147a51b<![endif]-->

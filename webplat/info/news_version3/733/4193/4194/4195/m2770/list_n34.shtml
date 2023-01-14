@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../../m2770/list_1.shtml" title="综合新闻">综合新闻</a><a href="../../4199/m2770/list_1.shtml" title="最新公告">最新公告</a><a href="../../4201/m2770/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../../../index.html" class="a">首页</a> >> <a href="../../m2770/list_1.shtml" class="a">新闻中心</a> >> <span></span>最新</div>        
+      </div>
+	        <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                				                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200508/142019.shtml" target="_blank"><font color="">寻找酷比 机会莫失</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200807/144568.shtml" target="_blank"><font color="">锋芒毕露，QT宝贝炫耀一夏</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200604/142869.shtml" target="_blank"><font color="">登上海盗船 扬帆远航</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200609/143256.shtml" target="_blank"><font color="">偏偏又笨又酷 谁叫我是舞会新角色</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200712/144130.shtml" target="_blank"><font color="">背着幸福的梦想</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200507/141960.shtml" target="_blank"><font color="">十万！打造国产休闲网游第一品牌</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200806/144522.shtml" target="_blank"><font color="">“紫焰翅膀”演绎传奇神话</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200604/142839.shtml" target="_blank"><font color="">海皇之杖——黄金鱼叉</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200608/143227.shtml" target="_blank"><font color="">宠儿家族——开心第一</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200701/143535.shtml" target="_blank"><font color="">QQ堂2.0《探险新旅程》全新揭密</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200508/142053.shtml" target="_blank"><font color="">神秘游乐园 等你去体验</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200806/144488.shtml" target="_blank"><font color="">一闪一闪亮晶晶，满天都是好背景</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200604/142796.shtml" target="_blank"><font color="">无心插柳柳成荫－访道具征集获奖玩家~~飘沙~~</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200607/143170.shtml" target="_blank"><font color="">《酷比夏令营》特刊——揭密新版本面纱</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200612/143503.shtml" target="_blank"><font color="">名满天下 倩影留存</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200510/142276.shtml" target="_blank"><font color="">喜讯！QQ堂荣获2005最佳Q版网络游戏</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200504/141712.shtml" target="_blank"><font color="">江苏移动专区开放</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200806/144457.shtml" target="_blank"><font color="">新版本揭密—天上掉金蛋，惊喜砸出来</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="../m2771/200910/145175.shtml" target="_blank"><font color="">三倍经验乐翻天，欢乐周末齐分享</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                 <!--这段是列表页的结尾-->
+				        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+								<!-- n34 / 127 -->
+									<span><a href="list_n35.shtml">上一页</a></span>
+													<span><a href="list_n33.shtml">下一页</a></span>
+								        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ec1a51ba48d43fe21f24f0b1e5deaf04<![endif]-->

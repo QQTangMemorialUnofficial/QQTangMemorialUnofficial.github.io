@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../list_1.shtml" title="综合新闻">综合新闻</a><a href="../608/list_1.shtml" title="最新公告">最新公告</a><a href="../619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../index.html" class="a">首页</a> >> <a href="../list_1.shtml" class="a">新闻中心</a> >> <span></span>最新</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30816.shtml" target="_blank"><font color="">甜蜜爱情再次被见证—铂金戒指大赠送</font></a>
+                                <span>2006-02-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30817.shtml" target="_blank"><font color="">一半是火焰，一半是海水—美女与野兽</font></a>
+                                <span>2006-02-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30818.shtml" target="_blank"><font color="">酷比零接触不是幻想 1000个酷比天使“出嫁”去</font></a>
+                                <span>2006-02-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30819.shtml" target="_blank"><font color="">玫瑰的召唤</font></a>
+                                <span>2006-02-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30820.shtml" target="_blank"><font color="">SONY PS2游戏机大奖 等你来挑战</font></a>
+                                <span>2006-02-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30821.shtml" target="_blank"><font color="">QQ堂道具商店Q糖币专区加入新成员</font></a>
+                                <span>2006-02-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30822.shtml" target="_blank"><font color="">玫瑰花香洒满QQ堂</font></a>
+                                <span>2006-02-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30823.shtml" target="_blank"><font color="">浪漫情人节，让铂金见证我们的爱情</font></a>
+                                <span>2006-02-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30824.shtml" target="_blank"><font color="">[美女与野兽]最新大奖确认</font></a>
+                                <span>2006-02-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30825.shtml" target="_blank"><font color="">QQ堂官网新闻记者公告</font></a>
+                                <span>2006-02-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30826.shtml" target="_blank"><font color="">《酷比世界》面市-QQ堂你我的杂志</font></a>
+                                <span>2006-02-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30827.shtml" target="_blank"><font color="">酷比派送活动已结束，请玩家填写邮寄资料</font></a>
+                                <span>2006-02-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30828.shtml" target="_blank"><font color="">玫瑰活动结束，誓言永存心间</font></a>
+                                <span>2006-02-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30829.shtml" target="_blank"><font color="">"玫瑰的誓言"活动奖励</font></a>
+                                <span>2006-02-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30830.shtml" target="_blank"><font color="">访荣获“大众情人“称号的十一鑰滴蕭幫</font></a>
+                                <span>2006-02-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30831.shtml" target="_blank"><font color="">访挑战BOSS中获得PS2大奖的幸运者-ωǒ愛寶寶</font></a>
+                                <span>2006-02-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30832.shtml" target="_blank"><font color="">可爱鹿儿“心若舞”，至尊QQTANG内测明星玩家</font></a>
+                                <span>2006-02-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30834.shtml" target="_blank"><font color="">美女与野兽,多种实物奖励,总有一个适合你</font></a>
+                                <span>2006-02-20</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[最新]</a>
+                                <a href="200602/30836.shtml" target="_blank"><font color="">新颜换旧颜 QQ堂新官网正式推出</font></a>
+                                <span>2006-02-21</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n35.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n33.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|5eaa8861c58454c46a6c7778983f3d88<![endif]-->

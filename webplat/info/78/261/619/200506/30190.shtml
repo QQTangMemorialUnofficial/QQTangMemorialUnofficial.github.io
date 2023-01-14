@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>体验新版本 双倍经验人人有份-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>体验新版本 双倍经验人人有份</h4>
+    <div class="new_nytxt">　　QQ堂第一个正式版本——清凉无比的《酷比一夏》开始内测啦！<br><br>　　快乐体验新版本，双倍经验大奉送。凡在6月28日～7月6日之间体验新版本的内测玩家，所获取的经验都将是普通服务器的双倍，让您更轻松的积累经验，享受与众不同QQ堂的同时迅速提高游戏等级。<br><br>　　与以往不一样的是本次内测将保留所有内测数据，在正式版公测之后，所有内测数据都将导入正常服务器，珍惜您每一次付出所换来的胜利果实。<br><br>　　值得注意的是，体验服务器里面玩家所有相关数据均为0，包括积分，糖币和等级都是以初始状态出现。随着您游戏时间的增长，所获取的积分、糖币都会在内测之后才能导入正常服务器。<br><br>　　见者有份，参加有份，人人有份！让我们进入体验服务器，尽情享受双倍经验的VIP待遇吧！<br><br>　　新版本活动专区链接：<a href="../../../../../../summer/index.htm" target="_blank">http://qqtang.qq.com/summer/index.htm</a><br>　　体验报名处链接：<a href="../../../../../../summer/event.htm" target="_blank">http://qqtang.qq.com/summer/event.htm</a><br><br>　　快人一步，抢先体验报名正在进行中！不一样的夏天，从《酷比一夏》开始！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200508/30306.shtml">《酷比一夏》发布满月 众说纷繁新版本</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200507/30232.shtml">寻找酷比，寻找一个快乐暑假！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200507/30227.shtml">新版本新惊喜，双倍经验正在进行</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200507/30226.shtml">《酷比一夏》开门红,精彩道具人人送</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|3db42b098687e1c6c82af724c2798127<![endif]-->

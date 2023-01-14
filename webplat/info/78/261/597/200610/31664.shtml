@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>万圣节！闹鬼专区与你同欢乐！-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>万圣节！闹鬼专区与你同欢乐！</h4>
+    <div class="new_nytxt">　　国庆中秋意犹在！万圣节狂欢速降临！<br><br>　　10月26日-10月31日每晚18:00-24:00 上海电信和天津网通自由频道万圣闹鬼专区隆重登场！ <br><br>　　由于大鬼小鬼的胡作非为,闹鬼专区变成了双倍经验啦!一群爱搞怪的朋友们,让我们一起来享受神秘的万圣节吧! <br><br>　　各玩家注意啦！在上海电信及天津网通区自由频道中设有万圣节闹鬼专区。只有拥有恶魔面具、巫师帽、僵尸帽和旅行包中至少一样的玩家才能进入万圣节闹鬼专区！<br><br>　　HALLOWWAY！激情燃烧浓情释放的时刻！漆黑的夜空下，什么样的神秘在等待你？期待之心迅速跳跃！不如就以千军万马之势，挑战万圣节之夜的神秘！<br><br>　　惊喜只属于那些有准备有勇气的人！<br><br>　　胆小的胆大的都赶快行动！惊喜刺激之夜一年只一次！<br><br>　　生活流淌的日子又快快即到年关，万圣节的快乐伴随你永远！就如QQ堂一直就在你左右！<br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|92586581c6954cd4c0586a8371010559<![endif]-->

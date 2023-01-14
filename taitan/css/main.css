@@ -1,0 +1,256 @@
+body,table,tr,td,textarea,select,input {
+	font-family:??;font-size:13px;color:#555555;
+	scrollbar-face-color:#DADADA;
+	scrollbar-highlight-color:#FFFFFF;
+	scrollbar-3dlight-color:#DADADA;
+	scrollbar-shadow-color:#AEAEAE;
+	scrollbar-darkshadow-color:#6F6F6F;
+	scrollbar-track-color:E0E0E0;
+	scrollbar-arrow-color:6F6F6F;
+}
+input.typeB {border:1 solid #d1d1d1;height:20px;font-size:13px;color:#404040;background-color:white;padding:2px;}
+input.typeBx {border:1 solid #e1e1e1;height:20px;font-size:13px;color:#a0a0a0;background-color:#f2f4f4;padding:2px;}
+input.blue {border:1 solid #73ABC9;height:18px;font-size:13px;color:#404040;background-color:white;}
+input.select {border:0;height:14px;width:14px;background-color:transparent;}
+input.check {border:0;height:14px;width:14px;background-color:transparent;}
+input.transA {border:0;background-color:transparent;font-family:arial;font-size:16px;font-weight:bold;color:#73ABC9;height:18px;}
+
+a:link, a:visited, a:active {font-family:SDWebNGothic10;font-size:13px;color:#404040;text-decoration:none;}
+a:hover {font-family:SDWebNGothic10;font-size:13px;color:#202020;text-decoration:underline;}
+a img {border:none;}
+a.etc:link, a.etc:visited, a.etc:active {font-family:SDWebNGothic10;font-size:13px;color:#737373;text-decoration:none;}
+a.etc:hover {font-family:SDWebNGothic10;font-size:13px;color:#202020;text-decoration:underline;}
+a.etc2:link, a.etc2:visited, a.etc2:active {text-decoration:none;}
+a.etc2:hover {text-decoration:none;}
+a.etc3:link, a.etc3:visited, a.etc3:active {color:#afafaf;}
+a.etc3:hover {color:#202020;}
+a.etc4:link, a.etc4:visited, a.etc4:active {font-family:SDWebNGothic10;font-size:13px;color:#737373;text-decoration:none;}
+a.etc4:hover {font-family:SDWebNGothic10;font-size:13px;color:#86B45A;text-decoration:underline;}
+a.etc5:link, a.etc5:visited, a.etc5:active {color:#afafaf;text-decoration:none;}
+a.etc5:hover {color:#afafaf;text-decoration:underline;}
+
+.white12px {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:link {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:visited {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:hover {
+	font-size: 12px;
+	color: #FFFDCE;
+	text-decoration: none;
+}
+A.white12px:active {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.orange12px {
+	font-size: 12px;
+	color: #D35511;
+	text-decoration: none;
+}
+A.orange12px:link {
+	font-size: 12px;
+	color: #D35511;
+	text-decoration: none;
+}
+A.orange12px:visited {
+	font-size: 12px;
+	color: #D35511;
+	text-decoration: none;
+}
+A.orange12px:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.orange12px:active {
+	font-size: 12px;
+	color: #D35511;
+	text-decoration: none;
+}
+
+.black12px {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+A.black12px:link {
+
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+A.black12px:visited {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+A.black12px:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.black12px:active {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.gray12px {
+	font-size: 12px;
+	color: #5F5F5F;
+	text-decoration: none;
+}
+A.gray12px:link {
+
+	font-size: 12px;
+	color: #5F5F5F;
+	text-decoration: none;
+}
+A.gray12px:visited {
+	font-size: 12px;
+	color: #5F5F5F;
+	text-decoration: none;
+}
+A.gray12px:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.gray12px:active {
+	font-size: 12px;
+	color: #5F5F5F;
+	text-decoration: none;
+}
+.green12pxshaw {
+	font-size: 12px;
+	color: #1E5801;
+	text-decoration: none;
+	filter: DropShadow(Color=#CBFAAC, OffX=1, OffY=1, Positive=true);
+}
+A.green12pxshaw:link {
+	font-size: 12px;
+	color: #1E5801;
+	text-decoration: none;
+}
+A.green12pxshaw:visited {
+	font-size: 12px;
+	color: #1E5801;
+	text-decoration: none;
+}
+A.green12pxshaw:hover {
+	font-size: 12px;
+	color: #C44400;
+	text-decoration: none;
+}
+A.green12pxshaw:active {
+	font-size: 12px;
+	color: #1E5801;
+	text-decoration: none;
+}
+.green12pSB {
+	font-size: 12px;
+	color: #246B05;
+	text-decoration: none;
+	filter: DropShadow(Color=#E5EC29, OffX=1, OffY=1, Positive=true);
+	font-weight: bold;
+	top: -2px;
+	padding-top: 4px;
+}
+A.green12pSB:link {
+	font-size: 12px;
+	color: #246B05;
+	text-decoration: none;
+	font-weight: bold;
+}
+A.green12pSB:visited {
+	font-size: 12px;
+	color: #246B05;
+	text-decoration: none;
+	font-weight: bold;
+}
+A.green12pSB:hover {
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+A.green12pSB:active {
+	font-size: 12px;
+	color: #246B05;
+	text-decoration: none;
+	font-weight: bold;
+}
+.red12px {
+	font-size: 12px;
+	color: #9A4415;
+	text-decoration: none;
+}
+A.red12px:link {
+	font-size: 12px;
+	color: #9A4415;
+	text-decoration: none;
+}
+A.red12px:visited {
+	font-size: 12px;
+	color: #9A4415;
+	text-decoration: none;
+}
+A.red12px:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.red12px:active {
+	font-size: 12px;
+	color: #9A4415;
+	text-decoration: none;
+}
+.realred12px {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.realredpx:link {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.realred12px:visited {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.realred12px:hover {
+	font-size: 12px;
+	color: #FF9933;
+	text-decoration: none;
+}
+A.realred12px:active {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+.input {
+	color: #333333;
+	font-family: "??";
+	font-size: 12px;
+	background-color: #ededed;
+}
+.input2 {BORDER: 1 solid rgb(221,221,221) 1px solid; BORDER-BOTTOM: rgb(221,221,221) 1px solid; FONT-FAMILY: "ËÎÌו","verdana"; font-size:12px; BACKGROUND-COLOR: rgb(255,255,255); font-color: rgb(111,111,111) ; LINE HEIGHT: 20px 
+}
+
+.linklist 	A:link 		{ TEXT-DECORATION:none; color:#555555 }
+.linklist 	A:visited	{ TEXT-DECORATION:none; color:#555555 }
+.linklist	A:active	{ TEXT-DECORATION:none; color:#808080}
+.linklist 	A:hover		{ TEXT-DECORATION:none; color:#808080}

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>糖果使命——拯救酷比王子-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>糖果使命——拯救酷比王子</h4>
+    <div class="new_nytxt">　　新学期开学了，但是大家发现QQT王国最重要的人物酷比王子并没有来学校报道，老师很不情愿地宣布了酷比得了重病，生病垂危，不能来上课了。国王通过神医得知只要集齐足够多的祝福宝石，祝福之神就会出现，他可以满足任何一个愿望。<br><br>　　很快国王宣布了一个重要告示：为了拯救酷比，号召全体QQT王国的臣民们一起加入到寻找祝福宝石的计划中。<br><br>　　QQT国王将会对于在这次活动做出巨大贡献的个人和家族授以重大奖励。经过这次神秘家族活动，国王将会从中将会对经过考验的家族授予特别封号。<br>每周国王将会派出特使，在每周四上午10:00,统一收走大家收集的祝福宝石。<br>所有的臣民们开始热情高涨，但是不知道哪里去搜寻宝石。QQT王国最著名的地理老师告诉我们在那遥远的QQT矿洞里面有着取之不尽的宝石，但是到达那个矿洞需要历经千难万险,从中国城出发，穿越冰天雪地的西伯利亚，来到旷野的西欧大陆，然后来到广袤无垠的撒哈拉大沙漠，那个矿洞那撒哈拉沙漠里面，需要我们进行努力的搜寻。<br><br>　　相信我们的勇士绝对不会害怕艰难困苦的，一定能够成功，那么让我们还是这次伟大的拯救计划吧！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|872a1beb91e4848539fa408d1b29aeac<![endif]-->

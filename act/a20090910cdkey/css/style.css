@@ -1,0 +1,111 @@
+@charset "gb2312";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+	margin:0 auto;
+}
+body {
+	font:12px Tahoma, Helvetica, sans-serif;
+	color:#75df7e;
+	margin:0 auto;
+	background:#75df7e url(http://ossweb-img.qq.com/images/qqtang/act/a20090910cdkey/body_bg.jpg) repeat-x 0 42px;	
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+ul {
+	line-height:22px;
+	list-style:none;
+}
+ol li {
+	margin-left:23px;
+	width:auto;
+	height:auto;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;
+}
+a img, img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+/*---------- layout style ----------*/
+#footer {
+	margin:0 auto;
+	padding-top:5px;
+	width:998px;
+	height:53px;
+	color:#fff;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090910cdkey/foot_bg.jpg) no-repeat center 0;	
+}
+#footer a.logo{
+	display:block;
+	float:left;
+	margin:2px 0 0 153px;	
+	_margin:1px 0 0 75px;
+	text-indent:-999px;
+	overflow:hidden;
+	width:138px;
+	height:44px;
+}
+#footer .text{
+	float:left;
+	margin:2px 0 0 20px;
+	width:540px;
+}
+#footer p {
+	float:left;
+	height:20px;
+	line-height:20px;
+}
+#footer p.c {
+	float:left;
+	margin-top:-20px;
+	margin-left:413px;
+	border:0;
+	display:inline;
+}
+* html #footer p.c {
+	margin-left:412px;
+}
+*+html #footer p.c {
+	margin-left:422px;
+}
+#footer a {
+	color:#fff;
+}
+/*---------- index style ----------*/
+h1{
+	width:0;
+	height:0;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+.content{
+	margin:0 auto;
+	padding:308px 0 0 380px;
+	width:620px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090910cdkey/index.jpg) no-repeat center 0;
+}
+/*  |xGv00|c34c7c7f643b3e6d1b58064b9d2e5d54 */

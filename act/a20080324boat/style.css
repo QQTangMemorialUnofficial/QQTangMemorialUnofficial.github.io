@@ -1,0 +1,25 @@
+.white12px {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:link {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:visited {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:hover {
+	font-size: 12px;
+	color: #FFFDCE;
+	text-decoration: none;
+}
+A.white12px:active {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}

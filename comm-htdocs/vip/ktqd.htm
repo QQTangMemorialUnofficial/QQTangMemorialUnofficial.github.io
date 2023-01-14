@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>	QQ音速支付</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="robots" content="all" />
+<meta name="author" content="eddygu" /> 
+<meta name="Copyright" content="Copyright (c) 2006-2007 tencent" />
+<meta name="Description" content="点燃自由幻想图标-开启美好游戏人生！-QQ自由幻想官方网站" />
+<meta name="Keywords" content="QQ自由幻想,Q币,盛夏四重奏,2.09版本,花妖巢穴,幻想之翼,仙子宠姬,浪漫满服,图标也升级,震撼出击,QQ自由幻想官方,网站下载,超级旋风,每天100万Q币,家族,人气,大比拼,领奖,下载,说明,公测,版本,QQ自由幻想官方网站,永久免费" />
+<script language="JavaScript" type="text/javascript" src="js/pay.js"></script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+</head>
+<body> 
+	<div id="speed_cMiddle">
+		<div class="mTop"></div>
+		<div class="mContent">
+			<ul class="H350">
+				<li class="li_text">
+				  <div class="color_ff9900 floatL"><img src="http://ossweb-img.qq.com/images/commweb/star.jpg" width="10" height="10" align="absmiddle" /><span class="color_6d6d6d"><strong> 您选择了</strong></span><strong>Q点/Q币个人帐号开通<span class="color_6d6d6d">方式</span></strong></div> 
+				  <div class="li_lt"><a href="http://pay.qq.com/paycenter/paycenter_qb.shtml" target="_blank" class="color_6d6d6d" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.qdqbcz'});">Q点Q币充值</a></div><div class="li_lt1"><a href="http://pay.qq.com/account/index.shtml" target="_blank" class="color_6d6d6d" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.cxzhye'});">查询帐户余额</a></div></li>
+				<li class="li_xian"><img src="http://ossweb-img.qq.com/images/commweb/line.jpg" width="472" height="1" align="top" /></li>
+				<li class="form">
+				    <form action="" method="post" name="pay_form" id="pay_form" >
+                        <input name="service" type="hidden" value="">
+                        <input name="month" type="hidden" value="1">
+                        <input name="entrance" type="hidden" value="WEB">
+                        <input name="SatetyID" type="hidden" value="">
+					<div class="oText">
+    					<img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请选择支付方式：<input name="prepay" type="radio"  onclick="QbQDianChl.ChangeChl(this.value);" value="qdian" checked="checked" />Q点<input name="prepay" type="radio" value="qb"  onclick="QbQDianChl.ChangeChl(this.value);" />Q币<br />
+					</div>
+					<div  class="tText">
+					<img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请选择开通服务的有效期：<br />
+					</div>
+					<div class="tText">
+					 &nbsp;&nbsp;<input name="openmonth" type="radio" onClick="QbQDianChl.ChangeMonth(this.value)" value="1" > 一个月      
+					             <input name="openmonth" type="radio" onClick="QbQDianChl.ChangeMonth(this.value)" value="3" checked>三个月      
+					             <input name="openmonth" type="radio" onClick="QbQDianChl.ChangeMonth(this.value)" value="6">六个月      
+					             <input name="openmonth" type="radio" onClick="QbQDianChl.ChangeMonth(this.value)" value="other">其他：         
+					             <input name="prepaymonth" type="text" maxlength="2" disabled="true" class="border_acacac" size="2" /> 个月  <br />
+				    </div>
+					<div class="tText">
+					   &nbsp;&nbsp;<input name="autotag" type="checkbox" value="1" checked> 自动续费                  
+                        <input name="qbqd" type="checkbox" value="1" checked>
+                        <span id="qbqd_prompt">当Q点余额不足时，使用Q币支付不足部分费用</span>
+			        </div>
+					<div class="thText1">
+						<a href="javascript:QbQDianChl.SubmitForm();"><img src="http://ossweb-img.qq.com/images/commweb/queren.jpg" border="0"/></a>
+					</div>
+					<div class="tText">
+					  <a href="http://pay.qq.com/qd/" target="_blank" style="text-decoration:underline; color:#6b6b6b">Q点可支付腾讯全部产品；Q点可兑换Q币，10Q点=1Q币；Q点更实惠更便捷</a>					</div>
+			    </form>
+				</li>
+			</ul>
+			<ul>
+				<li class="li_xian"><img src="http://ossweb-img.qq.com/images/commweb/line.jpg" width="472" height="1" align="top" /></li>
+				<li class="wxin"><img src="http://ossweb-img.qq.com/images/commweb/middle_j.jpg" alt="" width="6" height="7" align="absmiddle" /><strong class="color_7fb400"> 温馨提示：</strong></li>	
+				<li class="oWxin"><div class="oWxinother"><script type="text/javascript">document.write(parent.IED_VIP_Wr_pay_msg());</script></div></li>
+			</ul>
+		</div>
+		<div class="mBottom"></div>
+	</div>
+<script type="text/javascript">
+try{parent.setInputFromParentUrl("pay_form");parent.setSubmitDataForPay();}catch(e){}
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|a91b8576b58c8605b5b2f6fc844a127b<![endif]-->

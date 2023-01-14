@@ -1,0 +1,397 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030">
+<title>中华英雄争霸赛</title>
+<script language="javascript" src="../js/match.js"></script>
+<script language="javascript" src="../js/survey.js"></script>
+<link href="match.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<script>top()</script>
+<script>login()</script>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bg01.gif">
+  <tr> 
+    <td width="172">
+<table width="172" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table01_top.gif" width="172" height="43"></td>
+        </tr>
+        <tr>
+          <td height="145" align="center" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table01_bg.gif"> <a href="http://qqtang.qq.com/cgi-bin/news/news_info_detail?id=12844" target=_blank><img src="http://newqqtang.qq.com/upload/match/cowry/cowrypic/0713.jpg" width="140" height="140" border=0></a> 
+
+
+</td>
+        </tr>
+        <tr>
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table01_bottom.gif" width="172" height="16"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="407">
+<table width="407" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table02_top.gif" width="407" height="43" border="0" usemap="#news"></td>
+        </tr>
+        <tr> 
+          <td height="145" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table02_bg.gif"><!doctype html>
+<html>
+<head>
+  <meta charset="gbk">
+  <meta name="description" content="你访问的页面找不回来了，但是我们可以一起寻找失踪宝贝" />
+  <meta name="description" content="公益404页面是由腾讯公司员工志愿者自主发起的互联网公益活动。" />
+  <meta name="description" content="腾讯志愿者是腾讯公司内部员工为响应公司做“最受人尊敬的互联网企业”的号召，自发组织成立的腾讯志愿者协会。2012年成立腾讯志愿者技术分会，开展404公益计划，无障碍产品推动等，结合腾讯产品、技术平台，开展公益帮扶。" />
+  <link rel="dns-prefetch" href="http://game.gtimg.cn">
+  <link rel="dns-prefetch" href="http://ossweb-img.qq.com">
+  <link rel="stylesheet" type="text/css" href="http://ossweb-img.qq.com/images/js/404/style.css">
+  <title>一起寻找失踪宝贝 - 腾讯游戏温馨提示</title>
+  <!-- 设计：eastzhang | 重构：karinfeng | 创建：20141017 | 更新：20141017 | 团队博客：//tgideas.qq.com -->
+</head>
+<body>
+<div class="baby_mod">
+  <div class="hd">
+    <div class="backcrumb">
+      <a href="http://game.qq.com/?ADTAG=IED.InnerCop.gameWeb.errPage" title="返回首页" class="link-game">返回首页<i class="icon-font">&#187</i></a>
+    </div>
+  </div>
+  <div class="bd">
+    <h1 class="title">您访问的页面找不回来了！<span class="title_find">但我们可以一起寻找失踪宝贝</span></h1>
+    <div class="baby_data" id="baby_data"></div>
+  </div>
+  <div class="ft">
+    <div class="logo_box">
+      <div class="support_company"><a href="http://e.t.qq.com/Tencent-Volunteers" alt="腾讯志愿者" title="腾讯志愿者">腾讯志愿者</a></div>
+      <div class="baby_back"><a href="http://bbs.baobeihuijia.com/" alt="宝贝回家" title="宝贝回家">宝贝回家</a></div>
+    </div>
+    <div class="bt_box">
+      <div class="api404">公益404接入地址：<a href="http://www.qq.com/404/" target="_blank">//www.qq.com/404/</a></div>
+      <div class="api404">失踪儿童信息来自<a href="http://bbs.baobeihuijia.com/" target="_blank">宝贝回家寻子网</a></div>
+    </div>
+    <div class="share_box">
+      <!-- iShare BEGIN -->
+      <div id="iShare" class="iShare iShareP1">
+        <span class="Qs_txt">分享到：</span>
+        <a class="Qs_weibo" title="腾讯微博">腾讯微博</a>
+        <a class="Qs_qzone" title="QQ空间">QQ空间</a>
+        <a class="Qs_sina" title="新浪微博">新浪微博</a>
+        <a class="Qs_pengyou" title="朋友网">朋友网</a>
+        <a class="Qs_qmail" title="QQ邮箱">QQ邮箱</a>
+        <a class="Qs_kaixin" title="开心网">开心网</a>
+        <a class="Qs_renren" title="人人网">人人网</a>
+      </div>
+      <!-- iShare END -->
+    </div>
+  </div>
+</div>
+<div class="guess-mod">
+  <p class="guess-title">您可能喜欢：</p>
+  <div class="guess-o2" id="guess_o2">
+
+  </div>
+</div>
+<script charset="utf-8" src="http://qzone.qq.com/gy/404/data.js"></script>
+<script src="http://ossweb-img.qq.com/images/js/404/main.js"></script>
+<script src="http://ac.o2.qq.com/php/show.php?loc_id=217_15e1433cfc52b7d9b7f23ddf47c09b52&amp;func_type=1&amp;v=1" charset="utf-8"></script>
+<script src="http://ossweb-img.qq.com/images/game/404/new/baobei_iShare.js"></script>
+<script src="http://ossweb-img.qq.com/images/js/foot.js"></script>
+<script src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<script src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script>
+  // 分享
+  (function(){shareQQ({WB:false});})();
+  // 统计代码
+  if (typeof (pgvMain) == 'function') pgvMain();
+</script>
+</body>
+</html><!--[if !IE]>|xGv00|5ac791f0ff8576dc647739e2fe0d6fdb<![endif]--></td>
+        </tr>
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table02_bottom.gif" width="407" height="16"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="171"><table width="171" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table03_top.gif" width="171" height="43"></td>
+        </tr>
+        <tr> 
+          <td height="145" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table03_bg.gif"><a href="http://qqtang.qq.com/cgi-bin/news/news_info_detail?id=12867" target="_blank"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table03_pic.gif" width="164" height="145" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table03_bottom.gif" width="171" height="16"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bg01.gif">
+  <tr>
+    <td align="center"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_jian.gif" width="750" height="150"></td>
+  </tr>
+</table>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bg01.gif">
+  <tr> 
+    <td width="375"> 
+      <table width="375" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table04_top.gif" width="375" height="63" border="0" usemap="#video"></td>
+        </tr>
+        <tr> 
+          <td height="188" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table04_bg.gif">
+<table width="351" height="188" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="36">&nbsp;</td>
+                <td class="table01"><table width="98%" border="0" align="center" cellpadding="2" cellspacing="1" class="engtxt">
+
+  <tr> 
+    <td width="16%">[团队]</td>
+    <td><a href="http://qqtang.qq.com/cgi-bin/match/video/videodetial?vid=26">test909200</a></td>
+    <td width="18%">[05/17]</td>
+  </tr>
+ 
+  <tr> 
+    <td width="16%">[团队]</td>
+    <td><a href="http://qqtang.qq.com/cgi-bin/match/video/videodetial?vid=21">test17</a></td>
+    <td width="18%">[05/13]</td>
+  </tr>
+ 
+  <tr> 
+    <td width="16%">[个人]</td>
+    <td><a href="http://qqtang.qq.com/cgi-bin/match/video/videodetial?vid=20">test513sig</a></td>
+    <td width="18%">[05/13]</td>
+  </tr>
+ 
+  <tr> 
+    <td width="16%">[团队]</td>
+    <td><a href="http://qqtang.qq.com/cgi-bin/match/video/videodetial?vid=19">test513</a></td>
+    <td width="18%">[05/13]</td>
+  </tr>
+ 
+  <tr> 
+    <td width="16%">[个人]</td>
+    <td><a href="http://qqtang.qq.com/cgi-bin/match/video/videodetial?vid=13">test11</a></td>
+    <td width="18%">[04/28]</td>
+  </tr>
+ 
+  <tr> 
+    <td width="16%">[团队]</td>
+    <td><a href="http://qqtang.qq.com/cgi-bin/match/video/videodetial?vid=11">test11</a></td>
+    <td width="18%">[04/28]</td>
+  </tr>
+ 
+  <tr> 
+    <td width="16%">[团队]</td>
+    <td><a href="http://qqtang.qq.com/cgi-bin/match/video/videodetial?vid=10">test10</a></td>
+    <td width="18%">[04/28]</td>
+  </tr>
+ 
+  <tr> 
+    <td width="16%">[团队]</td>
+    <td><a href="http://qqtang.qq.com/cgi-bin/match/video/videodetial?vid=9">test9</a></td>
+    <td width="18%">[04/28]</td>
+  </tr>
+  
+</table>
+</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table04_bottom.gif" width="375" height="20"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="375"> 
+      <table width="375" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table05_top.gif" width="375" height="63" border="0" usemap="#report"></td>
+        </tr>
+        <tr> 
+          <td height="188" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table05_bg.gif">
+<table width="337" height="188" border="0" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td width="22">&nbsp;</td>
+                <td class="table02"><!doctype html>
+<html>
+<head>
+  <meta charset="gbk">
+  <meta name="description" content="你访问的页面找不回来了，但是我们可以一起寻找失踪宝贝" />
+  <meta name="description" content="公益404页面是由腾讯公司员工志愿者自主发起的互联网公益活动。" />
+  <meta name="description" content="腾讯志愿者是腾讯公司内部员工为响应公司做“最受人尊敬的互联网企业”的号召，自发组织成立的腾讯志愿者协会。2012年成立腾讯志愿者技术分会，开展404公益计划，无障碍产品推动等，结合腾讯产品、技术平台，开展公益帮扶。" />
+  <link rel="dns-prefetch" href="http://game.gtimg.cn">
+  <link rel="dns-prefetch" href="http://ossweb-img.qq.com">
+  <link rel="stylesheet" type="text/css" href="http://ossweb-img.qq.com/images/js/404/style.css">
+  <title>一起寻找失踪宝贝 - 腾讯游戏温馨提示</title>
+  <!-- 设计：eastzhang | 重构：karinfeng | 创建：20141017 | 更新：20141017 | 团队博客：//tgideas.qq.com -->
+</head>
+<body>
+<div class="baby_mod">
+  <div class="hd">
+    <div class="backcrumb">
+      <a href="http://game.qq.com/?ADTAG=IED.InnerCop.gameWeb.errPage" title="返回首页" class="link-game">返回首页<i class="icon-font">&#187</i></a>
+    </div>
+  </div>
+  <div class="bd">
+    <h1 class="title">您访问的页面找不回来了！<span class="title_find">但我们可以一起寻找失踪宝贝</span></h1>
+    <div class="baby_data" id="baby_data"></div>
+  </div>
+  <div class="ft">
+    <div class="logo_box">
+      <div class="support_company"><a href="http://e.t.qq.com/Tencent-Volunteers" alt="腾讯志愿者" title="腾讯志愿者">腾讯志愿者</a></div>
+      <div class="baby_back"><a href="http://bbs.baobeihuijia.com/" alt="宝贝回家" title="宝贝回家">宝贝回家</a></div>
+    </div>
+    <div class="bt_box">
+      <div class="api404">公益404接入地址：<a href="http://www.qq.com/404/" target="_blank">//www.qq.com/404/</a></div>
+      <div class="api404">失踪儿童信息来自<a href="http://bbs.baobeihuijia.com/" target="_blank">宝贝回家寻子网</a></div>
+    </div>
+    <div class="share_box">
+      <!-- iShare BEGIN -->
+      <div id="iShare" class="iShare iShareP1">
+        <span class="Qs_txt">分享到：</span>
+        <a class="Qs_weibo" title="腾讯微博">腾讯微博</a>
+        <a class="Qs_qzone" title="QQ空间">QQ空间</a>
+        <a class="Qs_sina" title="新浪微博">新浪微博</a>
+        <a class="Qs_pengyou" title="朋友网">朋友网</a>
+        <a class="Qs_qmail" title="QQ邮箱">QQ邮箱</a>
+        <a class="Qs_kaixin" title="开心网">开心网</a>
+        <a class="Qs_renren" title="人人网">人人网</a>
+      </div>
+      <!-- iShare END -->
+    </div>
+  </div>
+</div>
+<div class="guess-mod">
+  <p class="guess-title">您可能喜欢：</p>
+  <div class="guess-o2" id="guess_o2">
+
+  </div>
+</div>
+<script charset="utf-8" src="http://qzone.qq.com/gy/404/data.js"></script>
+<script src="http://ossweb-img.qq.com/images/js/404/main.js"></script>
+<script src="http://ac.o2.qq.com/php/show.php?loc_id=217_15e1433cfc52b7d9b7f23ddf47c09b52&amp;func_type=1&amp;v=1" charset="utf-8"></script>
+<script src="http://ossweb-img.qq.com/images/game/404/new/baobei_iShare.js"></script>
+<script src="http://ossweb-img.qq.com/images/js/foot.js"></script>
+<script src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<script src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script>
+  // 分享
+  (function(){shareQQ({WB:false});})();
+  // 统计代码
+  if (typeof (pgvMain) == 'function') pgvMain();
+</script>
+</body>
+</html><!--[if !IE]>|xGv00|5ac791f0ff8576dc647739e2fe0d6fdb<![endif]--></td>
+              </tr>
+            </table> 
+          </td>
+        </tr>
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table05_bottom.gif" width="375" height="20"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bg01.gif">
+  <tr> 
+    <td width="530" height="100%"> 
+      <table width="514" height="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td height="42"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table06_top.gif" width="514" height="42" border="0" usemap="#enounce"></td>
+        </tr>
+        <tr> 
+          <td height="100%" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table06_bg.gif"><table width="93%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+</td>
+              </tr>
+            </table> </td>
+        </tr>
+        <tr> 
+          <td height="6"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table06_bottom.gif" width="514" height="6"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="220"><table width="205" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table07_top.gif" width="205" height="57"></td>
+        </tr>
+        <tr> 
+          <td height="188" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table07_bg.gif"><table width=" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+</td>
+              </tr>
+            </table> </td>
+        </tr>
+        <tr> 
+          <td height="6"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table06_bottom.gif" width="514" height="6"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="220"><table width="205" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table07_top.gif" width="205" height="57"></td>
+        </tr>
+        <tr> 
+          <td heigr> p://ossweb-img.qq.com/images/qqtang/matchnew/page01_table07_top.gif" width="205" height="57"></td>
+        </tr>
+     4  <tr> 
+          <td h比武tr> p://ossweb-img.qq.com/images/qqtang/matchnew/page01_table07_top.gif" width="205" height="57"></td>
+        </tr>
+     5  <tr> 
+          <td h普通地图p://ossweb-img.qq.com/images/qqtang/matchnew/page01_table07_top.gif" width="205" height="57"Hidden>
+     ques_id514" heigh8"></td>
+        om/images/qqtang/matchnew/page01_table07_top.gif" width="205"a href="javascript:CheckV" he();"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page_button_01.gif" width="50" height="23" border="0"></a>&nbsp;&nbsp;<a href=""/cgi-bin/match/ehow?ques_id=h8" onclick="OpenSmatchWin()" target="/matchwin"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page_button_02.gif" width="80" height="23" border="0"></a></td>
+        om/images/qqtang/matchnew/pag</  <t>
+            </table></td>
+        </tr>
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_table07_bottom.gif" width="205" height="22"></td>
+        </tr>
+      </table> </td>
+  </tr>
+</table>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_top01.gif" width="750" height="18"></td>
+  </tr>
+  <tr>
+    <td height="47" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_bg.gif"><table width="9border="0" align="center" cellpadding="0" c0" cellspacing="0">
+        <tr>
+          <td width="15%ign="center" cel><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_logo.gif" width="72" height="34"></td>
+        om<td align="center"><script>footer()</script></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_bottom.gif" width="750" height="10"></td>
+  </tr>
+</table>
+<map
+     news" id= news">
+  <area sha"57">ect" cor="s="333,18,383,41" href=""/cgi-binnews/news_info_morelist?channel=1&t="5710" target="_blank">
+</map>
+<map
+     video" id= video">
+  <area sha"57">ect" cor="s="298,35,333,52" href="/match/video/video_index.htm" target="_blank">
+</map>
+<map
+     report" mg.qq.com/images/qqtang/matchnew/page01_bottom_top01.gif" width="750" height="18"></td>
+  </tr>
+  <tr>
+    <td height="47" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_bg.gif"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="15%" align="center"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_logo.gif" width="72" height="34

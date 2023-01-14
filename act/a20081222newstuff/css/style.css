@@ -1,0 +1,361 @@
+@charset "gb2312";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+}
+body {
+	font:12px Tahoma, Helvetica, sans-serif;
+	color:#ffffff;
+	margin:0 auto;
+	background:#8ecad5 url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/bg.jpg) repeat;
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+ol, ul {
+	line-height:22px;
+	list-style:none;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	color:#fff;
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;
+}
+a img, img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+.boxer {
+	margin:0 auto;
+}
+/*---------- layout style ----------*/
+#footer {
+	margin:0 auto;
+	padding-top:16px;
+	width:746px;
+	height:72px;
+	color:#309cae;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/bg_foot.jpg) no-repeat;
+}
+#footer p {
+	float:left;
+	padding-left:180px;
+	height:20px;
+	line-height:20px;
+}
+#footer p.c {
+	float:left;
+	margin-top:-20px;
+	margin-left:413px;
+	border:0;
+	display:inline;
+}
+* html #footer p.c {
+	margin-left:412px;
+}
+*+html #footer p.c {
+	margin-left:422px;
+}
+#footer a {
+	color:#40bcc9;
+}
+/*---------- index style ----------*/
+.bg {
+	width:888px;
+	height:589px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/index_01.jpg) no-repeat;
+}
+h1 {
+	display:none;
+}
+#navi {
+	position:absolute;
+	width:112px;
+}
+#navi a {
+	position:absolute;
+	display:block;
+	text-indent:-999px;
+	overflow:hidden;
+}
+#navi a.ny1 {
+	top:45px;
+	left:66px;
+	width:170px;
+	height:100px;
+}
+#navi a.ny1:hover {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/navi_ove_01.jpg) no-repeat;
+}
+#navi a.ny2 {
+	top:45px;
+	left:691px;
+	width:167px;
+	height:100px;
+}
+#navi a.ny2:hover {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/navi_ove_02.jpg) no-repeat;
+}
+#navi a.ny3 {
+	top:150px;
+	width:190px;
+	height:100px;
+}
+#navi a.ny3:hover {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/navi_ove_03.jpg) no-repeat;
+}
+#navi a.ny4 {
+	top:183px;
+	left:691px;
+	width:197px;
+	height:97px;
+}
+#navi a.ny4:hover {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/navi_ove_04.jpg) no-repeat;
+}
+#navi a.ny5 {
+	top:269px;
+	left:11px;
+	width:197px;
+	height:97px;
+}
+#navi a.ny5:hover {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/navi_ove_05.jpg) no-repeat;
+}
+#navi a.ny6 {
+	top:528px;
+	left:383px;
+	width:141px;
+	height:42px;
+}
+#navi a.ny6:hover {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/navi_ove_06.jpg) no-repeat;
+}
+/*---------- ny style ----------*/
+#navi_ny {
+	position:absolute;
+	width:112px;
+}
+#navi_ny a {
+	position:absolute;
+	display:block;
+	text-indent:-999px;
+	overflow:hidden;
+}
+#navi_ny a.ny1 {
+	top:216px;
+	left:156px;
+	width:72px;
+	height:24px;
+}
+#navi_ny a.ny1:hover, #main01 a.ny1 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/nynavi_ove_01.jpg) no-repeat;
+}
+#navi_ny a.ny2 {
+	top:228px;
+	left:294px;
+	width:91px;
+	height:23px;
+}
+#navi_ny a.ny2:hover, #main02 a.ny2 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/nynavi_ove_02.jpg) no-repeat;
+}
+#navi_ny a.ny3 {
+	top:218px;
+	left:426px;
+	width:104px;
+	height:21px;
+}
+#navi_ny a.ny3:hover, #main03 a.ny3 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/nynavi_ove_03.jpg) no-repeat;
+}
+#navi_ny a.ny4 {
+	top:222px;
+	left:576px;
+	width:104px;
+	height:22px;
+}
+#navi_ny a.ny4:hover, #main04 a.ny4 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/nynavi_ove_04.jpg) no-repeat;
+}
+#navi_ny a.ny5 {
+	top:220px;
+	left:726px;
+	width:86px;
+	height:22px;
+}
+#navi_ny a.ny5:hover, #main05 a.ny5 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/nynavi_ove_05.jpg) no-repeat;
+}
+#navi_ny a.ny6 {
+	top:189px;
+	left:866px;
+	width:63px;
+	height:18px;
+}
+#navi_ny a.ny6:hover, #main06 a.ny6 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/nynavi_ove_06.jpg) no-repeat;
+}
+.content_bg {
+	margin:0 auto;
+	width:994px;
+	overflow:hidden;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/main_bg.jpg) repeat-y;
+}
+.content_top {
+	margin:0 auto;
+	width:994px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/main_01.jpg) no-repeat top;
+}
+.content {
+	width:994px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/main_02.jpg) no-repeat bottom;
+}
+.main {
+	padding:300px 158px 92px 134px;
+}
+.box {
+	margin-top:15px;
+	background-color:#026079;
+	line-height:24px;
+}
+.box_top {
+	width:702px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_bg.jpg) no-repeat top;
+}
+.box_bottom {
+	margin:0 auto;
+	padding:10px 18px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/main_03.jpg) no-repeat bottom;
+}
+.box_bottom p {
+	text-indent:2em;
+}
+.box_bottom .r {
+	float:right;
+	padding-top:10px;
+	width:265px;
+}
+h3 {
+	height:38px;
+	text-indent:-999px;
+	overflow:hidden;
+}
+h3.title1 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_01.png) no-repeat 10px 50%;
+}
+h3.title2 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_02.png) no-repeat 10px 50%;
+}
+h3.title3 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_03.png) no-repeat 10px 50%;
+}
+h3.title4 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_04.png) no-repeat 10px 50%;
+}
+h3.title5 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_05.png) no-repeat 10px 50%;
+}
+h3.title6 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_06.png) no-repeat 10px 50%;
+}
+h3.title7 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_07.png) no-repeat 10px 50%;
+}
+h3.title8 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_08.png) no-repeat 10px 50%;
+}
+h3.title9 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_09.png) no-repeat 10px 50%;
+}
+h3.title10 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_10.png) no-repeat 10px 50%;
+}
+h3.title11 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_11.png) no-repeat 10px 50%;
+}
+h3.title12 {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/title_12.png) no-repeat 10px 50%;
+}
+.box img {
+	padding:8px;
+}
+.box img.s {
+	padding:5px 0;
+}
+.piclist {
+	padding-left:25px;
+}
+.piclist ul {
+	position:absolute;
+}
+.piclist li {
+	float:left;
+	padding:10px 25px;
+	width:150px;
+	height:150px;
+	text-align:center;
+	font-size:14px;
+	font-weight:bolder;
+}
+.piclist img {
+	padding:0;
+}
+.piclist1 {
+	text-align:center;
+}
+.box dl {
+}
+.box dt {
+	padding-top:10px;
+	font-size:14px;
+	font-weight:bolder;
+	color:#ffff00;
+}
+.box dd {
+	padding:10px 0;
+	border-bottom:1px dashed #014153;
+}
+span {
+	color:#FFCC00;
+}
+.mytab {
+	margin:10px auto;
+	padding:14px;
+	width:571px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081222newstuff/tu_29.png) no-repeat center;
+}
+.mytab table {
+	width:571px;
+	height:228px;
+}
+.mytab th {
+	height:30px;
+	color:#025369;
+}
+.mytab td {
+	height:27px;
+	line-height:27px;
+	color:#0b3f55;
+	text-align:center;
+}

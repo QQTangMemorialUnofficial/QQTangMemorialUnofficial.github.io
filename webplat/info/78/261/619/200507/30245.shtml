@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>酷比争夺战规则说明-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>酷比争夺战规则说明</h4>
+    <div class="new_nytxt">　　[寻找酷比之任务篇]活动自推出以来，在酷比精灵超级无敌卡瓦伊的魅力感召下，立刻在QQ堂掀起了一阵任务风潮，而作为这一系列任务最重要的隐藏任务----酷比争夺战也即将在明日正式展开。作为[寻找酷比]这个系列任务而言，[酷比争夺战]拥有最高的单局任务积分，对于任何一个立志将酷比揽入怀中的玩家而言，[酷比争夺战]都不容错失。<br><br>　　酷比争夺战的相关规则如下，请大家仔细查看；<br><br>　　<b>1.比赛资格：</b><br>　　欲获得进入比赛服务器比赛资格必须在在上周六~本周三之间买任务卡，并且完成全部6项任务。玩家可以到http://qqtang.qq.com/summer/707.htm去查询自己是否完成上述要求。我们也会对获得比赛资格的玩家发送qq系统消息，请注意接受。<br><br>　　<b>2.比赛时间：</b><br>　　比赛时间在本周五和周六两天。每天12：00~22：00是比赛时间。<br><br>　　<b>3.比赛规则：</b><br>　　1v1随机配对比赛。<br>　　地图为中华英雄争霸赛专用比武地图<br>　　玩家最多可以进行100局比赛。<br>　　胜一场获得任务积分6，平一场获得任务积分3，负一场没有任务积分。<br>　　注：任务积分由后台统计，比赛服务器显示积分为比赛积分</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200507/30237.shtml">六步玩转酷比--任务卡导购</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200507/30236.shtml">酷比礼包秀出来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30231.shtml">寻找酷比大冒险活动详解</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30230.shtml">寻找酷比大冒险活动说明</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|f12c762a5bd0f2811c291e5d16b35e7f<![endif]-->

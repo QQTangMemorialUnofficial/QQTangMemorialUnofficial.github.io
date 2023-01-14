@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>“酷比杯”休闲游戏策划大赛获得圆满结束-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>“酷比杯”休闲游戏策划大赛获得圆满结束</h4>
+    <div class="new_nytxt">　　由腾讯公司主办、《游戏创造》杂志承办，以促进国内游戏产业的进步和发展，挖掘游戏策划人才为宗旨的国内首次休闲游戏设计大赛——“酷比杯”游戏策划大赛于 2005 年 11 月 15 日 正式开赛以来，于 1 月 14 日落下帷幕。在此期间，大赛收到了来自各方英才的稿件达两千多份，策划方案水平相当高，大赛取得圆满结束。<br><br>　　本次大赛受到了游戏业界的广泛关注，吸引了众多在职策划及有志加入游戏行业的新人参赛。一些游戏培训机构和游戏公司的参赛选手都投递了大量的策划稿件。<br><br>　　“酷比杯”游戏策划大赛旨在通过休闲游戏的设计策划案征集和评比推动国内休闲游戏的设计开发，选拔休闲游戏设计人才。为了保证大赛的公正性和权威性，主办方特意聘请了国内外游戏设计专家、游戏产业相关行业组织的领导组成了评委会，对参赛作品进行评选。<br><br>　　此次大赛征集到了一批优秀的参赛作品，为业界培养新人、输送新鲜血液及为滕讯公司储备人才后备力量打下了基础。<br><br>　　大赛结果和获奖名单将在 2006 年 2 月正式公布。<br><br>　　详情请看大赛官方网站 <a href="http://coobie.chinagcn.com">http://coobie.chinagcn.com </a> </div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|aeb5cc7ecf5fb9de0cbc994cfc4ba2bc<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>北京成都参赛名单重要公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">英雄争霸</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>北京成都参赛名单重要公告</h4>
+    <div class="new_nytxt">　　QQ堂中华英雄争霸赛的线下四强赛北京和成都赛区即将在本周末开赛，但是成都“皇子皇妃”团队和北京QQ号为“34611581”的玩家至今没在GCS登记相关资料，因此QQ堂官方将其视为弃权，决定从其后玩家名单中另选玩家参加周末的比赛。<br><br>　　各区域四强比赛将如期举行。预祝本轮比赛顺利！<br><br>　　区域四强赛比赛地点及选手须知，请登陆：<a href="http://qqtang.qq.com/cgi-bin/news/news_info_detail?id=28121" target="_blank"><font color="red">http://qqtang.qq.com/cgi-bin/news/news_info_detail?id=28121</font></a><br><br>　　QQ堂祝选手们都能以最佳状态发挥最佳的水平。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200707/32162.shtml">华丰魔法士争霸赛第二轮即将开始</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32145.shtml">线上比赛火热　中华争霸酣战</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32114.shtml">QQ堂英雄争霸赛报名进入倒计时</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32102.shtml">SHOW出你的勇气   成就英雄梦想</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d94e936ecd5a9486d665bf17f25ede57<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>符咒快速合成秘籍-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>符咒快速合成秘籍</h4>
+    <div class="new_nytxt">　　你是否觉得每次僵尸符咒合成都需要打开IE浏览器很麻烦，你是否经常为不记得活动专区网址而苦恼…… <br><br>　　你是否知道其实则一切烦恼都很容易解决……<br><br>我们为英勇的玩家准备了从游戏客户端直接 符进行咒 合成的链接，首先你要进入游戏，在游戏公告的下方，你会发现 寻找酷比之僵尸篇的链接：（如下）<br><br>　　<img width="312" height="232" src="../../../../../../webpic/20050824/01.jpg"><br><br>　　<img width="24" height="49" src="../../../../../../webpic/20050824/02.jpg">点击进入就会来到游戏说明界面<br><br>　　<img width="300" height="247" src="../../../../../../webpic/20050824/03.jpg"><br><br>　　再点击符咒合成 <br><br>　　进入合成链接 <br><br>　　<img width="24" height="49" src="../../../../../../webpic/20050824/02.jpg"><br><br>　　<img width="300" height="249" src="../../../../../../webpic/20050824/04.jpg"><br><br>　　为了安全起见，请输入你的 QQ 号、密码以及验证码就可以登陆最终合成界面，你所拥有的蓝钻和符咒数量都会显示在界面中，这时你只要点击符咒图标就可以自动完成合成。 <br><br>　　<img width="168" height="128" src="../../../../../../webpic/20050824/05.jpg"><br><br>  呵呵，大功告成，请再返回开始界面点击右下角“离开”完成合成，继续游戏！ <br><br>　　<img width="309" height="235" src="../../../../../../webpic/20050824/06.jpg"><br><br>　　各位勇士，赶快行动，一同去化解糖果世界的危机吧！ <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200512/30668.shtml">重寻酷比路，酷比再度出击</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200512/30654.shtml">重寻酷比路，酷比再度出击</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200512/30637.shtml">重寻酷比路—与酷比的再一次接触</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200511/30592.shtml">《重寻酷比路》狂潮再度掀起</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|5638908d5be2a8c1e9c467c474eb7db3<![endif]-->

@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>勇士传说-引领走向新任务-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>勇士传说-引领走向新任务</h4>
+    <div class="new_nytxt"><P>　　你打怪，我打怪，这里热火朝天，那里欢腾一片，然而，我们不甘平凡，轰轰烈烈的人生更具有挑战性，我们不单单只要探险，我们还想成为勇士！ </P>
+<P><BR>　　3月16号，新的任务系统——勇士传说即将推出，更具挑战性更具刺激性的探险等你一起出发！传说糖果王国的探险者们发现了新大陆后，越来越多的探险者陆续的投入到探险中。探险中发生多少有趣的故事？谁又能成为传说中的勇士？伙伴们，赶快行动起来吧！</P>
+<P><BR>　　什么是勇士？勇士就是要勇于不断地挑战自我，战胜自我，不断地向前跋涉，不畏任何艰险！想成为勇士？想名扬QQ堂？那么，这次的探险任务是最好的机会！</P>
+<P align=center><IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1173784981_840044972_31712_sPhoto.jpg"></P>
+<P><BR>　　乱世出英雄，不经历风雨，难才大材！缩在家中的人永远也成不了大英雄，传说中的勇士是闯出来的，是从刀光剑影中走出来的，是在不断的洗礼与考验中成长起来的。毅力、恒心、自信，一个都不能少。</P>
+<P>　　或许，还能成就一段神秘的侠客传说呢？或许，能经历一场惊天动地的爱情呢？加入探险不一定能获得这些，但不参与，一定不会拥有！</P>
+<P><BR>　　每次任务的完成，还有诱人的奖品等着你呢！六大任务，重重考验，每次的考验都是对自己的一种锻炼，当然，也有丰厚的礼品回馈你，一举两得，何乐而不为？<BR>是你？是他？是我？谁是传说中的勇士？赶快加入探险大队，不求功名利禄，只求流芳百世！敬请期待新任务，敬请期待《勇士传说》。<%$Fcontent$%></P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|049a78c1bf9b9987c6d57786e35b21b8<![endif]-->

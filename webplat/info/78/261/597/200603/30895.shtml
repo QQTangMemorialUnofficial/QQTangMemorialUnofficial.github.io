@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>家族创建开始 族人快快行动-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>家族创建开始 族人快快行动</h4>
+    <div class="new_nytxt">　　3 月 10 日 ，什么日子？ <br><br>　　家族创建日到了。 <br><br>　　你有建立家族的豪情吗？你的领导能力从现在开始展现吧。联手与你志同道合的各路英雄，到道具商店购买“盟约卡”。收集齐 100 份“盟约书”，你的帝国就将迅速建立起来。 <br><br>　　或许你只想做家族里平凡的一员，也请从现在开始行动，为你未来的家族添砖加瓦，帮忙收集“盟约卡”。 <br><br>　　每份“盟约卡”价值 10000 糖币。 <br><br>　　<img width="56" height="55" src="../../../../../../webpic/20060310/01.jpg"><br><br>　　把“盟约卡”问题解决后，家族创立工作就要看族长的了。 <br><br>　　家族族长将通过活动专区创建家族。首先，族长通过验证，登陆 QQ 堂活动专区；接下来，用 100 份“盟约卡”做凭证创建家族(盟约书效力会在购买日的第二天09点以后生效)，并填写家族的相关资料。最后，只要添加家族人员的 QQ 号就一切 OK 了。 <br><br>　　一个家族最多 50 名成员。 <br><br>　　所有添加的家族成员都自动获得参赛资格。 <br><br>　　家族风云榜比赛开始后，创建家族功能将停止。家族数据也将无法被修改。 <br><br>　　现在组建的家族将同即将推出的家族系统相联系。 <br><br>　　活动地址：<a href="../../../../../../home/index.html" target="_blank">http://qqtang.qq.com/home</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200609/31558.shtml">黄金白银与青铜 家族活动至高荣誉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../604/200607/31348.shtml">QQ堂家族二期有看头</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200607/31330.shtml">家族声望新排名——Q堂家族我最行</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200605/31188.shtml">家族采访（四）——♀ANGEL窝窝</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|5154d9c980b22f59bd86fa54de33cf44<![endif]-->

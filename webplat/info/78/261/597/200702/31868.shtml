@@ -1,0 +1,87 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂2.0版本内容升级告知-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂2.0版本内容升级告知</h4>
+    <div class="new_nytxt"><P>尊敬的广大玩家：<BR><!-- -->　　QQ堂2.0版本发布以来，得到玩家的热烈凡响，同时我们也收到玩家给我们反馈的意见，一切以玩家出发，制作玩家喜欢的游戏，公测至今，我们把收集到的意见进行改进，并将于明天发布版本更新包，届时可以通过两种方式对游戏进行更新。<BR><!-- --><BR><!-- -->　　<STRONG>升级信息</STRONG><BR>　　自2.0新版本正式上线一周以来，针对玩家反馈的意见及建议，QQ堂全体研发团队对新版本进行了一周的完善修改，QQ堂2.0版本将于2007年2月9日中午对现在已有2.0版本进行以下一轮全面的版本升级，升级过后将解决以下问题. <BR><!-- --><BR><!-- -->　　1．修复高等图标显示错误问题,修复后等级图标与1.0相同<BR><!-- -->　　 <IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1170925654_840044972_26018_sPhoto.jpg"><BR>　　2．优化等待房间速度，解决在等待房间较卡现象<BR>　　3．修改家族排行榜显示错误<BR>　　4．修改了小喇叭显示字数错误<BR>　　5．解决部分玩家不能进行游戏的问题<BR>　　6．解决背包达到上限道具不显示问题<BR>　　7．解决了游戏中与部分显卡不兼容问题<BR><!-- --><BR>　　<STRONG>升级方法<BR></STRONG><!-- --><BR>　　<FONT color=#ff0066><STRONG>方法1</STRONG></FONT>：<BR><!-- -->　　在2007年2月9日中午12点后登陆QQ堂2.0，客户端会自动完成以上内容的升级，在升级过程中请不要关闭升级对话框。<BR><!-- --><BR><!-- -->　　<FONT color=#ff0066><STRONG>方法2</STRONG></FONT>：<BR>　　在2007年2月9日中午12：00后下载最新的QQ堂2.0客户端，覆盖原有QQ堂2.0安装目录进行覆盖安装。<%$Fcontent$%> 　　感谢大家对游戏的支持与热爱，祝大家游戏愉快，新年快乐。</P>
+<P>&nbsp;</P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|430e40dfe06bbe449af6ecdbe5eddfd7<![endif]-->

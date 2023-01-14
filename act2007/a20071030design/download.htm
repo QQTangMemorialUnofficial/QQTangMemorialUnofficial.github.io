@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>QQ堂 地图设计大赛</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<style type="text/css"><!--
+body {
+	background-image: url(http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg2_02.jpg);
+}
+-->
+</style>
+<script language="javascript" src="ajax_login.js"></script>
+<script language="javascript" src="main.js"></script>
+<script language="javascript">
+
+function OnDownloadClick(linkObj, url, ref, remark, cookie, rate, sid)
+{
+    linkObj.href = "#";
+    
+    if ("" == url)
+    {
+        url = linkObj.THref;
+    }
+    
+    if ("" == ref)
+    {
+        ref = location.href;
+    }
+    
+    if ("" == remark)
+    {
+        remark = linkObj.innerText;
+    }
+    
+    if ("" ==cookie)
+    {
+        cookie = document.cookie;
+    }
+    
+    try 
+    {
+        QQRightClick = new ActiveXObject("QQIEHelper.QQRightClick.2");
+  	    var ver = QQRightClick.GetVersion();
+     	
+        ver = ver.split(".");
+        if(parseInt(ver[3]) >= 127)
+        {
+            QQRightClick.SendUrl2(url, ref, remark, cookie, rate, sid);
+        }
+        else if(parseInt(ver[3]) > 65)
+        {
+            QQRightClick.SendUrl(url, ref, remark, cookie);
+        }
+        else
+        {
+            throw ("对不起，此链接需要安装超级旋风1.0Beta3以上版本才能正常下载，请您安装后重试。");
+        }
+   }
+   catch(e)
+   {
+    	var str="对不起，此链接需要安装超级旋风1.0Beta3以上版本才能正常下载，请您安装后重试。\r\n";
+		if (navigator.appName != "Microsoft Internet Explorer")
+		{
+			str = "对不起，本页面暂时只支持IE或使用IE内核的相关浏览器。";
+		}
+		if (confirm(str,2))
+		{	
+    		window.open("http://im.qq.com/cyclone/download.shtml");
+	    }
+		else
+		{
+			return;
+		}
+   }
+}
+
+function OnContextClick(linkObj)
+{
+	linkObj.href = "#";
+}
+
+</script>
+</head>
+
+<body>
+<script language="javascript" type="text/javascript" src="../../js/title1.js"></script>
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="167"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_02.gif" /></td>
+    <td width="648"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_03.gif" width="168" height="83" /></td>
+    <td width="46"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_04.gif" width="166" height="83" /></td>
+    <td width="46"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_05.gif" width="162" height="83" /></td>
+    <td width="46"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_06.gif" width="170" height="83" /></td>
+    <td width="47" background="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_07.gif"><script>login()</script></td>
+  </tr>
+  <tr>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_08.gif" width="167" height="90" /></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_09.gif" width="168" height="90" /></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_10.gif" width="166" height="90" /></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_11.gif" width="162" height="90" /></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_12.gif" width="170" height="90" /></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_13.gif" width="167" height="90" /></td>
+  </tr>
+</table>
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="631" valign="bottom" background="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_17.gif"><table width="571" border="0" align="right" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="5" align="right">&nbsp;</td>
+        <td width="59" align="right"><a href="index.shtml"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn1_04.gif" width="58" height="32" border="0" /></a></td>
+        <td width="72" align="right"><a href="http://qqtang.qq.com/cgi-bin/CommNews/news_info_morelist.cgi?channel=9&amp;iPdName=1"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn_05.gif" width="72" height="32" border="0" /></a></td>
+        <td width="87" align="right"><a href="rules.htm"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn_06.gif" width="87" height="32" border="0" /></a></td>
+        <td width="85" align="right"><a href="prize.htm"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn_07.gif" width="85" height="32" border="0" /></a></td>
+        <td width="85" align="right"><a href="young.htm"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn_08.gif" width="85" height="32" border="0" /></a></td>
+        <td width="83" align="left"><a href="download.htm"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn1_09.gif" width="83" height="32" border="0" /></a></td>
+        <td width="95" align="left"><a href="http://gamebbs.qq.com/bbs/qqthtm/145.htm" target="_blank"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn_10.gif" width="91" height="32" border="0" /></a></td>
+      </tr>
+    </table></td>
+    <td width="258"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_18.gif" width="369" height="55" /></td>
+  </tr>
+</table>
+<table width="1000" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="54" valign="top"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/le1_19.gif" width="54" height="372" /></td>
+    <td width="892" colspan="2" valign="top"><table width="892" border="0" cellpadding="0" cellspacing="0" background="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg_69.gif">
+      <tr>
+        <td valign="top" background="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg1_22.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/to_17.gif" width="577" height="9" /></td>
+            </tr>
+          </table>
+          <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+          <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td class="a2">　　软件下载正文软件下载正文软件下载正文软件下载正文软件下载正文软件下载正文软件下载正文软件QQ堂地图编辑软件玩家设计版，简单易用，运行稳定。可以方便得设计出各类游戏地图，举办地图设计大赛，征集优秀设计案，选拔优秀原创地图。<br />
+　　软件大小6.9M，宽带用户推荐使用http下载方式。</td>
+            </tr>
+          </table>
+          <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              </tr>
+            <tr>
+              <td width="48%" align="center"><a href="http://dl_dir.qq.com/qqtangfile/QQT_MapEdit.exe" target="_blank"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/pic_06.gif" width=128 height="61" border="0" /></a></td>
+              <td width="52%" align="center"><a href="#" THref = "http://dl_dir.qq.com/qqtangfile/QQT_MapEdit.exe"OnClick="return OnDownloadClick(this,THref, '', '', '', 80, 100053)" OnContextClick="OnContextClick(this)" ><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/pic_05.gif" width="128" height="61" alt="" border="0" /></a></td>
+            </tr>
+          </table></td>
+        <td width="316" valign="top" background="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg1_23.gif"><table width="316" border="0" align="center" cellpadding="0" cellspacing="0" background="http://ossweb-img2.qq.com/images/qqtang/a20071030design/top_22.gif">
+          <tr>
+            <td height="64" ><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="20"></td>
+              </tr>
+              <tr>
+                <td height="30"><script>sea()</script></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"><td align="center" ><iframe src="../../time/map/big.htm" width="302" height="315"  frameborder="0" scrolling="no" allowtransparency="true" marginWidth=0 marginHeight=0></iframe></td>
+          <tr>
+            <td valign="top"><a href="download.htm"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/pic_30.gif" width="315" height="76" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td valign="top"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/ri_33.gif" width="308" height="43" border="0" usemap="#Map" /></td><map name="Map" id="Map">
+<area shape="rect" coords="248,9,299,40" href="http://qqtang.qq.com/cgi-bin/map/PicList.cgi?pcat=1" />
+</map>
+          </tr>
+        </table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="150" valign="top" background="http://ossweb-img2.qq.com/images/qqtang/a20071030design/ri_35.gif"><iframe src="../../time/map/in_map.htm" width="315" height="160" name="name2" frameborder="0" scrolling="no" allowtransparency="true"></iframe></td>
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td valign="top"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn_36.gif" width="575" height="11" /></td>
+        <td valign="top"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bn_59.gif" width="316" height="11" /></td>
+      </tr>
+      <tr>
+        <td colspan="2" valign="top"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="26%" align="center"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/lo_71.gif" width="133" height="50" /></td>
+            <td width="74%"  class="a1"><a href="http://www.tencent.com/" target="_blank" class="section">关于腾讯</a> | <a href="http://www.tencent.com/index_e.shtml" target="_blank" class="section">About Tencent </a>| <a href="http://www.qq.com/contract.shtml" target="_blank" class="section">服务条款</a> | <a href="http://www.tencent.com/adver/" target="_blank" class="section">广告服务</a> | <a href="http://hr.tencent.com/" target="_blank" class="section">腾讯招聘</a> | <a href="http://service.qq.com/" target="_blank" class="section">客服中心</a> | <a href="http://game.qq.com/new05/act/hezuo.shtml" target="_blank" class="section">商务合作</a> | <a href="http://www.qq.com/map/" target="_blank" class="section">网站导航</a><br />
+                <font color="#000000">Copyright  &copy;1998-2007 Tencent Inc. All Rights Reserved 　　　　　　腾讯公司 版权所有</font></td>
+          </tr>
+        </table></td>
+        </tr>
+    </table></td>
+    <td width="54" align="left" valign="top">&nbsp;</td>
+  </tr>
+</table>
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="500"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/su_07.jpg" width="500" height="64" /></td>
+    <td width="500"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/su_08.jpg" width="500" height="64" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td background="http://ossweb-img2.qq.com/images/qqtang/a20071030design/bg04.gif"><table width="1000" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="500"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/su_10.jpg" width="500" height="61" /></td>
+        <td width="500"><img src="http://ossweb-img2.qq.com/images/qqtang/a20071030design/su_09.jpg" width="500" height="61" /></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+<script type="text/javascript" src="http://csj.qq.com/js/embedded_js.js"></script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</html>

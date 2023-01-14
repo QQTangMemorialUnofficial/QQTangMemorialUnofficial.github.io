@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>酷比暑假商店之——购物有礼大反馈-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>酷比暑假商店之——购物有礼大反馈</h4>
+    <div class="new_nytxt">　　暑假来了，快乐的热潮也早已抵达了QQ堂。在这个欢乐的城堡里，酷比来了一股新惊喜。在他的商店里，正进行着购物有礼大反馈呢！<br>       <br>　　7月28日到8月1日凌晨，在这段时间内，购物的玩家根据单价价格的不同可以得到不定值的“QQ堂购物券”。购物有返券，优惠等你拿哟！<br> <br> <div align=center><img src="../../../../../../webpic/20060731/q1.jpg"></div><br><br>　　以下是以单价为单位道具返券数目：<br><br>　　只要你购买了0到9.9Q币的道具就能获得1Q币的购物券。　　<br><br>　　酷比微笑了！  <br><br>　　再多一点，在10到19.9Q币之间的道具就能获得3Q币的购物券！<br><br>　　酷比呲牙了！  <br><br>　　买最多时，在20到29.9Q币之间的道具就能获得6Q币的够物券！   <br>　　<br>　　酷比乐开了怀！<br><br>　　真是一举两得的盛举！<br><br>　　一次性买得越多，获得的购物券就越多哟！但对于本次活动的买同一件道具不累计规则。(注:比如买一件3Q币的道具和一件8Q币的道具,不会累计成11Q币送你3Q币的购物卷,而是送两张1Q币的购物卷) <br><br>　　但，由于酷比暑假商店的“临时情况”，有部分商品不额外返券哟。以下道具为功能性道具且单价较低，故不参加返券活动，请您在购买时务必认清楚：雪山来信，平安的祭品，红包，藏宝图，海盗金卡，世界杯门票，VIP卡（7天），VIP卡（1天），怀旧金卡，小喇叭、欢乐幸运星、购物卷。大家要认清它们哟！买的时候，是不会有返券的！<br>        <br>　　大家购物的好机会来了，道具购买的购物券返券。时间紧，任务急。赶快行动吧！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200708/32191.shtml">QQ堂嘻哈泡泡新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32184.shtml">炫耀街头 极限运动 滑板Girl＆Boy</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32180.shtml">玩转QQ堂嘻哈世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200707/32167.shtml">六翼翅膀纯美登场</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|f62edfc1cfa6a6f918a9fde820d9dff5<![endif]-->

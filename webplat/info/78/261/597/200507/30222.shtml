@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂新版本《酷比一夏》正式发布-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂新版本《酷比一夏》正式发布</h4>
+    <div class="new_nytxt">　　7月7日，是一个激动人心的日子，期盼了许久，它终于来到了！<br><br>　　玩家们在历经两个月的漫长等待之后，QQ堂最新正式1.0版本《酷比一夏》在今天全新登场，掀起新一轮QQ堂热潮。<br><br>　　从QQ堂元旦公测到现在半年时间内，玩家们经历了近6个公测版本的更新：<br>　　1月1日QQ堂发布首个公测版本：《海岛大冒险》。<br>　　1月12日，发布仅仅12天后，就推出《小兵军营》新版，让新玩家有了学习的模式。<br>　　2月1日，公测三版《春之恋曲》正式发布。<br>　　3月8日，公测四版《试炼之章》发布。<br>　　3月28日，发布了公测五版：《月光宝盒》。<br>　　4月27日，发布了公测六版《比赛专用版》，配合QQ堂中华英雄争霸赛推出了强大的线上比赛系统。<br><br>　　短短4个月，QQ堂就有6个版本连续推出，这在国内网络游戏市场上是非常少见，这不仅仅说明了QQ堂的实力，更表明了我们愿意为玩家们奉献我们全部的热情。<br><br>　　而《酷比一夏》是QQ堂开发组耗费漫长的2个月时间开发出来的，这个版本成为了结束这激动人心的半年来QQ堂公测版本的终结版。这个耗费开发组2个月时间的惊人版本究竟怎样，会带给玩家什么不同的内容，又会给玩家带来怎样的震撼呢？ 今天是正式揭晓的时候！<br><br>　　在正式版中，玩家将会体验到全新的游戏模式、角色、地图、图标、音乐以及操作界面等新鲜游戏元素，真正的放松、肆意的快乐都在等待着你的体验。<br>     <br>　　7月7日，《酷比一夏》邀你共同引爆今夏至HOT游戏潮流！精彩暑假，有酷比精灵陪你一夏！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200508/30306.shtml">《酷比一夏》发布满月 众说纷繁新版本</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30232.shtml">寻找酷比，寻找一个快乐暑假！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200507/30227.shtml">新版本新惊喜，双倍经验正在进行</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200507/30226.shtml">《酷比一夏》开门红,精彩道具人人送</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|9655b8e7ccff10768014456e8ef5f506<![endif]-->

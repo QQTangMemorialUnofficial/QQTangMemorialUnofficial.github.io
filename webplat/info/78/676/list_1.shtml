@@ -1,0 +1,51 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="robots" content="all" />
+<meta name="Copyright" content="Copyright (c) 2006-2010 TENCNET" />
+<meta name="Description" content="QQ堂官方网站" />
+<meta name="Keywords" content="QQ堂,QQ堂,QQ堂,Q堂,QT,QQT,中华赛,紫钻,酷比,QQ糖,海王子,极地探险,酷比一夏,糖果王国" />
+<!-- 设计：外包 | 重构：dgguo | 创建：20100525 | 更新：20100525 | 团队博客：http://www.tgideas.com -->
+<link href="../../../../act/a20100526hero2010/css/commen.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.news { float: right; width: 485px; line-height: 20px; padding: 40px 120px 0 30px; color: #693317;}
+	.news h2 { width: 119px; height: 30px; background: url(http://ossweb-img.qq.com/images/qqtang/act/a20100526hero2010/sprites.png) no-repeat -245px -290px;}
+	.news ul { width: 260px; height: 420px; padding: 10px 0; margin: 5px 0 0 10px; border-top: 1px solid #B27524;}
+		.news li { height: 21px; line-height: 21px; border-bottom: 1px dashed #B17424; color: #663316;}
+			.news li a { color: #663316;}
+	.pager { width: 260px; padding: 0 0 40px 0; text-align: center; word-spacing: 20px;}
+		.pager a { color: #663316;}
+</style>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/top_js/qqtang_top.js"></script> 
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/LayerLogin.js"></script>
+<title>第六届中华英雄争霸赛-QQ堂</title>
+</head>
+<body id="news">
+<div class="wrapper">
+<div class="header" id="header"></div>
+<div class="content">
+	<div class="main">
+	<div class="box">
+		<div class="lside">
+			<div class="log" id="log"></div>
+		</div>
+		<div class="news">
+			<h2><span class="hidden">大赛新闻</span></h2>
+			<ul><li>&bull;&nbsp;<a target="_blank" href="1453/201008/72027.shtml">中华英雄争霸赛【杭州】赛区获奖名单</a>　2010-08-18</li><li>&bull;&nbsp;<a target="_blank" href="1453/201008/71725.shtml">中华英雄争霸赛【成都】赛区火热现场</a>　2010-08-16</li><li>&bull;&nbsp;<a target="_blank" href="1453/201008/71722.shtml">中华英雄争霸赛【成都】赛区获奖名单</a>　2010-08-16</li><li>&bull;&nbsp;<a target="_blank" href="1453/201008/71327.shtml">【浙江】QQ堂第六届中华争霸赛东部区域赛</a>　2010-08-12</li><li>&bull;&nbsp;<a target="_blank" href="1453/201008/70696.shtml">8月7日中华英雄争霸赛【成都】线下比赛</a>　2010-08-06</li><li>&bull;&nbsp;<a target="_blank" href="1453/201007/68972.shtml">中华英雄争霸赛4强名单公布</a>　2010-07-27</li><li>&bull;&nbsp;<a target="_blank" href="1453/201007/68661.shtml">中华英雄争霸赛16强名单公布</a>　2010-07-23</li><li>&bull;&nbsp;<a target="_blank" href="1453/201007/68547.shtml">中华英雄争霸赛淘汰赛公告</a>　2010-07-22</li><li>&bull;&nbsp;<a target="_blank" href="1453/201007/67090.shtml">第六届QQ堂中华赛今日荣耀开启</a>　2010-07-09</li><li>&bull;&nbsp;<a target="_blank" href="1453/201007/66255.shtml">花开不败，访09年中华赛团体冠军</a>　2010-07-01</li><li>&bull;&nbsp;<a target="_blank" href="1453/201006/64499.shtml">中华赛报名紫钻无法领取公告</a>　2010-06-13</li><li>&bull;&nbsp;<a target="_blank" href="1453/201006/64278.shtml">六载绿色Q堂，尽显英雄风采</a>　2010-06-12</li></ul>
+			<div class="pager">
+				<span style="display:none;"><a href="">上一页</a></span>
+				<span style="display:none;"><a href="">下一页</a></span>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+<div class="footer" id="footer"></div>
+</div>
+<script type="text/javascript" src="../../../../act/a20100526hero2010/js/section.js"></script>
+<script type="text/javascript" src="http://pingjs.qq.com/ping.js"></script>
+<script type="text/javascript">if(typeof(pgvMain)=='function')pgvMain();</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|a3fa990c153f1fd4d0ede5b4e4dff841<![endif]-->

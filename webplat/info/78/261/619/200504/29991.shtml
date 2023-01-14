@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>总裁助手挑战赛活动说明-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>总裁助手挑战赛活动说明</h4>
+    <div class="new_nytxt">　　本周日即将举行的[真实的谎言]系列活动之总裁助手挑战赛引起了玩家们极大的兴趣。请有意参加挑战的各位玩家注意以下活动规则：<br><br>　　1.两名总裁助手A先生和K先生将从在4月9日完成了150局对战的玩家列表中随机挑选玩家，邀请其进入挑战房间进行比赛。如果被邀请玩家不在线或不接受邀请将视为弃权处理，AK先生将不再重复进行邀请。同时由于参与挑战的玩家众多，所以无法保证所有满足挑战资格的玩家都会被邀请，请玩家理解。<br>　　2.挑战使用地图为随机地图。<br>　　3.挑战分为三个时间段，分别为10:00～12:00，14:00～16:00 ，19:00～21:00。请有意参加挑战并完成了150局对战的玩家注意挑战时间，在上述时间段保持在线。<br>　　4.无论胜负每个玩家只有一次挑战机会。<br>　　5.AK先生每次会邀请2名玩家以2V2的形式进行挑战，被邀请玩家请和你同时被邀请的另一名玩家保持同色。否则AK先生有权取消你的挑战资格。<br>　　6.如果挑战出现平局，当局挑战玩家可以继续进行挑战，直到分出胜负为止。<br>　　7.为节约时间，保证更多的玩家有机会参与挑战，请玩家在挑战结束后自觉退出挑战房间。<br>　　8.挑战过程中如果出现挑战选手有任何形式的作弊，干扰比赛等违规行为，AK先生有权直接取消其挑战资格；<br><br>　　真实的谎言大挑战活动详情请察看：<br>　　<a href="http://qqtang.qq.com/cgi-bin/news/news_info_detail?id=9165" target="_blank">http://qqtang.qq.com/cgi-bin/news/news_info_detail?id=9165</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="29989.shtml">真实的谎言之隐藏人物跳出来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29988.shtml">真实的谎言之挑战总裁助手攻略</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200504/29984.shtml">挑战大炸弹 赢取鸡年吉祥大礼包攻略</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29983.shtml">真实的谎言大挑战</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ba487f984473d93d581e2285f79473e2<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>狂欢光棍节 快乐无极限-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>狂欢光棍节 快乐无极限</h4>
+    <div class="new_nytxt">　　11月11日，魅力的一天。这一天，自然界中将最有魅力的数字集合到了一起，顾名思义，这就是在都市男女中兴起的“光棍节”。<br><br>　　有人说，光棍节寂寞失落，孤零零的滋味好难受；有人说，这是单身男女最无奈的节日，看着别人双双对对，自己只能形影相吊；有人说，虽然一个人有一个人的精彩，却有单身的惆怅困扰。谁说的？在我们QQ堂这个快乐的家园里，可没有“寂寞”这个字眼的存在。<br><br><div align="center"><img src="http://ossweb-img.qq.com/images/webpic/20061113/qqt-003.jpg" alt=""></div><br><br>　　相信广大朋友们还惦记着这个难忘的周末吧？QQ堂二重喜伴随着广大单身朋友度过了一个快乐的节日。光棍狂欢专区，光棍的世界,狂欢的世界,双倍积分,带给了单身朋友双倍的快乐；喜从天降，更是让你轻轻送松取下1111积分及免费道具体验。<br><br>　　在QQ堂中，即使我是光棍，没有卿卿我我，没有含情脉脉，没有绵绵情话，却可以热情似火，却可以自由自在地游戏着。在QQ堂中，没有所谓的“单身”，不管任何时候，这里带给我们绝对没有寂寞落魄的感觉。<br><br>　　光棍节，给快乐创造一个理由。即使节日在快乐中流逝，但QQ堂带给大家的快乐是不会终止的。接下来我们还有更多精彩美妙的活动推出，请大家继续关注QQ堂，支持QQ堂。<br><br>　　更多活动请关注QQ堂官方网站。<br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ce6ea78c763ea3f952c4cd7fe2a1bdcc<![endif]-->

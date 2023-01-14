@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030" />
+<link href="../../../../../../../../web200901/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="https://ossweb-img.qq.com/images/pet/comm/jquery.js"></script>
+<script type="text/javascript">
+	
+		var arrLinks = jQuery("#detail .head");
+		arrLinks.each(function(){
+		var s = jQuery(this).text(),l=$(this).text().length,n=15;
+			if(l>n){
+			jQuery(this).attr("title",s);
+			s=jQuery(this).text(s.substring(0,n)+"...");
+			}
+		})
+
+</script>
+</head>
+<body>
+<div id="detail">
+<ul class="bbs_iframe">
+        <li class="in">
+			<a class="head" href="../m2881/200909/145160.shtml" target="_blank" style="color:">　　　图说意识,,新年篇,,</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200909/145161.shtml" target="_blank" style="color:">QQ堂技术一览。尐越原创</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200909/145162.shtml" target="_blank" style="color:">惆怅----探险攻略之黑龙王国</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200909/145163.shtml" target="_blank" style="color:">英雄03技术分享——菜鸟打造雷雷著</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200909/145164.shtml" target="_blank" style="color:">QQ堂用户交流区之QQ堂宠物宝典</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200808/144679.shtml" target="_blank" style="color:">探险新大陆—迷之沙漠的旅程</a>
+        </li>
+    </ul>
+</div>
+</body>
+</html>

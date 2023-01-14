@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>写写你的师傅 谢谢你的师傅-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>写写你的师傅 谢谢你的师傅</h4>
+    <div class="new_nytxt">　　在教师节热热闹闹过去之后，你是否有时间来想想，还有哪位老师忘了感谢？<br><br>　　如果你的记忆已经从最初的启蒙老师，扫描到了到后来小学，中学，甚至大学的老师，仍然找不到那位“忘了感谢”的老师，就想想你初到QQ堂时的困惑吧——面对不熟悉的操作界面，面对繁多的对手，面对数不清的“英勇就义”，是谁伸出手拉了你一把？<br><br>　　对了，你的QQ堂恩师！<br><br>　　感谢方式有很多种，一定要选最能表达你心意的那个，而又有什么比语言文字更能抒发你的情感，又有什么比向世人表达你对恩师的感激更让他（她）感动的呢？《QQ堂名师出高徒》征文比赛的序幕已经为众多QQ堂师徒拉开了。<br><br>　　这是你感谢老师的机会，同样也是你与老师同时展示另一种实力的平台。比赛结束后，你将知道，你们师徒二人能否跻身十大QQT名师 ，或者十名文章撰写者，最后有大奖恭候。 <br><br>　　比赛具体规定，请参看：<a href="http://bbs.gamezone.qq.com/cgi-bin/bbs/show/content?groupid=145:10483&amp;st=&amp;sc=&amp;messageid=18373&amp;gpc=0&amp;ggpc=0" target="_blank"><font color="red">http://bbs.gamezone.qq.com/cgi-bin/bbs/show/content?groupid=145:10483&st=&sc=&messageid=18373&gpc=0&ggpc=0</font></a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|7283940986ce8250c284be2db5fa30ec<![endif]-->

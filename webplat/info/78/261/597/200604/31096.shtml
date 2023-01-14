@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>谁来导演这场戏-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>谁来导演这场戏</h4>
+    <div class="new_nytxt">　　谁来导演这场戏，在这众多研究员里？经过活动策划组的大力宣传和版友的热情支持，角逐可爱酷比的玩家们纷纷开始行动起来了，已经产生了不少很好的游戏方案，使很多在平静生活太久的研究员们开始激动开始活跃起来，工作生活更有激情起来。现在的你是不是有着更好更棒的想法，更有自信抱得酷比归呢？<br><br>　　你想不想加入那个神秘的小组织？你想不想更形象更彻底的认识那些偶像技术骨干？你想不想见识那些漂亮可爱的女玩家在战场上是如何的巾帼不让须眉如何骁勇善战？你想不想看看那些外表貌似有高不可攀的GGMM在一起时如何其乐融融，如何的巧舌如簧？<br><br>　　只要你有卓越的策划能力，只要你能让那些兢兢业业努力在QT背后的研究员生活更加精彩，只要你的创意得到最大的认同。你想让那些风云玩家去保护那些可爱的妹妹，他们就得怜花惜玉。你想让那些玩技术的汗子吟咏诗词歌曲，他们就不得乱舞刀枪。你想看那些高手的绝活，他们就得毫无保留的展示自己。你想。。。。<br><br>　　活动详情见：<a href="http://qqtang.qq.com/cgi-bin/news/news_info_detail?id=23170" target="_blank"><font color="red">http://qqtang.qq.com/cgi-bin/news/news_info_detail?id=23170</font></a><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|9857b7b4c086f8248e86fabfcd04c0fe<![endif]-->

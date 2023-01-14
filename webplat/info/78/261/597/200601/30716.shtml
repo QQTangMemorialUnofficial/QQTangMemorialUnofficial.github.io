@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>动起来，动起来，赶上酷比末班车-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>动起来，动起来，赶上酷比末班车</h4>
+    <div class="new_nytxt">　　幸运转转转，转到你身边！谁将是最后一批 酷比幸运星（获得 11CM 酷比、抱枕和 45CM 酷比的玩家名单），让我们拭目以待，是你，是我，还是他？<br><br>　　然而不是酷比幸运星的玩家也不要懊丧，酷比总动员的口号是：“奖品人人有， 20,000 个酷比等你拿！”中奖率可是百分百的哦！没有酷比，还有神秘道具等着你呢？大嗓门的小喇叭？喜气洋洋的圣诞帽？每个都是 Q 堂国民的最爱。心动的你赶快踏上这末班车迎接神的恩赐吧！<br><br>　　那么，怎么才有可能成为酷比幸运星呢？只要你购买下面任意套餐即可：<br><br>　　3 个月紫钻（限定为新用户开通） <br><br>　　30 元道具礼包：926 纪念邮票 + 草莓泡泡 + 圣诞背包 + 雪地背景 <br><br>　　西瓜泡泡 + 印第安帽子 + 宇航员 <br><br>　　幻影 + 精灵翅膀 + 棉绒帽 <br><br>　　恶魔翅膀 + 小恶魔头饰 + 星光 QQ 糖 + 爱心<br><br>　　最后一批酷比（ 45CM 超大酷比、 35CM 酷比抱枕、 11CM 酷比公仔（粉红、黄色、圣诞、麋鹿），款式多样，谁将成为它们的主人，我们热切期待中。 <br><br>　　<strong>温馨提示： </strong><br><br>　　道具奖励将于次日发放。 <br><br>　　实物奖励将在 7 个工作日内寄出，邮寄时间一般为 7 ～ 14 天。请玩家务必填写详细真实的个人资料，以便官方准确即时发放奖品。<br><br>　　详情请登陆： <a href="../../../../../../present/index.html" target="_blank">http://qqtang.qq.com/present/</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|54d478742e970fb71e273be7b7467703<![endif]-->

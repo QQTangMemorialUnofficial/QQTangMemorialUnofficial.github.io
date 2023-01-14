@@ -1,0 +1,71 @@
+td {
+	font-size: 9pt;
+	line-height: 128%;
+}
+a:link {text-decoration: underline;color: #000000;}
+a:visited { text-decoration: underline; color: #000000}
+a:hover {text-decoration: none;color: #3366EE;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	line-height: 128%;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 0px;
+	background-image: url(../../images/kongfu/bg.gif);
+}
+.item_table {
+	border: 1px solid #0AACFF;
+	background-color: #C5E3FF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.pic_table {
+	border: 1px solid #FF9933;
+	background-color: #FFFFCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.page03_killer_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/kongfu/page03_table_killer_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page03_story_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/kongfu/page03_table_story_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page03_arena_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/kongfu/page03_table_arena_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page03_intro_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/kongfu/page03_table_intro_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page03_02_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/kongfu/page03_table_02_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page03_03_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/kongfu/page03_table_03_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}

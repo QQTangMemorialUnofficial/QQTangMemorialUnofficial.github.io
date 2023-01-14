@@ -1,0 +1,264 @@
+@charset "utf-8";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+}
+body {
+	font:normal 12px/1.6em simsun, Verdana, Lucida, Arial, Helvetica, sans-serif;
+	color:#ba6a84;
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/bg.gif) repeat;
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+	empty-cells:show;
+	text-align:left;
+}
+th, td {
+	border-collapse:collapse;
+}
+ol, ul {
+	list-style:none;
+	line-height:180%;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;
+}
+img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+.boxer {
+	position:relative;
+	margin:0 auto;
+	width:970px;
+}
+/*---------- layout style ----------*/
+h1 {
+	display:none;
+}
+#topNav {
+	position:absolute;
+	margin:20px 0 0 630px;
+	width:170px;
+	height:24px;
+	z-index:999;
+}
+#topNav.ny {
+	position:absolute;
+	margin:20px 0 0 790px;
+	width:170px;
+	height:24px;
+	z-index:999;
+}
+#topNav li {
+	float:left;
+	margin-right:8px;
+	width:77px;
+	height:24px;
+}
+#topNav li a {
+	display:block;
+	height:24px;
+	width:77px;
+	background-repeat:no-repeat;
+	text-indent:-999px;
+	overflow:hidden;
+}
+#topNav li a.gwsy {
+	background-image:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/navi_01.png);
+}
+#topNav li a.bbs {
+	background-image:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/navi_02.png);
+}
+#footer {
+	width:656px;
+	height:50px;
+	color:#BA6A84;
+	margin:0 auto 20px;
+	padding-top:14px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/footer.gif) no-repeat 0 0;
+}
+#template #footer {
+	float:right;
+	margin:10px 35px 20px 0;
+	display:inline;
+}
+#footer .ny {
+	margin:10px 0 0 170px;
+}
+#footer p {
+	float:left;
+	height:16px;
+	padding-left:165px;
+	line-height:16px;
+}
+#footer p.c {
+	float:right;
+	margin-top:-14px;
+	margin-right:34px;
+	border:0;
+	display:inline;
+}
+#footer a {
+	color:#BA6A84;
+}
+/*---------- index style ----------*/
+#main .bg {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/index_bg.jpg) no-repeat 0 0;
+	height:670px;
+}
+#main .menu {
+	position:absolute;
+	width:112px;
+}
+#main .menu a {
+	position:absolute;
+	display:block;
+	width:112px;
+	height:112px;
+	font-size:0;
+	overflow:hidden;
+	line-height:240px;
+}
+#main .menu a.marry {
+	top:50px;
+	left:241px;
+}
+#main .menu a.chat {
+	top:150px;
+	left:130px;
+}
+#main .menu a.activity {
+	top:306px;
+	left:103px;
+}
+/*---------- template style ----------*/
+#template .bg {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/template_01.jpg) no-repeat 0 0;
+	height:670px;
+}
+#template .menu {
+	position:absolute;
+	width:112px;
+}
+#template .menu a {
+	position:absolute;
+	display:block;
+	width:112px;
+	height:112px;
+	font-size:0;
+	overflow:hidden;
+	line-height:240px;
+}
+#template .menu a.marry {
+	top:48px;
+	left:206px;
+}
+#template .menu a.marry:hover, #marryPage a.marry {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/an_marry.jpg) no-repeat 0 0;
+}
+#template .menu a.chat {
+	top:151px;
+	left:96px;
+}
+#template .menu a.chat:hover, #chatPage a.chat {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/an_chat.jpg) no-repeat 0 0;
+}
+#template .menu a.activity {
+	top:306px;
+	left:69px;
+}
+#template .menu a.activity:hover, #activityPage a.activity {
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/an_activity.jpg) no-repeat 0 0;
+}
+.mainBox {
+	float:right;
+	width:703px;
+	overflow:hidden;
+	margin:-475px 11px 0 0;
+	display:inline;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/template_bg.jpg) 0 0 repeat-y;
+}
+.content {
+	min-height:500px;
+	height:auto;
+	_height:500px;
+	padding:0 18px 20px 38px;
+	color:#6e6e6e;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/template_02.jpg) left bottom no-repeat;
+}
+.content h2 {
+	font-size:18px;
+	height:28px;
+	line-height:28px;
+	color:#aa1649;
+	margin-left:-20px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20081017love/line_bg.gif) left bottom repeat-x;
+}
+.content h3 {
+	font-size:14px;
+	height:28px;
+	line-height:28px;
+	margin-top:10px;
+	margin-left:-20px;
+	color:#6e6e6e;
+}
+.content h3 a {
+	color:#c67719;
+}
+.content h3 a:hover {
+	color:#6e6e6e;
+}
+.content li li {
+	width:100%;
+	height:22px;
+	line-height:22px;
+	font-size:12px;
+	font-family:simsun;
+}
+.content li img {
+	display:block;
+	overflow:hidden;
+	margin-bottom:5px;
+}
+.mytab {
+	border:1px solid #de94b0;
+	margin:5px 0;
+}
+.mytab th {
+	border:1px solid #de94b0;
+	height:26px;
+	padding:0 10px;
+	background:#fbcee0;
+	color:#ac184e;
+}
+.mytab td {
+	border:1px solid #de94b0;
+	height:26px;
+	padding:0 10px;
+	background:#fff1f7;
+	color:#6e6e6e;
+}

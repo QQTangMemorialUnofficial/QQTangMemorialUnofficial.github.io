@@ -1,0 +1,82 @@
+td {
+	font-size: 9pt;
+	line-height: 128%;
+}
+a:link {text-decoration: underline;color: #000000;}
+a:visited { text-decoration: underline; color: #000000}
+a:hover {text-decoration: none;color: #3366EE;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	line-height: 128%;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #77EEFF;
+	margin: 0px;
+}
+.table {
+	border: 1px solid #4D5AA9;
+	background-color: #D0F0FF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.bg {
+	background-attachment: scroll;
+	background-image:  url(../../images/yuanyang/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.introbg {
+	background-attachment: fixed;
+	background-image: url(../../images/story/table_intro_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.newbg {
+	background-attachment: fixed;
+	background-image: url(../../images/story/table_new_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.allbg {
+	background-attachment: fixed;
+	background-image: url(../../images/story/table_all_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.daybg {
+	background-attachment: fixed;
+	background-image: url(../../images/story/table_day_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.playerbg {
+	background-attachment: fixed;
+	background-image: url(../../images/story/table_player_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.pagebg {
+	background-attachment: fixed;
+	background-image: url(../../images/story/table_page_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.sbg {
+	background-attachment: fixed;
+	background-image: url(../../images/story/sbg.jpg);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.bbg {
+	background-attachment: fixed;
+	background-image: url(../../images/story/pagebg.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}

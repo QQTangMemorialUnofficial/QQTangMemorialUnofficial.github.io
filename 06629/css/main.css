@@ -1,0 +1,185 @@
+.white12px {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:link {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:visited {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.white12px:hover {
+	font-size: 12px;
+	color: #FFFDCE;
+	text-decoration: none;
+}
+A.white12px:active {
+	font-size: 12px;
+	color: ##FFFFFF;
+	text-decoration: none;
+}
+.hui1 {
+	color: #3B3B3B;
+	font-size: 12px;
+	line-height: 22px;
+}
+.hui2 {
+	color: #3B3B3B;
+	font-size: 12px;
+	line-height: 28px;
+}
+.black12px {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+A.black12px:link {
+
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+A.black12px:visited {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+A.black12px:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.black12px:active {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.gray12px {
+	font-size: 12px;
+	color: #5F5F5F;
+	text-decoration: none;
+}
+A.gray12px:link {
+
+	font-size: 12px;
+	color: #5F5F5F;
+	text-decoration: none;
+}
+A.gray12px:visited {
+	font-size: 12px;
+	color: #5F5F5F;
+	text-decoration: none;
+}
+A.gray12px:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.gray12px:active {
+	font-size: 12px;
+	color: #5F5F5F;
+	text-decoration: none;
+}
+.green12pxshaw {
+	font-size: 12px;
+	color: #1E5801;
+	text-decoration: none;
+	filter: DropShadow(Color=#CBFAAC, OffX=1, OffY=1, Positive=true);
+}
+A.green12pxshaw:link {
+	font-size: 12px;
+	color: #1E5801;
+	text-decoration: none;
+}
+A.green12pxshaw:visited {
+	font-size: 12px;
+	color: #1E5801;
+	text-decoration: none;
+}
+A.green12pxshaw:hover {
+	font-size: 12px;
+	color: #C44400;
+	text-decoration: none;
+}
+A.green12pxshaw:active {
+	font-size: 12px;
+	color: #1E5801;
+	text-decoration: none;
+}
+.green12pSB {
+	font-size: 12px;
+	color: #246B05;
+	text-decoration: none;
+	filter: DropShadow(Color=#E5EC29, OffX=1, OffY=1, Positive=true);
+	font-weight: bold;
+	top: -2px;
+	padding-top: 4px;
+}
+A.green12pSB:link {
+	font-size: 12px;
+	color: #246B05;
+	text-decoration: none;
+	font-weight: bold;
+}
+A.green12pSB:visited {
+	font-size: 12px;
+	color: #246B05;
+	text-decoration: none;
+	font-weight: bold;
+}
+A.green12pSB:hover {
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+A.green12pSB:active {
+	font-size: 12px;
+	color: #246B05;
+	text-decoration: none;
+	font-weight: bold;
+}
+.red12px {
+	font-size: 12px;
+	color: #9A4415;
+	text-decoration: none;
+}
+A.red12px:link {
+	font-size: 12px;
+	color: #9A4415;
+	text-decoration: none;
+}
+A.red12px:visited {
+	font-size: 12px;
+	color: #9A4415;
+	text-decoration: none;
+}
+A.red12px:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+A.red12px:active {
+	font-size: 12px;
+	color: ##9A4415;
+	text-decoration: none;
+}
+body,table,tr,td,textarea,select,input {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Verdana;
+	color: 823100;
+	font-size: 12px;
+	text-decoration: none;
+}
+.input1,select{BORDER: 1 solid rgb(38,113,148) 1px solid; BORDER-BOTTOM: rgb(38,113,148) 1px solid; FONT-FAMILY:"verdana"; font-size:12px; BACKGROUND-COLOR: rgb(255,255,255); font-color: rgb(111,111,111) ; LINE HEIGHT: 20px 
+}
+a:link, a:visited, a:active {font-family:Verdana;font-size:12px;color:#404040;text-decoration:none;}
+a:hover {font-family:Verdana;font-size:12px;color:#202020;text-decoration:underline;}

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>三大名片  迷幻体验的见证-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>三大名片  迷幻体验的见证</h4>
+    <div class="new_nytxt">　　三大名片——太空游侠名片，嫦娥名片，月兔名片粉墨登场，为你见证三次迷幻体验之风。<br><br>　　漂移在浩瀚的太空，自由自在，无所谓时间的流逝，更无所谓空间的占据。此刻，你拥有最多的便是时间和空间。远处一两颗星星忽明忽暗似有似无，在视线最远的地方，有一条阳光跳出的线，告诉你太空也有希望的光芒。“太空游侠名片”就是你向朋友们诉说这个神奇故事，描述这一番迷人风景的无声话筒。<br><br><div align="center"><img name="" src="http://ossweb-img.qq.com/images/webpic/20061019/qqt-002.jpg" alt=""></div><br><div align="center">（太空游侠名片）</div><br><br>　　嫦娥在冷月上孤寂多少年，没人知道她有着怎样冷艳的容貌，没人听过她哼出清幽的小曲。靠一个月光中透出的阴影，她被人爱慕千年。“嫦娥名片”就是要你亲近那个神奇的姑娘，就是要你永远带着月光撒下的来自嫦娥的香气。<br><br><div align="center"><img name="" src="http://ossweb-img.qq.com/images/webpic/20061019/qqt-003.jpg" alt=""></div><br><div align="center">（嫦娥名片）</div><br><br>　　也许说嫦娥是孤寂的并不准确，至少她还有怀中月兔陪伴，至少她的抱怨还有月兔在倾听。也许因为有主人呵护，月兔也凭添一股不可触摸的傲气。“月兔名片”就是给你同月兔作朋友的机会。月兔的傲气，都在你的名片中被消磨。剩下的，就是回归后的天真。<br><br><div align="center"><img name="" src="http://ossweb-img.qq.com/images/webpic/20061019/qqt-004.jpg" alt=""></div><br><div align="center">（月兔名片）</div><br>    <br>　　太空游侠名片，嫦娥名片，月兔名片，QQ堂商城现正热卖！跟它们一起走进迷幻的体验吧。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200708/32191.shtml">QQ堂嘻哈泡泡新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32184.shtml">炫耀街头 极限运动 滑板Girl＆Boy</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200708/32180.shtml">玩转QQ堂嘻哈世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200707/32167.shtml">六翼翅膀纯美登场</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d545ef0282ed2733bb287cf1efc00faa<![endif]-->

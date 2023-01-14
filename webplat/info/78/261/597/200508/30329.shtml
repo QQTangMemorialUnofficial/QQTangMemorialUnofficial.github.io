@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>僵尸舞道具全接触-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>僵尸舞道具全接触</h4>
+    <div class="new_nytxt">　　历经 7 月份的“寻找酷比之酷比一夏”， QQ 堂在 8 月份为玩家奉上了“寻找酷比之僵尸篇”，新道具，新任务，新界面，新体验！ <br><br>　　今天我要给大家讲讲的是僵尸舞，这个可爱的道具。 <br><br><center><img src="../../../../../../webpic/20050811/04.gif" width="100" height="100"></center><br><br>　　大家看到的这两个跳动的小僵尸了吧？他们的帽子上帖着一个符咒，大大的头，小小的身子，左摇右晃间，竟然能感受出与众不同的可爱！而你的对手，看到他们的时候，会注意到他们铁青的脸，直瞪的双眼，跳动的身躯，一定会看得心里发毛，手脚都不那么灵便了！僵尸舞是作为入场动画来展示的，试想，当你进入游戏时，身边带着两个僵尸随从，替你“秀”出你的风采，那一定是一种很“炫”的感觉！僵尸舞目前正式推出，在活动期间，更是优惠多多。 <br><br><br>　　8.16 日 8 ： 00---8.31 日 22 ： 00 这段时间内，购买僵尸舞道具只需要 3Q 币，比 8.10 的 <br><br>　　4Q 币可要优惠不少哦！而与此同时，其他的道具也全面降价，特别的优惠是——如果你购买了全套道具，将会获得价值 13Q 币的小鸡多米糖泡泡！ <br><br>还要等什么？活动马上全面开始，勇士即将正式出击！解救为难之中的酷比，把酷比带回安全的地带，作为勇士，你将有更多的惊喜去获得！<br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="30331.shtml">打包优惠大行动 集齐道具送泡泡</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30330.shtml">新道具：枯井幽魂简介</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|bc26129778d3b57ac7c3aa8b07d21ce4<![endif]-->

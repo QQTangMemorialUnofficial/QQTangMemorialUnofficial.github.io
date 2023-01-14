@@ -1,0 +1,55 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030">
+<style type="text/css"><!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<link href="jscss/main.css" rel="stylesheet" type="text/css">
+<script language="javascript">
+function checkinput()
+{
+        if(document.form1.u.value == ""){
+                window.alert("您还没有输入QQ号!");
+                return false;
+        }
+        if(document.form1.p.value == ""){
+                window.alert("您还没有输入密码!");
+                return false;
+        }
+        if(document.form1.verifycode.value == ""){
+                window.alert("您还没有输入验证码!");
+                return false;
+        }
+        return true;
+}
+</script>
+<table width="179" border="0" cellspacing="0" cellpadding="0">
+<form name=form1 action="http://ptlogin.qq.com/login" method=post onsubmit="return checkinput();" target="_self">
+<input type=hidden name=u1 value="<%$u1$%>">
+<input type=hidden name=fp value="loginerroralert">
+                  <tr>
+                    <td background="http://ossweb-img.qq.com/images/qqtang/2006web/shop/login_bg.gif"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="26"><div align="center"><a href="https://account.qq.com/cgi-bin/uinlogin?url=http://qqtang.qq.com/2006/2006/index.shtml" target="_parent"><img src="http://ossweb-img.qq.com/images/qqtang/2006web/web/login.jpg" width="139" height="63" border="0" /></a></div></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+            </table></td>
+                  </tr>
+                  <tr>
+                    <td><img src="http://ossweb-img.qq.com/images/qqtang/2006web/shop/login_05.gif" width="179" height="3"></td>
+                  </tr>
+                  <tr>
+                    <td bgcolor="#EFEBDE"><table width="100%" height="24"  border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><div align="center"><a href="http://im.qq.com/qq/reg_freeqq.shtml" target="_blank"><img src="http://ossweb-img.qq.com/images/qqtang/2006web/web/reg.gif" width="85" height="23" border="0"></a></div></td>
+              </tr>
+            </table></td>
+                  </tr>
+                </table>

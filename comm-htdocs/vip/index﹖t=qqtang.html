@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>支付中心</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="robots" content="all" />
+<meta name="author" content="eddygu" /> 
+<meta name="Copyright" content="Copyright (c) 2006-2007 tencent" />
+<meta name="Description" content="点燃自由幻想图标-开启美好游戏人生！-QQ自由幻想官方网站" />
+<meta name="Keywords" content="QQ自由幻想,Q币,盛夏四重奏,2.09版本,花妖巢穴,幻想之翼,仙子宠姬,浪漫满服,图标也升级,震撼出击,QQ自由幻想官方,网站下载,超级旋风,每天100万Q币,家族,人气,大比拼,领奖,下载,说明,公测,版本,QQ自由幻想官方网站,永久免费" />
+<!-- 页面快速跳转 -->
+<script type="text/javascript" src="js/submitforpay.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="js/ied_vip.js"></script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="../js/newjs/base.js"></script>
+<script type="text/javascript">
+var isShowOne = function(name){
+	if(name == "title" ||
+		name == "menu" ||
+		name == "login" ||
+		name == "ad" ||
+		name == "foot" ||
+		name == "body"){
+		var getHidden = getQuery("hide");
+		if(getHidden){
+			getHidden = getHidden.split("|");
+			if(getHidden.length > 0){
+				for(var i = 0; i < getHidden.length; i++){
+					if(getHidden[i] == name){
+						return false;
+					}
+				}
+			}
+		}
+	}
+	return true;
+};
+var isShowAll = function(){
+	var getHidden = getQuery("hide");
+	if(getHidden){
+		getHidden = getHidden.split("|");
+		if(getHidden.length > 0){
+			for(var i = 0; i < getHidden.length; i++){
+				$$("[display='iframe_"+getHidden[i]+"']").hide();
+			}
+		}
+	}
+};
+
+var replaceNoChannel = function(){
+	var yes_channel = getQuery("yeschannel");
+	var rebatePrice = getQuery("price");
+	if(!yes_channel && !rebatePrice){
+		return;
+	}
+	
+	if(yes_channel){
+		yes_channel = yes_channel.split("|");
+		if(yes_channel.length > 0){
+			var noChannel = [];
+			for(var i = 0; i < IED_VIP_AllCHANNEL.length; i++){
+				var flag = false;
+				for(var j = 0; j < yes_channel.length; j++){
+					if(IED_VIP_AllCHANNEL[i].id == yes_channel[j]){
+						flag = true;
+						break;
+					}
+				}
+				if(!flag){
+					noChannel.push(IED_VIP_AllCHANNEL[i].id);
+				}
+			}
+			
+			{//赋值进去
+				IED_VIP_Product_info[IED_VIP_Url_param["i"]].no_channel = noChannel;
+			}
+		}
+	}
+	
+	if(rebatePrice && !isNaN(rebatePrice) && rebatePrice*1 > 0){
+		IED_VIP_Product_info[IED_VIP_Url_param["i"]].price = rebatePrice;
+	}
+	
+};
+
+replaceNoChannel();
+
+
+//将变量赋值到子页面中去
+var setInputFromParentUrl = function(formId){
+	var iframe_ = window.frames["middle"];
+	
+	{//设置参数
+		var activityId = getQuery("activityId");
+		if(activityId){//如果存在activityId才设置
+			if(typeof(formId) != "undefined" && formId){
+				var newInput = iframe_.document.createElement('input');
+				newInput.setAttribute('type','hidden');
+				newInput.setAttribute('id','_mpId');
+				newInput.setAttribute('name','_mpId');
+				newInput.setAttribute('value',activityId);
+				var form_ = iframe_.document.getElementById(formId);
+				form_.appendChild(newInput);
+			}else{
+				alert("此支付页面有误");
+			}
+		}
+	}
+	
+	{//设置子页面高度
+		document.getElementsByTagName("iframe")["middle"].style.height = iframe_.document.getElementById("speed_cMiddle").offsetHeight+"px";
+	}
+};
+
+//子页面引用的方法：
+//1.在页面的后面加上：try{parent.setInputFromParentUrl("pay_form");}catch(e){}参数为formId
+</script>
+
+</head>
+<body onclick="pgvWatchClick()">
+
+<!--****************************页面title部分*******************************-->
+<div display="iframe_title">
+<script type="text/javascript">
+if(isShowOne("title")){
+	document.write('<script language="JavaScript" type="text\/javascript" src="http:\/\/ossweb-img.qq.com\/images\/js\/title.js"><\/script>');
+}
+</script>
+</div>
+<!--****************************页面title部分*******************************-->
+
+<div class="H8"></div>
+<div id="speed_top">
+	<!--****************************页面menu部分*******************************-->
+	<ul display="iframe_menu">
+		<li class="t1"></li>
+		<li class="t2" id="dnf_top_p"><a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});" class="nc" href="http://dnf.qq.com/comm-htdocs/vip/?t=dnf">DNF黑钻</a></li>
+		<li class="t3" id="pet_top_p">| <a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});"  class="nc" href="http://pet.qq.com/comm-htdocs/vip/?t=pet">QQ宠物粉钻</a></li>
+		<li class="t3" id="x5_top_p">| <a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});" class="nc" href="http://x5.qq.com/comm-htdocs/vip?t=x5">QQ炫舞紫钻</a></li>
+		<li class="t3" id="speed_top_p">| <a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});"  class="nc" href="http://speed.qq.com/comm-htdocs/vip/?t=speed">QQ飞车紫钻</a></li>
+		<li class="t3" id="r2_top_p">| <a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});"  class="nc" href="http://r2.qq.com/comm-htdocs/vip/?t=r2">QQ音速紫钻</a></li>
+		<li class="t31" id="qqtang_top_p">| <a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});"  class="nc" href="index%EF%B9%96t=qqtang.html">QQ堂紫钻</a></li>
+		<li class="t4" id="cf_top_p">| <a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});"  class="nc" href="http://cf.qq.com/comm-htdocs/vip/?t=cf">CF会员</a></li>
+		<li class="t3_2" id="qqgame_top_p">| <a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});"  class="nc" target="_blank" href="http://gamevip.qq.com/gamevip/">QQ游戏蓝钻</a></li>
+		<li class="t2_2" id="xx_top_p"><a onClick="pgvSendClick({hottag:'IED.VIP.INDEXHTM'});"  class="nc" href="http://xx.qq.com/comm-htdocs/vip/?t=xx">寻仙会员</a></li>
+	</ul>
+	<!--****************************页面menu部分*******************************-->
+	<!--****************************页面login部分*******************************-->
+	<ul display="iframe_login">
+		<li class="t5"></li>
+		<li class="t6">
+			<div class="top_con">
+				<div class="zizuan"></div>
+				<div class="top_text"><span id="unlogin"><div class="floatL">&nbsp;请您先登录，然后可以选择多种方式开通<script>document.write(IED_VIP_Product_info[IED_VIP_Url_param["i"]]["desc"]);</script>服务 </div><a href="#" onclick="javascript:OpenLoginDiv('',true);pgvSendClick({hottag:'IED.VIP.INDEXHTM.dl'});"><div class="but_login"></div></a></span><span id="logined" class="cor_f_l" style="display:none;"><div class="floatL">&nbsp;&nbsp;亲爱的<span id="userinfo"></span>，您已经成功登录&nbsp;&nbsp;</div><a href="javascript:LogoutPage();void 0;"><div class="but_unlogin"></div></a> </span></div>
+			</div>
+		  <div class="top_bot">
+				<input name="" type="checkbox" value="" checked="checked"  /> 本人同意并接受<span class="cor_f_l"> <a href="#" target="_blank" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.xieyi'});" id="clause">QQ音速紫钻</a></span> （资费：<strong ><span id="price"></span></strong>/月） <img src="http://ossweb-img.qq.com/images/commweb/top_j.gif"  width="4" height="7" align="bottom" /><span class="cor_h_l"> <script>document.write("<a onclick=\"javascript:StatCheckLogin(event);\" href=\"javascript:window.open('http://gamevip.qq.com/cgi-bin/payportal_checkpay.cgi?service="+IED_VIP_Product_info[IED_VIP_Url_param["i"]]["service_code"]+"&pay=paycheck','','toolbar=no, menubar=no, scrollbars=no,resizable=no,location=no, status=no, width=450, height=450');pgvSendClick({hottag:'IED.VIP.INDEXHTM.cxktzt'});void 0;\">查询开通状态</a>");</script> </span></div>
+		</li>
+		<li class="t7"></li>
+	</ul>
+	<!--****************************页面login部分*******************************-->
+</div>
+<div id="speed_content">
+	<!--****************************页面支付主要部分*******************************-->
+	<div id="speed_cLeft" display="iframe_body">
+		<div class="unsel_top" id="qd_channel"><a target="middle" href="ktqd.htm" onclick="IED_VIP_FreshMenu(this);pgvSendClick({hottag:'IED.VIP.INDEXHTM.qdkt'});">Q点/Q币开通</a></div>
+		<div class="unsel_bottom two_line" id="cft_channel"><a target="middle" id="cft_channel_a" href="ktcft.htm" onclick="IED_VIP_FreshMenu(this);pgvSendClick({hottag:'IED.VIP.INDEXHTM.yhkkt'});">财付通/银行卡开通</a></div>
+		<div class="unsel" id="tr_channel"><a target="middle" href="kttr.htm" onclick="IED_VIP_FreshMenu(this);pgvSendClick({hottag:'IED.VIP.INDEXHTM.trzf'});">他人支付/赠送他人</a></div>
+		<div class="sel" id="sj_channel"><a style="cursor:pointer;" target="middle" onclick="IED_VIP_Change_menu('sj');pgvSendClick({hottag:'IED.VIP.INDEXHTM.sjkt'});">手机语音开通</a></div>
+		<div class="unsel" id="qbk_channel"><a target="middle" href="ktqbk.htm" onclick="IED_VIP_FreshMenu(this);pgvSendClick({hottag:'IED.VIP.INDEXHTM.qbkkt'});">QQ卡开通</a></div>
+		<div class="unsel" id="sj_ydsj_channel"><a target="middle" style="cursor:pointer;" onclick="IED_VIP_Change_menu('sj_ydsj');;pgvSendClick({hottag:'IED.VIP.INDEXHTM.sj_ydsjkt'});">移动手机开通</a></div>
+		<div class="unsel" id="gddh_channel"><a target="middle" style="cursor:pointer;" onclick="IED_VIP_Change_menu('gddh');;pgvSendClick({hottag:'IED.VIP.INDEXHTM.gddhkt'});">固定电话开通</a></div>
+		<div class="unsel" id="wb_channel"><a style="cursor:pointer;" target="middle" onclick="IED_VIP_Change_menu('wb');pgvSendClick({hottag:'IED.VIP.INDEXHTM.wbkt'});">网吧开通</a></div>
+		<div class="unsel" id="szx_channel"><a style="cursor:pointer;" target="middle" onclick="IED_VIP_Change_menu('szx');pgvSendClick({hottag:'IED.VIP.INDEXHTM.szx'});">手机充值卡充值</a></div>
+		<div class="unsel_bottom" id="jt_channel"><a target="middle" href="ktjt.htm" onclick="IED_VIP_FreshMenu(this);;pgvSendClick({hottag:'IED.VIP.INDEXHTM.jtkdkt'});">家庭宽带开通</a></div>
+	</div>
+	<div class="floatL">
+		<iframe id="middle" name="middle" width="527" height="475" frameborder="0" scrolling="No"></iframe>
+	</div>
+	<!--****************************页面支付主要部分*******************************-->
+	<!--****************************页面广告部分*******************************-->
+	<div class="floatL" display="iframe_ad">
+		<iframe src="" name="right" width="205px" height="auto" frameborder="0" scrolling="No"></iframe>
+	</div>
+	<!--****************************页面广告部分*******************************-->
+</div>
+
+<!--****************************页面底部部分*******************************-->
+<div display="iframe_foot">
+<div class="bottom_top"></div>
+<div id="bottom">
+	<ul>
+		<li class="bottom_bg">
+		<div class="bottom_link">
+			<div class="bottom_con foot">
+			<a href="http://www.tencent.com/" target="_blank" class="footer_link">关于腾讯</a>|<a href="http://www.tencent.com/index_e.shtml" target="_blank" class="small_txt"><span class="small_txt"> About Tencent</span></a> | <a href="http://www.qq.com/contract.shtml" target="_blank" class="footer_link">服务条款</a> | <a href="http://www.tencent.com/adver/" target="_blank" class="footer_link">广告服务</a> | <a href="http://hr.tencent.com/" target="_blank" class="footer_link">腾讯招聘 </a>| <a href="http://service.qq.com/" target="_blank" class="footer_link">客服中心 </a>| <a href="http://game.qq.com/new05/act/hezuo.shtml" target="_blank" class="footer_link">商务合作</a><br />
+            <span class="small_txt">Copyright@1998-2009   Tencent Inc. All Rights Reserved</span>　　　　&nbsp;&nbsp;　<br />
+<a href="http://www.tencent.com/law/mo_law.shtml?/law/copyright.htm" target="_blank" class="footer_link">腾讯公司</a> 版权所有</div>
+		</div>
+		</li>
+		<li class="bottom_bot"></li>
+	</ul>
+</div>
+</div>
+<!--****************************页面底部部分*******************************-->
+
+<script language="javascript">
+if(isShowOne("menu")){
+	IED_VIP_Change_top();
+}
+if(isShowOne("login")){
+	IED_VIP_Change_clause();
+	IED_VIP_Change_price();
+}
+if(isShowOne("ad")){
+	IED_VIP_Change_right();
+}
+isShowAll();
+
+IED_VIP_Change_title();
+IED_VIP_Init_menu();
+IED_VIP_Change_menu();
+</script>
+
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/LayerLogin.js"></script>
+<script language="javascript">
+function GetUserInfoSucc(){
+    try{
+        if(IED_LOG_INFO && IED_LOG_INFO.islogin){
+            var vipinfo=IED_LOG_INFO.isvip=="1"?IED_VIP_Product_info[IED_VIP_Url_param["i"]].desc:"";
+            $("userinfo").innerHTML=vipinfo+IED_LOG_INFO.nickname+"（"+IED_LOG_INFO.uin+"）";
+        }
+    }catch(e){}
+}
+function GetUserInfoFail(){}
+function logininit(){
+    var SaveLoginedCallback=LoginedCallback;
+    LoginedCallback=function(){
+        SaveLoginedCallback();
+        $("userinfo").innerHTML=String(Number(GetCookieUin().replace("o","")));
+        FloadJS("http://gamevip.qq.com/comm-cgi-bin/login/dynamiclogin.cgi?cmd=2&type="+IED_VIP_Product_info[IED_VIP_Url_param["i"]]["service_code"],GetUserInfoSucc,GetUserInfoFail)
+    }
+}
+
+if(isShowOne("login")){
+	logininit();
+	LL_CheckLogin();
+}
+</script>
+<script language="javascript">
+try{
+	for(var ii=0; ii<document .getElementsByTagName("a").length; ii++){
+		var dl_a = document.getElementsByTagName("a")[ii];
+			dl_a.onfocus=function(){this.blur();}
+		}
+}catch(e){}
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|9ad2f1fcdb9dad23a5448b28d065a578<![endif]-->

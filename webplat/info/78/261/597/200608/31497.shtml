@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>民族网游努力崛起  QQ堂奋力领跑-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>民族网游努力崛起  QQ堂奋力领跑</h4>
+    <div class="new_nytxt">　　目前中国拥有超过2000万的玩家市场，这是一个庞大的数字。然而其中真正属于我们民族网络游戏的有多少？谁是目前真正的网游赢家？ <br><br>　　这是国人不得不如实回答的问题。 <br><br>　　在中国网络游戏起步初期，我们的邻居，精明的韩国人挖走了中国网游第一桶金，并将胜利延续到现在。现在他们仍然占据着中国网游市场的大部分。 <br><br>　　面对这样的情形，国人无法沉默。 <br><br>　　不只是我们的政府，玩家，还有我们的企业，都希望培育起中国优秀的网络游戏，在自己的国家，发展自己的游戏，甚至将优秀的网游出口，一如韩国网游进攻中国玩家般进攻海外市场。这是时代赋予中华民族的责任。 <br><br>　　毫无疑问，QQ堂是民族网游的热血分子。成立之时，QQ堂便把自己定位为自主研发，持续发展的绿色休闲游戏。现在，QQ堂用自己近两年的发展历程，为中国玩家刻画出另一个鲜明的形象——它成为民族网游运营的典范，它领跑着中国网游。 <br><br>　　在强大海外压力面前，民族网游的崛起并非易事；而QQ堂，更是顶着网游世界的风风雨雨，扛着民族大旗继续着自己领跑的使命。这是中华民族赋予给QQ堂的责任。 <br><br>　　如果你相信民族网游之花有盛放的一天，如果你渴望看到民族网游夺回自己的市场，如果你支持QQ堂振兴民族网游的意愿，请你拉起QQ堂的手，坚定地站在QQ堂身旁。QQ堂需要你的支持，民族网游需要你的呵护。 <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|0e0c6de5eebf014e2078dfb1884accb6<![endif]-->

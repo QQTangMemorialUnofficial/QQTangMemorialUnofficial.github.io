@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>公测首日人数过万 《QQ堂》增设服务器-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>公测首日人数过万 《QQ堂》增设服务器</h4>
+    <div class="new_nytxt">　　经过紧张的筹备，由腾讯公司自主研发的第一款中型休闲类网络游戏《QQ堂》在29日下午如约而至，展开了面向所有QQ用户的公开测试。从此，所有QQ用户均可以使用自己的QQ号码登陆《QQ堂》。这是QQ游戏继100万在线的又一个里程碑，也为我们开启了一个新的时代。<br><br>　　《QQ堂》以其清新亮丽的画面、简单易上手的操作、可爱的人物造型和诸多匠心独具的游戏创意，迅速征得了广大用户的心。从公测开始，游戏在线人数一路攀升。在两小时不到的时间内，新手频道人数将满，我们在新手频道增设了10个房间，以使广大的玩家可以更加快捷的登陆游戏、给玩家更加流畅的游戏体验，使更多的玩家可以同时享受游戏。<br><br>　　在公测开启后的三个小时，我们更加兴奋的看到《QQ堂》同时在线已经突破一万人，并且人数仍然在稳定、快速的增长。广大玩家的支持下，《QQ堂》有了一个让人振奋的开始。在未来，我们将更加从玩家利益出发，通过技术的创新和硬件的投入，给玩家更加流畅的游戏感受；通过激发更多的创意，给玩家带来更多的游戏乐趣；通过不断搜集玩家需求，让中国人做更加适合中国玩家的游戏。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200501/29837.shtml">公测三日在线过三万 庆新年QQ堂再添新服</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29836.shtml">公测两日在线过两万 再添新服迎元旦</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29832.shtml">QQ游戏年度力作--《QQ堂》29日公测</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29830.shtml">内测玩家抢先体验 《QQ堂》公测版更新公告</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|71ce8e2857bcee7be51b15e0218cbe85<![endif]-->

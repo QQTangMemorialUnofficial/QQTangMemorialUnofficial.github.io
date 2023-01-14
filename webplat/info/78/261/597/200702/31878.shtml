@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>青蛙王子－浪漫《QQ堂》-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>青蛙王子－浪漫《QQ堂》</h4>
+    <div class="new_nytxt"><P><%$Fcontent$%>　　据说王子经常会被恶毒的巫婆施咒变成青蛙，那么，这只蹦蹦跳跳的青蛙是不是王子呢？</P>
+<P>　　青蛙泡泡喜现《QQ堂》商店，浪漫飓风席卷糖果镇！<BR>&nbsp;<BR>　　炮火硝烟中，一抹绿色一蹦一跳，马上成为所有人的焦点，那是什么？</P>
+<P>　　圆嘟赌的小嘴，骨碌碌的双眼，脸颊两点红，一鼓一鼓的，头戴一顶小皇冠，是一只可爱的青蛙王子！</P>
+<P><BR></P>
+<P align=center><IMG style="WIDTH: 54px; HEIGHT: 65px" height=78 src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1171418676_840044972_21320_sPhoto.gif" width=82></P>
+<P><BR>　　你是否一见钟情，马上就爱不释手了呢？青蛙王子，当年自己纯真的梦，如今《QQ堂》帮你重温旧梦！</P>
+<P>　　少男少女们，行动起来吧！让活泼可爱的小青蛙蹦《QQ堂》，让青蛙王子的梦想重新活跃，重拾青春，回归无邪！</P>
+<P>　　情人节即将来临，是否在为情人节礼物而伤脑筋？给亲爱的他（她）送去一只可爱的青蛙王子，不失为浪漫别致的礼物！</P>
+<P>　　粱祝化蝶，我们就化成两只小青蛙，在《QQ堂》里蹦跳相随吧！蹦出我们的浪漫，蹦出我们的甜蜜！</P>
+<P>　　青蛙泡泡爆出浪漫，爆出时尚，赶快去抢购吧！</P>
+<P><BR>　　更多详情请登录<A href="../../../../../../a20070205svd/index.html">http://qqtang.qq.com/a20070205svd/</A></P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|dab2a8575697d8c829b15a909df50d90<![endif]-->

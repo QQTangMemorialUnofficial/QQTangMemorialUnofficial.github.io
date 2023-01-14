@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂 QQT 盛夏之约 " />
+<meta name="description" content="QQ堂" />
+<title>QQ堂 3.0官方网站</title>
+<script language="javascript" src="../../web2008/jscss/main.js"></script>
+<link href="../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+
+<script src="../../js/htmlcomm.js"></script>
+<script src="../js/configPhoto.js"></script>
+<script src="../js/detail.js"></script>
+
+<script type="text/javascript">
+function GetInfo()
+{
+	document.formSurvey.iPdName.value = getUrlPara("iPdName");
+	document.formSurvey.iSeqId.value  = getUrlPara("iSeqId");
+	document.formSurvey.submit();
+}
+</script>
+
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+ <div class="top_ce"><script>menu()</script>
+ </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="bbs1"><p><a href="photo.shtml" title="玩家照片" class="pic">玩家照片</a><a href="index.shtml" title="游戏截图" class="pic">游戏截图</a><a href="http://app.qqtang.qq.com/cgi-bin/CommPhoto/mypic.cgi?iPdName=1" title="我的图片" class="pic">我的图片</a><a href="http://app.qqtang.qq.com/cgi-bin/CommPhoto/upload_photo.cgi?iPdName=1" title="图片上传" class="pic">图片上传</a><a href="../../web2008/page/wallpaper.htm" title="壁纸">壁纸</a><a href="../../web2008/page/movie.htm" title="视频">视频</a><a href="../../CommNews/static/magazine%EF%B9%96channel=15&amp;iPdName=1.htm" title="杂志">杂志</a><a href="../../CommNews/static/video%EF%B9%96channel=14&amp;iPdName=1.htm" title="录像">录像</a><a href="http://wenwen.soso.com/z/c18024704.htm" title="你问我答" target="_blank">你问我答</a></p></div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="285" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>  
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg" style="height:100%">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/bbs_bn08.gif" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../index.shtml" class="a">首页</a> >><font class="txtcolor">玩家互动</font></div>
+   </div>
+   <div class="cetxtbg">
+	<div style="margin:15px;">
+	  <table width="620" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="d4caba">
+        <tr>
+          <td height="580" valign="top" bgcolor="#FFFFFF"><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="10"></td>
+              </tr>
+            </table>
+              <table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="48"><img src="http://ossweb-img.qq.com/images/fo/web200705/photo_detail.jpg" width="600" height="48" /></td>
+                </tr>
+                <tr>
+                  <td background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/banner/ce_bg102.gif"><table width="600" border="0" align="center" cellpadding="5" cellspacing="5">
+                      <tr>
+                        <td width="205" align="center"><table border="1" cellpadding="0" cellspacing="2" bordercolor="#CCCCCC">
+                            <tr>
+                              <td height="180"><script>
+                                                showPic({width:180});                                        
+                                            </script>
+                              </td>
+                            </tr>
+                        </table></td>
+                        <td valign="top"><table width="350" height="200" border="0" align="center" cellpadding="2" cellspacing="2">
+                            <tr>
+                              <td width="84" align="right" class="txt_small">昵称： </td>
+                              <td width="252"><font id="sNickName"></font> </td>
+                            </tr>
+                            <tr>
+                              <td align="right" class="txt_small">Q Q：</td>
+                              <td><font id="iUin"></font></td>
+                            </tr>
+                            <tr>
+                              <td align="right" class="txt_small">电子邮件：</td>
+                              <td><font id="sEmail"></font></td>
+                            </tr>
+                            <tr>
+                              <td align="right" class="txt_small">本周票数：</td>
+                              <td><font id="iAllVotes"></font> </td>
+                            </tr>
+                            <tr>
+                              <td align="right" class="txt_small">当前总票数： </td>
+                              <td><font class="txt_small" id="iVotes"></font> </td>
+                            </tr>
+                            <tr>
+                              <td height="35" colfont="2" align="center"><a href="javascript:GetInfo();"><img src="http://ossweb-img.qq.com/images/fo/web200705/vote.jpg" width="76" height="23" border="0" /></a></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td colfont="2" align="left" class="txt_small">　　玩家留言： <font id="sDesc"></font></td>
+                      </tr>
+                  </table></td>
+                </tr>
+                <tr>
+                  <td><img src="http://ossweb-img.qq.com/images/fo/web200705/photo_content_4.jpg" width="600" height="9" /></td>
+                </tr>
+              </table>
+            <table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="10"></td>
+                </tr>
+              </table>
+            <table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="48" align="center"><img src="http://ossweb-img.qq.com/images/fo/web200705/photo_tj.jpg" width="600" height="48" /></td>
+                </tr>
+                <tr>
+                  <td align="center" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/banner/ce_bg102.gif">
+                    <iframe id="iframeRelated" frameborder="0" scrolling="No" width="590" height="204"></iframe></td>
+                </tr>
+                <tr>
+                  <td><img src="http://ossweb-img.qq.com/images/fo/web200705/photo_content_4.jpg" width="600" height="9" /></td>
+                </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+        <script>
+            display();
+        </script> 
+      
+	</div>
+	<div class="ce_footbg"></div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>

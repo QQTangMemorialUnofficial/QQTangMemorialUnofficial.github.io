@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂11月26日停机维护公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂11月26日停机维护公告</h4>
+    <div class="new_nytxt"><p>&nbsp;</p>
+<p>亲爱的QQ堂玩家：</p>
+<p>&nbsp;</p>
+<p>　　QQ堂将于<span style="color: #ff0000;">11月26日8：00-16：00</span>进行服务器停机维护。此外，官网的<span style="color: #ff0000;">欢乐谷小游戏</span>也将进行关闭。</p>
+<p>&nbsp;</p>
+<p>　　本次更新除了会使用新的游戏区域之外，QQ堂还将全面启用新的服务器，并逐步强制统一更新版本，加强反外挂力度。新的服务器会给广大玩家带来更流畅的游戏体验和更绿色的游戏环境，让我们一起期待吧！</p>
+<p>&nbsp;</p>
+<p>　　官网目前已经开放更新后的版本下载，程序编号为3.4，但此次主要调整的是服务器，客户端没有变更，依然是3.3版本。更新后，我们将会在<span style="color: #000000;">12月</span>彻底关闭3.3以下的所有版本，全部统一为3.3版。</p>
+<p>&nbsp;</p>
+<p>　　停机维护期间，玩家将无法登录QQ堂各小区游戏，请您在维护结束之后再尝试登录，对此给您带来的不便，还望谅解，感谢您对QQ堂的支持！</p>
+<p>&nbsp;</p>
+<p>　　更多QQ堂最新资讯，请关注QQ堂官方网站的更新。<br />　　QQ堂周年庆&mdash;伯兰克美食节：<a href="../../../../../../act/a20091113food/index.html"><span style="color: #8d8733;">http://qqtang.qq.com/act/a20091113food/</span></a><br />　　QQ堂官方论坛：<a href="http://qqtang.gamebbs.qq.com/"><span style="color: #8d8733;">http://qqtang.gamebbs.qq.com/</span></a><br />　　QQ堂紫钻会员：<a href="../../../../../../vip/index.html"><span style="color: #7d7835;">http://qqtang.qq.com/vip/</span></a></p></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d97535e61dbf887d65d19158ce1025b3<![endif]-->

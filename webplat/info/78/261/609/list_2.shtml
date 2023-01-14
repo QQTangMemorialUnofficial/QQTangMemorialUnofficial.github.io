@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../list_1.shtml" title="综合新闻">综合新闻</a><a href="../608/list_1.shtml" title="最新公告">最新公告</a><a href="../619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../index.html" class="a">首页</a> >> <a href="../list_1.shtml" class="a">新闻中心</a> >> <span></span>英雄争霸</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31466.shtml" target="_blank"><font color="">北京成都参赛名单重要公告</font></a>
+                                <span>2006-08-10</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31465.shtml" target="_blank"><font color="">[Q堂宝贝]美丽与魅力的合集——惠子</font></a>
+                                <span>2006-08-10</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31464.shtml" target="_blank"><font color="">清水出芙蓉 茹錁囿⒈兲进入Q堂宝贝100强</font></a>
+                                <span>2006-08-09</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31462.shtml" target="_blank"><font color="">两区域赛落下帷幕 选手风采值得一睹</font></a>
+                                <span>2006-08-08</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31461.shtml" target="_blank"><font color="">乖乖宝贝——访QQ堂宝贝第五名&`婲︵髒(り</font></a>
+                                <span>2006-08-08</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31460.shtml" target="_blank"><font color="">QQ堂英雄争霸赛东部区决赛精彩报道</font></a>
+                                <span>2006-08-08</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31459.shtml" target="_blank"><font color="">QQ堂第二届中华英雄南方区赛冠军横空出世</font></a>
+                                <span>2006-08-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31458.shtml" target="_blank"><font color="">我眼中的决赛对手</font></a>
+                                <span>2006-08-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31457.shtml" target="_blank"><font color="">[杭州、广州]区域冠军诞生了!</font></a>
+                                <span>2006-08-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31456.shtml" target="_blank"><font color="">北京、成都4强玩家注意了！</font></a>
+                                <span>2006-08-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31449.shtml" target="_blank"><font color="">线下区域赛比赛规则</font></a>
+                                <span>2006-08-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31446.shtml" target="_blank"><font color="">四强赛即将开始 选手快快登记资料</font></a>
+                                <span>2006-08-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31445.shtml" target="_blank"><font color="">区域四强赛即将开赛,公布比赛地点及选手须知</font></a>
+                                <span>2006-08-02</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200608/31443.shtml" target="_blank"><font color="">区域赛4强召集公告</font></a>
+                                <span>2006-08-01</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200607/31440.shtml" target="_blank"><font color="">中华英雄争霸赛线上复赛出线名单公布</font></a>
+                                <span>2006-07-31</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200607/31438.shtml" target="_blank"><font color="">似是故人来——冷傲跨入地区4强赛</font></a>
+                                <span>2006-07-31</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200607/31430.shtml" target="_blank"><font color="">中华英雄争霸赛复赛阶段比赛规则说明</font></a>
+                                <span>2006-07-28</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200607/31429.shtml" target="_blank"><font color="">中华英雄争霸赛”16强名单对阵表公布</font></a>
+                                <span>2006-07-28</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[英雄争霸]</a>
+                                <a href="200607/31422.shtml" target="_blank"><font color="">各地MM角逐Q堂宝贝 快快投票力顶</font></a>
+                                <span>2006-07-27</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_1.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_3.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|546399e9e187c26cb43ce7d4e0507ff0<![endif]-->

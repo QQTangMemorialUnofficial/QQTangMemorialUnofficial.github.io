@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>玫瑰告白活动说明-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>玫瑰告白活动说明</h4>
+    <div class="new_nytxt">　　情人节的气息正随着春季的脚步迈近，QQ堂的空气中也开始渗透爱的味道。<br><br>　　浓情二月主打活动【玫瑰告白】倾情上演。 <br><br>　　<font color="red"><b>活动时间：2月5日～2月14日</b></font><br><br>　　<b>活动方式：</b><br>　　1.此活动包括在游戏中获取玫瑰和活动页面上赠送玫瑰两个部分。<br>　　2.所有地图都会有飞机掉落玫瑰，玩家捡取到地图上的玫瑰头上会出现玫瑰。即算获得玫瑰一朵 ，系统会自动记录你获取的玫瑰数。<br>　　3.在活动页面上，你可以查询你当前拥有的玫瑰(包括游戏中获得和他人赠送)以及你的玫瑰数排行。<br>　　4.点击活动页面的[赠送玫瑰]，你可以将你所拥有的玫瑰赠送给你心爱的人，并附上你的留言。<br>　　5.每天会公布当日玫瑰排行top10。<br>　　6.2005.2.17日会公布最终的玫瑰排行榜 。获得玫瑰最多的玩家会获得[梦中情人]的至尊称号，而排行榜单上的其他玩家会获得[大众情人]的称号。[梦中情人]和[大众情人]荣誉获得者同时会获得商店里暂时无法购买的表现型道具。<br>　　7.所有拥有玫瑰的玩家都会获得我们按照统一标准送出的祝福奖励。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200502/29888.shtml">玫瑰告白活动奖励发送</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29885.shtml">玫瑰告白，换一种方式浪漫</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29875.shtml">以爱的名义 让玫瑰作证</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|280ed8fc8676cf79592b039bd287e208<![endif]-->

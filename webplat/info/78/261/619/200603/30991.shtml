@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>藏宝图开启寻宝之旅-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>藏宝图开启寻宝之旅</h4>
+    <div class="new_nytxt">　　还记得阿里巴巴和四十大盗的故事吗？一声“芝麻开门”引发了童年的梦，幻想着自己有一天也能打开那神秘的宝库，发掘巨大的财富。<br><br>　　QQ 堂船长密室新任务寻宝之旅起航了，儿时的梦，从藏宝图中开始。<br><br>　　藏宝图隐藏着无数的秘宝，神秘而诱人。轻轻的揭开藏宝图神秘面纱的一角，可不能轻视它哦，它可是开启宝藏的“金钥匙”，缺少了它，寻宝之旅也无从谈起了。 <br><br>　　<img src="../../../../../../webpic/20060330/03.jpg"><br><br>　　藏宝图人人都想要，可通过两道途径获得。 <br><br>　　方法一：到水面 11 ，对付狡猾的虎克手下， 收集到 30 份藏宝图碎片，凑成一份完整的 。 <br><br>　　方法二：到道具 商店 — 功能道具购买， 1q 币 3 个。<br><br>　　有了藏宝图，开始你的下步行动， 召唤虎克的大副，漫漫之旅由此开启！ <br><br>　　金光灿灿的那道蓝色的门，到底隐藏着怎样的珍宝呢？ <br><br>　　谜底，由勇士们揭开！ <br><br>　　详情关注： <a href="../../../../../../hook/index.html" target="_blank">http://qqtang.qq.com/hook/ </a>。 <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200706/32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200706/32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200706/32036.shtml">致富有新招——酷比宝石</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200706/32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|8fa8549d11155ddcaa4fe9fdbdf0a562<![endif]-->

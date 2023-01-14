@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>广东QQ堂直玩活动周末预告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>广东QQ堂直玩活动周末预告</h4>
+    <div class="new_nytxt">　　广东省宽带极速之旅2005营业厅体验活动正在火热进行中，到现场即可参加精彩QQ堂直玩活动，有奖问答，现场竞赛，奖品多多。<br><br>　　每位现场参与的玩家将能够现场获得QQ堂所赠免费QQ靓号，每个靓号中还将携带上我们最吸引人的超炫道具“星光QQ糖”，还不够让你心动吗？我们还将准备现场挑战赛，抢包山、踢足球，让你玩个够，还有QQ公仔、最酷道具领取哟。现场还将展示我们独家的QQ堂精彩录像选播，最快的摆心方式、精准的连v技巧，一定让你眼花缭乱。           <br><br>　　认识朋友、展现技巧就在QQ堂直玩现场！<br>　　广东的玩家，快快参与QQ堂直玩，新鲜体验，快乐无限！！！<br><br>　　其他地区的玩家也不要着急，我们各地的活动会陆续展开，关注官网，最新消息一手把握。 <br><br>　　<b>本周活动地点：</b><br>　　广州站地址：番禺东城营业厅（番禺区市桥镇清河路188号）<br>　　珠海站地址：珠海市三灶镇伟民路三灶营业厅<br><br>　　<b>本周活动时间：</b><br>　　6月11日(周六)上午10:00～12:00；下午14:00-16:00<br><br>　　第一时间，第一现场，我们等着你！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200507/30203.shtml">广东QQ堂直玩深圳惠州站活动预告</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30186.shtml">广东QQ堂直玩江门汕头站活动预告</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30174.shtml">广东QQ堂直玩活动广州站预告</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ebaf9be6cd1899c80b70f1c6549c59ae<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>游戏道具大打折 热情回馈所有玩家-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>游戏道具大打折 热情回馈所有玩家</h4>
+    <div class="new_nytxt">　　为了庆祝《QQ堂》游戏在首届“腾讯—北京晚报”中国产业品牌网络调查“2004最受网友喜爱的品牌”评比活动中荣膺“2004最受网友喜爱的的网络游戏”称号，QQ堂项目组决定将玩家喜爱的最新道具“幻像魅影”和“星光QQ糖”进行大幅的打折销售，以回馈一直支持QQ堂游戏的广大热情玩家。<br><br>　　同时游戏内道具商店也将同时开放包括“幻像魅影”和“星光QQ糖”在内的大量最新道具的销售，以方便玩家的购买。<br><br>　　另外，对于之前已经在网站上以较高价格购买了道具的玩家，官方也将同时予以回馈，回馈办法如下：<br><br>　　1.对于之前在网站上购买了“幻影（六月权）”的用户，将其购买的幻影道具使用权调整为1年，同时赠送一件“玫瑰花环”道具的六月使用权。如果该用户已经购买过“玫瑰花环”，则将用户“玫瑰花环”的使用期延长6个月；<br>　　2.对于之前在网站上购买了“星光QQ糖（六月权）”的用户，将星光QQ糖的使用权调整为1年，同时赠送一件“玫瑰花园”道具的六月使用权。如果用户已经购买过“玫瑰花园”，则将用户“玫瑰花园”的使用期延长6个月；<br>　　3.对于购买一周权新道具的用户，不进行回馈。<br><br>　　QQ堂的成功离不开广大玩家的支持，今后QQ堂游戏还会推出更多的优惠措施来回馈各位玩家，我们的成功愿意与您一起分享！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200504/29985.shtml">好消息：道具商店VIP卡隆重上架</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200504/29982.shtml">QQ堂优惠新举措 超值道具包官网发售</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29957.shtml">QQ堂VIP卡的使用说明</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29951.shtml">抢购！VIP卡火热上市 官网已开放销售</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|e8e70e232d168df54d0d16cf09118c16<![endif]-->

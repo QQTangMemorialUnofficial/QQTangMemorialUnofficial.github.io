@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../web2008/jscss/main.js"></script>
+<link href="../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="608/list_1.shtml" title="最新公告">最新公告</a><a href="619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200604/31069.shtml" target="_blank"><font color="">10大风云家族和10大家族英雄</font></a>
+                                <span>2006-04-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31071.shtml" target="_blank"><font color="">酷比天使在飞翔——访“十大精英”之一7.Fd"狼狼</font></a>
+                                <span>2006-04-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/200604/31073.shtml" target="_blank"><font color="">我的宝藏之旅我安排</font></a>
+                                <span>2006-04-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31074.shtml" target="_blank"><font color="">炫——精彩源于平凡</font></a>
+                                <span>2006-04-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200604/31076.shtml" target="_blank"><font color="">QQ堂官方记者团招聘</font></a>
+                                <span>2006-04-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31077.shtml" target="_blank"><font color="">书写寻宝之旅 获珍贵礼品</font></a>
+                                <span>2006-04-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200604/31078.shtml" target="_blank"><font color="">停权处罚公告（4月11日）</font></a>
+                                <span>2006-04-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31079.shtml" target="_blank"><font color="">多才多艺的玩家团队—QQ堂研究院成立</font></a>
+                                <span>2006-04-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31080.shtml" target="_blank"><font color="">家族风云榜个人积分赛冠军得主----♂他钥</font></a>
+                                <span>2006-04-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/200604/31081.shtml" target="_blank"><font color="">经典游戏截图，精彩无极限</font></a>
+                                <span>2006-04-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31082.shtml" target="_blank"><font color="">♂他钥</font></a>
+                                <span>2006-04-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31083.shtml" target="_blank"><font color="">个性张扬QQ堂－－海盗名片</font></a>
+                                <span>2006-04-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31084.shtml" target="_blank"><font color="">温暖的春天 QQ堂紫钻和QQ宠物联袂送礼</font></a>
+                                <span>2006-04-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200604/31085.shtml" target="_blank"><font color="">海盗系列新道具</font></a>
+                                <span>2006-04-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31086.shtml" target="_blank"><font color="">烽烟过后，盛况依旧</font></a>
+                                <span>2006-04-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200604/31087.shtml" target="_blank"><font color="">海盗带给你宝藏之旅</font></a>
+                                <span>2006-04-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200604/31088.shtml" target="_blank"><font color="">恶鱼在身边 显出新风采</font></a>
+                                <span>2006-04-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200604/31089.shtml" target="_blank"><font color="">稀世珍宝——黄金鱼叉</font></a>
+                                <span>2006-04-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200604/31090.shtml" target="_blank"><font color="">“我们的活动你做主”活动细则</font></a>
+                                <span>2006-04-17</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n63.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n61.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|3313640ddefdbd5cb39fcf0cf3b14d07<![endif]-->

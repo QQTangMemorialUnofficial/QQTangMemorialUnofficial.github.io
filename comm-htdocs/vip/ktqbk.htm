@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>	QQ音速支付</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="robots" content="all" />
+<meta name="author" content="eddygu" /> 
+<meta name="Copyright" content="Copyright (c) 2006-2007 tencent" />
+<meta name="Description" content="点燃自由幻想图标-开启美好游戏人生！-QQ自由幻想官方网站" />
+<meta name="Keywords" content="QQ自由幻想,Q币,盛夏四重奏,2.09版本,花妖巢穴,幻想之翼,仙子宠姬,浪漫满服,图标也升级,震撼出击,QQ自由幻想官方,网站下载,超级旋风,每天100万Q币,家族,人气,大比拼,领奖,下载,说明,公测,版本,QQ自由幻想官方网站,永久免费" />
+<script language="JavaScript" type="text/javascript" src="js/pay.js"></script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+</head>
+<body> 
+	<div id="speed_cMiddle">
+		<div class="mTop"></div>
+		<div class="mContent">
+			<ul class="H350">
+				<li class="li_text">
+				  <div class="color_ff9900 floatL"><img src="http://ossweb-img.qq.com/images/commweb/star.jpg" width="10" height="10" align="absmiddle" /><span class="color_6d6d6d"><strong> 您选择了</strong></span><strong>Q币卡开通<span class="color_6d6d6d">方式</span></strong></div> 
+				  <div class="li_lt"><a href="http://pay.qq.com/paycenter/paycenter_qb.shtml" target="_blank" class="color_6d6d6d" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.qdqbcz'});">Q点Q币充值</a></div><div class="li_lt1"><a href="http://pay.qq.com/account/index.shtml" target="_blank" class="color_6d6d6d" onclick="pgvSendClick({hottag:'IED.VIP.INDEXHTM.cxzhye'});">查询帐户余额</a></div></li>
+				<li class="li_xian"><img src="http://ossweb-img.qq.com/images/commweb/line.jpg" width="472" height="1" align="top" /></li>
+				<li class="form">
+				    <form action="http://gamevip.qq.com/cgi-bin/payportal_qb_pay.cgi" method="post" enctype="multipart/form-data" name="pay_form" id="pay_form" >
+                    <input name="service" type="hidden" value="">
+                    <input name="entrance" type="hidden" value="WEB">
+                    <input name="month" type="hidden" value="">
+				    <div class="oText"> <img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" /> 请选择开通服务的有效期： </div>
+					<div class="tText1">&nbsp; <input name="openmonth" type="radio" onClick="QbQDianChl.ChangeMonth(this.value)" value="1" > 一个月      
+					    <input name="openmonth" type="radio" onClick="QbQDianChl.ChangeMonth(this.value)" value="3" checked>三个月      
+					    <input name="openmonth" type="radio" onClick="QbQDianChl.ChangeMonth(this.value)" value="6">六个月      
+					    <input name="openmonth" type="radio" onClick="QbQDianChl.ChangeMonth(this.value)" value="other">其他：         
+					    <input name="prepaymonth" type="text" size="2" maxlength="2" disabled="true" class="border_acacac" /> 个月				  
+					</div>
+				    <div class="tText"><img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" />&nbsp;输入Q币卡卡号：<input name="qbuin"  maxlength="30" type="text" class="border_acacac" size="16" />&nbsp;&nbsp;(请勿输入您的QQ号码和密码)</div>
+				    <div class="tTex3"><img src="http://ossweb-img.qq.com/images/commweb/right_jt.jpg" align="absmiddle" />&nbsp;输入Q币卡密码：<input name="qbpasswd"  maxlength="30" type="password" class="border_acacac" size="16" style="width:118px;" /></div>
+					<div class="thText1">
+						<a href="javascript:QbCardChl.SubmitForm();"><img src="http://ossweb-img.qq.com/images/commweb/queren.jpg" border="0"/></a>
+					</div>
+				<div class="tText">Q币卡是腾讯公司发行的一种用于支付的卡。<a href="http://pay.qq.com/paycenter/paycenter_qb.shtml?cm=qqcard" target="_blank" style="text-decoration:underline; color:#6b6b6b">详细了解这里</a></div>
+				    </form>
+				</li>
+	
+				
+				
+			</ul>
+			<ul>
+				<li class="li_xian"><img src="http://ossweb-img.qq.com/images/commweb/line.jpg" width="472" height="1" align="top" /></li>
+				<li class="wxin"><img src="http://ossweb-img.qq.com/images/commweb/middle_j.jpg" alt="" width="6" height="7" align="absmiddle" /><strong class="color_7fb400"> 温馨提示：</strong></li>	
+				<li class="oWxin"><div class="oWxinother"><script type="text/javascript">document.write(parent.IED_VIP_Wr_pay_msg());</script></div></li>
+			</ul>
+	  </div>
+		<div class="mBottom"></div>
+	</div>
+<script type="text/javascript">
+try{parent.setInputFromParentUrl("pay_form");}catch(e){}
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d6d2af141ef45f203c7dd9d244b5e86a<![endif]-->

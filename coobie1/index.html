@@ -1,0 +1,184 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>QQ堂酷比生日留言</title>
+<style type="text/css"><!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image:  url(http://qqtang.qq.com/coobie1/images/bg.gif);
+}
+-->
+</style>
+<script language="JavaScript">
+function checkinput()
+{
+        var comment;
+        comment = document.formMain.comment;
+        if (comment.value.length<1)
+        {
+                alert("留言不能为空！");
+                comment.focus();
+                return;
+        }
+        if (comment.value.length>300)
+        {
+                alert("留言不能超过150个汉字！");
+                comment.focus();
+                return;
+        }
+        if (document.formMain.showgif.value=="")
+        {
+                alert("请选择头像！");
+                return;
+        }
+        document.formMain.submit();
+}
+
+function chgface(facepic)
+{
+        if (facepic != "")
+                document.formMain.mdface.src = "/gif/" + facepic;
+}
+</script>
+<script language=javascript>
+function gbcount(message,total,used,remain)
+{
+  var max;
+  max = total.value;
+  if(message.value.length > max){
+    message.value = message.value.substring(0,max);
+    used.value = max;
+    remain.value = 0;
+    alert('留言不能超过规定的字数!');
+  }
+  else{
+    used.value = message.value.length;
+    remain.value = max - used.value;
+  }
+}
+</script>
+<link href="http://qqtang.qq.com/coobie1/css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="FFFFFF"><table width="736" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="http://qqtang.qq.com/coobie1/images/top_01.gif" width="181" height="140"></td>
+        <td><img src="http://qqtang.qq.com/coobie1/images/top_02.gif" width="177" height="140"></td>
+        <td><img src="http://qqtang.qq.com/coobie1/images/top_03.gif" width="188" height="140"></td>
+        <td><img src="http://qqtang.qq.com/coobie1/images/top_04.gif" width="190" height="140"></td>
+      </tr>
+      <tr>
+        <td><img src="http://qqtang.qq.com/coobie1/images/top_05.gif" width="181" height="147"></td>
+        <td><img src="http://qqtang.qq.com/coobie1/images/top_06.gif" width="177" height="147"></td>
+        <td><img src="http://qqtang.qq.com/coobie1/images/top_07.gif" width="188" height="147"></td>
+        <td><img src="http://qqtang.qq.com/coobie1/images/top_08.gif" width="190" height="147"></td>
+      </tr>
+    </table>
+      <iframe src="http://qqtang.qq.com/cgi-bin/coobie1/islogin.cgi" width="740" height="57" name="log" frameborder="0" scrolling="0" allowtransparency="true"></iframe><table width="745" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><br><img src="http://qqtang.qq.com/coobie1/images/table01_01.gif" width="745" height="78"></td>
+  </tr>
+  <tr>
+    <td><table width="745" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="http://qqtang.qq.com/coobie1/images/table01_02.gif" width="745" height="57" border="0" usemap="#Map"></td>
+      </tr>
+      <tr>
+        <td><table width="745" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="23" background="http://qqtang.qq.com/coobie1/images/table01_bg1.gif">&nbsp;</td>
+            <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><iframe src="http://qqtang.qq.com/cgi-bin/coobie1/showlist.cgi" width="500"  name="note" frameborder="0" scrolling="0" allowtransparency="true"></iframe>
+                  </td><td width="185" valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td valign="top">                        <a href="kh.htm" target="_blank"><img src="http://qqtang.qq.com/coobie1/images/01.gif" width="173" height="218" border="0"></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+            <td width="29" background="http://qqtang.qq.com/coobie1/images/table01_bg2.gif">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="http://qqtang.qq.com/coobie1/images/table01_03.gif" width="745" height="11"></td>
+  </tr>
+</table>
+	  <table width="745" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="http://qqtang.qq.com/coobie1/images/table02_01.gif" width="745" height="13"></td>
+        </tr>
+        <tr>
+          <td><table width="745" border="0" cellspacing="0" cellpadding="0">
+            <form name=formMain method="post" action="http://qqtang.qq.com/cgi-bin/coobie1/upload.cgi">
+            <tr>
+              <td width="173"><img src="http://qqtang.qq.com/coobie1/images/table02_03.gif" width="173" height="205"></td>
+              <td width="252" bgcolor="#F7FFEF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="50">
+				  
+				  <textarea name="comment" class="typeB"  onkeydown=gbcount(this.form.comment,this.form.total,this.form.used,this.form.remain); onkeyup=gbcount(this.form.comment,this.form.total,this.form.used,this.form.remain); style="height:120px;width:300px; font-size:15px;background-color:#eeeeee;"></textarea>
+				  最多字数：<INPUT disabled maxLength=4 name=total size=3 value=150>
+已用字数：<INPUT disabled maxLength=4 name=used size=3 value=0>
+剩余字数：<INPUT disabled maxLength=4 name=remain size=3>
+				  
+				  </td>
+                
+				
+				
+				</tr>
+                <tr>
+                  <td height="50"><div align="center"><a href="javascript:alert('活动已结束');"><img src="http://qqtang.qq.com/coobie1/images/acc.gif" width="72" height="34"></a></div></td>
+                </tr>
+              </table></td>
+              <td width="166" valign="top" bgcolor="#F7FFEF"><table width="100%" height="120"  border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="50"><div align="center">
+                            <select name="showgif" class="page_table" onChange="javascript:chgface(this.value)">
+                              <option value="" selected>选择头像</option>
+                              <option value="bbl.gif">波波利</option>
+                              <option value="cbz.gif">菜包子</option>
+                              <option value="chl.gif">春丽</option>
+                              <option value="hwz.gif">海王子</option>
+                              <option value="hy.gif">火影</option>
+                              <option value="mla.gif">玛利亚</option>
+                              <option value="tt.gif">泰坦</option>
+                              <option value="wk.gif">悟空</option>
+                              <option value="xq.gif">小倩</option>
+                              <option value="xxm.gif">小虾米</option>
+                            </select>
+                          </div></td>
+                        </tr>
+                        <tr>
+                          <td valign="bottom"><div align="center"><img src="http://qqtang.qq.com/coobie1/gif/bbl.gif" width="85" height="85" id="mdface"></div></td>
+                        </tr>
+              </form>
+                </table></td>
+              <td width="154"><img src="http://qqtang.qq.com/coobie1/images/table02_04.gif" width="154" height="205"></td>
+        </tr>
+      </table></td>
+  </tr>
+        <tr>
+          <td><img src="http://qqtang.qq.com/coobie1/images/table02_02.gif" width="745" height="56"></td>
+        </tr>
+</table></td>
+  </tr>
+</table>
+
+<map name="Map">
+  <area shape="rect" coords="621,7,678,33" href="http://qqtang.qq.com/cgi-bin/coobie1/showmore.cgi" target="_blank">
+</map>
+</body>
+</html>

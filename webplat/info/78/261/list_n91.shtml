@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../web2008/jscss/main.js"></script>
+<link href="../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="608/list_1.shtml" title="最新公告">最新公告</a><a href="619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31623.shtml" target="_blank"><font color="">家族区获第四周家族比赛资格名单</font></a>
+                                <span>2006-10-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31624.shtml" target="_blank"><font color="">感受太空漫步 炫出科技时尚</font></a>
+                                <span>2006-10-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31625.shtml" target="_blank"><font color="">家族比拼新概念  团队合作争第一</font></a>
+                                <span>2006-10-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31626.shtml" target="_blank"><font color="">泼猴卫星 掀开叱咤风云的序幕</font></a>
+                                <span>2006-10-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200610/31627.shtml" target="_blank"><font color="">QQ堂夺宝奇缘</font></a>
+                                <span>2006-10-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31628.shtml" target="_blank"><font color="">冰与火的较量  鏖战即将开演</font></a>
+                                <span>2006-10-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31629.shtml" target="_blank"><font color="">群星拥月  绚烂人生</font></a>
+                                <span>2006-10-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31630.shtml" target="_blank"><font color="">QQ堂服务器升级维护公告</font></a>
+                                <span>2006-10-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31631.shtml" target="_blank"><font color="">冰火对决第一波——冰火争夺</font></a>
+                                <span>2006-10-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200610/31632.shtml" target="_blank"><font color="">冰火大决战玩家行为须知</font></a>
+                                <span>2006-10-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200610/31633.shtml" target="_blank"><font color="">腾讯游戏论坛升级维护公告</font></a>
+                                <span>2006-10-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31634.shtml" target="_blank"><font color="">拯救酷比王子之家族风云第4周获奖名单</font></a>
+                                <span>2006-10-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31635.shtml" target="_blank"><font color="">QQ堂夺宝奇缘，与有缘人相约神秘之旅！</font></a>
+                                <span>2006-10-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31636.shtml" target="_blank"><font color="">冰火对决第二波——王子归来</font></a>
+                                <span>2006-10-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="604/list_1.shtml">[关注]</a>
+                                <a href="604/200610/31637.shtml" target="_blank"><font color="">家族争霸近尾声，英雄辈出耀QQ堂</font></a>
+                                <span>2006-10-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31638.shtml" target="_blank"><font color="">外星人登场 行星撞击 一个非温柔的出场</font></a>
+                                <span>2006-10-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31639.shtml" target="_blank"><font color="">冰火大决战硝烟淡下，圆满结束！</font></a>
+                                <span>2006-10-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31640.shtml" target="_blank"><font color="">谁才是女生最爱  女生说了算</font></a>
+                                <span>2006-10-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200610/31641.shtml" target="_blank"><font color="">太空  如何是你的地盘？</font></a>
+                                <span>2006-10-18</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n92.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n90.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|6124322fec627617b99602d54fe5f90a<![endif]-->

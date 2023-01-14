@@ -1,0 +1,157 @@
+td {
+	font-size: 9pt;
+	line-height: 128%;
+}
+a:link {text-decoration: underline;color: #000000;}
+a:visited { text-decoration: underline; color: #000000}
+a:hover {text-decoration: none;color: #3366EE;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	line-height: 128%;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFEEEE;
+	margin: 0px;
+}
+.xfont {
+    font-weight:bold; 
+	filter:progid:DXImageTransform.Microsoft.dropshadow(Color=white,offX=1,offY=1); 
+	width:100%; 
+	cursor:hand}
+.page01_bonus_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page01_table_bonus_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page01_table {
+	border: 1px solid #FF81D4;
+	background-color: #FEDCFE;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.page02_role_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page02_table_role_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page02_table {
+	border: 1px solid #81A4FF;
+	background-color: #E6F0FF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.page03_qqtang_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page03_table_qqtang_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page03_story_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page03_table_story_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page03_main_qqtang {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page03_main_qqtang_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page03_main_story {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page03_main_story_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page04_top10_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page04_table_top10_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page04_love_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page04_table_love_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page04_table {
+	border: 1px solid #FF4E6D;
+	background-color: #FFE3E1;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.page04_line {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+	border-top: 1px none #FF6A7C;
+	border-right: 1px none #FF6A7C;
+	border-bottom: 1px dashed #FF6A7C;
+	border-left: 1px none #FF6A7C;
+}
+.page05_bonus_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page05_table_bonus_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page05_news_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page05_table_news_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page05_report_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page05_table_report_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page05_table {
+	border: 1px solid #90CD00;
+	background-color: #EFFFD7;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.page05_line {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+	border-top: 1px none #6DBD00;
+	border-right: 1px none #6DBD00;
+	border-bottom: 1px dashed #6DBD00;
+	border-left: 1px none #6DBD00;
+}
+.page06_table01_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page06_table01_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page06_table02_bg {
+	background-attachment: fixed;
+	background-image: url(../../images/5waltz/page06_table02_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.page06_table {
+	border: 3px solid #FF3000;
+	background-color: #FFCFB5;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}

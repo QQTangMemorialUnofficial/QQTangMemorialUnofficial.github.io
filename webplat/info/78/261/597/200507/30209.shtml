@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>开发组采访日记(2)--改良角色造型-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>开发组采访日记(2)--改良角色造型</h4>
+    <div class="new_nytxt">　　继上次采访之后，记者walker继续采访QQ堂新版本主要设计作者。这次记者walker将就角色造型方面的变化采访美术组的美术设计师。QQ堂游戏的设计主美术师就是传说中的史莱姆。<br><br>　　记者来到美术组的时候，史莱姆正在机器上描绘一只非常好看的彩色糖泡，泡泡中缠绕着红色的光芒丝带，泡泡挑动起来感觉仿佛玫瑰花开，彩带旋转，红色的光芒在泡泡中跳动，呈现出一种异常的妖艳美丽。<br><br>　　“好看吗？”史莱姆回头征询记者的意见，“这是新版本中将推出的一款新糖泡，我们决定取名叫做‘烈焰红唇’，烈焰光芒中红唇绽放，是不是很形象？”史莱姆脸上的表情只能用奸笑来形容。<br><br>　　记者本来正在想象出在这个糖泡被史莱姆命名之前玩家蜂拥购买的镜像，但是听完解释后立刻用旁边一摞画稿卷成棍子来猛敲史莱姆脑袋以抗议对他对美丽图像的恶意亵渎。<br><br>　　“不要跟我瞎扯了，我现在是代表玩家来审问你以下问题，你有权沉默，但我有权代表玩家扁你，你有权挨打，但是还是必须如实回答问题并让我汇报给玩家了解。”记者开始按照规定开始宣布剥夺被采访者的反抗权利。<br><br>　　史莱姆瞪着无辜的眼神望着野蛮记者手里的棍子，一脸无奈的表情。<br><br>　　“首先，我要代表玩家质问，为什么新版本的角色会变的比以前更小呢？”记者无视史莱姆的表情，开始提问。<br><br>　　史莱姆脸上的神色变得更加无辜：“我们的角色没有刻意变小啊，玩家不要冤枉我们可爱的角色，我们并没有给他们吃激素或者做减肥手术什么的，这其实是个错觉。”<br><br>　　“是吗？那么这个错觉是怎样产生的呢”记者追问道。<br><br>　　“其实是这样的。”史莱姆从他桌子底下的故纸堆中翻出几张设计图纸来，展开在桌上。<br> <br><p align="center"><img src="../../../../../../webpic/20050704/img05.jpg"></p>　　“你看，我们的某几个角色与之前相比的确有几个象素的变化，但是大多数角色的尺寸并没有明显得变化。为什么玩家会觉得角色变小了呢？实际上就是因为之前个别角色没有统一尺寸比例，造成个别角色的头部过大，使角色之间存在身体比例上的差异。这样就玩家操作不同角色就会出现不同的操作感，对游戏的竞技操作的精确性会造成一定的影响。”<br><br>　　史莱姆推开图纸继续解释道“另外之前没有统一角色尺寸，造成了游戏道具设计上的困难，使游戏道具必须适合不同尺寸的角色，因此无法设计出更加多样和漂亮的道具。因此在这次统一绘制新角色的时候，我们就重新制定了角色的尺寸规范，将所有的角色统一在相同的尺寸比例下。这样调整后，以前一些比例过于失调的角色，比如波波利，海王子，火影等等，大家就会感觉变小了，其实只是因为他们之前的尺寸太大了而已。现在的角色尺寸是参照地图元素，道具比例等等综合考虑的，应该更多合理和科学，所以希望玩家能够理解我们做出的改变。”<br><br>　　“哦，原来是这样，并不是角色变小了，而是之前有些角色身体尺寸太大了而已。”<br><br>　　“可以这样说。”史莱姆拍拍图纸，指着现在的新角色：“你看，现在所有的角色都被控制在一个统一的尺寸比例之下，这样就带给玩家一个统一的操作手感。同时处理了哪些头部过大的角色后，部分角色之前比较复杂的头部也就适当简化了。这样做是有好处的，虽然从静态图像上看，他们没有之前那么好看了，但是动态图像上看，他们会变得更加稳定和平滑，有利于玩家的操作控制。”<br><br>　　“是否可以这样说，此次角色的调整是牺牲了角色的静态画面表现而改善了角色动态画面表现呢？”<br><br>　　“嗯，完全可以这样理解。因为我们认为，玩家是来玩游戏的，而不是看图片的。玩家在游戏中看到角色90％以上的时间都是在运动中的，所以玩家更在乎游戏中角色的运动操控起来是否平滑稳定，是否流畅自如，而不是在于角色的细节画的多么复杂华丽。所以此次新版本角色的调整就是基于这样的观点进行的。”<br><br>　　“你的观点和程序设计师的观点非常一致，之前我和程序设计师英雄和流星讨论的时候，他们也是这样向我解释角色动画改变的含义。”<br><br>　　“当然，所有的角色动画也是美术设计师制作的，在做出调整之前开发组就这一问题之前进行过反复的研究和分析，所以才会有一致的结论。”<br><br>　　“现在我对新版本中整个角色造型和动画的疑问都有答案了，希望玩家们也能理解你们的想法，支持开发组对游戏操作性的优先改善，不过我也希望角色静态的表现能有更好的提升。”<br><br>　　“当然会的，悄悄告诉你，下一个版本的角色调整我们已经在考虑中了，相信一定会让玩家更加满意。”史莱姆信心十足的向记者保证。<br><br>　　“我相信会的，谢谢你今天接受采访，为体验玩家答疑解惑。最后，你还有什么需要对玩家说的吗？”<br><br>　　“呵呵，我要说的其实很简单，就是希望大家能一直支持我们，我们会用尽一切心思为大家创造最好玩，最有趣的国产游戏！”史莱姆挥挥拳头，向所有玩家保证道，脸上照样充满了招牌式的猥琐笑容。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="30217.shtml">开发组采访日记(3)--把耳朵叫醒</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30208.shtml">开发组采访日记(1)--改良角色动画</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|4fecd08327da88c2c27110d93466d6bb<![endif]-->

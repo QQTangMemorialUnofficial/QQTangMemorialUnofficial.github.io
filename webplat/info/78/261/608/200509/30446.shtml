@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂版本升级! [中华英雄]服务器即将关闭-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂版本升级! [中华英雄]服务器即将关闭</h4>
+    <div class="new_nytxt">　　QQ堂发展过程中曾先后研发了诸多版本，从[中华英雄]到[酷比一夏]，再到《泰坦归来》。QQ堂不断前进，没人愿意落伍，而QQ堂忠实的玩家们更是要跟进QQ堂成长的脚步。如果玩家还没有升级到[酷比一夏]版或[泰坦归来]版就说明你有落后于QQ堂脚步的危险了。<br><br>　　9月26日是新版本《泰坦归来》正式推出之日。届时QQ堂将再次掀起升级热潮。QQ堂将提供传统Web下载方式，P2P极速下载等多种下载方式方便玩家升级。<br>9月26日老板本[中华英雄]服务器将关闭，届时登陆[中华英雄]将有提示指引玩家进行升级!要想体验全新QQ堂，就快升级！<br><br>　　升级！升级！跟上QQ堂！越快越好！QQ堂和你一起成长！<br><br>　　玩家如对升级相关问题有疑问，请注意关注QQ堂官网及论坛。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200509/30435.shtml">『泰坦归来』海报征集大赛火热征稿</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200509/30417.shtml">《泰坦归来》体验版正式启动</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200509/30415.shtml"><<泰坦归来>>即将出炉 体验招募中</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200509/30410.shtml">机器城历险纪(4步曲)强势出击</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|3ab874eff0582b9e1323e15c908bbb5f<![endif]-->

@@ -1,0 +1,80 @@
+@charset "gb2312"; 
+/*---------- common style ----------*/
+*{margin:0; padding:0}
+html{}
+body{ padding-top:42px;font:12px Tahoma,Helvetica,sans-serif; color:#fff; margin:0 auto; background:#580000 url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/body_bg.jpg) repeat-x center 43px}
+div, form, images, ul, ol, li, dl, dt, dd{margin:0; padding:0}
+table{border-collapse:collapse}
+ol, ul{line-height:22px; list-style:none}
+a{text-decoration:none}
+a:hover{color:#fff; text-decoration:underline}
+input, select, form images, button{vertical-align:middle}
+a images, images{border:0}
+button{cursor:pointer}
+.submit, .submit input{cursor:pointer}
+.clear{clear:both}
+/*---------- layout style ----------*/
+
+#foot_info{ margin-bottom:100px; line-height:24px;}
+#foot_info h2{ font-size:14px; font-weight:bold; line-height:28px;}
+#foot_info table{}
+#foot_info table th{ font-weight:normal; text-align:right;}
+#footer_ied{ margin-top:-145px; text-align:center; font-size:12px; line-height:19px;background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/foot_bg.jpg) no-repeat center 0;}
+#footer_ied a{ color:#d90000;}
+	.wrap_ied{ margin:0 auto; padding:18px; width:841px;}
+	#footer_ied p.e{ margin-top:-4px; font-size:10px; color:#d90000;}
+/*---------- index style ----------*/
+h1{display:none}
+.content{margin:0 auto; width:1086px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/box_bg.jpg) repeat-y center top}
+.content_top{margin:0 auto; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/top1.jpg) no-repeat top}
+.content_bottom{margin:0 auto; padding-top:306px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/bottom.jpg) no-repeat bottom}
+.navi{padding-left:325px; width:600px; height:35px}
+.navi a{display:block; float:left; margin-right:28px; width:104px; height:32px; text-indent:-999px; overflow:hidden}
+.pager{ padding:10px;}
+.pager a{ margin:0 5px; color:#ffffff;}
+
+h2 { margin:58px 0 0 474px; width:181px; height:35px; text-indent:-999px; overflow:hidden; }
+/* 战神风云榜*/
+h2.zs { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/title_01.jpg) no-repeat; }
+/* 家族龙虎榜 */
+h2.jz { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/title_02.jpg) no-repeat; }
+/* 购物达人榜 */
+h2.shop { background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/title_03.jpg) no-repeat; }
+
+.main1 { margin:0 auto; padding:60px 0 320px; width:756px; }
+ 
+/* 战神风云榜*/
+ul.player { margin:0 auto;}
+ul.player li.bg { float:left; margin:8px; width:355px; height:326px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/zs_bg.png) no-repeat; _background:none;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='image', src="http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/zs_bg.png");}
+ul.player li img{ float:left; margin:38px 0 0 49px; }
+ul.player li ol { float:left; margin:18px 0 0 40px; width:150px; height:90px; color:#6d0000; font-weight:bolder;}
+ul.player li dl { float:left; padding:35px 0 0 25px; width:300px; height:140px; color:#6d0000; }
+ul.player li dt { width:83px; height:23px; font-weight:bolder; text-align:center; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/icon.png) no-repeat; }
+
+/* 购物达人榜 */
+ul.shoper { margin:0 auto;}
+ul.shoper li.bg { float:left; margin:8px 18px; display:inline; padding:24px 22px 10px; width:318px; height:410px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/shop_list_bg.gif) no-repeat; color:#6d0000; }
+ul.shoper li.bg h3 { font-size:14px; line-height:24px; margin:0 auto; text-align:center;}
+ul.shoper li.bg h4 { font-size:12px; line-height:20px; font-weight:normal;}
+ul.shoper li.bg .tab { width:100%; text-align:center; margin:9px auto 0; }
+ul.shoper li.bg .tab th    { height:28px;}
+ul.shoper li.bg .tab td    { padding:1px 0; }
+ul.shoper li.bg .tab td.no { visibility:hidden; }
+ul.shoper li.bg .tab td.n1 { color:#d20000; }
+ul.shoper li.bg img  { margin-left:8px;  }
+
+.main2 { margin:0 auto;padding:60px 0 320px; width:800px;}
+
+/* 家族龙虎榜 */
+ul.family { margin:0 auto;}
+ul.family li.fbg { margin-bottom:15px; width:800px; height:262px; background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/jz_bg.png) no-repeat; _background:none;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='image', src="http://ossweb-img.qq.com/images/qqtang/act/a20090421fame/jz_bg.png");}
+.f_left{ float:left; }
+.f_left img { margin:46px 0 0 49px;}
+.f_left ol { margin:30px 0 0 40px; width:210px; height:75px; color:#6d0000; font-size:14px; font-weight:bolder;}
+ul.family li dl{ float:left; padding:40px 0 0 55px; width:460px; height:180px; color:#6d0000;}
+ul.family li dt{ font-size:14px; font-weight:bolder; }
+
+.nobg{ padding:0; background:transparent;}
+.iframe{padding:10px 0;}/*  |xGv00|a9a17a6f6280917bb4116423990b44e3 */

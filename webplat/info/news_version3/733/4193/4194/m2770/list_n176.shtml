@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="../4199/m2770/list_1.shtml" title="最新公告">最新公告</a><a href="../4201/m2770/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+	        <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                				                            <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201004/145335.shtml" target="_blank"><font color="">4月恋爱笔记 《QQ堂》新道具亮相</font></a>
+                                <span>2010-04-12</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201004/145334.shtml" target="_blank"><font color="">战无不胜,与勇者缔结激情之约</font></a>
+                                <span>2010-04-12</span>
+                            </li>
+                                             <li>
+                                <a href="../4199/m2770/list_1.shtml">[最新公告]</a>
+                                <a href="../4199/m2771/201004/145333.shtml" target="_blank"><font color="">水神套装和新道具无法显示公告</font></a>
+                                <span>2010-04-12</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201004/145332.shtml" target="_blank"><font color="">伯兰克大厨的可口大餐美味登场！</font></a>
+                                <span>2010-04-10</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[最新活动]</a>
+                                <a href="../4201/m2771/201004/145331.shtml" target="_blank"><font color="">五一家族精英赛火热报名中!</font></a>
+                                <span>2010-04-07</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201004/145330.shtml" target="_blank"><font color="">在烈火中诞生，十年火神套装永久可修复！</font></a>
+                                <span>2010-04-06</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201004/145329.shtml" target="_blank"><font color="">愚人节不寂寞，幸运星有新惊喜！</font></a>
+                                <span>2010-04-06</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201004/145328.shtml" target="_blank"><font color="">4月局数累积，送经典水神套装</font></a>
+                                <span>2010-04-02</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201004/145327.shtml" target="_blank"><font color="">团子糖泡新登场，情侣魅力不可挡</font></a>
+                                <span>2010-04-01</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201004/145326.shtml" target="_blank"><font color="">欢乐幸运星，我的星座我做主</font></a>
+                                <span>2010-04-01</span>
+                            </li>
+                                             <li>
+                                <a href="../4199/m2770/list_1.shtml">[最新公告]</a>
+                                <a href="../4199/m2771/201003/145325.shtml" target="_blank"><font color="">周末双倍经验公告</font></a>
+                                <span>2010-03-29</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201003/145324.shtml" target="_blank"><font color="">鱼人宝箱：玩转超级绝版，尽享超值惊喜</font></a>
+                                <span>2010-03-26</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201003/145323.shtml" target="_blank"><font color="">3月份百万玩家大回馈</font></a>
+                                <span>2010-03-24</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[最新活动]</a>
+                                <a href="../4201/m2771/201003/145322.shtml" target="_blank"><font color="">周末免费BOSS风暴再度来袭！</font></a>
+                                <span>2010-03-24</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201003/145321.shtml" target="_blank"><font color="">春之物语，浪漫期许</font></a>
+                                <span>2010-03-24</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201003/145320.shtml" target="_blank"><font color="">超酷！首款可以“聊天”的糖泡劲爆上市！</font></a>
+                                <span>2010-03-24</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201003/145319.shtml" target="_blank"><font color="">神奇道具，魔幻之旅</font></a>
+                                <span>2010-03-16</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201003/145318.shtml" target="_blank"><font color="">春日吹来可爱风，新鲜道具任你选！</font></a>
+                                <span>2010-03-16</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/201003/145316.shtml" target="_blank"><font color="">只需10秒，华丽变身犀利哥！</font></a>
+                                <span>2010-03-12</span>
+                            </li>
+                                 <!--这段是列表页的结尾-->
+				        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+								<!-- n176 / 187 -->
+									<span><a href="list_n177.shtml">上一页</a></span>
+													<span><a href="list_n175.shtml">下一页</a></span>
+								        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|d5c1df9304d73fb9c0a15fa74c3e151e<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>518400秒倒计时 抢购送好礼-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">关注</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>518400秒倒计时 抢购送好礼</h4>
+    <div class="new_nytxt">　　抢！抢！抢！<br><br>　　谁说抢是不文明的？谁说抢太暴力？不！你抢的可不一样——好礼，好享受。<br><br>　　4月20日——25日，只要你购买了已上架的HOOK船长－海盗传奇系列道具任意款，你会惊喜地发现——你不仅抢到了新鲜上市的新道具，怀里还抱了好多小喇叭！2０多款各式道具，为你列出更多备选项。你将选择哪个？<br> <br>　　<img src="../../../../../../webpic/20060418/hd.jpg"><br><br>　　以十元为界，定价在此线以下的道具送两个小喇叭，以上送五个小喇叭。你准备好了吗？快到QQ堂商城中瞧瞧去，看准你最中意的那款，时机一到，赶快下手！<br><br>　　记住哦，抢购行动只有五天时间——518400秒！在这宝贵的518400秒中，你还需要保持下绅士风度，或者淑女风范吗？还需要和别人谦让一番吗？孰不知，机会已经悄悄溜开。<br><br>　　4月20日——25日，抢购送好礼。好礼，好享受！更多详情,敬请关注<a href="http://qqtang.qq.com/webplat/info/78/261/604/200604/=" target="_blank"><font color="red">http://qqtang.qq.com/200604item/</font></a><br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200708/32191.shtml">QQ堂嘻哈泡泡新鲜出炉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200708/32184.shtml">炫耀街头 极限运动 滑板Girl＆Boy</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200708/32180.shtml">玩转QQ堂嘻哈世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32167.shtml">六翼翅膀纯美登场</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|436e8ff294ca1cce85a9ab5fc1ff88fe<![endif]-->

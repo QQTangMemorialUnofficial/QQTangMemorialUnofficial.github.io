@@ -1,0 +1,212 @@
+@charset "gb2312";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+}
+body {
+	font:12px Tahoma, Helvetica, sans-serif;
+	color:#2d8a00;
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/body_bg.gif) repeat;
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+ul {
+	line-height:22px;
+	list-style:none;
+}
+ol li {
+	margin-left:23px;
+	width:auto;
+	height:auto;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;
+}
+a img, img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+/*---------- layout style ----------*/
+#footer {
+	margin:10px auto 0;
+	width:720px;
+	height:75px;
+	color:#5b5928;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_10.gif) no-repeat;	
+}
+#footer p {
+	float:left;
+	margin-top:2px;
+	padding-left:180px;
+	height:20px;
+	line-height:20px;
+}
+#footer p.c {
+	float:left;
+	margin-top:-20px;
+	margin-left:413px;
+	border:0;
+	display:inline;
+}
+* html #footer p.c {
+	margin-left:412px;
+}
+*+html #footer p.c {
+	margin-left:422px;
+}
+#footer a {
+	color:#2d8a00;
+}
+/*---------- index style ----------*/
+.main {
+	margin:0 auto;
+	width:935px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_02.png) repeat-y center 0;	
+}
+.top{
+	margin:0 auto;
+	padding:585px 150px 0;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_01.jpg) no-repeat 5px top;
+	_background-position:23px top;
+}
+.bottom {
+	margin:0 auto;
+	height:52px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_03.png) no-repeat center 0;
+}
+h1 {
+	width:0;
+	height:0;
+	text-indent:-999px;
+	overflow:hidden;
+}
+h2 {
+	margin:20px 0 0 -8px;
+	width:656px;
+	height:41px;
+	text-indent:-999px;
+	overflow:hidden;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_06.gif) no-repeat;
+}
+.main span{
+	display:none;
+}
+.main dl{
+	width:0;
+	height:0;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+.main p{
+	padding:20px 0;
+	line-height:22px;
+	color:#2d8a00;
+}
+.time_bg{
+	margin-top:10px;
+	width:643px;
+	height:231px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_04.gif) no-repeat;
+}
+.table_bg{
+	width:636px;
+	height:238px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_05.gif) no-repeat;
+}
+.table_bg table{
+	margin:3px 0 0 220px;
+	width:405px;
+	height:205px;
+	color:#000;
+}
+.table_bg table td{	
+	text-align:center;
+}
+.table_bg table th.t1{	
+	width:122px;
+}
+.table_bg table th.t2{	
+	width:170px;
+}
+.main ul{
+	margin-top:10px;
+	width:670px;
+	height:260px;
+}
+.main li{
+	float:left;
+	padding:5px 13px;
+	margin-bottom:5px;
+	_margin-bottom:-15px;
+	height:117px;
+}
+.main li.row1{
+	margin-right:10px;
+	width:266px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_07.gif) no-repeat;
+}
+.main li.row2{
+	width:316px;
+	text-align:center;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_08.gif) no-repeat;
+}
+.main li.row3{
+	width:316px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090525childrensday/index_08.gif) no-repeat;
+}
+.main h3 em{
+	padding:0 70px 10px 10px;
+	color:#2d8a00;
+	font-size:14px;
+	font-weight:bolder;
+	font-style:normal;
+}
+.main li.row1 img{
+	display:block;
+	float:left;
+	margin-top:10px;
+	padding:5px;
+}
+.main li.row2 img{
+	display:block;
+	float:left;
+	margin:15px 0 -10px;
+}
+.main li.row3 img{
+	display:block;
+	float:left;
+}
+.main li.row2 p{
+	margin-top:50px;
+	*margin-top:10px;
+}
+h4{
+	padding:10px;
+	font-size:14px;
+	font-weight:bolder;
+	text-align:center;
+	color:#ff9c00;
+	}/*  |xGv00|0fb049b3119e444cd951a735bb975eb2 */

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂宝贝今日开始进行第三轮投票-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂宝贝今日开始进行第三轮投票</h4>
+    <div class="new_nytxt"><style type="text/css"><br><!--<br>.style1 {color: #FF0000}<br>--><br></style><br><p>　　7月17日开战的QQ堂中华英雄争霸决赛已经近在眼前，而与此同时进行的QQ堂宝贝的第三轮投票也在今日正式开始了。<br><BR>　　QQ堂宝贝经过两轮的选拔，目前已经逐渐拉开了差距，而网上热烈的投票一直没有间断过。作为最优秀的国产休闲网络游戏，QQ堂卡通、竞技、高度的游戏性都得到了广大用户的认可，而成功在正式版发布后突破十万在线大关，也说明QQ堂宝贝作为QQ堂的形象代表，将会受到多么大的关注！<br><BR>　　QQ堂宝贝的选拔是中华英雄争霸赛外一场没有硝烟的战争，这里是美丽与智慧的较量，是高雅与素质的抗争，在这个舞台上谁将是最抢眼的明星呢？第三轮投票今天正式开始，投票请点击这里 <http://qqtang.qq.com/match/cowry/CowryMoreList.html> 。投票将于7月15日上午10点结束，优胜的前三名选手将获得17日到广州决赛现场角逐冠军的机会！<br><BR>　　所有看官请摆动你的鼠标，在你中意的宝贝照片上点一下吧！也许你的这一票就关系到一个漂亮宝贝的诞生！<br><BR>　　关注QQ堂“中华英雄争霸赛”决赛，关注QQ堂宝贝第三轮投票！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200508/30298.shtml">QQ堂家族介绍篇之美女家族——♀ANGEL</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../598/200507/30266.shtml">QQ宝贝的美丽大决战</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../598/200507/30251.shtml">2005年中华英雄大赛QQ堂宝贝线上评选结束</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../598/200506/30127.shtml">QQ堂宝贝第二轮线上投票开始</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|a7ff54526057876ba385a3e27ea60fe7<![endif]-->

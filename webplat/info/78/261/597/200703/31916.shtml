@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>三月,让我们相约《QQ堂》-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>三月,让我们相约《QQ堂》</h4>
+    <div class="new_nytxt"><P><%$Fcontent$%></P>
+<P>　　三月，草长莺飞。<BR>　　三月，春天的季节，梦开始的地方。<BR>　　三月，桃花靡丽，杨花翩翩，杏花如雪，空气里处处飘香。当我们睁开双眼,一片绿色映在眼帘、种入心间。满山遍野的粉红紫黄，星星点点，嫩绿得让人香怜，这是我们和谐共生的世界。</P>
+<P>　　三月的《QQ堂》，开心延续的乐园。在这里，有并肩作战的队友与你一起探索探险模式，寻找传说中的终极BOSS。在这里，有牵连心扉的人儿与你一起连连闯关，在坚持不懈的闯关中，关于你们的风花雪月又有一段温馨的回忆，你们的甜蜜爱情也得到了升华。在这里，新的版本新的面目，让你体验到全新的《QQ堂》，崭新的面目，崭新的《QQ堂》，不变的是欢乐依然不断。</P>
+<P>　　三月的《QQ堂》，活动多多，优惠不断。公开赛如火如荼火热进行，展示自己实力的好时机，为家族增添荣誉的好机会。紫钻优惠继续延续，最省的价钱换来最尊贵的象征。</P>
+<P>　　三月的《QQ堂》，情人节气氛弥漫糖果乐园。白色情人节，属于情侣们的节日再次来临，这里有传达爱意的作图比赛，将你与她（他）的故事浓缩在方寸之间，牵惹着多少译动的心，演绎着一段段感动。</P>
+<P>　　在经历了欢欣雀跃的寒假之后，新学期伊始，《QQ堂》是你放松身心缓解压力的好地方。一年之际在于春，三月的《QQ堂》，让你享有春天的感觉。更多精彩的活动即将火热推出，让我们共同期待。</P>
+<P><BR>　　详情登录：<A href="../../../../../../index.html">http://qqtang.qq.com</A></P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|9be5f27b277b054bb8ae47e077484598<![endif]-->

@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../web2008/jscss/main.js"></script>
+<link href="../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="608/list_1.shtml" title="最新公告">最新公告</a><a href="619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30326.shtml" target="_blank"><font color="">[寻找酷比之僵尸篇]剧情预告</font></a>
+                                <span>2005-08-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30327.shtml" target="_blank"><font color="">僵尸族系列新道具抢先看</font></a>
+                                <span>2005-08-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30328.shtml" target="_blank"><font color="">[寻找酷比之僵尸篇]活动介绍</font></a>
+                                <span>2005-08-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30329.shtml" target="_blank"><font color="">僵尸舞道具全接触</font></a>
+                                <span>2005-08-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30330.shtml" target="_blank"><font color="">新道具：枯井幽魂简介</font></a>
+                                <span>2005-08-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30331.shtml" target="_blank"><font color="">打包优惠大行动 集齐道具送泡泡</font></a>
+                                <span>2005-08-15</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30332.shtml" target="_blank"><font color="">45CM超大酷比公仔惊现QQ堂</font></a>
+                                <span>2005-08-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30333.shtml" target="_blank"><font color="">QQ堂8月活动真精彩，系列节目看过来！</font></a>
+                                <span>2005-08-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200508/30334.shtml" target="_blank"><font color="">寻找酷比之僵尸篇活动开始</font></a>
+                                <span>2005-08-16</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30335.shtml" target="_blank"><font color="">僵尸道具系列活动大讲座</font></a>
+                                <span>2005-08-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30336.shtml" target="_blank"><font color="">酷比陷入困境 探险者将迎来新挑战</font></a>
+                                <span>2005-08-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30337.shtml" target="_blank"><font color="">新道具上市 超值享受 以旧换新</font></a>
+                                <span>2005-08-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30338.shtml" target="_blank"><font color="">[寻找酷比之僵尸篇]问题集</font></a>
+                                <span>2005-08-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30339.shtml" target="_blank"><font color="">CVG大赛拉开序幕 QQ堂参赛其中</font></a>
+                                <span>2005-08-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30340.shtml" target="_blank"><font color="">僵尸首领 恶魔使者</font></a>
+                                <span>2005-08-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30341.shtml" target="_blank"><font color="">全新僵尸系列道具全新组合，换你全新的享受！</font></a>
+                                <span>2005-08-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30342.shtml" target="_blank"><font color="">大战僵尸首领，双截棍助你一臂之力</font></a>
+                                <span>2005-08-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200508/30343.shtml" target="_blank"><font color="">决赛在即！重庆移动大赛16强名单揭晓</font></a>
+                                <span>2005-08-18</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200508/30344.shtml" target="_blank"><font color="">至新至Q“僵尸”道具疑难解答</font></a>
+                                <span>2005-08-18</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n27.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n25.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|53118176f5dabc9f0be7881f5598447e<![endif]-->

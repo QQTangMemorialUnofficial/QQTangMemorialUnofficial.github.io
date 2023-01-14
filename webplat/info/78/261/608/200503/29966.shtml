@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>《QQ堂：月光宝盒》版本更新公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>《QQ堂：月光宝盒》版本更新公告</h4>
+    <div class="new_nytxt">　　各位玩家，QQ堂游戏最新的Alpha8Build24版本，也就是《QQ堂：月光宝盒》版本已经正式发布。<br><br>　　该版本现在已经提供官网下载，各位玩家可提前进行升级更新。已经安装之前游戏版本的玩家也可在服务器开放后通过登录游戏，让客户端自动更新完成升级，游戏服务器将于中午12:00左右开放，敬请大家留意官网后续公告。<br><br>　　此次游戏更新官网提供两个不同版本的客户端下载，一个为精简版安装包，一个为完整版安装包。两种安装包安装后都可以马上进入游戏，但是精简版安装包安装的游戏将暂缺一些音乐和道具图片，需要在游戏过程中系统自动在后台继续下载补充完整，自动更新为完整版。而完整安装包则安装后既为完整版游戏，不再需要后台下载，直接就可以体验最佳游戏效果。玩家可以根据自己的网络下载速度任意选择下载不同的安装包进行安装。<br><br>　　<b>QQ堂Alpha8Build24《月光宝盒》版本更新内容列表：</b><br><br>　　【新增内容】<br>　　新增录像压缩功能<br>　　新增商店展示糖泡功能<br>　　新增商店展示幻影功能<br>　　新增寻宝模式的团队宝石积分槽<br>　　新增足球模式中花式掉落和极少几率的大型炸弹<br>　　新增雪地地图中滑冰鞋新道具<br>　　新增各模式结束后优秀者获得不同的玩家称号<br>　　新增了新的等级图标，换用现有的等级图标<br>　　新增游戏中查看用户信息的功能<br>　　新增地图过滤器功能，玩家可用于筛选不同模式地图<br>　　新增支持键盘关闭游戏模式说明对话框功能<br>　　新增新人频道地域分区，增加自动记忆选择地域功能<br>　　新增网络分布架构模块<br>　　新增新的足球地图<br><br>　　【调整内容】<br>　　商店优化，可记录玩家保存形象<br>　　调整了大部分地图的积分规则<br>　　调整比武模式死亡后道具掉落规则，现在每次只爆出一件基础道具<br>　　调整足球模式中道具掉落规则，减少了叉子数量<br>　　调整寻宝模式，宝石只会从宝箱炸出<br>　　调整寻宝模式，队伍人数必须相等才能开始游戏<br>　　调整游戏开始时操作开始时间<br>　　调整小提示显示<br>　　调整游戏大厅登录过程，不需重复验证<br>　　调整新人和自由频道最低积分限制，新手只能进入小兵频道<br>　　调整图像引擎，新增对少数显卡的15位，24位色窗口模式支持<br>　　调整显示全部房间按钮，改为观看录像按钮<br>　　调整快捷键，F6弹出个人设置，F10弹出系统设置<br>　　优化游戏地图元素，改善地图美术效果<br>　　优化登录时游戏配置窗口，改为游戏风格外观<br><br>　　【修正内容】<br>　　修正商店保存导致玩家离开的BUG<br>　　修正录像导致玩家离开的BUG<br>　　修正进场动画播放不全的BUG<br>　　修正玩家准备后选队按钮仍然可用的BUG，现在准备后按钮将灰掉<br>　　修正选地图表现<br>　　修正QQ Show的显示BUG<br>　　修正魔鬼帽道具表现BUG<br>　　修正房主钥匙显示错误BUG<br>　　修正商店商品使用期限显示错误<br>　　修正D3D8全屏模式BUG<br>　　修正房间列表的问题<br>　　修正生成缩略图出错的问题<br>　　修正玩家名带回车处理错误的BUG<br>　　修正选择地图失败的BUG，现在会退回原来地图</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200505/30059.shtml">首届QQ堂电影金糖奖得奖录像下载</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200505/30049.shtml">《QQ堂首届金糖奖各单项奖名单揭晓》</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200504/30031.shtml">QQ堂首届电影金像奖作品征集结束</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200504/30014.shtml">首届电影节金像奖精选下载(1)</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|f76cacc920846b6fcfd6b41001cbe5e0<![endif]-->

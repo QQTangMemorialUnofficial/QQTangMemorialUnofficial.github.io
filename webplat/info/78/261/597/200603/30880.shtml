@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>风云激荡，谁与争锋？--家族风云榜-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>风云激荡，谁与争锋？--家族风云榜</h4>
+    <div class="new_nytxt">　　龙虎际会，风云激荡 …… <br><br>　　哪个家族是 QQ 堂最有人气的家族？ <br><br>　　哪个家族是 QQ 堂最有实力的家族？ <br><br>　　为了配合 4 月版本家族系统的正式推出，大型家族活动“家族风云榜”即将上线。它将忠实记录一个家族的兴衰荣辱，成为展现家族实力的平台。 <br><br>　　家族风云榜活动将会分成“诞生”“荣耀”两个部分。第一部分“诞生”将在 3 月 10 日正式推出，届时玩家可以通过活动专区组建属于自己的家族。不过家族的组建也不是这么容易，族长需要拥有 100 份“盟约书”才有资格组建家族，志同道合的玩家到时可以到道具商店用糖币购买“盟约书”赠送给族长。 <br><br>　　第二部分“荣耀”将从 3 月 22 日开始，每周都将进行一个模式的比赛，所有家族比赛成员皆可为了家族的荣耀而战，每个家族成员的比赛积分之和即为家族积分。家族风云榜将按照家族积分高低每天更新排名前 10 的家族。 <br><br>　　携起手来，为了成为 QQ 堂最强大的家族，为了使友情永固，行动起来吧！ <br><br>　　活动详情请关注后续报道。 <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200609/31558.shtml">黄金白银与青铜 家族活动至高荣誉</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../604/200607/31348.shtml">QQ堂家族二期有看头</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200607/31330.shtml">家族声望新排名——Q堂家族我最行</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200605/31188.shtml">家族采访（四）——♀ANGEL窝窝</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|5b333223346dae43b7e1102cc6eee20f<![endif]-->

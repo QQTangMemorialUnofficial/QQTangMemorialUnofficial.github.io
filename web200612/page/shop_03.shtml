@@ -1,0 +1,648 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>QQ堂商城</title>
+<script language="javascript" src="../css/qqtang.js"></script>
+<style type="text/css"><!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(http://ossweb-img2.qq.com/images/qqtang/web200612/images/main/bg.jpg);
+}
+-->
+</style>
+<script language="javascript" src="http://game.qq.com/qqjs/newlogin.js"></script>
+
+<link href="../css/main.css" rel="stylesheet" type="text/css">
+<style type="text/css"><!--
+#Layer1 {
+	position:absolute;
+	width:239px;
+	height:302px;
+	z-index:1;
+	left: 710px;
+	top: 517px;
+}
+-->
+</style>
+</head>
+
+<body>
+<script language="JavaScript" type="text/javascript" src="http://game.qq.com/qqjs/title.js"></script>
+<script language="javascript" src="http://csa.qq.com:8000/js/embedded_js.js"></script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+<table width="1004" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="6"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_01.jpg" width="233" height="77"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_02.jpg" width="209" height="77"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_03.jpg" width="132" height="77"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_04.jpg" width="143" height="77"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_05.jpg" width="133" height="77"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_06.jpg" width="142" height="77"></td>
+    <td width="6"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_07.jpg" width="233" height="86"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_08.jpg" width="209" height="86"></td>
+    <td><a href="shop_01.shtml"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_09.jpg" width="132" height="86" border="0"></a></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_10.jpg" width="143" height="86" border="0"></td>
+    <td><a href="shop_03.shtml"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_11.jpg" width="133" height="86" border="0"></a></td>
+    <td><a href="../../a20070201item/index.html" target="_blank"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/top_12.jpg" width="142" height="86" border="0"></a></td>
+    <td></td>
+  </tr>
+</table>
+<table width="1004" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="6"></td>
+    <td width="351" valign="top"><table width="351" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table01_01.jpg" width="351" height="46"></td>
+      </tr>
+      <tr>
+        <td height="117" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table01_03.jpg"><table width="351" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="22">&nbsp;</td>
+            <td width="329"><table width="330" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="22">&nbsp;</td>
+            <td width="310" height="115" valign="top"><a style="line-height:23px">欢迎来到QQ堂2.0新官网商城，现在暂不提供网页购买功能，选购道具请登录游戏，不便之处，还请体谅。</a></td>
+          </tr>
+          
+        </table><!--/time/news/toplist_shop_1.htm" --></td>
+          </tr>
+          
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table01_02.jpg" width="351" height="13"></td>
+      </tr>
+    </table></td>
+    <td><table width="641" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table02_01.jpg" width="15" height="15"></td>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table02_02.jpg" width="592" height="15"></td>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table02_03.jpg" width="34" height="15"></td>
+      </tr>
+      <tr>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table02_04.jpg" width="15" height="152"></td>
+        <td><a href="../../a20070201item/index.html" target="_blank"><img src="http://ossweb-img2.qq.com/images/qqtang/webpic/20070202/592.jpg" width="592" height="152" border="0"></a></td>
+        <td background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table02_05.jpg">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="9"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table02_06.jpg" width="15" height="9"></td>
+        <td height="9" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table02_07.jpg"></td>
+        <td height="9"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table02_08.jpg" width="34" height="9"></td>
+      </tr>
+    </table></td>
+    <td width="6"></td>
+  </tr>
+</table>
+<table width="1004" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="6"></td>
+    <td background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/bg.jpg"><table width="961" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="20" valign="bottom"><table width="961" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="9" height="12"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table03_01.jpg" width="9" height="12"></td>
+            <td width="100%" height="12" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table03_03.jpg"></td>
+            <td width="11"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table03_02.jpg" width="11" height="12"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table03_05.jpg"><table width="944" border="0" align="center" cellpadding="0" cellspacing="0" style="position:relative">
+          <tr>
+            <td width="713" height="770" valign="top"><table width="713" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/tit01.gif" width="713" height="43"></td>
+              </tr>
+              <tr>
+                <td><table width="713" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><table width="713" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><table width="713" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table04_05.jpg" width="713" height="21"></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td height="195" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table04_bg.jpg">
+<table width="710" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center"><table width="150" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+    
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410551_19921.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                越野背包
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410534_19109.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                荣耀头饰
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410520_18309.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                狮王争霸
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410511_17783.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                丘比特弓
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	</tr><tr>
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410501_17233.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                青蛙王子
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410488_16634.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                年年有鱼
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410479_16032.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                飞天仪
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410463_15312.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                疾风头盔
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	</tr><tr>
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410453_14448.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                幻魔法杖
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410435_13620.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                钢铁翅膀
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410425_13049.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                波西尼亚
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	
+	<td><div align="center">
+      <table width="178" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1170410410_12152.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="80%"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="13%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td width="27%" height="20"><div align="center">名称</div></td>
+              <td width="60%"><div align="center">
+                爱心玫瑰
+              </div></td>
+            </tr>
+            <tr>
+              <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5" /></div></td>
+              <td height="20"><div align="center">类别</div></td>
+              <td><div align="center">
+                表现道具
+              </div></td>
+            </tr>
+        </table></td>
+        </tr>
+      </table>
+    </div></td>
+	</tr><tr>
+  </tr>
+
+  
+</table></td>
+  </tr>
+</table>
+<!--[if !IE]>|xGv00|7df658f86346364e30ce70f517de53d0<![endif]--></td>
+                      </tr>
+                      <tr>
+                        <td height="21" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table04_02.jpg">&nbsp;</td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                </table>                </td>
+              </tr>
+              
+            </table>
+              </td>
+            <td valign="top"><table width="229" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="41" valign="bottom"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table05_01.jpg" width="229" height="38"></td>
+              </tr>
+              <tr>
+                <td height="203" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table05_bg.jpg">
+<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    
+	<td><table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="110"><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="../../a20070605dj/index.html" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1183003735_13697.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+      </tr>
+      <tr>
+        <td height="91"><iframe src="../../time/news/toplist_shop_2.htm" scrolling="no" frameborder="0" width="200" height="90"></iframe></td>
+      </tr>
+    </table></td>
+	 </tr><tr>
+  </tr>
+</table>
+<!--[if !IE]>|xGv00|5623aa9f4af043c3b80b426038b6a38e<![endif]--><!--/time/news/toplist_shop_2.htm" --></td>
+              </tr>
+              <tr>
+                <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table05_02.jpg" width="229" height="13"></td>
+              </tr>
+            </table>
+              <table width="229" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td height="40" valign="bottom"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table05_03.jpg" width="229" height="36"></td>
+                </tr>
+                <tr>
+                  <td height="203" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table05_bg.jpg">
+<table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+    
+	<td><div align="center">
+      <table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><div align="center">
+            <table width="100" border="0" cellspacing="0" cellpadding="0" style="border: #704203 1px solid;">
+              <tr>
+                <td height="100" align="center"><a href="" target="_blank"><img src="http://ossweb-img.qq.com/upload/qqtang/item/1204767873_10589.gif" border="0" /></a></td>
+              </tr>
+            </table>
+          </div></td>
+        </tr>
+        <tr>
+          <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+	             <tr>
+	               <td width="8%"><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5"></div></td>
+	               <td width="26%" height="20"><div align="center">名称</div></td>
+	               <td width="66%"><div align="center">卡卡西头部</div></td>
+	             </tr>
+	             <tr>
+	               <td><div align="right"><img src="../../2006/2006/images/titlepic03.gif" width="3" height="5"></div></td>
+	               <td height="20"><div align="center">类别</div></td>
+	               <td><div align="center">绝版精品</div></td>
+	             </tr>
+	           </table></td>
+        </tr>
+      </table>
+    </div></td>
+	</tr><tr>
+  </tr>
+
+  
+</table>
+<!--[if !IE]>|xGv00|1e301c21f10e2d76e3685e788bf5798f<![endif]--></td>
+                </tr>
+                <tr>
+                  <td><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table05_02.jpg" width="229" height="13"></td>
+                </tr>
+              </table>
+              <div id="Layer1"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table05_05.jpg" width="239" height="302"></div></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="49" background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/table03_04.jpg">&nbsp;</td>
+      </tr>
+    </table></td>
+    <td width="6"></td>
+  </tr>
+</table>
+<table width="1004" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="13"></td>
+    <td width="6"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/bottom_01.jpg" width="6" height="130"></td>
+    <td background="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/bottom_bg.jpg"><script>bottom()</script></td>
+    <td width="94"><img src="http://ossweb-img2.qq.com/images/qqtang/web200612/images/shop/bottom_03.jpg" width="94" height="130"></td>
+  </tr>
+</table>
+
+</body>
+</html>

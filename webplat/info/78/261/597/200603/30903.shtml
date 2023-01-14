@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>“白色星光翅膀”初露锋芒-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>“白色星光翅膀”初露锋芒</h4>
+    <div class="new_nytxt">　　仰头发现 , 数不清的星星点点在你头顶闪耀 , 不知道明亮了多久 , 也不知道还将璀灿多久 . 或许 , 某颗星灭亡后几百年 , 它微弱的光才开始进入你的视野 , 向你展示着它曾经的辉煌 . 所以你总向往那颗未知的星星。<br><br>　　好想伸出双手 , 到星空中抓一把星光 , 将自己照耀 . <br><br>　　是的 , 你可以 .<br><br>　　繁星璀灿的世界离你很远 , 也离你很近 . 只要你有 “ 白色星光翅膀 ”.<br><br>　　“ 白色星光翅膀 ” 道具将星光缝制到你的翅膀里 . 你不再是以前的你 , 因为你有一对不一样的翅膀。<br><br>　　“ 白色星光翅膀 ” 赋予你晶莹剔透的神秘 , 赋予你纯白的浪漫 .<br><br>　　带上你的翅膀 , 带上你的幻想 , 你可以靠近云端 , 靠近魔幻的世界 . <br><br>　　<img src="../../../../../../webpic/20060306/04.gif"><br><br>　　“ 白色星光翅膀 ” 让你有了飞翔的勇气 , 快乐之路却还没有真正延伸 , 还有更多新道具等你尝鲜 ! 请登陆 QQ 堂道具商城。 <br><br>　　想请登陆： <a href="../../../../../../2006/2006/shop.htm" target="_blank">http://qqtang.qq.com/2006/2006/shop.htm</a> <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200605/31182.shtml">头顶的是一个海洋世界</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200605/31181.shtml">漂亮鹦鹉飞舞你头上</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200605/31180.shtml">海盗神秘宝箱隆重登场，巨大惊喜开启中！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200604/31119.shtml">潜水头盔 水底也精彩</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|e2a82427582b04cbf78dc9aff81b6513<![endif]-->

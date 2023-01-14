@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂小保姆--GCS服务系统开通-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂小保姆--GCS服务系统开通</h4>
+    <div class="new_nytxt">　　“包子是怎么出的呢？”<br>　　“我的糖币在哪里呀？为什么没有显示呢”<br>　　“偶来给QQ堂提个意见呀……”<br><br>　　以前经常在BBS上看到这些求助和建议，但是时间一久可能玩家和客服都找不到相应的帖子了，想给个回复都无从下手，现在这个问题解决啦！腾讯正式推出了GCS客服平台，您再有什么问题都可以到这里来提交，并且可以随时查找您以前提交过的问题。<br><br>　　大家可能还都不清楚什么是GCS吧，在这里给大家解释一下哦：GCS即游戏客服系统(Game Customer System)，是针对娱乐游戏产品特性设计的、用户-客服交互式的投诉处理系统.系统目前支持五个游戏：QQ堂，QQ游戏，QQ秀，QQ家园，QQ对战平台，每个游戏下分五部分，分别是帐户问题，游戏疑问，意见建议，查询反馈和资料修改。<br><br>　　GCS系统集合了系统性，及时性和综合性几大性能，非常适合象腾讯公司目前同时运营多种game的情况。经工作人员的不断测试，逐步完善，目前对外发布的GCS3.0系统较全面的将用户服务理念中的“人性化服务”展现出来。工作人员在收到用户所提交的问题单后的48小时之内会为您答复，用户也可以在“查询反馈”中详细查询您所提交的信息，并时时了解我们为您处理问题的动态。在焦点问题库中，工作人员会将玩家的常见问题整理后对外部提供，起到让玩家及时了解本游戏的最新问题动态。GCS系统不但对于玩家来讲是一条方便快捷的答疑通道，对于工作人员来说也可以根据玩家反映的“情况”，及时了解本游戏目前的bug问题，游戏建议及投诉聚焦，增加游戏疑问的敏感度，增强游戏服务意识。唠叨了这么多，大家不妨去亲身体验一下吧。<br><br>　　GCS地址：<a href="http://gcs.qq.com" target="_blank" class="bigtxt">http://gcs.qq.com</a><br><br>　　希望通过这条“绿色”通道，让我们和您心帖得更近，让我们为您服务得更好！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|403aa937d0e54e6e4fd724970c087b35<![endif]-->

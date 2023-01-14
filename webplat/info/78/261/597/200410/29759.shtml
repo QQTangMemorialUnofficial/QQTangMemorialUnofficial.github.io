@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>《QQ堂》主角评选活动即将开始-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>《QQ堂》主角评选活动即将开始</h4>
+    <div class="new_nytxt">　　《QQ堂》内测刚开始两天就受到无数参与玩家的追捧和热爱，并给我们提出了非堂宝贵的意见。大家也对游戏中的小宝贝们一天天的熟悉起来。<br>　　勇敢出色的海王子，心地善良的小狐仙，热情助人的春丽姐姐……10个小宝贝中哪一个才是你最心仪的呢？哪一个是你携手相伴去寻找神秘奇幻QQ糖的好伙伴呢？<br><br>　　为了回报内测玩家的热情支持与厚爱。《QQ堂》最新活动【QQ堂最爱玩家欢迎的角色评选】即将拉开帷幕啦。<br>　　您可以官方网站上为您的心头最爱投出珍贵而情深的一票!<br><br>　　选举的同时还将奉送给大家一些与角色宝贝们相关的性格心理等小测试，看看现实中您和游戏中您的虚拟小宝贝是不是同一性格呢？<br><br>　　顺便给大家透露一个小秘密。<br>　　就是评选结束后，会有神秘的礼物出现！<br>　　期待吧。那就快点准备啦！<br>　　可别到时三心二意，这个也爱那个也宠，下不了决定把最后的决定权送给哪一个啊！<br><br>　　QQ堂期待您的参与和意见。<br>　　QQ堂希望与您一起走向成熟与繁华！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../619/200410/29772.shtml">“选我所爱 爱我所选”活动中奖名单公布</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200410/29770.shtml">“选我所爱、爱我所选”活动圆满结束</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200410/29766.shtml">《QQ堂》主角评选活动正式开始啦</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ae3a90405e4b751d8cf00c9cca9d4961<![endif]-->

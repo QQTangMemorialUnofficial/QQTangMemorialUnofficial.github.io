@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>腾讯《QQ堂》二次内测正式启动-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>腾讯《QQ堂》二次内测正式启动</h4>
+    <div class="new_nytxt">　　《QQ堂》第二次内测正式启动啦！<br><br>　　腾讯公司自主研发的第一款休闲类网络游戏《QQ堂》从中秋开始第一次内测，此期间收到无数无家的热情支持，开发小组在内测玩家们的反馈后，集中优良意见纳入后续的开发计划。<br><br>　　为了进一步完善产品品质，《QQ堂》正式启动了第二次内测。为了感谢玩家的支持，本次内测活动还会推出《QQ堂》海岛大探险，,打开神秘宝箱，幸运玩家就能够获得一个月QQ游戏超级玩家和QQ秀红钻贵族的资格。<br><br>　　现在新版本已在万众瞩目下火热推出！<br><br>　　全新加入的游戏模式，让您更加享受游戏的快感和作战的激烈。<br>　　流畅无阻的游戏空间，让您更加优质的享受QQ堂休闲网游戏的乐趣！<br><br>　　本次内测的版本在用户的操作感受、功能性、音乐、界面、战斗、道具、人物方面分别做了改进。<br><br>　　QQ堂一步一步的走向成熟离不开您的支持与参与。<br><br>　　还等什么，快加入我们的糖果新天地，创造属于您自己的游戏世界！快加入和我们一起体验新版本的快感，给我们提出更多宝贵的意见！<br><br>　　QQ堂，与玩家一起走向成熟和完美！<br><br>　　游戏下版本下载地址：<br>　　<a href="http://202.104.193.21/QQTSetup.EXE" target="_blank" class="bigtxt">http://202.104.193.21/QQTSetup.EXE</a><br>　　<a href="http://202.104.193.21/QQTSetup.EXE" target="_blank" class="bigtxt">http://202.104.193.22/QQTSetup.EXE</a><br><br>　　<a href="../../../../../../new/download.htm" target="_blank"><font color="red">查看游戏BUG修正及新增功能列表请点击这里</font></a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/200411/29794.shtml">《QQ堂》第二次内测资格调整通告</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29787.shtml">十大媒体联合推荐 二次内测热辣招募</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|b41619318e9b4ae19fdfe9610338ddad<![endif]-->

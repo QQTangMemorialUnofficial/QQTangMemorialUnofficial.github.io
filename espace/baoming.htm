@@ -1,0 +1,199 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>光E空间QQ堂</title>
+<style type="text/css"><!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<link href="http://qqtang.qq.com/espace/css/main.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../js/qqtang.js"></script>
+<script>
+function checkName(s)
+{
+	for (i=0; i<s.length; i++)
+	{
+		//n = s.substr(i, 1);
+		//if (!isChinese(n))
+		if(s.charCodeAt(i)<= 255)
+		{
+			return false;
+		}
+	}
+	return true;
+}
+function CheckValue()
+{	
+	txtName = document.formMain.txtName;
+	sel_sex = document.formMain.sel_sex;
+	txt_age = document.formMain.txt_age;
+	sel_voca = document.formMain.sel_voca;
+	txtTel = document.formMain.txtTel;	
+	txtAdd = document.formMain.txtAdd;
+
+	if (txtName.value.length<1)
+	{ 
+		alert("请填写真实姓名！");
+		txtName.focus();
+		return;
+	}
+	else if(!checkName(txtName.value))
+	{
+		alert("真实姓名只能是中文，请您重新填写！");
+		txtName.focus();
+		return;
+	}
+	else if (txtTel.value=="")
+	{ 
+		alert("请填写电话！");
+		txtTel.focus();
+		return;
+	}
+	else if (sel_sex.value=="")
+	{ 
+		alert("请选择性别！");
+		sel_sex.focus();
+		return;
+	}
+	else if (txt_age.value=="")
+	{ 
+		alert("请填写年龄！");
+		txt_age.focus();
+		return;
+	}
+	else if (sel_voca.value=="")
+	{ 
+		alert("请选择职业！");
+		sel_voca.focus();
+		return;
+	}
+	else if (txtAdd.value=="")
+	{ 
+		alert("请填写地址！");
+		txtAdd.focus();
+		return;
+	}	
+    if (confirm("确认输入的资料正确无误，请选择确定；\r\n否则，请选择取消！")==true)
+	{
+		document.formMain.submit();
+	}
+	else return;
+}
+</script>
+</head>
+
+<body>
+<form action="http://qqtang.qq.com/cgi-bin/movegame/usr_info" method="post" name="formMain">
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> <td><img src="http://qqtang.qq.com/espace/images/top_1.gif" width="112" height="93"></td><td><img src="http://qqtang.qq.com/espace/images/top_2.gif" width="107" height="93"></td><td><img src="http://qqtang.qq.com/espace/images/top_3.gif" width="109" height="93"></td><td><img src="http://qqtang.qq.com/espace/images/top_4.gif" width="144" height="93"></td><td><img src="http://qqtang.qq.com/espace/images/top_5.gif" width="136" height="93"></td><td><img src="http://qqtang.qq.com/espace/images/top_6.gif" width="142" height="93"></td></tr>
+  <tr> <td><img src="http://qqtang.qq.com/espace/images/top_7.gif" width="112" height="107" border="0" usemap="#Map2"></td><td><img src="http://qqtang.qq.com/espace/images/top_8.gif" width="107" height="107" border="0" usemap="#Map3"></td><td><img src="http://qqtang.qq.com/espace/images/top_9.gif" width="109" height="107" border="0" usemap="#Map4"></td><td><img src="http://qqtang.qq.com/espace/images/top_10.gif" width="144" height="107" border="0" usemap="#Map5"></td><td><img src="http://qqtang.qq.com/espace/images/top_11.gif" width="136" height="107"></td><td><img src="http://qqtang.qq.com/espace/images/top_12.gif" width="142" height="107"></td></tr>
+</table>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> <td><script>login()</script></td></tr>
+</table>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="DFF9FF">
+  <tr> <td width="300"><table width="275" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr> <td><img src="http://qqtang.qq.com/espace/images/table1_1.gif" width="275" height="12"></td></tr>
+    <tr> <td><table width="275" border="0" cellspacing="0" cellpadding="0">
+      <tr> <td bgcolor="40A2E7" width="3"><img src="http://qqtang.qq.com/espace/images/spacer.gif" width="1" height="1"></td><td background="http://qqtang.qq.com/espace/images/table1_bg1.gif"><div align="center">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr> <td><div align="center"><img src="http://qqtang.qq.com/espace/images/dl.gif" width="254" height="113" border="0" usemap="#Map"></div></td></tr>
+          <tr> <td><p>
+<BR>
+<strong>《QQ堂：酷比一夏》新特点：</strong></p>
+              <p>　1---游戏网络底层引擎大幅度优化</p>
+              <p>　2---游戏的各种表现细节优化</p>
+              <p>　3---全新的夏装角色造型</p>
+              <p>　4---全新设计了所有的UI界面</p>
+              <p>　5---开放新的游戏地图模式——“英雄传说”</p>
+              <p>　6---新版本自动更新升级能力优化</p>
+              <p>　7---游戏内增加实时帮助系统</p>
+              <p>　8---两款新的糖泡</p>
+              <p>　9---新版本将升级全部的客户端</p>
+              <p>　10---QQ游戏大厅还将同时发布一个QQ堂的精简Mini版本，进入方法类似“连连看”“火拼俄罗斯”等传统QQ 游戏，而不用启动QQ堂完整版客户端，从此玩QQ堂将拥有更加简单便捷的方式。</p>
+              </td></tr>
+        </table>
+      </div></td><td bgcolor="40A2E7" width="3"><img src="http://qqtang.qq.com/espace/images/spacer.gif" width="1" height="1"></td></tr>
+    </table></td></tr>
+    <tr> <td><img src="http://qqtang.qq.com/espace/images/table1_2.gif" width="275" height="12"></td></tr>
+  </table></td><td valign="TOP"><table width="453" border="0" cellpadding="0" cellspacing="0" background="http://qqtang.qq.com/espace/images/table2_bg1.gif">
+    <tr> <td><img src="http://qqtang.qq.com/espace/images/table2_1.gif" width="453" height="36"></td></tr>
+    <tr> <td>&nbsp;</td></tr>
+    <tr> <td><table width="429" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr> <td><img src="http://qqtang.qq.com/espace/images/table3_1.gif" width="429" height="9"></td></tr>
+      <tr> <td bgcolor="CEE0FF"><table width="350" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr> <td height="40" width="100"><img src="http://qqtang.qq.com/espace/images/botton_3.gif" width="81" height="27"></td><td width="250"><input name=txtName type=text class=bottomedit size=8 maxlength="8"></td></tr>
+        <tr> <td height="40"><img src="http://qqtang.qq.com/espace/images/botton_4.gif" width="81" height="27"></td><td>
+          <input type="radio" name="sel_sex" value="1">男 <input type="radio" name="sel_sex" value="2">女
+          </td></tr>
+        <tr> <td height="40"><img src="http://qqtang.qq.com/espace/images/botton_5.gif" width="81" height="27"></td><td><input name=txt_age type=text class=bottomedit size=4 maxlength="4"></td></tr>
+        <tr> <td height="40"><img src="http://qqtang.qq.com/espace/images/botton_6.gif" width="81" height="27"></td><td><select name="sel_voca">
+          <option>--请选择--</option>
+           <option value='01'>教育/培训</option>
+           <option value='02'>计算机软件</option>
+           <option value='03'>计算机硬件</option>
+           <option value='04'>计算机系统</option>
+           <option value='05'>警察/消防</option>
+           <option value='06'>军人</option>
+           <option value='07'>会计</option>
+           <option value='08'>美容/形体</option>
+           <option value='09'>媒体/出版</option>
+           <option value='10'>木材/造纸</option>
+           <option value='11'>零售/批发</option>
+           <option value='12'>农业/旅游业</option>
+           <option value='13'>司法</option>
+           <option value='14'>律师</option>
+           <option value='15'>司机</option>
+           <option value='16'>体育运动</option>
+           <option value='17'>学术科研</option>
+           <option value='18'>演艺娱乐</option>
+           <option value='19'>医疗服务</option>
+           <option value='20'>艺术设计</option>
+           <option value='21'>金融/银行</option>
+           <option value='22'>因特网</option>
+           <option value='23'>音乐/舞蹈</option>
+           <option value='24'>邮政快递</option>
+           <option value='25'>运输业</option>
+           <option value='26'>政府机关</option>
+           <option value='27'>制造/机械</option>
+           <option value='28'>学生</option>
+           <option value='29'>其他</option>
+
+        </select></td></tr>
+        <tr> <td height="40"><img src="http://qqtang.qq.com/espace/images/botton_7.gif" width="81" height="27"></td><td><input name=txtTel type=text class=bottomedit size=16 maxlength="16"></td></tr>
+        <tr> <td height="40"><img src="http://qqtang.qq.com/espace/images/botton_8.gif" width="81" height="27"></td><td><input name=txtAdd type=text class=bottomedit size=30 maxlength="50"></td></tr>
+      </table></td></tr>
+      <tr> <td><img src="http://qqtang.qq.com/espace/images/table3_2.gif" width="429" height="9"></td></tr>
+    </table>
+        <table width="150" border="0" align="center" cellpadding="0" cellspacing="5">
+          <tr> <td height="55"><a href="javascript:CheckValue();"><img src="http://qqtang.qq.com/espace/images/botton_9.gif" width="90" height="45" border="0"></td><td><a href="javascript:document.formMain.reset();"><img src="http://qqtang.qq.com/espace/images/botton_10.gif" width="91" height="43" border="0"></td></tr>
+        </table></td></tr>
+    <tr> <td><img src="http://qqtang.qq.com/espace/images/table2_2.gif" width="453" height="6"></td></tr>
+  </table></td></tr>
+</table>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> <td height="48" background="http://qqtang.qq.com/espace/images/bg1.gif">&nbsp;</td></tr>
+</table>
+</form>
+<map name="Map">
+  <area shape="rect" coords="29,7,222,105" href="../index.html" target="_blank">
+</map>
+<map name="Map2">
+  <area shape="rect" coords="7,68,106,98" href="baoming.htm">
+</map>
+<map name="Map3">
+  <area shape="rect" coords="2,68,101,99" href="http://qqtang.qq.com/espace/guizhe.htm">
+</map>
+<map name="Map4">
+  <area shape="rect" coords="5,68,104,100" href="http://qqtang.qq.com/espace/jiangping.htm">
+</map>
+<map name="Map5">
+  <area shape="rect" coords="5,69,129,101" href="http://qqtang.qq.com/espace/espace.htm">
+</map>
+</body>
+</html>

@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../web2008/jscss/main.js"></script>
+<link href="../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="608/list_1.shtml" title="最新公告">最新公告</a><a href="619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200911/42249.shtml" target="_blank"><font color="#ff0000">QQ堂11月26日停机维护公告</font></a>
+                                <span>2009-11-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="http://gamebbs.qq.com/cgi-bin/data/cgi_bbs_content.cgi?groupid=145:10413&amp;messageid=297059" target="_blank"><font color="">服务器大更新☆玩家签到,踩楼献礼</font></a>
+                                <span>2009-11-25</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200911/42473.shtml" target="_blank"><font color="">QQ堂五周年庆，糖果等级快快升</font></a>
+                                <span>2009-11-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200911/42474.shtml" target="_blank"><font color="">500万大回馈 《QQ堂》周年庆美食节香飘万里</font></a>
+                                <span>2009-11-26</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200911/42550.shtml" target="_blank"><font color="">12月4-6日服务器双倍经验公告</font></a>
+                                <span>2009-11-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200911/42610.shtml" target="_blank"><font color="">喜洋洋和灰太狼，惊喜入驻QQ堂</font></a>
+                                <span>2009-11-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200911/42613.shtml" target="_blank"><font color="">时尚糖泡，美味过冬</font></a>
+                                <span>2009-11-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200911/42710.shtml" target="_blank"><font color="">QQ堂部分小区更名公告</font></a>
+                                <span>2009-11-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200911/42711.shtml" target="_blank"><font color="">QQ堂部分小区更名公告</font></a>
+                                <span>2009-11-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200912/42811.shtml" target="_blank"><font color="">北部网通服务器故障公告</font></a>
+                                <span>2009-12-01</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200912/43137.shtml" target="_blank"><font color="">沙漠探险，奏响冬之乐章</font></a>
+                                <span>2009-12-03</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200912/43457.shtml" target="_blank"><font color="">酷比天使帽，酷比天使梦</font></a>
+                                <span>2009-12-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200912/43459.shtml" target="_blank"><font color="">浪漫之冬 《QQ堂》浪漫时尚新道具温情亮相</font></a>
+                                <span>2009-12-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200912/43462.shtml" target="_blank"><font color="">墨鱼仔糖泡，放飞童年梦</font></a>
+                                <span>2009-12-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200912/43466.shtml" target="_blank"><font color="">幸运星温暖更新，助你抵御严寒侵袭</font></a>
+                                <span>2009-12-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200912/43483.shtml" target="_blank"><font color="#ff0000">为QQ堂投票，绝版奖励任你拿</font></a>
+                                <span>2009-12-07</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200912/43690.shtml" target="_blank"><font color="">伯兰克的飞翼十年权获奖名单</font></a>
+                                <span>2009-12-08</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/200912/43869.shtml" target="_blank"><font color="">眼捷手快，赢取超级通关密码</font></a>
+                                <span>2009-12-09</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200912/43879.shtml" target="_blank"><font color="#ff0000">网游风云榜第1周获奖名单</font></a>
+                                <span>2009-12-09</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n174.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n172.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|686f51395cefe14abead5fd2cf9e0fe4<![endif]-->

@@ -1,0 +1,220 @@
+td {
+	font-size: 9pt;
+}
+a:link {	text-decoration: none;color: #000066;}
+a:visited { text-decoration: none; color: #000066}
+a:hover {text-decoration: none;color: #0066FF;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	line-height: 128%;
+	color: #000000;
+	background-attachment: scroll;
+	background-image: url(images/bg.jpg);
+	background-repeat: repeat;
+	background-color: #E6F1F5;
+	margin: 0px;
+}
+.bigtxt {
+	FONT-SIZE: 10pt;
+	LINE-HEIGHT: 120%;
+	font-weight: bold;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.engtxt {
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 128%;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.articleTitle {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.articleContent {
+	FONT-SIZE: 10pt;
+	LINE-HEIGHT: 128%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.articleTime {
+	FONT-SIZE: 9pt;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.index_bg {
+	background-attachment: fixed;
+	background-image: url(images/footer.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.banner_bg {
+	background-attachment: fixed;
+	background-image: url(images/table_banner_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.item_table {
+	border: 1px solid #9CC3FF;
+	background-color: F0FAFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.item_table_01 {
+	border: 1px solid #BAE900;
+	background-color: #FFFFAA;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.item_table_02 {
+	border: 1px solid #FF5400;
+	background-color: #FFE188;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.item_table_03 {
+	border: 1px solid #CA0000;
+	background-color: #FFBFBF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.item_table_04 {
+	border: 1px solid #2E8D00;
+	background-color: #C1FFC1;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.item_table_05 {
+	border: 1px solid #FF8AE8;
+	background-color: #FFCBEA;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.faq_bg {
+	background-attachment: fixed;
+	background-image: url(images/table_faq_bbg.gif);
+	background-repeat: no-repeat;
+	background-position:bottom;
+}
+.item_bg {
+	background-attachment: fixed;
+	background-image: url(images/table_item_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.survey_bg {
+	background-attachment: fixed;
+	background-image: url(images/table_survey_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.mail_bg {
+	background-attachment: fixed;
+	background-image: url(images/table_mail_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.exp_bg {
+	background-attachment: fixed;
+	background-image: url(images/table_exp_bbg.gif);
+	background-repeat: no-repeat;
+	background-position:bottom;
+}
+.txt_bg {
+	background-attachment: fixed;
+	background-image: url(images/table_txt_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.lv2_lanm_01 {
+	background-attachment: fixed;
+	background-image:  url(images/page2/page_1_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.lv2_lanm_02 {
+	background-attachment: fixed;
+	background-image: url(images/page2/page_2_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.lv2_lanm_03 {
+	background-attachment: fixed;
+	background-image: url(images/page2/page_3_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.lv2_lanm_04 {
+	background-attachment: fixed;
+	background-image: url(images/page2/page_4_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.lv2_lanm_05 {
+	background-attachment: fixed;
+	background-image: url(images/page2/page_5_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.lv2_lanm_06 {
+	background-attachment: fixed;
+	background-image: url(images/page2/page_6_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.lv2_lanm_07 {
+	background-attachment: fixed;
+	background-image: url(images/page2/page_7_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.lv2_lanm_00 {
+	background-attachment: fixed;
+	background-image: url(images/page2/page_0_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.role_table {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CDD4E4;
+}
+.top_table {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #0886EF;
+	border-right-color: #0886EF;
+	border-bottom-color: #0886EF;
+	border-left-color: #0886EF;
+	background-color: #8CC3FF;
+}
+.survey_bbg {
+	background-attachment: fixed;
+	background-image: url(images/survey/survey_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.happy_qqtang_introbg {
+	background-attachment: fixed;
+	background-image: url(images/happy_qqtang/intro_bbg.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}

@@ -1,0 +1,305 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>QQ堂小喇叭排名赛</title>
+<style type="text/css"><!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(http://ossweb-img2.qq.com/images/qqtang/a20070529laba/bg.jpg);
+	background-repeat: repeat-x;
+	background-color: #FEB801;
+}
+-->
+</style>
+<link href="http://qqtang.qq.com/a20070529laba/main.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="http://qqtang.qq.com/js/ajax.js"></script>
+
+<script language="javascript">
+
+var dateArrFrom=new Array();
+
+var dateArrTo=new Array();
+
+var valueArr=new Array();
+
+function GetMonDateArr()
+{
+    var base=new Date();
+
+    base.setYear(2007);
+
+    base.setMonth(05);
+
+    base.setDate(11);
+    base.setHours(1);
+    base.setMinutes(0);
+    base.setSeconds(0);
+    var now=new Date(); 
+
+    var base_time=base.getTime();
+
+    var now_time=now.getTime();
+
+    var _1dayMS=24*3600*1000;
+
+    var _7dayMS=7*_1dayMS;
+
+    var _6dayMS=6*_1dayMS;
+
+    var temp=new Date();
+
+    var index=0;
+
+    for(var i=base_time;i<now_time-_7dayMS;i=i+_7dayMS)
+    {
+    	temp.setTime(i);
+    	dateArrFrom[index]=GetDateStr(temp);
+    	//valueArr[index]=GetDateStdStr(temp);
+    	temp.setTime(i+_6dayMS);
+    	dateArrTo[index]=GetDateStr(temp);
+    	temp.setTime(i+_7dayMS);
+    	valueArr[index]=GetDateStdStr(temp);
+    	index++;
+    }
+}
+
+function fillSelect(obj_id,name_arr,val_arr)
+{
+	var obj=document.getElementById(obj_id);
+
+	var name_obj=eval(name_arr);
+
+	var val_obj=eval(val_arr);
+
+	obj.options.length=0;
+
+	obj.options[0]=new Option("-请选择历史周排行-","");
+
+	var j=1;
+
+	for(var i=name_obj.length-1;i>=0;i--)
+	{
+	  obj.options[j]=new Option(name_obj[i],val_obj[i]);
+
+	  j++;
+	}
+}
+
+function fillWeek()
+{
+  GetMonDateArr();
+
+  var sumstr=new Array();
+
+  for(var i=0;i<dateArrFrom.length;i++)
+  {
+    sumstr[i]=dateArrFrom[i]+"~~"+dateArrTo[i];
+  }
+
+  fillSelect("week",sumstr,valueArr);
+}
+
+function GetDateStdStr(date)
+{
+  var s="";
+
+  s+=date.getFullYear();
+
+  var i=date.getMonth()+1;
+
+  s+=(i <10 ? "0":"" )+i;
+
+  i=date.getDate();
+
+  s+=(i <10 ? "0":"" )+i;
+
+  return s;
+}
+
+function GetDateStr(date)
+{
+
+  var s="";
+
+  s+=date.getFullYear()+"-";
+
+  var i=date.getMonth()+1;
+
+  s+=(i <10 ? "0":"" )+i+"-";
+
+  i=date.getDate();
+
+  s+=(i <10 ? "0":"" )+i;
+
+  return s.substring(2,s.length);
+}
+
+function changeRank(obj)
+{
+  var surl_uaer;
+  var surl_family;
+  var val=obj.value;
+  var idx=obj.selectedIndex
+
+  if(val=="")
+  {
+    surl_user="/a20070529laba/user_brief_thisweek.htm";
+	surl_family="/a20070529laba/family_brief_thisweek.htm";
+  }
+  else
+  {
+    surl_user="/a20070529laba/"+val+"_user_brief_history.htm";
+	surl_family="/a20070529laba/"+val+"_family_brief_history.htm";
+  }
+
+  surl_user="http://qqtang.qq.com"+surl_user;
+  surl_family="http://qqtang.qq.com"+surl_family;
+
+  //alert("index="+idx+"  ||  url="+surl);
+
+  var bExist=true;
+
+  if(idx==1)
+  {
+    bExist=UrlIsExists(surl_user);
+	bExist=UrlIsExists(surl_family);
+  }
+  if(bExist)
+  {
+    document.getElementById("consume_family").src=surl_family;
+	document.getElementById("consume_user").src=surl_user;
+  }
+  else
+  {
+    alert("上周排行正在统计中，请稍后再试");
+  }
+}
+
+function UrlIsExists(surl)
+{
+    var ajax=new AjaxObject();
+	var request=ajax.requestObj;
+    
+	ajax.url=surl;
+	ajax.method="GET";
+	ajax.async=false;
+	ajax.send();
+    
+	if(request.status==200)
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+
+}
+</script>
+</head>
+
+<body>
+<script language="JavaScript" type="text/javascript" src="../js/title1.js"></script>
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="255" height="112"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/top_01.jpg" width="255" height="112"></td>
+    <td width="245"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/top_02.jpg" width="245" height="112"></td>
+    <td width="244"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/top_03.jpg" width="244" height="112"></td>
+    <td width="256"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/top_04.jpg" width="256" height="112"></td>
+  </tr>
+  <tr>
+    <td height="114"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/top_05.jpg" width="255" height="114"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/top_06.jpg" width="245" height="114"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/top_07.jpg" width="244" height="114"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/top_08.jpg" width="256" height="114"></td>
+  </tr>
+</table>
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="233" height="189"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table01_01.jpg" width="233" height="189"></td>
+    <td width="222"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table01_02.jpg" width="222" height="189"></td>
+    <td width="233"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table01_03.jpg" width="233" height="189"></td>
+    <td width="224" background="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table01_bg.jpg"><iframe HEIGHT="180" NAME=NONE WIDTH="200"  allowtransparency=true src="http://qqtang.qq.com/cgi-bin/a20070529laba/islogin.cgi" frameborder="0" scroll="no"></iframe></td>
+    <td width="88"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table01_04.jpg" width="88" height="189"></td>
+  </tr>
+</table>
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="1000" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="45" height="81"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table02_01.jpg" width="45" height="81"></td>
+        <td width="376"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table02_02.jpg" width="376" height="81"></td>
+        <td width="67"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table02_03.jpg" width="67" height="81"></td>
+        <td width="375"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table02_04.jpg" width="375" height="81"></td>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table02_05.jpg" width="137" height="81"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="1000" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="45" height="280"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table03_01.jpg" width="45" height="280"></td>
+        <td width="376" valign="top" background="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table03_bg1.jpg"><iframe HEIGHT=278 name="consume_family" id="consume_family" WIDTH="376" allowtransparency=true src="http://qqtang.qq.com/a20070529laba/family_brief_thisweek.htm" frameborder="0" ></iframe></td>
+        <td width="67"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table03_02.jpg" width="67" height="280"></td>
+        <td width="375" background="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table03_bg2.jpg"><iframe HEIGHT=278 name="consume_user" id="consume_user" WIDTH="376" allowtransparency=true src="http://qqtang.qq.com/a20070529laba/user_brief_thisweek.htm" frameborder="0" scroll="no"></iframe></td>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table03_03.jpg" width="137" height="280"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="1000" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="360" height="42"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table04_01.jpg" width="360" height="42"></td>
+        <td width="183" align="center" background="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table04_bg.jpg">
+          <select name="week" id="week" onChange="javascript:changeRank(this);" onClick="javascript:if(this.options.length==1) alert('很抱歉，无上周的消费排行，消费排行从本周开始统计');">
+           <script>fillWeek();</script>
+            </select>     </td>
+        <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table04_02.jpg" width="457" height="42"></td>
+      </tr>
+    </table><table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="264" height="223"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_01.jpg" width="264" height="223"></td>
+    <td width="236"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_02.jpg" width="236" height="223"></td>
+    <td width="247"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_03.jpg" width="247" height="223"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_04.jpg" width="253" height="223"></td>
+  </tr>
+  <tr>
+    <td width="264" height="197"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_05.jpg" width="264" height="197"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_06.jpg" width="236" height="197"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_07.jpg" width="247" height="197"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_08.jpg" width="253" height="197"></td>
+  </tr>
+  <tr>
+    <td height="79"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_09.jpg" width="264" height="79"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_10.jpg" width="236" height="79"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_11.jpg" width="247" height="79"></td>
+    <td><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/table05_12.jpg" width="253" height="79"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+<table width="1000" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFB901">
+  <tr>
+    <td width="150">&nbsp;</td>
+    <td width="700"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="50"><div align="center"><img src="http://ossweb-img2.qq.com/images/qqtang/a20070529laba/logo.jpg" width="124" height="38"></div></td>
+            <td><div align="center"><a href="http://www.tencent.com/" target="_blank">关于腾讯 </a>|<a href="http://www.tencent.com/index_e.shtml" target="_blank" class="small_txt"> About Tencent</a> | <a href="http://www.qq.com/contract.shtml" target="_blank">服务条款</a> | <a href="http://www.tencent.com/adver/" target="_blank">广告服务</a> | <a href="http://hr.tencent.com/" target="_blank">腾讯招聘 </a>| <a href="http://service.qq.com/" target="_blank">客服中心 </a>| <a href="http://game.qq.com/new05/act/hezuo.shtml" target="_blank">商务合作 </a>| <a href="http://www.qq.com/map/" target="_blank">网站导航</a><br />
+         Copyright@1998-2007   TENCENT Inc. All Rights Reserved　　　　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="STYLE1"><a href="http://www.tencent.com/law/mo_law.shtml?/law/copyright.htm" target="_blank">腾讯公司 版权所有</a></div></td>
+          </tr>
+    </table></td>
+    <td width="150">&nbsp;</td>
+  </tr>
+</table>
+<script language="javascript" src="http://csa.qq.com:8000/js/embedded_js.js"></script>
+<script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>

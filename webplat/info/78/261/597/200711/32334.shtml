@@ -1,0 +1,118 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>地图编辑小工具使用指南-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>地图编辑小工具使用指南</h4>
+    <div class="new_nytxt"><p>　　HI 大家好，QQ堂地图设计大赛即将开赛。在此，小Q博士为大家奉上最新的地图编辑软件新手教程。<br />
+<br />
+　　专为本次大赛开发的地图编辑器玩家版简单上手，下面就让我们来看下软件的使用方法。<br />
+<br />
+　　<a href="http://dl_dir.qq.com/qqtangfile/QQT_MapEdit.exe"><strong><font color="#ff0000">下载</font></strong></a>并安装软件后，点击<img alt="" src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1194319515_840044972_11301_sPhoto.jpg" />进入软件主界面：<br />
+<br />
+<img alt="" src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1194320145_840044972_32739_sPhoto.jpg" /><br />
+<br />
+<img alt="" src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1194320018_840044972_28822_sPhoto.jpg" /><br />
+<br />
+　　1：新建地图<br />
+　　2：大赛地图文件（MAP格式），玩家可对MAP格式的地图进行修改。<br />
+　　3：保存按钮<br />
+　　4：另存按钮<br />
+　　5：显示底层元素<br />
+　　6：显示上层元素<br />
+　　7：未开放<br />
+　　8：未开放<br />
+<br />
+<img alt="" src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1194320340_840044972_6269_sPhoto.jpg" /><br />
+<br />
+　　左侧为地图元素列表，选择某一大类的地图，下方物件列表内将出现此大类下的所有地图元素，鼠标左键点击选择元素，并在右侧设计框内点击左键摆放元素，右键点击撤销元素。<br />
+<br />
+<img style="width: 503px; height: 401px" height="390" alt="" width="503" src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1194321109_840044972_28905_sPhoto.jpg" /><br />
+　　保存地图界面<br />
+<br />
+<img height="340" alt="" width="501" src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1194319290_840044972_4100_sPhoto.jpg" /><br />
+　　文件保存位置默认为软件目录下的MAP文件夹<br />
+<br />
+　　保存地图后，<font color="#ff0000">软件将自动生成同文件名的MAP和JPG格式的文件，MAP可无限打开进行修改，待最终确认后保存最终的JPG文件并上传。</font><br />
+　　希望大家在本次活动中积极发挥想象力和创造力，最终入选地图将打入玩家ＬＯＧＯ并永久保存再游戏中！<br />
+<br />
+</p></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|dc491b0931c0dffb5562945dcf186a23<![endif]-->

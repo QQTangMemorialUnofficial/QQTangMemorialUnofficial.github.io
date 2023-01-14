@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>紫钻VIP独有空间 我的地带听我的-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>紫钻VIP独有空间 我的地带听我的</h4>
+    <div class="new_nytxt">　　都说 QQ 堂紫钻尊贵 , 除了拥有 VIP 房间标志 , 紫钻专属道具 , 以及 2 个 VIP新角色等普通玩家不能享受的权利外 , 紫钻用户还即将拥有一项特殊权利——VIP 独有空间粉墨登场！<br><br>　　这项功能的亮点在于：每个频道的 1 、 2 和 3 号房间只有紫钻用户才有权开设，这三个房间也只有紫钻才能进入。值得一提的是，为了尽显紫钻的个性， VIP专用房间的外框比普通房间设计也更为绚丽多彩，更吸引人们的眼球。非紫钻用户也不用因此而担心此功能会影响到普通玩家正常的游戏体验。在QQ 堂里，人人娱乐机会都是平等的。<br><br>　　这是紫钻一族的又一次惊喜狂潮，如果你还徘徊在“非紫”中，却也想拥有独有空间，就毫不犹豫地加入紫钻尊贵一族吧，只要你是紫钻，紫钻 VIP 独有空间，就是你的地盘。<br><br>　　详情请登陆： <a href="../../../../../../vip/index.html" target="_blank">http://qqtang.qq.com/vip/</a> <br><br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200707/32131.shtml">紫钻大优惠   魅力不打折</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200604/31157.shtml">紫钻省钱有道 道具全面七折</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200604/31151.shtml">五一紫钻贵族新特权</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200603/30965.shtml">轻松拨打电话 成为贵族有捷径</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|41f7710db3d6e5d8cfe8ff009d2f1cc6<![endif]-->

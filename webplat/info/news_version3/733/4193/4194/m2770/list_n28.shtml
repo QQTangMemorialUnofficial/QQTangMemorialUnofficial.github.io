@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="../4199/m2770/list_1.shtml" title="最新公告">最新公告</a><a href="../4201/m2770/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+	        <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                				                            <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200412/141541.shtml" target="_blank"><font color="">《QQ堂》道具大降价</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200710/144032.shtml" target="_blank"><font color="">最新外挂处罚情况</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200601/142468.shtml" target="_blank"><font color="">《糖果盛年》新春版，给你不一样的春节！</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200706/143764.shtml" target="_blank"><font color="">QQ堂《宠爱版》带给你甜蜜感受</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4199/m2770/list_1.shtml">[最新公告]</a>
+                                <a href="../4199/m2771/200510/142261.shtml" target="_blank"><font color="">QQ堂关于网络系统扩容升级的通告</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200904/144996.shtml" target="_blank"><font color="">龙珠雷达，网尽七色龙珠</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4196/m2770/list_1.shtml">[中华争霸赛]</a>
+                                <a href="../4196/m2771/200504/141750.shtml" target="_blank"><font color="">抓紧最后时机，热身赛参赛资格即将截止</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4199/m2770/list_1.shtml">[最新公告]</a>
+                                <a href="../4199/m2771/200508/142052.shtml" target="_blank"><font color="">8月13日QQ堂上海中心区服务器临时调整公告</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4202/m2770/list_1.shtml">[商城]</a>
+                                <a href="../4202/m2771/200808/144739.shtml" target="_blank"><font color="">僵尸套装，唯你独秀！</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200609/143302.shtml" target="_blank"><font color="">家族大赛第一轮比赛圆满落幕</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200607/143094.shtml" target="_blank"><font color="">Q堂第一部情景剧——宠儿童话，隆重推出</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4201/m2770/list_1.shtml">[最新活动]</a>
+                                <a href="../4201/m2771/200604/142887.shtml" target="_blank"><font color="">《黄金五月-我爱我家智力大比拼》即将开始</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200708/143914.shtml" target="_blank"><font color="">华丰魔法士中华赛4强选手须知１</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200703/143661.shtml" target="_blank"><font color="">夺宝奇缘道具奖励大更新</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200509/142158.shtml" target="_blank"><font color="">机械模式大揭密</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4199/m2770/list_1.shtml">[最新公告]</a>
+                                <a href="../4199/m2771/200811/144869.shtml" target="_blank"><font color="">免费BOSS活动延期公告</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200807/144567.shtml" target="_blank"><font color="">QT宝贝,美丽自信与你同在</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4196/m2770/list_1.shtml">[中华争霸赛]</a>
+                                <a href="../4196/m2771/200505/141797.shtml" target="_blank"><font color="">QQ堂大赛报名截止 英雄争霸即将开场</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                             <li>
+                                <a href="../4195/m2770/list_1.shtml">[最新]</a>
+                                <a href="../4195/m2771/200804/144303.shtml" target="_blank"><font color="">酸甜美眉，草莓滋味</font></a>
+                                <span>0000-00-00</span>
+                            </li>
+                                 <!--这段是列表页的结尾-->
+				        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+								<!-- n28 / 187 -->
+									<span><a href="list_n29.shtml">上一页</a></span>
+													<span><a href="list_n27.shtml">下一页</a></span>
+								        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|ce3fe0caec4c98c8df392d6c71786c88<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>试练之旅终点到站-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">活动</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>试练之旅终点到站</h4>
+    <div class="new_nytxt">　　新的版本在万众期待下，终于和各位玩家见面了，大家可有把自己游戏中英姿勃发的身影录制下来和朋友分享？同时，随着新版本的上市，试炼之旅也走到了终点。我们欣喜的发现大家无论在技术还是经验上都有了长足的进步，相信通过这段旅途，大家必定也会有很多的感悟吧。<br><br>　　但这只是人生的一段旅途，在QQ堂王国漫长的历史中，和邪恶的斗争从来不曾停歇。作为王国的子民，维护王国的安宁是应尽的义务和责任。经过这段时间的磨练，你是否做好准备以你的荣誉起誓投身到和邪恶的斗争中。<br><br>　　从今天开始，“试炼之石碎片”将停止掉落，“试炼之石”合成功能也将同时予以关闭。未予合成的碎片，将按照1碎片=300分的标准给拥有碎片的玩家奖励积分。<br><br>　　“杀手榜”从新版本更新起将停止更新，稍候将公布杀手榜top10，并发送道具奖励。<br><br>　　“英雄擂台赛”将于今天进行最后一轮比赛，然后会在3月31日举行擂台王中王的擂台总决赛。届时谁才是真正的擂台王将一见分晓。</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200503/29935.shtml">英雄擂台风起云涌 漂亮MM技压群雄</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200503/29931.shtml">试练之旅活动即将启动</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|174d26546949773df840d45f4c76f5d0<![endif]-->

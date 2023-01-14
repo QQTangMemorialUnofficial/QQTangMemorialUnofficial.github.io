@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>荣耀——紫钻石照耀QQ堂-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>荣耀——紫钻石照耀QQ堂</h4>
+    <div class="new_nytxt">　　享用独有角色，使用专属道具，享受疯狂大折扣， 玩游戏获额外分数，优先进入满员游戏小区， 独有 VIP 空间， 独有第二套表情……真是 很难形容 QQ 堂最新推出的紫钻贵族功能对玩家们来说有多大的诱惑力，或许看大家参加荣耀——紫钻石活动的热情能了解一二。 <br><br>　　要享受免费紫钻就必然要经历一个收集再合成的过程 . 具体说 , 玩家们需要在机器城地图可以收集红蓝钻，再由 5 个红钻 5 个蓝钻合成一个紫钻，获得一个月的紫钻会员资格。或许过程辛苦了一点 , 但谁能抗拒免费紫钻的诱惑 ? 多少人在关注紫钻 ? 多少人在讨论紫钻 ? 可以说“紫钻”现在成了 QQ 堂最热门的关键词 , 紫钻的光辉正照耀在 QQ 堂的天空 . 人人梦想得到 QQ 堂会员尊贵的身份和地位 . 这是一种荣耀 . 透过紫钻的光辉 , 玩家们正在见证特权的传说 . <br><br>　　紫色浪漫活动从 10 月 15 日 持续到 10 月 30 日 , 毋庸质疑将有越来越多的玩家被吸引从而参与进来 , 紫钻的光辉将会照耀 QQ 堂很久很久…… <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200707/32131.shtml">紫钻大优惠   魅力不打折</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200604/31157.shtml">紫钻省钱有道 道具全面七折</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200604/31151.shtml">五一紫钻贵族新特权</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200603/30965.shtml">轻松拨打电话 成为贵族有捷径</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|91549e640ea858d68e41db86b3bdff97<![endif]-->

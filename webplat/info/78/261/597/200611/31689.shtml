@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>公开赛精美奖品大公开-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>公开赛精美奖品大公开</h4>
+    <div class="new_nytxt">　　公开了！公开了！<br><br>　　公开赛不只公开比赛规则，不只公开即时排行榜，还有精美奖品，都公开！<br><br>　　记清楚了，本次公开赛周周有赛事。每周比赛前100位的选手将获得公开赛优胜选手背景奖励。而比这个更强悍的——每周排行榜前10位的选手获得周“top10”头冠。头顶荣誉光环的感觉，估计还不错。何况，不是每个人都有这般实力和运气顶起那金色头冠。最厉害的出场了——周冠军花落谁家？皇帝轮流作！周冠军为流动奖励，谁知道哪天就轮到你头上了呢？别说不可能，只要你想，什么都可能。不信？你自己试试！<br><br><div align="center"><img src="http://ossweb-img.qq.com/images/webpic/20061107/qqt-002.gif" alt="">　　<img src="http://ossweb-img.qq.com/images/webpic/20061107/qqt-003.gif" alt="">　　<img src="http://ossweb-img.qq.com/images/webpic/20061107/qqt-004.gif" alt=""></div>                         <br><div align="center">（前100位优胜选手背景）  （“top10”头冠）&nbsp;&nbsp;&nbsp;&nbsp;（周冠军奖励）</div> <br><br>　　如果你实在不忍心打击别人的信心，甘愿做隐士，在沙场后方小打打就够了，你也不会空手而回——公开赛选手背景白送你。不争优胜，也不争top10，更不争周冠军，你的快乐很简单。<br><br>　　同时，本次比赛还有丰厚的声望值赠送。不管是胜还是负，只要你有参与，就有奖品奖励你。<br><br>　　胜——100声望<br>　　平——50声望<br>　　负——10声望<br><br> <br>　　怎么样？精美奖品打动你了吗？那就让我们期待下一轮公开赛的到来，期待下一轮角逐的来临。<br><br>　　详情关注：<a href="../../../../../../a20061030gk/index.html" target="_blank"><font color="#FF0000">http://qqtang.qq.com/a20061030gk/</font></a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|0f6e66f8e74e0407fd39f2aa8a3951fc<![endif]-->

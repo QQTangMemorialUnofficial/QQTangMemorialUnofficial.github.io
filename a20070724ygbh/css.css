@@ -1,0 +1,78 @@
+.text_content {font-size:12px;line-height:16px}
+
+
+.sub_info		{font-size:12px;line-height:16px;color:#33FF00}
+.sub_info:link	{font-size:12px;color:#ffffff;text-decoration:none}
+.sub_info:visited	{font-size:12px;color:#ffffff;text-decoration:none}
+.sub_info:active	{font-size:12px;color:#000000;text-decoration:none}
+.sub_info:hover	{font-size:12px;color:#000000;text-decoration:none}
+
+.position1{font-size:12px;line-height:18px;color:#09F709}
+.position01:link	{font-size:12px;color:#000000;text-decoration:none}
+.position01:visited	{font-size:12px;color:#000000;text-decoration:none}
+.position01:active	{font-size:12px;color:#000000;text-decoration:none}
+.position01:hover	{font-size:12px;color:#0000ff;text-decoration:none}
+
+a:link{font-size:12px;color:#000000;text-decoration:none}
+a:visited{font-size:12px;color:#000000;text-decoration:none}
+a:active{font-size:12px;color:#000000;text-decoration:none}
+a:hover{font-size:12px;color:#0000ff;text-decoration:none}
+
+.section:link{font-size:12px;color:#000000;text-decoration:none}
+.section:visited{font-size:12px;color:#000000;text-decoration:none}
+.section:active{font-size:12px;color:#FF0000;text-decoration:underline}
+.section:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+
+.section1:link{font-size:12px;color:#000000;text-decoration:none}
+.section1:visited{font-size:12px;color:#000000;text-decoration:none}
+.section1:active{font-size:12px;color:#1072B7;text-decoration:none}
+.section1:hover{font-size:12px;color:#1072B7;text-decoration:none}
+
+.sub_section:link{font-size:12px;color:#000000;text-decoration:none}
+.sub_section:visited{font-size:12px;color:#000000;text-decoration:none}
+.sub_section:active{font-size:12px;color:#84B3BB;text-decoration:none}
+.sub_section:hover{font-size:12px;color:#84B3BB;text-decoration:none}
+
+.b1:link{font-size:12px;color:#000000;text-decoration:none}
+.b1:visited{font-size:12px;color:#999999;text-decoration:none}
+.b1:active{font-size:12px;color:#FF3366;text-decoration:none}
+.b1:hover{font-size:12px;color:#FF3366;text-decoration:none}
+
+li {  font-size: 12px; line-height: 25px; text-decoration: none;padding:5px;
+	border-bottom: 1px solid #CCC;	list-style:none;}
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto}
+
+table {  line-height: 150%; font-size: 12px; text-decoration: none}
+td {
+	font-size: 12px;
+	line-height: 190%;
+	text-decoration: none;
+	color: #913811;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.text01 {  font-size: 12px; line-height: 150%; text-decoration: none;color:#000000; font-family: Arial, Helvetica, sans-serif;}
+.text02 {
+	font-size: 14px;
+	line-height: 150%;
+	text-decoration: none;
+	font-weight: bold;
+}
+.ta01 {  font-size: 12px; line-height: 150%; text-decoration: none;	padding-top: 5px;	padding-bottom: 5px; padding-left: 5px;}
+.en {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20070724ygbh/bg01.gif);
+	
+}

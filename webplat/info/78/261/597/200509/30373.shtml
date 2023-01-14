@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>决战日，召唤你-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>决战日，召唤你</h4>
+    <div class="new_nytxt">　　十几天以来，无数英勇的玩家前赴后继，英勇的向僵尸老巢发起了一轮又一轮的经攻，不断把可爱的酷比从僵尸对魔掌里解救出来，现在寻找酷比僵尸篇最后决战就要打响了，就在明晚 19 ： 00 ，就在 QQ 堂比赛服务器！ <br><br>　　黑暗中鬼火点点，绿荧荧地飘荡在破败的墙体与杂乱的荒草之中，寂静的夜里，空气中仿佛弥漫着死亡的气息。感受不到热度，只有——冷，从人的头顶一直贯穿到脚后跟的冷！这里有跳动着的“人”，他们行动机械，目光呆滞，苍白的脸上仿佛挂着一层冷霜，确切地说，他们不是活着的人，他们是僵尸！僵尸镇，一个充满诡异气息的地方，一个活人的禁地，一个僵尸的乐园。 <br><br>　　明夜——决战之夜，在这里会发生什么样的故事呢？ <br><br>　　你们是无所畏惧的勇士，僵尸首领妄图以酷比的灵魂为献祭妄图解开至尊大魔王的封印。彻底摧毁他的美梦，就在今天。勇士们，不要忘记带着灵魂收集器，在战胜僵尸首领之后，迅速使用手中的灵魂收集器收集失散多日的酷比灵魂，解救糖国于危难之际。 <br><br>　　邪不胜正，但正义在惩罚邪恶的道路上并非总是一帆风顺的，挑战永远存在，营救酷比，迎接挑战，勇士们，上路吧！！绝对不能允许大魔王复生，那样糖国世界将一片混乱，永远笼罩在黑暗之中。 <br><br>　　僵尸的诱惑，丰厚的奖品，激情的释放，一个都不会少，赶上“我和僵尸有个约会”的末班车，自己去尽情体味吧！说不定下个拿大奖的就是你了。 <br><br>　　了解更多活动细则，敬请关注： <a href="../../../../../../zombie/zombie.htm" target="_blank">http://qqtang.qq.com/zombie/zombie.htm</a> <br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200512/30668.shtml">重寻酷比路，酷比再度出击</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200512/30654.shtml">重寻酷比路，酷比再度出击</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200512/30637.shtml">重寻酷比路—与酷比的再一次接触</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200511/30592.shtml">《重寻酷比路》狂潮再度掀起</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|f660bb1f7f829b1719546de34241aba9<![endif]-->

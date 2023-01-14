@@ -1,0 +1,200 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="../list_1.shtml" title="综合新闻">综合新闻</a><a href="../608/list_1.shtml" title="最新公告">最新公告</a><a href="../619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../index.html" class="a">首页</a> >> <a href="../list_1.shtml" class="a">新闻中心</a> >> <span></span>关注</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="201005/62477.shtml" target="_blank"><font color="">感恩回馈，与世界杯激情相约</font></a>
+                                <span>2010-05-27</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200710/32322.shtml" target="_blank"><font color="">同心抵制外挂 还玩家纯净天空</font></a>
+                                <span>2007-10-24</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200612/31796.shtml" target="_blank"><font color="">QQ堂2.0内测资格截止发放公告</font></a>
+                                <span>2006-12-28</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200612/31756.shtml" target="_blank"><font color="">黄金甲耀眼QQ堂</font></a>
+                                <span>2006-12-06</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200612/31751.shtml" target="_blank"><font color="">13期《酷比世界》携手Q堂首部情景剧</font></a>
+                                <span>2006-12-05</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200611/31740.shtml" target="_blank"><font color="">斗志斗勇-公开赛内测资格发放依旧</font></a>
+                                <span>2006-11-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200611/31730.shtml" target="_blank"><font color="">QQ堂道具满200删除公告</font></a>
+                                <span>2006-11-22</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200611/31694.shtml" target="_blank"><font color="">《酷比世界》第12期如约上市</font></a>
+                                <span>2006-11-09</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200610/31637.shtml" target="_blank"><font color="">家族争霸近尾声，英雄辈出耀QQ堂</font></a>
+                                <span>2006-10-17</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200610/31627.shtml" target="_blank"><font color="">QQ堂夺宝奇缘</font></a>
+                                <span>2006-10-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200607/31434.shtml" target="_blank"><font color="">QQ直播暑假精彩节目大放送</font></a>
+                                <span>2006-07-31</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200607/31364.shtml" target="_blank"><font color="">魅力四射 可爱美女尽在QQ堂宝贝</font></a>
+                                <span>2006-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200607/31360.shtml" target="_blank"><font color="">“QQ堂酷比一夏”Qzone装扮大赏</font></a>
+                                <span>2006-07-13</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200607/31348.shtml" target="_blank"><font color="">QQ堂家族二期有看头</font></a>
+                                <span>2006-07-12</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200607/31328.shtml" target="_blank"><font color="">2006QQ堂中华争霸赛火热出击！</font></a>
+                                <span>2006-07-05</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200607/31323.shtml" target="_blank"><font color="">新版本风云再起  Q堂王朝新领域</font></a>
+                                <span>2006-07-01</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200607/31322.shtml" target="_blank"><font color="">QQ堂宝贝评选 通缉魅力美女</font></a>
+                                <span>2006-07-01</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200606/31321.shtml" target="_blank"><font color="">《风云再起》版本正式发布</font></a>
+                                <span>2006-06-30</span>
+                            </li>
+                
+                            <li>
+                                <a href="list_1.shtml">[关注]</a>
+                                <a href="200606/31316.shtml" target="_blank"><font color="">炫彩头巾——为世界杯而疯狂</font></a>
+                                <span>2006-06-28</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:none;"><a href="">上一页</a></span>
+        	<span style="display:inline;"><a href="list_2.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|cc24c3b0d754f3ce12a3362bcf9b1c34<![endif]-->

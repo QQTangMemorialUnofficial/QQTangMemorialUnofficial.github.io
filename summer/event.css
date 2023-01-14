@@ -1,0 +1,61 @@
+td {
+	font-size: 9pt;
+	line-height: 120%;
+}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {text-decoration: none;color: #3282E5;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	line-height: 120%;
+	color: #000000;
+	margin: 0px;
+}
+.bigtxt {
+	FONT-SIZE: 12pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	line-height: normal;
+}
+.engtxt {
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 120%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.bug_table {
+	border: 1px solid #CCE38F;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+.707_bg {
+	border: none;
+	background-attachment: fixed;
+	background-image: url(../images/0707/707/707_table_12.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.707bj_bg {
+	background-attachment: fixed;
+	background-image: url(../images/0707/707/707bj_talbe_07.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.item_table_01 {
+	border: 3px solid #CCE38F;
+}
+.item_table_02 {
+	background-color: E8F1D2;
+	border: 3px solid #CCE38F;
+}

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂新版本又出新亮点-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂新版本又出新亮点</h4>
+    <div class="new_nytxt">　　这个暑期注定跟“无聊”无缘！QQ堂新版本重磅出击，频出亮点！<br>完善后的家族系统是新版本最具杀伤力的一招。在原有家族系统功能基础上，新版本扩大了族长权限。<br><br>　　世界杯期间，全新的足球BOSS——小小罗和鲁尼将意外显身足球地图。两BOSS究竟是不是你强大的新对手，尚未知。不过它们却成为了新版本中第二亮点。<br><br>　　当然，以后要想进入BOSS专区，就得先让自己拥有该BOSS系列任务道具。跟BOSS交手前总得让自己有个高手的样子吧。<br><br>　　道具商场就装修完毕后，新版本的又一个亮点便展现在你面前了！届时你将更加轻松地搜寻到中意的道具。购买方式也突破传统的Q币和糖币购买，你可以利用购物券换取一个更漂亮的自我。<br> <br>　　投身新版后，你可以少些对幸运女神的信仰，多些自己的主观掌控。当你再次面对抽奖卡的诱惑时，你将发现原来自己在命运面前并不是那么被动。<br><br>　　别忘了新版本还有一点值得一试——表情类道具的施放。你将在更多场合用动画式的表情将你的心情释放。游戏中，或房间里，都可以是你喜怒哀乐的释放处。<br><br>　　新版本无疑将呈现给你一个不一样的QQ堂。<br><br>　　新版本期待你的关注！<a href="../../../../../../06629/index.html" target="_blank">http://qqtang.qq.com/06629/。</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32039.shtml">QQ堂《宠爱版》优化大起航</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32038.shtml">Q堂新版本  紫钻我最红</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32036.shtml">致富有新招——酷比宝石</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32035.shtml">QQ堂《宠爱版》带给你甜蜜感受</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|6ae0a151f42d0550cbb37cb4067f1a3c<![endif]-->

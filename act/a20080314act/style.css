@@ -1,0 +1,48 @@
+.body,td,th {
+	font-family: tahoma;
+	font-size: 12px;
+	line-height:18px;
+	color:#3C0505;
+	
+}
+body {
+	margin: 0px;
+	line-height: 22px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/act/a20080314act/bg01.jpg);
+	background-repeat:repeat-x;
+	background-color:#FEB70F;
+}
+div{padding:0px; margin:0px;}
+a:link{font-size:12px;color:#000000;text-decoration:none}
+a:visited{font-size:12px;color:#000000;text-decoration:none}
+a:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+a:active{font-size:12px;color:#FF0000;text-decoration:underline}
+.a{font-size:12px;color:#000000;text-decoration:none; font-family: Verdana, Arial, Helvetica, sans-serif; padding-top:8px; }
+
+.section{font-size:9pt;color:#6A3908; font-family: tahoma;}
+.section:link{font-size:9pt;color:#6A3908;text-decoration:none}
+.section:visited{font-size:9pt;color:#6A3908;text-decoration:none}
+.section:hover{font-size:9pt;color:#FF0000;text-decoration:underline}
+.section:active{font-size:9pt;color:#FF0000;text-decoration:underline}
+
+.a_line:link, .a_line:visited {font-size:12px;color:#275F71;text-decoration:underline}
+.a_line:hover,.a_line:active{font-size:12px;color:#FF0000;text-decoration:none}
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #D41401 1px solid; BORDER-LEFT: #D41401 1px solid; BORDER-RIGHT: #D41401 1px solid; BORDER-TOP: #D41401 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; height:15px}
+
+.height {  font-size: 12px; line-height: 24px; color:#FFFFFF}
+.txtred{  color:#FF8809; font-weight:bolder;}
+.toptxt{ color:#63740F;}
+.txt01{ line-height:18px; color:#FFFFFF; font-size:12px; font-family:"Times New Roman", Times, serif;}
+.txt02{ color:#A75727; }
+.ny_txt{ color:#222022; font-weight:bolder;}
+#Layer4 {
+	position:absolute;
+	left:2px;
+	top:13px;
+	width:771px;
+	height:363px;
+	z-index:1;
+}

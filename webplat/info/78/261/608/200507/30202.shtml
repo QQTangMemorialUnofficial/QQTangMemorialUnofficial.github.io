@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>体验版更新升级公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">公告</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>体验版更新升级公告</h4>
+    <div class="new_nytxt">　　体验版自推出以来，玩家反应强烈，大家对于新版本的改动提出了大量宝贵的反馈意见，在这里我们表示诚挚的谢意。<br><br>　　QQ堂开发人员在仔细倾听玩家意见同时，对新版本不断进行优化修改，为7月正式版发布作最后阶段的冲刺。<br><br>　　为此我们将在体验活动期间进行适度的更新，如果因此对体验玩家产生不便，敬请原谅.<br><br>　　第一次更新升级将于7月1日10:00～10:15进行，升级后体验玩家再次登陆系统将会提示更新，请玩家按照系统提示操作进行更新升级。<br><br>　　你也可以直接从以下地址下载更新后版本<br><br>　　体验版更新下载链接：<br>　　<a href="http://218.1.72.163/QQTB1B23.EXE" target="_blank">http://218.1.72.163/QQTB1B23.EXE</a><br>　　<a href="http://61.152.100.7/QQTB1B23.EXE" target="_blank">http://61.152.100.7/QQTB1B23.EXE</a><br>　　<a href="http://218.1.72.138/QQTB1B23.EXE" target="_blank">http://218.1.72.138/QQTB1B23.EXE</a><br>　　<a href="http://218.1.72.139/QQTB1B23.EXE" target="_blank">http://218.1.72.139/QQTB1B23.EXE</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="30221.shtml">新版本发布延迟公告</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30219.shtml">新版下载链接已开放 玩家可提前下载</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30218.shtml">QQ堂游戏服务器停机升级公告</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|94b784463415dba46ab5f58415b837e7<![endif]-->

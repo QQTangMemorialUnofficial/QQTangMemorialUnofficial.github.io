@@ -1,0 +1,252 @@
+@charset "gb2312";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090919nationalday/body_bg.jpg) repeat-x center 42px;
+}
+body {
+	font:12px Tahoma, Helvetica, sans-serif;
+	color:#4f2102;
+	margin:0 auto;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090919nationalday/index_01.jpg) no-repeat center 42px;	
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+ul {
+	line-height:22px;
+	list-style:none;
+}
+ol li {
+	margin-left:23px;
+	width:auto;
+	height:auto;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;
+}
+a img, img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+/*---------- layout style ----------*/
+#footer {
+	margin:0 auto;
+	padding-top:5px;
+	width:994px;
+	height:53px;
+	color:#fff;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090919nationalday/foot_bg.jpg) no-repeat center 0;	
+}
+#footer a.logo{
+	display:block;
+	float:left;
+	margin:2px 0 0 150px;	
+	_margin:1px 0 0 75px;
+	text-indent:-999px;
+	overflow:hidden;
+	width:138px;
+	height:44px;
+}
+#footer .text{
+	float:left;
+	margin:2px 0 0 20px;
+	width:540px;
+}
+#footer p {
+	float:left;
+	height:20px;
+	line-height:20px;
+}
+#footer p.c {
+	float:left;
+	margin-top:-20px;
+	margin-left:413px;
+	border:0;
+	display:inline;
+}S
+* html #footer p.c {
+	margin-left:412px;
+}
+*+html #footer p.c {
+	margin-left:422px;
+}
+#footer a {
+	color:#fff;
+}
+/*---------- index style ----------*/
+h1,h2{
+	width:0;
+	height:0;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+.content{
+	margin:0 auto;
+	width:994px;
+	line-height:20px;
+	color:#4f2102;
+}
+.content p span{
+	color:#f00;
+}
+.content li{
+	text-align:center;
+}
+.content li p{
+	text-align:left;
+}
+.content li img{
+	padding:0 5px;
+}
+.right1{
+	position:relative;
+	top:-35px;
+	left:200px;
+}
+.right2{
+	
+	position:relative;
+	top:-100px;
+	left:380px;
+}
+.right2 img{
+	z-index:2;
+	margin:-15px;
+	padding:0;
+}
+.left{
+	position:relative;
+	top:-60px;
+	left:-150px;
+}
+.examine{
+	position:relative;
+	top:332px;
+	left:596px;
+	display:block;
+	width:188px;
+	height:43px;
+	text-indent:-9999px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090919nationalday/examine.jpg) no-repeat center 0;
+}
+.activity1{
+	margin:510px auto 0;
+	padding:34px 90px 0 230px;
+	width:674px;
+	height:394px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090919nationalday/index_02.jpg) no-repeat center 0;
+}
+.activity2{
+	margin:0 auto;
+	height:469px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090919nationalday/index_03.jpg) no-repeat center 0;
+}
+.activity3{
+	margin:0 auto;
+	height:770px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090919nationalday/index_04.jpg) no-repeat center 0;
+}
+.act2{
+	padding:60px 250px 0 120px;
+}
+.act3{
+	padding:0 110px 0 250px;
+	height:170px;
+	overflow:hidden;
+}
+.act4{
+	padding:80px 110px 0 280px;
+}
+.act5{
+	padding:50px 150px 0 230px;
+}
+.act5 .tet{
+	float:left;
+	margin:30px 15px 0 0;
+	width:315px;
+}
+.act5 table{
+	float:left;
+	width:275px;
+	color:#4f2102;
+	text-align:center;
+	border:1px solid #bfad83;
+}
+.act5 table th{
+	background:#ac986a;
+}
+.act5 table td{
+	border-top:1px solid #bfad83;
+}
+.act6{
+	padding:120px 300px 0 130px;
+}
+.attention{
+	padding:90px 0 0 130px;
+	font-size:14px;
+	color:#ff0101;
+}
+.layer{
+	display:none;
+	width:822px;
+	height:481px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20090919nationalday/layer.gif) no-repeat center 0;
+}
+#close{
+	position:absolute;
+	right:6px;
+	top:12px;
+	display:block;
+	width:20px;
+	height:20px;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+.layer table{
+	margin:70px auto 0;
+	width:785px;
+}
+.layer table th{
+	height:22px;
+	color:#483101;
+	text-align:center;
+	background:#d0b75a;
+	border:1px solid #a07746;
+}
+.layer table td{
+	padding:3px 5px;
+	color:#483101;
+	text-align:center;
+	border:1px solid #a07746;
+}
+.layer table li{
+	text-align:left;
+	line-height:18px;
+}
+.layer table li em{
+	font-style:normal;
+	color:#F00;
+}/*  |xGv00|623becd29c5c190e00adc57b78ec77c5 */

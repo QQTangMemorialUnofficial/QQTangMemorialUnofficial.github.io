@@ -1,0 +1,45 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030">
+<link href="story.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="../../js/ps.js"></script>
+<script language="javascript">
+function checkinput()
+{
+	if(document.form1.u.value == ""){
+		window.alert("您还没有输入QQ号!");
+		return false;
+	}
+	if(document.form1.p.value == ""){
+		window.alert("您还没有输入密码!");
+		return false;
+	}
+	if(document.form1.verifycode.value == ""){
+		window.alert("您还没有输入验证码!");
+		return false;
+	}
+	preprocess(form1);
+	return true;
+}
+</script>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table width="750" height="29" border="0" align="center" cellpadding="0" cellspacing="0" background="../../images/story/login_bg.gif">
+   <form name=form1 action="http://ptlogin.qq.com/login" method=post onsubmit="return checkinput();" target="_self">
+    <input type=hidden name=u1 value="http://qqtang.qq.com/cgi-bin/checklogin?type=12">
+    <input type=hidden name=fp value="loginerroralert">
+	 <tr>
+      <td width="78"><img src="../../images/story/login_01.gif" width="78" height="29"></td>
+      <td align="center"><input name="u" class="table" size="10"></td>
+      <td width="70"><img src="../../images/story/login_02.gif" width="70" height="29"></td>
+      <td align="center"><input name="p" type="password" class="table" size="12"></td>
+      <td width="70"><img src="../../images/story/login_03.gif" width="70" height="29"></td>
+      <td align="center"><input name="verifycode" class="table" size="4" maxlength=4></td>
+      <td width="60" align="center"><script>document.write("<img src='http://verify.qq.com/getimage?",Math.random(),"' align='absmiddle'>")</script></td>
+      <td width="4"><img src="../../images/story/login_04.gif" width="4" height="29"></td>
+      <td width="59"><input name="image" type="image" src="../../images/story/login_05.gif" width="59" height="29" border="0"></td>
+      <td width="4"><img src="../../images/story/login_04.gif" width="4" height="29"></td>
+      <td width="63"><a href="http://service.qq.com/psw/mo.shtml?psw_cs.htm"><img src="../../images/story/login_07.gif" width="63" height="29" border="0"></a></td>
+      <td width="4"><img src="../../images/story/login_04.gif" width="4" height="29"></td>
+      <td width="63"><a href="http://im.qq.com/qq/reg_freeqq.shtml"><img src="../../images/story/login_07.gif" width="63" height="29" border="0"></a></td>
+  </tr>
+</table>

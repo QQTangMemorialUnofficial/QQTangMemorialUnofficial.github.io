@@ -1,0 +1,78 @@
+td {
+	font-size: 9pt;
+	line-height: 128%;
+}
+a:link {text-decoration: none;color: #000000;}
+a:visited { text-decoration: none; color: #000000}
+a:hover {text-decoration: none;color: #3366EE;}
+BODY {
+	FONT-SIZE: 9pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface;
+	SCROLLBAR-SHADOW-COLOR: buttonface;
+	SCROLLBAR-3DLIGHT-COLOR: buttonhighlight;
+	SCROLLBAR-TRACK-COLOR: #eeeeee;
+	SCROLLBAR-ARROW-COLOR: #620202;
+	SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;
+	line-height: 128%;
+	color: #000000;
+	fixed;
+}
+.bigtxt {
+	FONT-SIZE: 10pt;
+	LINE-HEIGHT: 120%;
+	font-weight: bold;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.engtxt {
+	FONT-SIZE: 9pt;
+	LINE-HEIGHT: 128%;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.articleTitle {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.articleContent {
+	FONT-SIZE: 10pt;
+	LINE-HEIGHT: 150%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.articleTime {
+	FONT-SIZE: 9pt;
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+.table {
+	border: 1px solid #FFC300;
+	background-color: #FFFFEE;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+}
+.line {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: normal;
+	border-top: 1px none #FF49A5;
+	border-right: 1px none #FF49A5;
+	border-bottom: 1px dashed #FF49A5;
+	border-left: 1px none #FF49A5;
+}
+.news_bbg {
+	background-attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/enter/news_bbg.gif");
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.game_bbg {
+	background-attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/enter/game_bbg.gif");
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.love_bbg {
+	background-attachment: fixed;
+	background-image:  url("http://ossweb-img.qq.com/images/qqtang/enter/lovepage_ttop.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+}

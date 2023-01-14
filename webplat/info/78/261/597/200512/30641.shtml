@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂变身功能有奖调查-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂变身功能有奖调查</h4>
+    <div class="new_nytxt">　　QQ 堂自正式推出以来，一直受到广大用户的关注与支持，在游戏里汇集了来自天南地北的朋友。这里，凝结着广大用户对 QQ 堂的热爱之情。在游戏中您可以感受与成千上万人的一起进行交流的乐趣，以及极大趣味性的互动游戏。我们对能提供这样一个给您带来欢乐平台而感到骄傲。我们同样为您对我们的支持感到荣幸。 <br><br>　　QQ 堂作为腾讯公司自主创意、研发，拥有自主知识产权的中型休闲对战网络游戏。其游戏画面精美、人物造型可爱、操作简单易上手、机器配置低。并率先引入全新体验的变身系统，加入多种全新的游戏模式（热血足球模式、抢包山模式），配合各种辅助、超绚装饰性道具，掀起了一股全新的休闲生活模式浪潮。 <br><br>　　为了更好地为广大 QQ 堂爱好者提供更完善的服务 , 为了听取更多用户的意见，以便我们能对游戏进行更好的改进，我们就 QQ 堂中的变身系统展开有奖调查活动，我们期待着您的参与。 QQ 堂，有您才精彩！ <br><br>　　调查时间 : 2005 年 12 月 7 日 10:00 至 2005 年 12 月 14 日 10:00 <br><br>　　调查问卷地址： <a href="http://gcs.qq.com/cgi-bin/gcs/action/UserQuesDetail?iSubId=24">点击进入</a><br><br>　　奖品设置：一等奖一名： 30QB <br><br>　　二等奖三名： 20QB <br><br>　　三等奖十名： 10QB <br><br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|7f885ec5ae68e5d4b33d1b23b114bc8b<![endif]-->

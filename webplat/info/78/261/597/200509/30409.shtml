@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>“抢宝大行动”给你快乐一周-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>“抢宝大行动”给你快乐一周</h4>
+    <div class="new_nytxt">　　9 月 17 日 ---9 月 21 日 , 随着新版本 &lt;&lt; 泰坦归来 &gt;&gt; 测试体验活动的开始 , 抢宝大行动也同步启动 。 这一周 , 你我都不再寂寞 。 <br><br>　　&lt;&lt; 泰坦归来 &gt;&gt; 以全新的面貌出现 , 绝对可以给你强烈的震撼和无限的惊喜 。 参与体验 , 即第一时间领略惊险与快乐 , 还意味着你同时参与了抢宝大行动 , 有机会免费获得价值不菲的奖品 。 <br><br>　　玩家在体验服务器游戏根据游戏积分的不同会获得不同的奖励。 <br><br><table width="400" border="1" cellpadding="0" cellspacing="0" bordercolor="#0099CC"><tr><td width="72"><p align="center">奖励等级 <br></td><td width="239"><p align="center">奖励标准 <br></td><td width="96"><p align="center">奖品 <br></td></tr><tr><td width="72"><p align="center">一等奖 <br></td><td width="239"><p align="center">体验活动期间积分达到 2w <br></td><td width="96"><p align="center">僵尸全套道具 <br></td></tr><tr><td width="72"><p align="center">二等奖 <br></td><td width="239"><p align="center">体验活动期间积分达到 1w5 <br></td><td width="96"><p align="center">小鸡多米糖 <br></td></tr><tr><td width="72"><p align="center">三等奖 <br></td><td width="239"><p align="center">体验活动期间积分达到 1w3 <br></td><td width="96"><p align="center">Vip 卡 <br></td></tr></table><br>　　注：以上奖励不会重复发送。 <br><br>　　心动了没 ? 那就赶快行动吧 ! 体验新鲜 , 体验快乐 ! <br><br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/200509/30446.shtml">QQ堂版本升级! [中华英雄]服务器即将关闭</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30435.shtml">『泰坦归来』海报征集大赛火热征稿</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30417.shtml">《泰坦归来》体验版正式启动</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="30415.shtml"><<泰坦归来>>即将出炉 体验招募中</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|fb06c6f4cf65d8191a711365eb7e35c5<![endif]-->

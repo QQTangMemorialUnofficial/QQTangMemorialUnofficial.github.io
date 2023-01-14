@@ -1,0 +1,77 @@
+.body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:18px;
+	color:#000000;
+	
+}
+body {
+	margin: 0px;
+	line-height: 22px;
+	background-image:url(http://ossweb-img2.qq.com/images/qqtang/a20080102glory/bg01.gif);
+	background-repeat:repeat-x;
+	background-color:#7D4B24;
+}
+a:link{font-size:12px;color:#00000;text-decoration:none}
+a:visited{font-size:12px;color:#000000;text-decoration:none}
+a:hover{font-size:12px;color:#FF0000;text-decoration:underline}
+a:active{font-size:12px;color:#FF0000;text-decoration:underline}
+.a{font-size:12px;color:#000000;text-decoration:none}
+
+.section{font-size:11px;color:#000000;}
+.section:link{font-size:11px;color:#FF0000;text-decoration:underline}
+.section:visited{font-size:11px;color:#FF0000;text-decoration:underline}
+.section:hover{font-size:11px;color:#FFcc00;text-decoration:none}
+.section:active{font-size:11px;color:#FFcc00;text-decoration:none}
+
+
+.button {BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM: 1px ridge; BORDER-LEFT: #ffffff 1px ridge; BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; HEIGHT: 14pt}
+
+.input {BORDER-BOTTOM: #59321D 1px solid; BORDER-LEFT: #59321D 1px solid; BORDER-RIGHT: #59321D 1px solid; BORDER-TOP: #59321D 1px solid; FONT-SIZE: 9pt; MARGIN-RIGHT: auto; color:#59321D;}
+
+.height {  font-size: 12px; line-height: 24px; color:#FFFFFF}
+.a1{ padding-top:8px;}
+.a2{ padding-top:29px;}
+.boss{ padding-top:15px;}
+
+.gift{background-image: url(http://ossweb-img2.qq.com/images/qqtang/a20080102glory/cebg.gif); background-repeat:no-repeat; background-position: center; }
+.bug_ce{background-image: url(http://ossweb-img2.qq.com/images/qqtang/a20080102glory/bug_bg_38.jpg); background-repeat:no-repeat; background-position: left; }
+.bug_bgpic{background: center no-repeat url(http://ossweb-img2.qq.com/images/qqtang/a20080102glory/bug_picbg.jpg); }
+.txt_wr{ color:#000000; font-size:14px; line-height:24px;}
+.ce{ background:url(http://ossweb-img2.qq.com/images/qqtang/a20080102glory/ny_19.jpg) bottom no-repeat ;}
+.ce_bg{ background:url(http://ossweb-img2.qq.com/images/qqtang/a20080102glory/ny_18.jpg) top no-repeat ;}
+.value_bg{ background:url(http://ossweb-img2.qq.com/images/qqtang/a20080102glory/val_pic_08.jpg) bottom left no-repeat ;}
+.value_ce{ background:url(http://ossweb-img2.qq.com/images/qqtang/a20080102glory/val_pic_06.jpg) top left no-repeat ;}
+.txt01{ line-height:22px; }
+.txt24{ line-height:24px; }
+.txt02{ color:#A5417D;  }
+.bo {
+	border: 2px solid #550A04;
+	height:100px;
+	width: 100px;
+	background-color: #FFF3EB;
+}
+.pic{border: 2px solid #550A04;}
+.bo2 {
+	border: 2px solid #550A04;
+	height:80px;
+	width: 80px;
+	background-color: #FFF3EB;
+}
+.in_01{
+	position:absolute;
+	left:84px;
+	top:60px;
+	width:721px;
+	height:157px;
+	z-index:1;
+	visibility: visible;
+}
+#Layer1 {
+	position:absolute;
+	left:547px;
+	top:186px;
+	width:251px;
+	height:161px;
+	z-index:2;
+}

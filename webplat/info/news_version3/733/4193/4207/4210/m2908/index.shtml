@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link href="../../../../../../../../web200901/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="https://ossweb-img.qq.com/images/pet/comm/jquery.js"></script>
+<script type="text/javascript">
+	
+		var arrLinks = jQuery("#detail .head");
+		arrLinks.each(function(){
+		var s = jQuery(this).text(),l=$(this).text().length,n=15;
+			if(l>n){
+			jQuery(this).attr("title",s);
+			s=jQuery(this).text(s.substring(0,n)+"...");
+			}
+		})
+
+</script>
+</head>
+<body>
+<div id="detail">
+<ul class="bbs_iframe">
+        <li class="in">
+			<a class="head" href="../m2881/200908/145129.shtml" target="_blank" style="color:">一封冗长的情书</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200908/145130.shtml" target="_blank" style="color:">灰姑娘与王子的童话[开始]</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200908/145131.shtml" target="_blank" style="color:">上帝给了我们六十亿分之一的机会相遇</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200909/145165.shtml" target="_blank" style="color:">四年的QT回忆录-------属于我的珍藏故事</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200909/145166.shtml" target="_blank" style="color:">萱如冬雪___-爱的七步协奏终章</a>
+        </li>
+        <li class="in">
+			<a class="head" href="../m2881/200909/145167.shtml" target="_blank" style="color:">萱如冬雪。给妙儿的情书</a>
+        </li>
+    </ul>
+</div>
+</body>
+</html>

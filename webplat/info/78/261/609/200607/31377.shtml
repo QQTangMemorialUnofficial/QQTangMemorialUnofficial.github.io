@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>中华英雄争霸赛积分查询公告-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">英雄争霸</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>中华英雄争霸赛积分查询公告</h4>
+    <div class="new_nytxt">　　中华英雄争霸赛开赛两天来，玩家热情高涨，参赛人数众多，也因此导致玩家战绩统计方面遭遇一些困难。我们非常明白玩家了解自己战绩以及排名的迫切心理，因此技术人员正在加班统计，以期最快给出战绩排名。预计会在7月17日公布第一次成绩统计。<br><br>　　另外针对很多玩家的一个普遍的疑问，这里给出标准回答：<br><br>　　第一轮比赛个人赛限制总共最多可以比赛50局，团队赛限制总共最多可以比赛30局。比赛在7月15日~7月20日内任意时间完成即可。<br><br>　　之前比赛出现超过比赛规定局数的情况是由于比赛系统中一个bug导致的，技术人员已经及时进行了修正。对于已经出现的超过规定局数的比赛，我们会取前50局的战绩进行统计排名。<br></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../597/200707/32162.shtml">华丰魔法士争霸赛第二轮即将开始</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32145.shtml">线上比赛火热　中华争霸酣战</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32114.shtml">QQ堂英雄争霸赛报名进入倒计时</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../597/200707/32102.shtml">SHOW出你的勇气   成就英雄梦想</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|baf1f5cde9b39f137fce43abfe5ffbd3<![endif]-->

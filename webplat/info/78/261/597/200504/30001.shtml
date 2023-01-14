@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>录像下载观看方法说明-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>录像下载观看方法说明</h4>
+    <div class="new_nytxt">　　这两天接到很多玩家反馈，对QQ堂首届电影金糖奖活动很感兴趣，但是不是太清楚该如何参与此次活动，如何下载观看游戏录像。现对参与活动方法详细说明如下：<br><br>　　<b>上传游戏录象：</b><br><br>　　1.进入【<a href="../../../../../../video/index.htm" target="_blank"><b>录像评选活动专区</b></a>】。点击【<font color="red">游戏录像</font>】进入游戏录像片选区。<br>　　2.请点击【<font color="red">我要参加</font>】进入录像上传页面，按照要求填写信息，点击“浏览”选择希望上传的录像然后确认即可上传。游戏录像文件位于QQ堂的record文件夹下。默认位置是：C:\Program Files\Tencent\QQTANG\Record。<br><br>　　<b>下载游戏录像：</b><br><br>　　1.请点击【<font color="red">我要投票</font>】进入录像评选页面，在此可以参与活动各个环节。   <br>　　2.点击【<font color="red">投你一票</font>】可以对自己中意的游戏录像投上宝贵的一票。点击【<font color="red">相关评论</font>】可以查看其他玩家对此录像发表的战报评论。点击【<font color="red">我要评论</font>】对此录像发表自己的战报评论。<br>　　3.点击【<font color="red">我要下载</font>】，将弹出保存录像的对话框，选择保存位置，默认位置为C:\Program Files\Tencent\QQTANG\Record。<br><br>　　活动页面：<a href="../../../../../../video/index.htm" target="_blank"><b>http://qqtang.qq.com/video/index.htm</b></a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200505/30059.shtml">首届QQ堂电影金糖奖得奖录像下载</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200505/30049.shtml">《QQ堂首届金糖奖各单项奖名单揭晓》</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200504/30031.shtml">QQ堂首届电影金像奖作品征集结束</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../../619/200504/30014.shtml">首届电影节金像奖精选下载(1)</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|8a42de56ab4b148ff22ee88d59c6beaf<![endif]-->

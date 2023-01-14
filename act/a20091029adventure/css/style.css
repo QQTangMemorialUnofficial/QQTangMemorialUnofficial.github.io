@@ -1,0 +1,178 @@
+@charset "gb2312";
+/*---------- common style ----------*/
+* {
+	margin:0;
+	padding:0;
+}
+html {
+	margin:0 auto;
+}
+body {
+	font:12px Tahoma, Helvetica, sans-serif;
+	color:#8f1111;
+	margin:0 auto;
+	background:#fff url(http://ossweb-img.qq.com/images/qqtang/act/a20091029adventure/body_bg.jpg) repeat-x center 42px;	
+}
+div, form, img, ul, ol, li, dl, dt, dd {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+}
+ul {
+	line-height:22px;
+	list-style:none;
+}
+ol li {
+	margin-left:23px;
+	width:auto;
+	height:auto;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+input, select, form img, button {
+	vertical-align:middle;
+}
+a img, img {
+	border:0;
+}
+button {
+	cursor:pointer;
+}
+.submit, .submit input {
+	cursor:pointer;
+}
+.clear {
+	clear:both;
+}
+/*---------- layout style ----------*/
+#footer {
+	margin:0 auto;
+	padding-top:5px;
+	width:994px;
+	height:53px;
+	color:#612f03;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091029adventure/foot_bg.jpg) no-repeat center 0;	
+}
+#footer a.logo{
+	display:block;
+	float:left;
+	margin:2px 0 0 150px;	
+	_margin:1px 0 0 75px;
+	text-indent:-999px;
+	overflow:hidden;
+	width:138px;
+	height:44px;
+}
+#footer .text{
+	float:left;
+	margin:2px 0 0 20px;
+	width:540px;
+}
+#footer p {
+	float:left;
+	height:20px;
+	line-height:20px;
+}
+#footer p.c {
+	float:left;
+	margin-top:-20px;
+	margin-left:413px;
+	border:0;
+	display:inline;
+}S
+* html #footer p.c {
+	margin-left:412px;
+}
+*+html #footer p.c {
+	margin-left:422px;
+}
+#footer a {
+	color:#612f03;
+}
+/*---------- index style ----------*/
+h1,h2{
+	width:0;
+	height:0;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+.content{
+	margin:0 auto;
+	width:1000px;	
+	color:#4f2102;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091029adventure/index_01.jpg) no-repeat center 0;	
+}
+.activity1{
+	margin-top:480px;
+	height:1016px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091029adventure/index_02.jpg) no-repeat center 0;
+}
+.content ul{
+	line-height:24px;
+}
+.content li {
+	clear:both;
+}
+.content li span{
+	float:left;
+	font-weight:bolder;
+	width:65px;
+}
+.content ul p{
+	float:left;
+}
+.content li img{
+	display:block;
+	padding-bottom:20px;
+}
+.activity1 ul.act1{
+	float:left;
+	margin:100px 0 0 70px;
+	_margin:100px 0 0 35px;
+}
+.activity1 ul.act2{
+	float:left;
+	margin-top:50px;
+}
+.activity1 ul.act3{
+	float:left;
+	margin:90px 0 0 140px;
+	_margin:90px 0 0 65px;
+	width:500px;
+}
+.activity1 ul.act4{
+	float:left;
+	margin:200px 0 0 10px;
+}
+.activity2{
+	height:852px;
+	background:url(http://ossweb-img.qq.com/images/qqtang/act/a20091029adventure/index_03.jpg) no-repeat center 0;
+}
+.activity2 ul.act5{
+	float:left;
+	margin:110px 0 0 90px;
+	_margin:110px 0 0 45px;
+}
+.activity2 ul.act6{
+	float:left;
+	margin-top:50px;
+}
+.activity2 dl{
+	clear:both;
+	padding:50px 100px 0 150px;
+	color:#f00;
+	line-height:22px;
+}
+.activity2 dt{
+	font-weight:bolder;
+}
+.activity2 dd img{
+	padding:5px;
+	vertical-align:middle;
+}/*  |xGv00|7ba39c0df2d89f70aee1d90f07855018 */

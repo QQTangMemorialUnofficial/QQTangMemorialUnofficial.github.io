@@ -1,0 +1,201 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂官方网站</title>
+<script language="javascript" src="../../../../web2008/jscss/main.js"></script>
+<link href="../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--这段js是搜索新闻用的-->
+function HandleSubmit()
+    {
+    	searching_input_value = document.getElementById("searching_input").value;
+    	if (searching_input_value != "") {
+    	    searching_url = "http://www.soso.com/q?pid=s.idx&w=site%3Ahttp://qqtang.qq.com/webplat/info " + searching_input_value;
+            document.getElementById("searching_form").action = searching_url;
+        } 
+};	
+</script>
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+  <div  class="sideL">
+    <div class="login11">
+      <script>qqt_login()</script>
+    </div>
+    <div class="new">
+      <a href="list_1.shtml" title="综合新闻">综合新闻</a><a href="608/list_1.shtml" title="最新公告">最新公告</a><a href="619/list_1.shtml" title="最新活动">最新活动</a>
+    </div>
+    <div class="jmsm">
+      <div class="new_leftad">
+        <iframe scrolling="no" src="../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+      </div>
+      <div class="lefoot"></div>
+    </div>
+  </div>
+  <!--左侧结束 -->
+  <div class="main">
+    <!--正文区开始 -->
+    <div class="ce_allbg">
+      <div class="cetop">
+        <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+        <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../index.html" class="a">首页</a> >> <a href="list_1.shtml" class="a">新闻中心</a> >> <span></span>新闻快讯</div>        
+      </div>
+      <div class="cetxtbg">
+        <div class="search_ny">             
+        	<form id="searching_form" method="post" onsubmit="HandleSubmit()" target="_blank" class="search">
+               <input  type="text" id="searching_input" name="searching_input" size="20" onkeypress="if(event.keyCode==13) document.getElementById('searching_input_sub').click();" value=" 请输入要搜索的标题 ">
+               <input id="searching_input_sub" type="submit" value="搜索" class="search" />
+        	</form>       
+        </div>
+        </div>    
+        <div>
+        	<ul class="new_linetxt">
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/200807/32844.shtml" target="_blank"><font color="">七字卡片藏玄机,绝版道具在等你</font></a>
+                                <span>2008-07-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32845.shtml" target="_blank"><font color="">彩蛋大赠送，惊喜轮番上</font></a>
+                                <span>2008-07-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200807/32846.shtml" target="_blank"><font color="">QQ堂中华英雄赛初赛奖励公告
+</font></a>
+                                <span>2008-07-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32847.shtml" target="_blank"><font color="">宠物升级包,宠物飙升不停息</font></a>
+                                <span>2008-07-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32848.shtml" target="_blank"><font color="">中华赛第二轮线上海选火爆展开</font></a>
+                                <span>2008-07-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="620/list_1.shtml">[商城]</a>
+                                <a href="620/200807/32849.shtml" target="_blank"><font color="">幸运许愿池，等你来投币</font></a>
+                                <span>2008-07-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200807/32850.shtml" target="_blank"><font color="">对QT宝贝使用虚假照片的处理公告</font></a>
+                                <span>2008-07-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200807/32851.shtml" target="_blank"><font color="">中华英雄赛（第二轮）处罚公告</font></a>
+                                <span>2008-07-11</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32855.shtml" target="_blank"><font color="">美丽召集，最后倒数</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32856.shtml" target="_blank"><font color="">彩蛋免费送，礼品天天拿</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/200807/32857.shtml" target="_blank"><font color="">炎炎QT夏日情，免费彩蛋大派送</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32858.shtml" target="_blank"><font color="">QQT城堡爱与希望进行时</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32859.shtml" target="_blank"><font color="">“星际恶魔”不走寻常路</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32860.shtml" target="_blank"><font color="">梦幻芭蕾舞台剧现身七月糖果城</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32861.shtml" target="_blank"><font color="">问苍天谁是英雄，绝版道具倾情送</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200807/32862.shtml" target="_blank"><font color="">中华赛线上第二轮结束公告</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="597/list_1.shtml">[最新]</a>
+                                <a href="597/200807/32863.shtml" target="_blank"><font color="">为你骄傲—中华赛的英雄们</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="608/list_1.shtml">[公告]</a>
+                                <a href="608/200807/32864.shtml" target="_blank"><font color="">抢宝场等级限制调整公告</font></a>
+                                <span>2008-07-14</span>
+                            </li>
+                
+                            <li>
+                                <a href="619/list_1.shtml">[活动]</a>
+                                <a href="619/200807/32865.shtml" target="_blank"><font color="">三倍小区免费开,级别快乐齐飙升</font></a>
+                                <span>2008-07-15</span>
+                            </li>
+                
+        	</ul>
+        </div>
+        <div class="ce_footbg">
+        <div class="page">
+        	<span style="display:inline;"><a href="list_n149.shtml">上一页</a></span>
+        	<span style="display:inline;"><a href="list_n147.shtml">下一页</a></span>
+        </div>
+      </div>
+      </div>
+    </div>    
+  </div>
+  <div class="sideR"></div>
+</div>
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|2be5c4f009e1fba8b4b43b1e82ef63d5<![endif]-->

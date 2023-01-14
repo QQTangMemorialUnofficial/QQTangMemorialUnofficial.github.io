@@ -1,0 +1,38 @@
+a:link {	text-decoration: none;color: #333333;}
+a:visited { text-decoration: none; color: #333333}
+a:hover {text-decoration: underline;color: #333333;}
+body {
+	FONT-SIZE: 12px;
+	color: #333333;
+	margin: 0px;
+	background-image:    url("http://ossweb-img.qq.com/images/qqtang/a20060712item/bg.jpg");
+}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+}
+.big_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+.small_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.article_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.article_txt td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 150%;
+}
+.article_txt a:link {	text-decoration: underline;}
+.article_txt a:visited { text-decoration: underline}
+.article_txt a:hover {text-decoration: underline;}
+.item_table {
+	background-color: #FFFFFF;
+	border: 1px solid #666666;
+}

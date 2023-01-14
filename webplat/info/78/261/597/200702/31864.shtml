@@ -1,0 +1,87 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>新三国演义—道具大乱斗-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>新三国演义—道具大乱斗</h4>
+    <div class="new_nytxt"><P>　　魏、蜀、吴三国的纷争，书写了一本《三国演义》，流芳百世！三足鼎立，一山尚不能容二虎，何况三主？这是一个动乱的时代，也是成就英雄，成就传奇的时代！　　2007年初，QQ堂正在上演新三国演义——世界大乱斗。魔法王国、自然王国、机械王国纷争迭起，英雄们各为其主，人才辈出、佳话频传。你想，就能成为主角！<BR>&nbsp;　　<IMG src="http://ossweb-img.qq.com/upload/qqtang/CommNews/1170311697_840044972_2790_sPhoto.jpg"><BR>&nbsp; 　　道具商店中将发行3种身份证，分别是魔法王国、机械王国和自然王国，玩家可自由选择自己的国籍（只可领取一次），组成结成三个联盟进行比赛。　　在2月1日至2月12日每晚18：00——22点可登录2.0版本的比赛频道进行混战，每次大战中，系统将自动为玩家添加功能道具组合。只有隶属不同国家的玩家才能进行对战（每轮20局，赢得3分，平1分，输0分）。<BR><!-- -->　　玩家在比赛服务器中的积分作为个人积分及国家积分。活动进行时，每日公布联盟排名。活动结束时，将选出最强国家，对其中前100名进行奖励。各国家前10名也有特殊奖励。积分最高的王国为最终胜利王国，吞并其他失败国，组成强大的帝国。作为胜利国的你，将获得其他两个失败国的身份证各14天，作为战利品。<BR><!-- -->　　2月1日，陷阱大战；2月4日，诅咒大战；2月7日，飞标大战……晚晚好戏连台，N种道具组合，任你玩转！<BR><!-- -->　　你是诸葛亮，就请出茅庐，助刘备，建功名！英雄不甘平庸，我们出发吧！<BR>只要100糖币，你就是新三国演义的主角，就有机会演义一段可歌可泣的传奇故事！<BR><!-- --><BR>　　身份证领取地点：道具商店糖币专区装饰类背景栏。<BR>　　详情请登陆官网：<A href="../../../../../../web200612/index.shtml">http://qqtang.qq.com/web200612/index.shtml</A><%$Fcontent$%> </P>
+<P>&nbsp;</P></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|25dfad1c5b5a0482391757b20703ac46<![endif]-->

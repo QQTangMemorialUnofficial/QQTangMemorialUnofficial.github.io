@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂爱情见证 浪漫情谊你我共享-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂爱情见证 浪漫情谊你我共享</h4>
+    <div class="new_nytxt">　　520，一个永世共爱的数字；网络世界里的情人节，即将到来；一股浪漫的气息已经沉默许久；马上来临的，将是在QQ堂内刮起的一阵爱情旋风，浪漫情谊充满整个世界——让我们一起去见证你们伟大的爱情！<br><br>　　QQ堂的情侣们，你们都准备好了吗？你我共同的网络情人节即将到来；一个见证你们爱情的舞台就展现在眼前——<br><br>　　浪漫情谊第1站——情侣包子战：曾经英姿飒爽的你们，将携手来完成这场战役。“抢包子”战场上的英雄们，巾帼们。准备好了吗？等待你们的闪亮登场！<br>        <br>　　浪漫情谊第2站——“我的爱情白皮书”征文活动：“你的爱情似甜蜜，永永远远都不变。”你是否有过天长地久的誓言，白头偕老的承诺……充满爱情的QQ堂伴随你一直走。挥动你的笔杆，闪动你的双眸，写出你的爱情，留下你的足迹……《我的爱情白皮书》永远等你写下你那真挚的爱情！<br><br>　　浪漫情谊第3站——情侣人气大比拼：爱情靓影让你爱不释手过吗？对自己的形象充满自信吧！让天底下所有人都来见证你们的爱情；永伫的QQ堂的最高点！<br><br>　　浪漫情谊第4站——520推荐人比拼：你还在为单身而不能参加活动苦恼吗？没关系，这个520，你也不寂寞！献出自己的能量，为他人铺设出一条幸福之路，也是你我的快乐所在！<br> <br>　　这个520，让QQ堂见证你我的爱情；浪漫情谊；遍地是金，你我共享！</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|aed431de85acc01ecd4d058a83e4fa73<![endif]-->

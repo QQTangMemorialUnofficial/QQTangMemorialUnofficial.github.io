@@ -1,0 +1,291 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030">
+<title>中华英雄争霸赛</title>
+<script language="javascript" src="../../js/match.js"></script>
+<script language=javascript>
+	function CowryQueryCheck()
+	{
+		if(document.form1.iUin.value == "")
+		{
+			alert("请输入查询QQ号");
+			return;	
+		}
+		document.form1.submit();
+	}
+</script>
+<link href="../match.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<script>baby_top()</script>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="540" valign="top">
+<table width="540" border="0" cellpadding="0" cellspacing="0" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table01_bg.gif">
+        <tr>
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table01_title.gif" width="540" height="62"></td>
+        </tr>
+        <tr>
+          <td height="56" valign="top" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table01_top.gif">
+<table width="93%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td align="right"><a href="http://qqtang.qq.com/cgi-bin/match/cowry/MyInfo" target="_blank"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_button_01.gif" width="66" height="29" border="0"></a></td>
+              </tr>
+          </table>
+          </td>
+        </tr>
+        <tr>
+          <td height="120" class="baby_table_bg"><table width="93%" border="0" cellpadding="0" cellspacing="0" class="engtxt">
+            <tr> 
+              <td width="9%">&nbsp;</td>
+                <td>　　<font color="#FF0000"><b>请各位宝贝尽快将自己的资料补充完整，否则将无法参加随后的比赛统计。望大家尽快进行资料补充，以免因此错过精彩内容和丰厚奖励。</b></font></td>
+            </tr>
+            <tr> 
+              <td>&nbsp;</td>
+                <td align="right"><a href="http://qqtang.qq.com/cgi-bin/match/cowry/addinfo" target="_blank"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page_button_25.gif" width="96" height="23" border="0"></a></td>
+            </tr>
+            <tr> 
+              <td>&nbsp;</td>
+              <td align="right">&nbsp;</td>
+            </tr>
+            <tr> 
+              <td>&nbsp;</td>
+              <td><p>　　QQ堂宝贝评选第二轮投票已经开始，现在对补充完个人资料并经过客服验证的选手进行新一轮的投票评选活动，所有之前的投票将清零开始重计，只有完成资料补充并通过验证的选手才能进入新的人气排行榜。请尚未完成个人资料补充的QQ堂宝贝们抓紧时间补充个人资料，并注意QQ系统消息的验证通知。</p>
+                  <p>　　在中华英雄大赛的网上比赛期间，排行榜上100位之前的QQ堂宝贝都将获得数量不等的“祝福花环”道具，QQ堂宝贝可以选择将花环赠送给自己喜欢的任何一支参赛战队。在计算战队积分排行的时候，战队获得的“祝福花环”数量将是一个重要的指标，其相关详细设定请参看QQ堂宝贝和战队积分的具体说明。</p>
+                  <p>　　<b><font color="#FF0000">投票说明：第二轮投票中，一个QQ号码给同一宝贝仅能投出一票。</font></b></p></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table01_bottom.gif" width="540" height="41"></td>
+        </tr>
+    </table>
+      <table width="540" border="0" cellpadding="0" cellspacing="0" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table02_bg.gif">
+        <tr>
+          <td height="28" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table02_top.gif"><table width="93%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td align="right"><a href="CowryMoreList.htm" target=_blank><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_button_02.gif" width="66" height="29" border=0></a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td>
+<link href="../match.css" type="text/css" rel="stylesheet">
+
+<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="engtxt">
+  <tr align="center"> 
+           	
+    <td> <table width="110" border="0" cellspacing="1" cellpadding="2">
+        <tr> 
+          <td><a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=122029599 target=_blank>
+		  <img src="http://newqqtang.qq.com/upload/match/200504/A_1113471804_2044.jpg" width="110" height="110" border=0 class="baby_table"></a></td>
+        </tr>
+        <tr> 
+          <td class="baby_txt_table">区域:东北区域<br>
+            昵称: 1</td>
+        </tr>
+      </table>
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=122029599 target=_blank> </a> 
+    </td>
+	       	
+    <td> <table width="110" border="0" cellspacing="1" cellpadding="2">
+        <tr> 
+          <td><a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=2018170 target=_blank>
+		  <img src="http://newqqtang.qq.com/upload/match/200504/A_1113471804_2044.jpg" width="110" height="110" border=0 class="baby_table"></a></td>
+        </tr>
+        <tr> 
+          <td class="baby_txt_table">区域:东北区域<br>
+            昵称: 1</td>
+        </tr>
+      </table>
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=122029599 target=_blank> </a> 
+    </td>
+	       	
+    <td> <table width="110" border="0" cellspacing="1" cellpadding="2">
+        <tr> 
+          <td><a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=27777 target=_blank>
+		  <img src="http://newqqtang.qq.com/upload/match/200505/A_1116832693_26696.jpg" width="110" height="110" border=0 class="baby_table"></a></td>
+        </tr>
+        <tr> 
+          <td class="baby_txt_table">区域:华东区域<br>
+            昵称: 七除于二</td>
+        </tr>
+      </table>
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=122029599 target=_blank> </a> 
+    </td>
+	       	
+    <td> <table width="110" border="0" cellspacing="1" cellpadding="2">
+        <tr> 
+          <td><a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=3538366 target=_blank>
+		  <img src="http://newqqtang.qq.com/upload/match/200504/A_1113819843_20834.jpg" width="110" height="110" border=0 class="baby_table"></a></td>
+        </tr>
+        <tr> 
+          <td class="baby_txt_table">区域:华东区域<br>
+            昵称: Sunny</td>
+        </tr>
+      </table>
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=122029599 target=_blank> </a> 
+    </td>
+	
+	</tr>        
+    </table>
+          </td>
+        </tr>
+        <tr>
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table02_bottom.gif" width="540" height="38"></td>
+        </tr>
+      </table> 
+      <table width="540" border="0" cellpadding="0" cellspacing="0" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table03_bg.gif">
+        <tr> 
+          <td height="28" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table03_top.gif"><table width="93%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td align="right"><a href="http://qqtang.qq.com/cgi-bin/match/cowry/ShowIndex?show=6" target=_blank><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_button_03.gif" width="58" height="29" border="0"></a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr> 
+          <td> 
+            <html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+          </td>
+        </tr>
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table03_bottom.gif" width="540" height="12"></td>
+        </tr>
+  </table></td>
+    <td valign="top">
+<table width="210" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table04_title.gif" width="210" height="38"></td>
+        </tr>
+        <tr>
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table04_top.gif" width="210" height="61"></td>
+        </tr>
+        <tr>
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table04_bottom.gif" width="210" height="78"></td>
+        </tr>
+    </table>
+      <table width="210" border="0" cellpadding="0" cellspacing="0" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table05_bg.gif">
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table05_top.gif" width="210" height="67"></td>
+        </tr>
+        <tr> 
+          <td height="340" valign="top"><table width="95%" border="0" align="center" cellpadding="2" cellspacing="1" class="engtxt">
+  <tr> 
+    <td colspan=3 align="center">（排行榜每小时进行更新）</td>
+  </tr>
+  <tr align="center"> 
+    <td><b>昵称</b></td>
+    <td><b>QQ号</b></td>
+    <td><b>人气</b></td>
+  </tr>
+  
+  <tr align="center"> 
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=122029599 target=_blank>1</a>
+    </td>
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=122029599 target=_blank>122029599</a>
+    </td>
+    <td> 
+      3
+    </td>
+  </tr>
+  
+  <tr align="center"> 
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=3538366 target=_blank>Sunny</a>
+    </td>
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=3538366 target=_blank>3538366</a>
+    </td>
+    <td> 
+      2
+    </td>
+  </tr>
+  
+  <tr align="center"> 
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=2018170 target=_blank>1</a>
+    </td>
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=2018170 target=_blank>2018170</a>
+    </td>
+    <td> 
+      1
+    </td>
+  </tr>
+  
+  <tr align="center"> 
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=27777 target=_blank>七除于二</a>
+    </td>
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=27777 target=_blank>27777</a>
+    </td>
+    <td> 
+      1
+    </td>
+  </tr>
+  
+  <tr align="center"> 
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=82941670 target=_blank>梅爾西斯</a>
+    </td>
+    <td> 
+      <a href=http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail?iUin=82941670 target=_blank>82941670</a>
+    </td>
+    <td> 
+      1
+    </td>
+  </tr>
+  
+</table></td>
+        </tr>
+        <tr> 
+          <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table05_bottom.gif" width="210" height="16"></td>
+        </tr>
+      </table> 
+      <table width="210" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td colspan="2"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table06_top.gif" width="210" height="61"></td>
+        </tr>
+        <tr> <form name=form1 method=post action="http://qqtang.qq.com/cgi-bin/match/cowry/ShowDetail">
+            <td width="144" height="47" align="center" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table06_bg.gif" class="engtxt"> 
+              <b>QQ号</b> 
+              <input name=iUin type=text class="baby_table" onKeyUp='this.value=this.value.replace(/\D/gi,"")' size=9 maxlength=9>
+            </td>
+          <td width="66"><a href="javascript:CowryQueryCheck();"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table06_button.gif" width="66" height="47" border="0"></a></td>
+       	  </form>
+	   </tr>
+        <tr> 
+          <td colspan="2"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page08_table06_bottom.gif" width="210" height="6"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_top05.gif" width="750" height="12"></td>
+  </tr>
+  <tr>
+    <td height="47" background="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_bg.gif"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="15%" align="center"><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_logo.gif" width="72" height="34"></td>
+          <td align="center"><script>footer()</script></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><img src="http://ossweb-img.qq.com/images/qqtang/matchnew/page01_bottom_bottom.gif" width="750" height="10"></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>“中华风采行”活动火热进行中-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>“中华风采行”活动火热进行中</h4>
+    <div class="new_nytxt">　　伴随着第二届QQ堂中华大赛的进行，我们的QQ堂“中华风采行”也拉开了帷幕。本次活动包括三部分：人物形象展、才华魅力秀以及共聚星光舞台。每一部分都各具特色，活动架构上注重平衡性，尽可能让更多的玩家都有机会参与进来，展示自我魅力，秀出创意才能。<br><br>　　现“中华风采行”已开始正式接受玩家报名，本次活动告别了单调的游戏比拼，以玩家的个性魅力为竞赛主线，用另一种方式演绎了QQ堂绿色网游的内涵。优雅时尚的道具，生动朴实的文字，以及发自内心的真实感言，都将成为参与者手中最有力的武器，这将是一次美丽与智慧的考验。<br><br>　　在这个舞台上，没有激烈的厮杀，没有浓浓的硝烟，我们感受到的是夏日的清凉以及互动的乐趣。准备好了吗？整理好思绪，扬起快乐的风帆，让自由的梦想徜徉在QQ堂的海洋中，尽情展现个性风采，创造属于我们的魅力世界！<br><br>　　活动详情请关注： 《中华风采行》活动公告。<br><br>　　请点击查看：<a href="http://bbs.gamezone.qq.com/cgi-bin/bbs/show/content?groupid=145:10413&amp;st=&amp;sc=&amp;messageid=92676&amp;gpc=0&amp;ggpc=0" target="_blank"><font color="red">http://bbs.gamezone.qq.com/cgi-bin/bbs/show/content?groupid=145:10413&st=&sc=&messageid=92676&gpc=0&ggpc=0</font></a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200706/32032.shtml">第三届中华英雄争霸赛—英雄归来</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32028.shtml">2007中华英雄争霸赛即将打响</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32027.shtml">宠爱内测，激情体验！</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200706/32026.shtml">小喇叭排名赛火热启动</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|0e14c4cf6ed96b9810ce109de64e2f19<![endif]-->

@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂荣膺“2004最受网友喜爱的的网络游戏”-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂荣膺“2004最受网友喜爱的的网络游戏”</h4>
+    <div class="new_nytxt">　　北京时间2月28日下午，首届“腾讯—北京晚报”中国产业品牌网络调查“2004最受网友喜爱的品牌”在北京皇家大酒店隆重揭晓，腾讯公司推出的休闲网络游戏《QQ堂》与盛大的《泡泡堂》、《传奇世界》等两款游戏共同被玩家评选为“2004最受网友喜爱的的网络游戏”。<br><br>　　QQ堂从2005年元旦公测到今天，短短三个月时间能得到广大网友的如此厚爱，这是对我们整个QQ堂团队工作最好的肯定和支持。<br><br>　　《QQ堂》产品从开发以来一直秉承着和玩家用户一起进行互动式开发的理念，在整个开发过程中，项目组和玩家的交流和沟通都非常的直接和频繁。在现在的《QQ堂》游戏里，可以这么说，很大部分内容都是广大玩家们一起参与开发设计出来的，包括大到游戏模式，小到操作参数，都有着玩家们的各种参与。所以QQ堂能够取得今天的成绩，同样也是对曾经帮助QQ堂成长的玩家们的肯定。在此请允许我们致以我们最真挚的谢意。<br><br>　　为了回报广大网友的厚爱，我们特决定将两款深受玩家期待的最新道具“幻像魅影”和“星光QQ糖”进行大幅的打折销售，以回馈一直支持我们的广大玩家，希望更多的玩家能够以更炫更酷的姿态享受到QQ堂带来的纯真乐趣。<br><br>　　促销道具网站销售链接：<br>　　<a href="../../../../../../shopping/qcard.htm#shopping" target="_blank">http://qqtang.qq.com/shopping/qcard.htm</a><br><br> 　　（同时这两款道具在游戏内道具商店也已有出售，玩家可在游戏内用个人帐户直接购买。）</div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../200504/29985.shtml">好消息：道具商店VIP卡隆重上架</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../200504/29982.shtml">QQ堂优惠新举措 超值道具包官网发售</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29957.shtml">QQ堂VIP卡的使用说明</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="29951.shtml">抢购！VIP卡火热上市 官网已开放销售</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|9f3856d9263a97c75e685e655ae0e3db<![endif]-->

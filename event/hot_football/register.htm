@@ -1,0 +1,131 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>QQ堂热血足球</title>
+<link href="http://qqtang.qq.com/event/hot_football/hot_football.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="http://qqtang.qq.com/js/hot_football.js"></script>
+<script language="javascript">
+	function CheckValue()
+	{
+		if(document.formMain.txtName.value == ""){
+			alert("您还没有输入队伍名称!");
+			document.formMain.txtName.focus();
+			return;
+		}
+		if(document.formMain.txtQQ1.value == ""){
+			alert("队员人数不足!");
+			document.formMain.txtQQ1.focus();
+			return;
+		}
+		if(document.formMain.txtQQ2.value == ""){
+			alert("队员人数不足!");
+			document.formMain.txtQQ2.focus();
+			return;
+		}
+		if(document.formMain.txtQQ3.value == ""){
+			alert("队员人数不足!");
+			document.formMain.txtQQ3.focus();
+			return;
+		}
+		if(document.formMain.txtQQ1.value == document.formMain.txtQQ2.value || document.formMain.txtQQ2.value == document.formMain.txtQQ3.value || document.formMain.txtQQ3.value == document.formMain.txtQQ1.value)
+		{
+			alert("队员不可以是相同的人!");
+			document.formMain.txtQQ1.focus();
+			return;
+		}
+		document.formMain.submit();
+	}
+</script>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<script>top()</script>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0" background="http://qqtang.qq.com/images/hot_football/main_bg.gif">
+  <tr>
+    <td width="280" align="center" valign="top"><table width="259" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="http://qqtang.qq.com/images/hot_football/table_reward_top.gif" width="259" height="42"></td>
+        </tr>
+        <tr>
+          <td background="http://qqtang.qq.com/images/hot_football/table_reward_bg.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="bg_reward">
+              <tr>
+                <td height="100"><script>reward()</script></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td><img src="http://qqtang.qq.com/images/hot_football/table_reward_bottom.gif" width="259" height="16"></td>
+        </tr>
+      </table>
+        <br>
+        <table width="259" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><img src="http://qqtang.qq.com/images/hot_football/table_faq_top.gif" width="259" height="38"></td>
+          </tr>
+          <tr>
+            <td background="http://qqtang.qq.com/images/hot_football/table_faq_bg.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="bg_faq">
+                <tr>
+                  <td height="100"><script>faq()</script></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><img src="http://qqtang.qq.com/images/hot_football/table_faq_bottom.gif" width="259" height="32"></td>
+          </tr>
+      </table></td>
+    <td width="480" height="100%"><table width="471" height="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="http://qqtang.qq.com/images/hot_football/page_table_top_02.gif" width="471" height="38"></td>
+      </tr>
+      <tr>
+        <td height="100%" valign="top" background="http://qqtang.qq.com/images/hot_football/page_table_bg.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="300" align="center" valign="top"><IFRAME WIDTH='90%' height="100%" NAME='login' FRAMEBORDER='0' SCROLLING='no' src="http://qqtang.qq.com/cgi-bin/checklogin?type=9"></IFRAME></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="http://qqtang.qq.com/images/hot_football/page_table_bottom.gif" width="471" height="24"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="60" colspan="2" align="center"><script>footer()</script></td>
+  </tr>
+</table>
+<!-- START NNR Site Census V5.1 -->
+<!-- COPYRIGHT 2004 Nielsen // Netratings -->
+<script language="JavaScript" type="text/javascript">
+<!--
+	var _rsCI="cn-tencent";
+	var _rsCG="0";
+	var _rsDT=0;
+	var _rsDU=0; 
+	var _rsDO=0; 
+	var _rsX6=0;  
+	var _rsSI=escape(window.location);
+	var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+	var _rsRP=escape(document.referrer);
+	var _rsND=_rsLP+'//secure-cn.imrworldwide.com/';
+
+	if (parseInt(navigator.appVersion)>=4)
+	{
+		var _rsRD=(new Date()).getTime();
+		var _rsSE=1;	
+		var _rsSV="";
+		var _rsSM=0.01;
+		_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
+	}
+	else
+	{
+		_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+	}
+	document.write(_rsCL);
+//-->
+</script>
+<noscript>
+<img src="http://secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-tencent&amp;cg=0" alt="">
+</noscript>
+<!-- END NNR Site Census V5.1 -->
+</body>
+</html>

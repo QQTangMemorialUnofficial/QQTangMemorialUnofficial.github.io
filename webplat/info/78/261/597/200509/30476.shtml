@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="QQ堂,QQT,盛夏之约" />
+<meta name="description" content="QQ堂官方网站" />
+<title>QQ堂新版本GCS有奖调查-QQ堂官方网站</title>
+<script language="javascript" src="../../../../../../web2008/jscss/main.js"></script>
+<link href="../../../../../../web2008/jscss/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<script type="text/javascript" src="http://ossweb-img.qq.com/images/js/title.js"></script>
+<div class="top">
+  <div class="boxer">
+    <div class="menu">
+      <script>menu()</script>
+    </div>
+  </div>
+</div>
+<div id="content">
+ <div  class="sideL">  <div class="login11">   
+     <script>qqt_login()</script>
+  </div>
+  <div class="new">
+      <a href="../../list_1.shtml" title="综合新闻">综合新闻</a><a href="../../608/list_1.shtml" title="最新公告">最新公告</a><a href="../../619/list_1.shtml" title="最新活动">最新活动</a>
+  </div>
+  <div class="jmsm">
+	<div class="new_leftad">
+	 <iframe scrolling="no" src="../../../../../../web2008/inc/new_left_gg.htm" frameborder="0" allowtransparency="true" height="390" width="150"></iframe>
+	</div>
+	<div class="lefoot"></div>
+  </div>
+ </div>
+  <!--左侧结束 -->
+ <div class="main">
+ <!--正文区开始 -->
+  <div class="ce_allbg">
+   <div class="cetop">
+    <div class="cebn"><img src="http://ossweb-img.qq.com/images/qqtang/web08/ny_bn07.jpg" width="115" height="44" /></div>
+    <div class="ce_bnbg"> | 您当前的位置：<a href="../../../../../../index.html" class="a">首页</a> >> <a href="../../list_1.shtml" class="a">新闻中心</a> >> <font class="txtcolor">最新</font></div>
+   </div>
+   <div class="cetxtbg" style="height:100%;">
+	<h4>QQ堂新版本GCS有奖调查</h4>
+    <div class="new_nytxt">　　QQ堂新版本《泰坦归来》推出啦！我们在新版本游戏中增加了好玩的新游戏模式哦～而且还有多多的新道具，只要您拥有尊贵的紫钻贵族身份，您就可以享受疯狂的折扣价哦~~有没有心动呢？赶快参加我们的体验吧！<br><br>　　同时，为了以后我们给大家带来更多的，更好的服务器，我们特别在即将到来的国庆节，展开一次全民大投票。希望大家都能踊跃参加哦！当然。为了回报大家对我们的支持，我们将采取有奖调查的方式。并设立了丰厚的奖品，只要您轻点鼠标，奖品就可能是您的咯！<br><br>　　<b>活动奖项：</b><br>　　一等奖：凤凰翅膀（一名）<br>　　二等奖：幻影（三名）<br>　　三等奖：月夜披风（五名）<br>　　参与奖：VIP卡7天权（十名）<br><br>　　<b>参与方式：</b><br>　　1.您只要用您的QQ号码登陆调查页面，认真的完成调查问卷就有机会中的我们的大奖哦<br>　　2.中奖名单将于活动结束后采取抽签的方式得出，并会在论坛进行公布<br>　　3.奖品将于活动结束后一周内进行发放。请幸运用户注意查收<br><br>　　<font color="red"><b>调查时间：9月30日～10月8日</b></font><br><br>　　调查地址：<a href="http://gcs.qq.com/cgi-bin/gcs/action/UserQuesDetail?iSubId=18" target="_blank">http://gcs.qq.com/cgi-bin/gcs/action/UserQuesDetail?iSubId=18</a></div>
+    <div class="ce_footbg">
+    <dl class="new_linkart">
+        <dt>相关新闻</dt>
+        
+                <dd>
+                    <a target="_blank" href="../../608/201012/87667.shtml"><B>12月24日7点至11点停机维护公告</B></a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87411.shtml">英勇夺冠，张王子荣登宝座</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87408.shtml">荣耀再续，EDK再获中华赛团体冠军</a>
+                </dd>
+            
+                <dd>
+                    <a target="_blank" href="../201012/87405.shtml">TGC2010,用心创造快乐</a>
+                </dd>
+            								
+    </dl>	 
+   </div>
+   </div>
+   </div>
+  </div>
+ </div>
+ <!--右侧开始 -->
+ <div class="sideR"></div>
+ <!--右侧结束 -->
+</div>
+
+<script>cefoot()</script>
+<script language="javascript" src="http://pingjs.qq.com/ping_tcss_ied.js"></script>
+<script language="javascript">
+if(typeof(pgvMain) == 'function')
+pgvMain();
+</script>
+</body>
+</html>
+<!--[if !IE]>|xGv00|f565956d6cc4115557c0d8f38f6f717b<![endif]-->
